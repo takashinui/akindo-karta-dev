@@ -1,5 +1,5 @@
 // newsData.js
-export const newsItems = [
+export const akindoNewsData = [
   {
     id: "n1",
     headline: "ＮＹ市場サマリー（2日）ドル上昇、ダウ・Ｓ＆Ｐ反発　利回り上昇",
