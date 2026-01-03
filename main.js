@@ -1,5 +1,7 @@
 // main.js
 import { questions } from "./questions.js";
+import { showAkindoNews } from "./akindoNews.js";
+
 
 // ==============================
 //  かな → ファイル名
@@ -363,4 +365,16 @@ window.addEventListener("load", () => {
 
   document.getElementById("detailBackBtn")
     ?.addEventListener("click", showBook);
+
+  // --- あきんどニュース（テスト） ---
+  const openNewsBtn = document.getElementById("openNewsBtn");
+  const newsView = document.getElementById("newsView");
+  const menuView = document.getElementById("menuView");
+
+  openNewsBtn?.addEventListener("click", () => {
+    menuView.hidden = true;
+    newsView.hidden = false;
+    showAkindoNews();
+  });
+
 });
