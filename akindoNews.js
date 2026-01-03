@@ -19,6 +19,11 @@ function render(content) {
     <div class="news-summary">${n.summary}</div>
     <div class="news-karuta"><strong>${karuta}</strong></div>
     <div class="news-commentary">${n.commentary}</div>
+      <div class="news-karuta-image">
+      <img src="images/${kanaToFile(
+        questions.find(q => q.id === n.karutaId)?.kana
+      )}" alt="">
+    </div>
   `;
 }
 
