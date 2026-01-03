@@ -1,0 +1,37 @@
+// akindoNews.js
+import { akindoNewsData } from "./newsData.js";
+import { questions } from "./questions.js";
+
+let current = 0;
+
+const newsView = document.getElementById("newsView");
+const content = document.getElementById("newsContent");
+const nextBtn = document.getElementById("nextNewsBtn");
+
+function getKarutaPhrase(karutaId) {
+  const q = questions.find(q => q.id === karutaId);
+  return q ? q.fullPhrase : "";
+}
+
+function render() {
+  const n = akindoNewsData[current];
+  const karuta = getKarutaPhrase(n.karutaId);
+
+  content.innerHTML = `
+    <div class="news-headline">${n.headline}</div>
+    <div class="news-source">出典：${n.source}</div>
+    <div class="news-summary">${n.summary}</div>
+    <div class="news-karuta"><strong>${karuta}</strong></div>
+    <div class="news-commentary">${n.commentary}</div>
+  `;
+}
+
+export function showAkindoNews() {
+  current = 0;
+  render();
+}
+
+nextBtn.onclick = () => {
+  current = (current + 1) % akindoNewsData.length;
+  render();
+};
