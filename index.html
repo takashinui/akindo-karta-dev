@@ -237,7 +237,9 @@
       pointer-events: auto;
     }
 
-    /* あきんどニュース：基本（iPhone基準） */
+/* =========================
+   あきんどニュース（iPhone基準）
+   ========================= */
 .news-headline {
   font-size: 16px;
   font-weight: 700;
@@ -245,17 +247,26 @@
   margin-bottom: 8px;
 }
 
-.news-summary,
-.news-commentary {
+.news-summary {
   font-size: 14px;
   line-height: 1.7;
+  margin-bottom: 12px;
 }
 
 .news-karuta {
   font-size: 15px;
+  margin-bottom: 12px;
 }
 
-    /* iPad以上 */
+.news-commentary {
+  font-size: 14px;
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+/* =========================
+   iPad / PC
+   ========================= */
 @media (min-width: 700px) {
   .news-headline {
     font-size: 20px;
@@ -266,26 +277,6 @@
     font-size: 16px;
   }
 
-  .news-karuta {
-    font-size: 17px;
-  }
-}
-@media (max-width: 699px) {
-  .news-summary {
-    margin-bottom: 12px;
-  }
-}
-@media (max-width: 699px) {
-  .news-karuta {
-    margin-bottom: 12px;
-  }
-}
- @media (max-width: 699px) {
-  .news-commentary {
-    margin-bottom: 16px;
-  }
-}   
-    @media (min-width: 700px) {
   .news-karuta {
     font-size: 18px;
   }
