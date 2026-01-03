@@ -214,6 +214,7 @@ function showMenu() {
   hideIfExists("gameView");
   hideIfExists("bookView");
   hideIfExists("dailyDetailView");
+  hideIfExists("newsView");
 }
 
 function showGame() {
