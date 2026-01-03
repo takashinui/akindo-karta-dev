@@ -1,6 +1,6 @@
 // main.js
 import { questions } from "./questions.js";
-// import { showAkindoNews } from "./akindoNews.js";  ← ★一旦コメントアウト
+import { showAkindoNews } from "./akindoNews.js"; 
 
 
 // ==============================
