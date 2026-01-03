@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -111,13 +110,8 @@
       pointer-events: none;
     }
 
-    .mark-correct {
-      color: rgba(0, 200, 0, 0.92);
-    }
-
-    .mark-wrong {
-      color: rgba(220, 0, 0, 0.92);
-    }
+    .mark-correct { color: rgba(0, 200, 0, 0.92); }
+    .mark-wrong { color: rgba(220, 0, 0, 0.92); }
 
     #explanation {
       display: none;
@@ -132,40 +126,29 @@
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
     }
 
-/* 4択カルタ：次の問題 → ボタン */
-#nextButton {
-  position: fixed;
-  top: 12px;
-  right: 12px;
-  margin: 0;
-
-  padding: 12px 16px;
-  font-size: 16px;
-  font-weight: 600;
-  border-radius: 10px;
-  border: none;
-  background: #fff;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-  cursor: pointer;
-
-  display: none;
-  visibility: hidden;
-  z-index: 1000;
-}
-
+    /* 4択カルタ：次の問題 → ボタン */
+    #nextButton {
+      position: fixed;
+      top: 12px;
+      right: 12px;
+      margin: 0;
+      padding: 12px 16px;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: 10px;
+      border: none;
+      background: #fff;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+      cursor: pointer;
+      display: none;
+      visibility: hidden;
+      z-index: 1000;
+    }
 
     @media (min-width: 768px) {
-      #currentKana {
-        font-size: 48px;
-      }
-
-      #fullPhrase {
-        font-size: 20px;
-      }
-
-      .cards {
-        gap: 12px;
-      }
+      #currentKana { font-size: 48px; }
+      #fullPhrase { font-size: 20px; }
+      .cards { gap: 12px; }
     }
 
     #dailyCardPreview img {
@@ -197,7 +180,6 @@
       display: block;
       margin: 0 auto 12px;
       width: 40vw;
-     /* outline: 4px solid red; :デバッグ用*/
       max-width: 130px;
     }
 
@@ -211,9 +193,7 @@
 
     /* PC */
     @media (min-width: 1024px) {
-      .daily-detail-image {
-        width: 320px;
-      }
+      .daily-detail-image { width: 320px; }
     }
 
     #menuView button,
@@ -224,69 +204,47 @@
       border-radius: 10px;
     }
 
-.readbook-thumb {
-  width: 48px;              /* ← 数値で完全固定 */
-  height: 67px;             /* ← 5:7 を明示 */
-  object-fit: cover;        /* ← 軽い */
-  display: block;
-  background: #eee;
-}
-/* 共通ボタンUI（見た目のみ） */
-.backButton {
-  padding: 12px 16px;
-  font-size: 16px;
-  font-weight: 600;
-  border-radius: 10px;
-  border: none;
-  background: #fff;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-  cursor: pointer;
-    z-index: 900;
-}
+    .readbook-thumb {
+      width: 48px;
+      height: 67px;
+      object-fit: cover;
+      display: block;
+      background: #eee;
+    }
 
-/* --- あきんどニュース --- */
-.news-headline {
-  font-weight: 600;
-  font-size: 15px;
-  margin-bottom: 4px;
-}
+    /* 共通ボタンUI（見た目のみ） */
+    .backButton {
+      padding: 12px 16px;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: 10px;
+      border: none;
+      background: #fff;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      cursor: pointer;
+      z-index: 900;
+    }
 
-.news-source {
-  font-size: 12px;
-  color: #666;
-  margin-bottom: 12px;
-}
+    /* 右上固定 */
+    .topRight {
+      position: fixed;
+      top: 12px;
+      right: 12px;
+    }
 
-.news-summary {
-  font-size: 14px;
-  line-height: 1.7;
-  margin-bottom: 16px;
-}
+    #detailBackBtn {
+      z-index: 3000;
+      pointer-events: auto;
+    }
 
-.news-karuta {
-  font-weight: 600;
-  margin: 16px 0 12px;
-}
-
-.news-commentary {
-  font-size: 14px;
-  line-height: 1.8;
-}
-
-
-    
-/* 右上固定 */
-.topRight {
-  position: fixed;
-  top: 12px;
-  right: 12px;
-}
-#detailBackBtn {
-  z-index: 3000;
-  pointer-events: auto;
-}
-
-    
+    /* --- あきんどニュース（必要なら） --- */
+    .news-headline { font-weight: 600; font-size: 15px; margin-bottom: 4px; }
+    .news-source { font-size: 11px; color: #888; margin-bottom: 12px; word-break: break-all; }
+    .news-source a { color: #aaa; text-decoration: none; }
+    .news-source a:hover { text-decoration: underline; }
+    .news-summary { font-size: 14px; line-height: 1.7; margin-bottom: 16px; }
+    .news-karuta { font-weight: 600; margin: 16px 0 12px; }
+    .news-commentary { font-size: 14px; line-height: 1.8; }
   </style>
 </head>
 
@@ -298,6 +256,7 @@
       <h2 style="font-size:16px;">今日の1枚</h2>
       <div id="dailyCardPreview"></div>
     </section>
+
     <div style="margin-top:24px; display:flex; flex-direction:column; gap:12px;">
       <button id="startGameBtn">4択カルタ</button>
       <button id="openBookBtn">あきんどカルタ読本</button>
@@ -311,45 +270,26 @@
     <div class="cards" id="cards"></div>
     <div id="fullPhrase"></div>
     <div id="explanation"></div>
-    <button id="nextButton">次の問題 →</button>    
+    <button id="nextButton">次の問題 →</button>
   </div>
 
   <div id="bookView" class="container" hidden>
     <button class="backToMenu">← トップへ戻る</button>
-   <!-- ★ 読本の目次をここにJSで描く -->
-  <div id="readbookRoot"></div>
-</div>
+    <div id="readbookRoot"></div>
   </div>
 
   <div id="dailyDetailView" class="container" hidden>
-  <button class="backToMenu">← トップへ戻る</button>
-  <button
-    id="detailBackBtn"
-    class="backButton topRight">
-    カルタ目次へ →
-  </button>
-
-<div id="newsView" class="container" hidden>
-  <button class="backToMenu">← トップへ戻る</button>
-  <div id="newsContent"></div>
-  <button id="nextNewsBtn" class="backButton topRight">
-    次のニュース →
-  </button>
-</div>
-
-    
-  <div id="dailyDetailContent" style="margin-top:12px;">
-    <!-- JSで中身 -->
+    <button class="backToMenu">← トップへ戻る</button>
+    <button id="detailBackBtn" class="backButton topRight">カルタ目次へ →</button>
+    <div id="dailyDetailContent" style="margin-top:12px;"></div>
   </div>
 
-</div>
+  <div id="newsView" class="container" hidden>
+    <button class="backToMenu">← トップへ戻る</button>
+    <div id="newsContent"></div>
+    <button id="nextNewsBtn" class="backButton topRight">次のニュース →</button>
+  </div>
 
-</div>
-
-
-
-  <!-- ★ ここが重要：main.js が questions.js を import する -->
   <script type="module" src="./main.js"></script>
 </body>
-
 </html>
