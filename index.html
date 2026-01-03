@@ -239,8 +239,8 @@
 
     /* --- あきんどニュース（必要なら） --- */
     .news-headline {
-  margin-top: 18px;
-  margin-bottom: 8px;
+  margin-top: 10px;
+  margin-bottom: 4px;
   font-size: 22px;     /* ← PC / iPad 共通 */
   font-weight: 700;
 }
@@ -251,6 +251,37 @@
     font-size: 16px;
   }
 }
+/* newsView 内 絵札（今日の1枚と同サイズ） */
+.news-karuta-image {
+  display: flex;
+  justify-content: center;   /* 左右中央 */
+  margin-top: 12px;
+}
+
+.news-karuta-image img {
+  width: 25%;
+  max-width: 140px;
+  height: auto;
+  display: block;
+}
+/* iPad mini（縦） */
+@media (min-width: 700px) and (max-width: 800px) {
+  .news-karuta-image img {
+    width: 60vw;
+    max-width: 360px;
+  }
+}
+
+/* iPad以上（mini除く） */
+@media (min-width: 821px) {
+  .news-karuta-image img {
+    width: 40%;
+    max-width: 280px;
+  }
+}
+
+  
+  
   </style>
 </head>
 
