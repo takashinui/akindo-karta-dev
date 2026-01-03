@@ -4,16 +4,12 @@ import { questions } from "./questions.js";
 
 let current = 0;
 
-const newsView = document.getElementById("newsView");
-const content = document.getElementById("newsContent");
-const nextBtn = document.getElementById("nextNewsBtn");
-
 function getKarutaPhrase(karutaId) {
   const q = questions.find(q => q.id === karutaId);
   return q ? q.fullPhrase : "";
 }
 
-function render() {
+function render(content) {
   const n = akindoNewsData[current];
   const karuta = getKarutaPhrase(n.karutaId);
 
@@ -27,11 +23,16 @@ function render() {
 }
 
 export function showAkindoNews() {
-  current = 0;
-  render();
-}
+  const content = document.getElementById("newsContent");
+  const nextBtn = document.getElementById("nextNewsBtn");
 
-nextBtn.onclick = () => {
-  current = (current + 1) % akindoNewsData.length;
-  render();
-};
+  if (!content || !nextBtn) return;
+
+  current = 0;
+  render(content);
+
+  nextBtn.onclick = () => {
+    current = (current + 1) % akindoNewsData.length;
+    render(content);
+  };
+}
