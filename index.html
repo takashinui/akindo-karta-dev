@@ -237,21 +237,41 @@
       pointer-events: auto;
     }
 
-    /* --- あきんどニュース（必要なら） --- */
-    .news-headline {
-  margin-top: 10px;
-  margin-bottom: 4px;
-  font-size: 22px;     /* ← PC / iPad 共通 */
+    /* あきんどニュース：基本（iPhone基準） */
+.news-headline {
+  font-size: 16px;
   font-weight: 700;
+  margin-top: 16px;
+  margin-bottom: 8px;
 }
 
-/* iPhoneだけ少し小さく */
-@media (max-width: 699px) {
+.news-summary,
+.news-commentary {
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.news-karuta {
+  font-size: 15px;
+}
+
+    /* iPad以上 */
+@media (min-width: 700px) {
   .news-headline {
+    font-size: 20px;
+  }
+
+  .news-summary,
+  .news-commentary {
     font-size: 16px;
   }
+
+  .news-karuta {
+    font-size: 17px;
+  }
 }
-/* newsView 内 絵札（今日の1枚と同サイズ） */
+    
+    /* newsView 内 絵札（今日の1枚と同サイズ） */
 .news-karuta-image {
   display: flex;
   justify-content: center;   /* 左右中央 */
@@ -279,7 +299,13 @@
     max-width: 280px;
   }
 }
-
+/* iPhone */
+@media (max-width: 699px) {
+  .news-karuta-image img {
+    width: 60vw;
+    max-width: 220px;
+  }
+}
   
   
   </style>
