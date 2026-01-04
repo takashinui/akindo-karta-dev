@@ -354,7 +354,12 @@ row.addEventListener("click", () => {
 window.addEventListener("load", () => {
   showMenu();
   renderDailyCard();
+const backToMenuBtn = document.getElementById("backToMenuBtn");
 
+backToMenuBtn?.addEventListener("click", () => {
+  consultView.style.display = "none";
+  showMenu();
+});
   document.getElementById("startGameBtn")
     ?.addEventListener("click", showGame);
 
