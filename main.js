@@ -377,5 +377,14 @@ window.addEventListener("load", () => {
     newsView.hidden = false;
     showAkindoNews();
   });
+  // --- あきんど相談室 ---
+  const openConsultBtn = document.getElementById("openConsultBtn");
+  const consultView = document.getElementById("consultView");
+
+  openConsultBtn?.addEventListener("click", () => {
+    hideIfExists("menuView");
+    consultView.hidden = false;
+  });
+  
 
 });
