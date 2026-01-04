@@ -381,7 +381,7 @@ window.addEventListener("load", () => {
   const consultViewBtn = document.getElementById("consultViewBtn");
   const consultView = document.getElementById("consultView");
 
- openConsultBtn?.addEventListener("click", () => {
+ consultViewBtn?.addEventListener("click", () => {
   hideIfExists("menuView");
   consultView.style.display = "block";
 });
