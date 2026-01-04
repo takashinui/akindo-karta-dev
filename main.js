@@ -354,12 +354,14 @@ row.addEventListener("click", () => {
 window.addEventListener("load", () => {
   showMenu();
   renderDailyCard();
-const backToMenuBtn = document.getElementById("backToMenuBtn");
 
-backToMenuBtn?.addEventListener("click", () => {
-  consultView.style.display = "none";
-  showMenu();
-});
+  const consultView = document.getElementById("consultView");
+  const backToMenuBtn = document.getElementById("backToMenuBtn");
+
+  backToMenuBtn?.addEventListener("click", () => {
+    consultView.style.display = "none";
+    showMenu();
+  });
   document.getElementById("startGameBtn")
     ?.addEventListener("click", showGame);
 
@@ -384,8 +386,6 @@ backToMenuBtn?.addEventListener("click", () => {
   });
   // --- あきんど相談室 ---
   const consultViewBtn = document.getElementById("consultViewBtn");
-  const consultView = document.getElementById("consultView");
-
 consultViewBtn?.addEventListener("click", () => {
   const menu = document.getElementById("menuView");
   if (menu) menu.hidden = true;
