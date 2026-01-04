@@ -381,8 +381,10 @@ window.addEventListener("load", () => {
   const consultViewBtn = document.getElementById("consultViewBtn");
   const consultView = document.getElementById("consultView");
 
- consultViewBtn?.addEventListener("click", () => {
-  hideIfExists("menuView");
+consultViewBtn?.addEventListener("click", () => {
+  const menu = document.getElementById("menuView");
+  if (menu) menu.hidden = true;
+
   consultView.style.display = "block";
 });
   
