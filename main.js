@@ -381,10 +381,10 @@ window.addEventListener("load", () => {
   const consultViewBtn = document.getElementById("consultViewBtn");
   const consultView = document.getElementById("consultView");
 
-  openConsultBtn?.addEventListener("click", () => {
-    hideIfExists("menuView");
-    consultView.hidden = false;
-  });
+ openConsultBtn?.addEventListener("click", () => {
+  hideIfExists("menuView");
+  consultView.style.display = "block";
+});
   
 
 });
