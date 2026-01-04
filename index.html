@@ -355,11 +355,11 @@
 }
 
 .consult-description {
-  text-align: center;
+  text-align: left;
   font-size: 14px;
   line-height: 1.7;
   margin-bottom: 24px;
-}   
+} 
 @media (min-width: 700px) {
   .consult-title {
     font-size: 28px;
@@ -377,37 +377,36 @@
 }
 
 .consult-textarea {
-  flex: 1;
-  min-height: 48px;
-  max-height: 160px;
-  padding: 12px;
+  width: 100%;
+  min-height: 44px;
+  max-height: 200px;
+  padding: 12px 44px 12px 12px; /* 右に黒丸分の余白 */
   font-size: 14px;
   line-height: 1.6;
   border-radius: 12px;
   border: none;
-  resize: vertical;
+  resize: none;
   background: #f0f0f0;
   box-shadow: inset 0 0 0 1px #ddd;
+  overflow-y: auto;
 }
+
 .consult-send-btn {
-  width: 40px;
-  height: 40px;
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
   border: none;
   background: #000;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
 }
 
-.send-arrow {
-  width: 0;
-  height: 0;
-  border-left: 6px solid transparent;
-  border-right: 6px solid transparent;
-  border-bottom: 10px solid #fff;
-}
+
 .consult-footer {
   margin-top: 32px;
   text-align: center;
@@ -415,7 +414,11 @@
   color: #777;
 }
 
-    
+.consult-input-wrapper .consult-send-btn {
+  position: absolute;
+  right: 6px;
+  bottom: 6px;
+}    
 
     
   
@@ -481,15 +484,18 @@
 
   <!-- 入力エリア -->
   <div class="consult-input-area">
+  <div class="consult-input-wrapper">
     <textarea
       class="consult-textarea"
-      placeholder="今日はどうしたん？"
+      placeholder="今日はどないしたん？"
+      rows="1"
     ></textarea>
 
     <button class="consult-send-btn" aria-label="送信">
-      <span class="send-arrow"></span>
+      ↑
     </button>
   </div>
+</div>
 
   <!-- フッター -->
   <div class="consult-footer">
