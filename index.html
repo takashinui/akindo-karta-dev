@@ -6,10 +6,30 @@
   <title>あきんどカルタ実験室</title>
 
   <style>
+    /* =========================
+       フォント定義（全体統一）
+       ========================= */
+    :root {
+      --font-title: 22px;
+      --font-heading: 20px;
+      --font-subheading: 18px;
+      --font-body: 16px;
+    }
+
+    @media (min-width: 700px) {
+      :root {
+        --font-title: 28px;
+        --font-heading: 24px;
+        --font-subheading: 20px;
+        --font-body: 16px;
+      }
+    }
+
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
       background: #f5f5f5;
+      font-size: var(--font-body);
     }
 
     .container {
@@ -19,16 +39,34 @@
       box-sizing: border-box;
     }
 
+    /* =========================
+       メニュー・共通ボタン
+       ========================= */
+    .backToMenu {
+      margin-bottom: 12px;
+      padding: 12px 16px;
+      font-size: var(--font-body);
+      font-weight: 600;
+      border-radius: 10px;
+      border: none;
+      background: #fff;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      cursor: pointer;
+    }
+
+    /* =========================
+       ゲーム（既存）
+       ========================= */
     #currentKana {
       text-align: center;
-      font-size: 30px;
+      font-size: var(--font-title);
       font-weight: bold;
       margin: 2px 0;
     }
 
     #fullPhrase {
       min-height: 2.5em;
-      font-size: 14px;
+      font-size: var(--font-body);
       font-weight: 600;
       text-align: center;
       padding: 4px;
@@ -38,8 +76,7 @@
     .cards {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
-      gap: 0px;
-      margin-top: 0px;
+      gap: 0;
     }
 
     .card {
@@ -47,28 +84,9 @@
       background: #fff;
       border-radius: 10px;
       overflow: hidden;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
       cursor: pointer;
       -webkit-tap-highlight-color: transparent;
-    }
-
-    .card img {
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-      display: block;
-    }
-
-    /* ② 黒丸マスク */
-    .kana-mask {
-      position: absolute;
-      top: 9%;
-      right: 21%;
-      width: 20%;
-      height: 20%;
-      background: black;
-      border-radius: 50%;
-      pointer-events: none;
     }
 
     .image-wrapper {
@@ -84,20 +102,18 @@
       display: block;
     }
 
-    .backToMenu {
-      display: inline-block;
-      margin-bottom: 12px;
-      padding: 12px 16px;
-      font-size: 16px;
-      font-weight: 600;
-      border-radius: 10px;
-      border: none;
-      background: #fff;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-      cursor: pointer;
+    /* 黒丸マスク（既存） */
+    .kana-mask {
+      position: absolute;
+      top: 9%;
+      right: 21%;
+      width: 20%;
+      height: 20%;
+      background: black;
+      border-radius: 50%;
+      pointer-events: none;
     }
 
-    /* 〇✕表示（大きさはここ） */
     .result-mark {
       position: absolute;
       inset: 0;
@@ -106,12 +122,12 @@
       justify-content: center;
       font-size: clamp(64px, 14vw, 120px);
       font-weight: 900;
-      text-shadow: 0 0 6px rgba(0, 0, 0, 0.8);
+      text-shadow: 0 0 6px rgba(0,0,0,0.8);
       pointer-events: none;
     }
 
-    .mark-correct { color: rgba(0, 200, 0, 0.92); }
-    .mark-wrong { color: rgba(220, 0, 0, 0.92); }
+    .mark-correct { color: rgba(0,200,0,0.92); }
+    .mark-wrong   { color: rgba(220,0,0,0.92); }
 
     #explanation {
       display: none;
@@ -121,390 +137,124 @@
       border-radius: 10px;
       max-height: 200px;
       overflow-y: auto;
-      font-size: 14px;
+      font-size: var(--font-body);
       line-height: 1.5;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     }
 
-    /* 4択カルタ：次の問題 → ボタン */
     #nextButton {
       position: fixed;
       top: 12px;
       right: 12px;
-      margin: 0;
       padding: 12px 16px;
-      font-size: 16px;
-      font-weight: 600;
-      border-radius: 10px;
-      border: none;
-      background: #fff;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-      cursor: pointer;
-      display: none;
-      visibility: hidden;
-      z-index: 1000;
-    }
-
-    @media (min-width: 768px) {
-      #currentKana { font-size: 48px; }
-      #fullPhrase { font-size: 20px; }
-      .cards { gap: 12px; }
-    }
-
-    #dailyCardPreview img {
-      width: 25%;
-      max-width: 140px;
-      height: auto;
-      display: block;
-      margin: 0 auto;
-    }
-
-    /* iPad mini（縦） */
-    @media (min-width: 700px) and (max-width: 800px) {
-      #dailyCardPreview img {
-        width: 60vw;
-        max-width: 360px;
-      }
-    }
-
-    /* iPad以上（mini除く） */
-    @media (min-width: 821px) {
-      #dailyCardPreview img {
-        width: 40%;
-        max-width: 280px;
-      }
-    }
-
-    /* 今日の1枚 詳細画像 */
-    .daily-detail-image {
-      display: block;
-      margin: 0 auto 12px;
-      width: 40vw;
-      max-width: 130px;
-    }
-
-    /* iPad以上 */
-    @media (min-width: 700px) {
-      .daily-detail-image {
-        width: 50vw;
-        max-width: 320px;
-      }
-    }
-
-    /* PC */
-    @media (min-width: 1024px) {
-      .daily-detail-image { width: 320px; }
-    }
-
-    #menuView button,
-    #gameView button.backToMenu {
-      padding: 12px 16px;
-      font-size: 16px;
-      font-weight: 600;
-      border-radius: 10px;
-    }
-
-    .readbook-thumb {
-      width: 48px;
-      height: 67px;
-      object-fit: cover;
-      display: block;
-      background: #eee;
-    }
-
-    /* 共通ボタンUI（見た目のみ） */
-    .backButton {
-      padding: 12px 16px;
-      font-size: 16px;
+      font-size: var(--font-body);
       font-weight: 600;
       border-radius: 10px;
       border: none;
       background: #fff;
       box-shadow: 0 1px 3px rgba(0,0,0,0.2);
       cursor: pointer;
-      z-index: 900;
+      display: none;
+      visibility: hidden;
+      z-index: 1000;
     }
 
-    /* 右上固定 */
-    .topRight {
-      position: fixed;
-      top: 12px;
-      right: 12px;
+    /* =========================
+       あきんど相談室
+       ========================= */
+    .consult-title {
+      text-align: center;
+      font-size: var(--font-title);
+      font-weight: 700;
+      margin: 16px 0 12px;
     }
 
-    #detailBackBtn {
-      z-index: 3000;
-      pointer-events: auto;
+    .consult-description {
+      font-size: var(--font-body);
+      line-height: 1.7;
+      margin-bottom: 24px;
     }
 
-/* =========================
-   あきんどニュース（iPhone基準）
-   ========================= */
-.news-headline {
-  font-size: 16px;
-  font-weight: 700;
-  margin-top: 16px;
-  margin-bottom: 8px;
-}
+    .consult-input-area {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 24px;
+    }
 
-.news-summary {
-  font-size: 14px;
-  line-height: 1.7;
-  margin-bottom: 12px;
-}
+    .consult-input-wrapper {
+      position: relative;
+      width: 80%;
+      max-width: 720px;
+    }
 
-.news-karuta {
-  font-size: 15px;
-  margin-bottom: 12px;
-}
+    .consult-textarea {
+      width: 100%;
+      min-height: 44px;
+      padding: 12px 44px 12px 12px;
+      font-size: 16px; /* iOSズーム回避 */
+      line-height: 1.6;
+      border-radius: 12px;
+      border: none;
+      resize: none;
+      background: #f0f0f0;
+      box-shadow: inset 0 0 0 1px #ddd;
+    }
 
-.news-commentary {
-  font-size: 14px;
-  line-height: 1.7;
-  margin-bottom: 16px;
-}
+    .consult-send-btn {
+      position: absolute;
+      right: 6px;
+      bottom: 6px;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      border: none;
+      background: #000;
+      color: #fff;
+      font-size: 18px;
+      line-height: 1;
+      font-family: inherit;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
 
-/* =========================
-   iPad / PC
-   ========================= */
-@media (min-width: 700px) {
-  .news-headline {
-    font-size: 20px;
-  }
-
-  .news-summary,
-  .news-commentary {
-    font-size: 16px;
-  }
-
-  .news-karuta {
-    font-size: 18px;
-  }
-}
-    /* newsView 内 絵札（今日の1枚と同サイズ） */
-.news-karuta-image {
-  display: flex;
-  justify-content: center;   /* 左右中央 */
-  margin-top: 12px;
-}
-
-.news-karuta-image img {
-  width: 25%;
-  max-width: 140px;
-  height: auto;
-  display: block;
-}
-/* iPad mini（縦） */
-@media (min-width: 700px) and (max-width: 800px) {
-  .news-karuta-image img {
-    width: 60vw;
-    max-width: 360px;
-  }
-}
-
-/* iPad以上（mini除く） */
-@media (min-width: 821px) {
-  .news-karuta-image img {
-    width: 40%;
-    max-width: 280px;
-  }
-}
-/* iPhone */
-@media (max-width: 699px) {
-  .news-karuta-image img {
-    width: 60vw;
-    max-width: 220px;
-  }
-}
-
-/* =========================
-   あきんど相談室（iPhone基準）
-   ========================= */
-.consult-headline {
-  font-size: 16px;
-  font-weight: 700;
-  margin-top: 16px;
-  margin-bottom: 8px;
-}
-
-.consult-text {
-  font-size: 14px;
-  line-height: 1.7;
-  margin-bottom: 16px;
-}
-
-/* =========================
-   iPad / PC
-   ========================= */
-@media (min-width: 700px) {
-  .consult-headline {
-    font-size: 20px;
-  }
-
-  .consult-text {
-    font-size: 16px;
-  }
-}
-
-.consult-title {
-  text-align: center;
-  font-size: 22px;
-  font-weight: 700;
-  margin-top: 16px;
-  margin-bottom: 12px;
-}
-
-.consult-description {
-  text-align: left;
-  font-size: 14px;
-  line-height: 1.7;
-  margin-bottom: 24px;
-} 
-@media (min-width: 700px) {
-  .consult-title {
-    font-size: 28px;
-  }
-
-  .consult-description {
-    font-size: 16px;
-  }
-}
-.consult-input-area {
-  display: flex;
-  align-items: flex-end;
-  gap: 8px;
-  margin-top: 24px;
-}
-
-.consult-textarea {
-  width: 100%;
-  min-height: 44px;
-  max-height: 200px;
-  padding: 12px 44px 12px 12px; /* 右に黒丸分の余白 */
-  font-size: 14px;
-  line-height: 1.6;
-  border-radius: 12px;
-  border: none;
-  resize: none;
-  background: #f0f0f0;
-  box-shadow: inset 0 0 0 1px #ddd;
-  overflow-y: auto;
-}
-
-.consult-send-btn {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  border: none;
-  background: #000;
-  color: #fff;
-  font-size: 18px;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-}
-
-
-.consult-footer {
-  margin-top: 32px;
-  text-align: center;
-  font-size: 12px;
-  color: #777;
-}
-
-.consult-input-wrapper .consult-send-btn {
-  position: absolute;
-  right: 6px;
-  bottom: 6px;
-}    
-
-    
-  
+    .consult-footer {
+      margin-top: 32px;
+      text-align: center;
+      font-size: 12px;
+      color: #777;
+    }
   </style>
 </head>
 
 <body>
-  <div id="menuView" class="container">
-    <h1 style="text-align:center;">あきんどカルタ</h1>
 
-    <section id="dailyCardSection">
-      <h2 style="font-size:16px;">今日の1枚</h2>
-      <div id="dailyCardPreview"></div>
-    </section>
+  <!-- 相談室 -->
+  <section id="consultView" class="container">
+    <button id="backToMenuBtn" class="backToMenu">← トップへ戻る</button>
 
-    <div style="margin-top:24px; display:flex; flex-direction:column; gap:12px;">
-      <button id="startGameBtn">4択カルタ</button>
-      <button id="openBookBtn">あきんどカルタ読本</button>
-      <button id="consultViewBtn">あきんど相談室</button>
-      <button id="openNewsBtn">あきんどニュース</button>
+    <div class="consult-title">あきんど相談室</div>
+
+    <div class="consult-description">
+      AIあきんどが、あきんどカルタで答えまっせ。
     </div>
-  </div>
 
-  <div id="gameView" class="container" hidden>
-    <button class="backToMenu">← トップへ戻る</button>
-    <div id="currentKana"></div>
-    <div class="cards" id="cards"></div>
-    <div id="fullPhrase"></div>
-    <div id="explanation"></div>
-    <button id="nextButton">次の問題 →</button>
-  </div>
+    <div class="consult-input-area">
+      <div class="consult-input-wrapper">
+        <textarea
+          class="consult-textarea"
+          rows="1"
+          placeholder="今日はどないしたん？"
+        ></textarea>
+        <button class="consult-send-btn" aria-label="送信">↑</button>
+      </div>
+    </div>
 
-  <div id="bookView" class="container" hidden>
-    <button class="backToMenu">← トップへ戻る</button>
-    <div id="readbookRoot"></div>
-  </div>
+    <div class="consult-footer">
+      Powered by ChatGPT
+    </div>
+  </section>
 
-  <div id="dailyDetailView" class="container" hidden>
-    <button class="backToMenu">← トップへ戻る</button>
-    <button id="detailBackBtn" class="backButton topRight">カルタ目次へ →</button>
-    <div id="dailyDetailContent" style="margin-top:12px;"></div>
-  </div>
-
-  <div id="newsView" class="container" hidden>
-    <button class="backToMenu">← トップへ戻る</button>
-    <div id="newsContent"></div>
-    <button id="nextNewsBtn" class="backButton topRight">次のニュース →</button>
-  </div>
-
-<section id="consultView" class="container" style="display:none;">
-
-  <button id="backToMenuBtn" class="backToMenu">← トップへ戻る</button>
-
-  <!-- タイトル -->
-  <div class="consult-title">
-    あきんど相談室
-  </div>
-
-  <!-- 説明文 -->
-  <div class="consult-description">
-    AIあきんどが、あきんどカルタで答えまっせ。
-  </div>
-
-  <!-- 入力エリア -->
-  <div class="consult-input-area">
-  <div class="consult-input-wrapper">
-    <textarea
-      class="consult-textarea"
-      placeholder="今日はどないしたん？"
-      rows="1"
-    ></textarea>
-
-    <button class="consult-send-btn" aria-label="送信">
-      ↑
-    </button>
-  </div>
-</div>
-
-  <!-- フッター -->
-  <div class="consult-footer">
-    Powered by ChatGPT
-  </div>
-
-</section>
-
-  <script type="module" src="./main.js"></script>
-  
 </body>
 </html>
