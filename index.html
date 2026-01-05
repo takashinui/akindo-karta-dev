@@ -40,7 +40,7 @@
     }
 
     /* =========================
-       メニュー・共通ボタン
+       共通ボタン
        ========================= */
     .backToMenu {
       margin-bottom: 12px;
@@ -102,7 +102,6 @@
       display: block;
     }
 
-    /* 黒丸マスク（既存） */
     .kana-mask {
       position: absolute;
       top: 9%;
@@ -137,7 +136,6 @@
       border-radius: 10px;
       max-height: 200px;
       overflow-y: auto;
-      font-size: var(--font-body);
       line-height: 1.5;
       box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     }
@@ -212,7 +210,6 @@
       color: #fff;
       font-size: 18px;
       line-height: 1;
-      font-family: inherit;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -230,31 +227,59 @@
 
 <body>
 
+  <!-- メニュー -->
+  <div id="menuView" class="container">
+    <h1 style="text-align:center;">あきんどカルタ</h1>
+    <div style="margin-top:24px; display:flex; flex-direction:column; gap:12px;">
+      <button id="startGameBtn">4択カルタ</button>
+      <button id="openBookBtn">あきんどカルタ読本</button>
+      <button id="consultViewBtn">あきんど相談室</button>
+      <button id="openNewsBtn">あきんどニュース</button>
+    </div>
+  </div>
+
+  <!-- ゲーム -->
+  <div id="gameView" class="container" hidden>
+    <button class="backToMenu">← トップへ戻る</button>
+    <div id="currentKana"></div>
+    <div class="cards" id="cards"></div>
+    <div id="fullPhrase"></div>
+    <div id="explanation"></div>
+    <button id="nextButton">次の問題 →</button>
+  </div>
+
+  <!-- 読本 -->
+  <div id="bookView" class="container" hidden>
+    <button class="backToMenu">← トップへ戻る</button>
+    <div id="readbookRoot"></div>
+  </div>
+
+  <!-- ニュース -->
+  <div id="newsView" class="container" hidden>
+    <button class="backToMenu">← トップへ戻る</button>
+    <div id="newsContent"></div>
+  </div>
+
   <!-- 相談室 -->
-  <section id="consultView" class="container">
+  <section id="consultView" class="container" style="display:none;">
     <button id="backToMenuBtn" class="backToMenu">← トップへ戻る</button>
 
     <div class="consult-title">あきんど相談室</div>
-
     <div class="consult-description">
       AIあきんどが、あきんどカルタで答えまっせ。
     </div>
 
     <div class="consult-input-area">
       <div class="consult-input-wrapper">
-        <textarea
-          class="consult-textarea"
-          rows="1"
-          placeholder="今日はどないしたん？"
-        ></textarea>
-        <button class="consult-send-btn" aria-label="送信">↑</button>
+        <textarea class="consult-textarea" rows="1"
+          placeholder="今日はどないしたん？"></textarea>
+        <button class="consult-send-btn">↑</button>
       </div>
     </div>
 
-    <div class="consult-footer">
-      Powered by ChatGPT
-    </div>
+    <div class="consult-footer">Powered by ChatGPT</div>
   </section>
 
+  <script type="module" src="./main.js"></script>
 </body>
 </html>
