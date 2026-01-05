@@ -2,6 +2,58 @@
 import { questions } from "./questions.js";
 import { showAkindoNews } from "./akindoNews.js"; 
 
+// ==============================
+// 必須DOMチェック（DEV用）
+// ==============================
+function checkRequiredDOM() {
+  const requiredIds = [
+    // menu / top
+    "menuView",
+    "dailyCardPreview",
+
+    // game
+    "gameView",
+    "currentKana",
+    "fullPhrase",
+    "explanation",
+    "cards",
+    "nextButton",
+
+    // book
+    "bookView",
+    "readbookRoot",
+
+    // daily detail
+    "dailyDetailView",
+    "dailyDetailContent",
+    "detailBackBtn",
+
+    // news
+    "newsView",
+    "newsContent",
+    "openNewsBtn",
+    "nextNewsBtn",
+
+    // consult
+    "consultView",
+    "consultViewBtn",
+    "backToMenuBtn"
+  ];
+
+  const missing = requiredIds.filter(id => !document.getElementById(id));
+  if (missing.length > 0) {
+    console.warn("[akindo] missing required DOM:", missing.join(", "));
+  }
+}
+
+// ==============================
+// textarea 自動伸長
+// ==============================
+function autoResizeTextarea(el) {
+  if (!el) return;
+  el.style.height = "auto";
+  el.style.height = el.scrollHeight + "px";
+}
 
 // ==============================
 //  かな → ファイル名
@@ -27,7 +79,6 @@ let order = [];
 let hasAnswered = false;
 let readbookScrollTop = 0;
 
-
 function shuffleOrder() {
   order = [...Array(questions.length).keys()];
   order.sort(() => Math.random() - 0.5);
@@ -45,20 +96,17 @@ function showQuestion() {
   hasAnswered = false;
 
   const q = questions[order[currentIndex]];
-
   const kanaEl = document.getElementById("currentKana");
   const fullPhraseEl = document.getElementById("fullPhrase");
   const explanationEl = document.getElementById("explanation");
-const nextBtn = document.getElementById("nextButton");
+  const nextBtn = document.getElementById("nextButton");
 
-  // 表示初期化
   kanaEl.textContent = q.leadingKana;
   fullPhraseEl.textContent = "";
   explanationEl.style.display = "none";
   explanationEl.textContent = "";
   nextBtn.style.display = "none";
 
-  // 絵札4枚
   createCards(q);
 }
 
@@ -67,12 +115,9 @@ function createCards(q) {
   cardsEl.innerHTML = "";
 
   const correctKana = q.kana;
-
-  // 正解以外をランダムに3つ
   const allKana = questions.map(x => x.kana);
   const wrongCandidates = allKana.filter(k => k !== correctKana);
   const wrong3 = wrongCandidates.sort(() => Math.random() - 0.5).slice(0, 3);
-
   const choiceKanaList = [correctKana, ...wrong3].sort(() => Math.random() - 0.5);
 
   choiceKanaList.forEach(k => {
@@ -82,18 +127,16 @@ function createCards(q) {
     const img = document.createElement("img");
     img.src = "images/" + kanaToFile(k);
     img.alt = k;
-    img.loading = "lazy"; 
+    img.loading = "lazy";
 
-    // 黒丸マスク（②レスポンシブはCSS側で改善）
     const mask = document.createElement("div");
     mask.className = "kana-mask";
 
-    // 〇✕表示
     const mark = document.createElement("div");
     mark.className = "result-mark";
+
     const wrapper = document.createElement("div");
     wrapper.className = "image-wrapper";
-
     wrapper.appendChild(img);
     wrapper.appendChild(mask);
 
@@ -103,12 +146,8 @@ function createCards(q) {
     cardDiv.onclick = () => {
       if (hasAnswered) return;
 
-      const isCorrect = (k === correctKana);
-
-      if (isCorrect) {
+      if (k === correctKana) {
         hasAnswered = true;
-
-        // 正解したら全カードを無効化
         document.querySelectorAll(".card").forEach(c => {
           c.style.pointerEvents = "none";
         });
@@ -116,18 +155,14 @@ function createCards(q) {
         mark.textContent = "◯";
         mark.classList.add("mark-correct");
 
-        // 黒丸をすべて外す
         document.querySelectorAll(".kana-mask").forEach(m => {
           m.style.display = "none";
         });
 
         showFullPhraseAndExplanation(q);
-
       } else {
         mark.textContent = "✕";
         mark.classList.add("mark-wrong");
-
-        // 何もしない（選び直し可）
       }
     };
 
@@ -141,20 +176,16 @@ function showFullPhraseAndExplanation(q) {
   const nextBtn = document.getElementById("nextButton");
 
   fullPhraseEl.textContent = q.fullPhrase;
-
   explanationEl.textContent = q.explanation;
   explanationEl.style.display = "block";
 
-nextBtn.style.display = "block";
-nextBtn.style.visibility = "visible";
-nextBtn.style.pointerEvents = "auto";
-  // 「次の問題」ボタンはここで有効化（③の対策もここ）
+  nextBtn.style.display = "block";
+  nextBtn.style.visibility = "visible";
+  nextBtn.style.pointerEvents = "auto";
+
   enableNextButton();
 }
 
-// ==============================
-// ③ Safari「2度タップ」対策：pointerup + click + フォーカス解除
-// ==============================
 let nextButtonWired = false;
 
 function enableNextButton() {
@@ -162,26 +193,23 @@ function enableNextButton() {
   nextButtonWired = true;
 
   const nextBtn = document.getElementById("nextButton");
-  if (!nextBtn) return;   // ← ★これを必ず入れる
+  if (!nextBtn) return;
 
-  nextButtonWired = true;
   let locked = false;
 
   function goNext(e) {
     if (locked) return;
     locked = true;
 
-    if (e) {
-      e.preventDefault();
-      e.stopPropagation();
-    }
+    e?.preventDefault();
+    e?.stopPropagation();
 
     nextQuestionIndex();
     showQuestion();
     window.scrollTo({ top: 0, behavior: "smooth" });
 
     setTimeout(() => {
-      try { nextBtn.blur(); } catch (_) { }
+      try { nextBtn.blur(); } catch (_) {}
       locked = false;
     }, 50);
   }
@@ -191,10 +219,8 @@ function enableNextButton() {
   } else {
     nextBtn.addEventListener("touchend", goNext, { passive: false });
   }
-
   nextBtn.addEventListener("click", goNext);
 }
-
 
 function startGame() {
   shuffleOrder();
@@ -215,6 +241,9 @@ function showMenu() {
   hideIfExists("bookView");
   hideIfExists("dailyDetailView");
   hideIfExists("newsView");
+
+  const consultView = document.getElementById("consultView");
+  if (consultView) consultView.style.display = "none";
 }
 
 function showGame() {
@@ -236,84 +265,64 @@ function showBook() {
   if (book) book.hidden = false;
 
   renderReadbook();
-
   window.scrollTo(0, readbookScrollTop);
 }
 
 function showDailyDetail(q) {
-  // 他の view をすべて隠す
   hideIfExists("menuView");
   hideIfExists("gameView");
   hideIfExists("bookView");
 
-  // 詳細 view を表示
   const detail = document.getElementById("dailyDetailView");
   if (detail) detail.hidden = false;
 
-  // 中身を描画
   const container = document.getElementById("dailyDetailContent");
   container.innerHTML = `
     <img src="images/${kanaToFile(q.kana)}" class="daily-detail-image">
-    <div style="font-weight:700; margin-bottom:6px;">
-      ${q.fullPhrase}
-    </div>
-    <div style="line-height:1.6;">
-      ${q.explanation}
-    </div>
+    <div style="font-weight:700; margin-bottom:6px;">${q.fullPhrase}</div>
+    <div style="line-height:1.6;">${q.explanation}</div>
   `;
 }
 
 function getTodayKey() {
   const now = new Date();
-  return now.getFullYear() + "-" +
-    (now.getMonth() + 1) + "-" +
-    now.getDate();
+  return now.getFullYear() + "-" + (now.getMonth() + 1) + "-" + now.getDate();
 }
 
 function getTodayCardIndex() {
   const key = "todayCard-" + getTodayKey();
   const saved = localStorage.getItem(key);
-
-  if (saved !== null) {
-    return Number(saved);
-  }
+  if (saved !== null) return Number(saved);
 
   const index = Math.floor(Math.random() * questions.length);
   localStorage.setItem(key, index);
   return index;
 }
+
 function renderDailyCard() {
   const container = document.getElementById("dailyCardPreview");
   if (!container) return;
 
   container.innerHTML = "";
-
   const q = questions[getTodayCardIndex()];
 
   const img = document.createElement("img");
   img.src = "images/" + kanaToFile(q.kana);
   img.alt = q.kana;
-  img.loading = "lazy"; 
+  img.loading = "lazy";
   img.style.width = "100%";
   img.style.cursor = "pointer";
 
   container.appendChild(img);
-
-  img.addEventListener("click", () => {
-    showDailyDetail(q);
-  });
+  img.addEventListener("click", () => showDailyDetail(q));
 }
 
 function renderReadbook() {
-     const root = document.getElementById("readbookRoot");
+  const root = document.getElementById("readbookRoot");
   if (!root) return;
 
   root.innerHTML = "";
-
-  // 50音順で並べる
-  const sorted = [...questions].sort((a, b) =>
-    a.kana.localeCompare(b.kana, "ja")
-  );
+  const sorted = [...questions].sort((a, b) => a.kana.localeCompare(b.kana, "ja"));
 
   sorted.forEach(q => {
     const row = document.createElement("div");
@@ -328,9 +337,6 @@ function renderReadbook() {
     img.src = "images/" + kanaToFile(q.kana);
     img.loading = "lazy";
     img.className = "readbook-thumb";
-    img.style.width = "50px";
-    img.style.aspectRatio = "5 / 7";
-    img.style.objectFit = "contain";
 
     const title = document.createElement("div");
     title.textContent = q.fullPhrase;
@@ -340,20 +346,27 @@ function renderReadbook() {
     row.appendChild(img);
     row.appendChild(title);
 
-    // クリックしたら「今日の1枚」と同じ詳細へ
-row.addEventListener("click", () => {
-  readbookScrollTop = window.scrollY;
-  showDailyDetail(q);
-});
-
+    row.addEventListener("click", () => {
+      readbookScrollTop = window.scrollY;
+      showDailyDetail(q);
+    });
 
     root.appendChild(row);
   });
 }
 
 window.addEventListener("load", () => {
+  checkRequiredDOM();
+
   showMenu();
   renderDailyCard();
+
+  // textarea 自動伸長の登録
+  const consultTextarea = document.querySelector(".consult-textarea");
+  if (consultTextarea) {
+    autoResizeTextarea(consultTextarea);
+    consultTextarea.addEventListener("input", () => autoResizeTextarea(consultTextarea));
+  }
 
   const consultView = document.getElementById("consultView");
   const backToMenuBtn = document.getElementById("backToMenuBtn");
@@ -362,19 +375,15 @@ window.addEventListener("load", () => {
     consultView.style.display = "none";
     showMenu();
   });
-  document.getElementById("startGameBtn")
-    ?.addEventListener("click", showGame);
 
-  document.getElementById("openBookBtn")
-    ?.addEventListener("click", showBook);
+  document.getElementById("startGameBtn")?.addEventListener("click", showGame);
+  document.getElementById("openBookBtn")?.addEventListener("click", showBook);
 
   document.querySelectorAll(".backToMenu")
     .forEach(btn => btn.addEventListener("click", showMenu));
 
-  document.getElementById("detailBackBtn")
-    ?.addEventListener("click", showBook);
+  document.getElementById("detailBackBtn")?.addEventListener("click", showBook);
 
-  // --- あきんどニュース（テスト） ---
   const openNewsBtn = document.getElementById("openNewsBtn");
   const newsView = document.getElementById("newsView");
   const menuView = document.getElementById("menuView");
@@ -384,14 +393,10 @@ window.addEventListener("load", () => {
     newsView.hidden = false;
     showAkindoNews();
   });
-  // --- あきんど相談室 ---
+
   const consultViewBtn = document.getElementById("consultViewBtn");
-consultViewBtn?.addEventListener("click", () => {
-  const menu = document.getElementById("menuView");
-  if (menu) menu.hidden = true;
-
-  consultView.style.display = "block";
-});
-  
-
+  consultViewBtn?.addEventListener("click", () => {
+    menuView.hidden = true;
+    consultView.style.display = "block";
+  });
 });
