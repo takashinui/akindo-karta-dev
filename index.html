@@ -3,33 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>あきんどカルタ実験室</title>
+  <title>あきんどカルタ</title>
 
   <style>
     /* =========================
-       フォント定義（全体統一）
+       基本
        ========================= */
-    :root {
-      --font-title: 22px;
-      --font-heading: 20px;
-      --font-subheading: 18px;
-      --font-body: 16px;
-    }
-
-    @media (min-width: 700px) {
-      :root {
-        --font-title: 28px;
-        --font-heading: 24px;
-        --font-subheading: 20px;
-        --font-body: 16px;
-      }
-    }
-
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
       background: #f5f5f5;
-      font-size: var(--font-body);
     }
 
     .container {
@@ -42,10 +25,15 @@
     /* =========================
        共通ボタン
        ========================= */
+    button {
+      font-family: inherit;
+    }
+
     .backToMenu {
+      display: inline-block;
       margin-bottom: 12px;
       padding: 12px 16px;
-      font-size: var(--font-body);
+      font-size: 16px;
       font-weight: 600;
       border-radius: 10px;
       border: none;
@@ -55,22 +43,47 @@
     }
 
     /* =========================
-       ゲーム（既存）
+       トップメニュー
+       ========================= */
+    #menuView h1 {
+      text-align: center;
+      margin-bottom: 16px;
+    }
+
+    #menuView button {
+      padding: 12px 16px;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: 10px;
+    }
+
+    /* 今日の1枚 */
+    #dailyCardPreview img {
+      width: 25%;
+      max-width: 140px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+      cursor: pointer;
+    }
+
+    /* =========================
+       4択カルタ
        ========================= */
     #currentKana {
       text-align: center;
-      font-size: var(--font-title);
+      font-size: 30px;
       font-weight: bold;
-      margin: 2px 0;
+      margin: 4px 0;
     }
 
     #fullPhrase {
       min-height: 2.5em;
-      font-size: var(--font-body);
+      font-size: 14px;
       font-weight: 600;
       text-align: center;
       padding: 4px;
-      margin-bottom: -4px;
+      margin-bottom: 4px;
     }
 
     .cards {
@@ -121,12 +134,11 @@
       justify-content: center;
       font-size: clamp(64px, 14vw, 120px);
       font-weight: 900;
-      text-shadow: 0 0 6px rgba(0,0,0,0.8);
       pointer-events: none;
     }
 
-    .mark-correct { color: rgba(0,200,0,0.92); }
-    .mark-wrong   { color: rgba(220,0,0,0.92); }
+    .mark-correct { color: rgba(0,200,0,0.9); }
+    .mark-wrong   { color: rgba(220,0,0,0.9); }
 
     #explanation {
       display: none;
@@ -134,8 +146,7 @@
       padding: 10px;
       margin-top: 12px;
       border-radius: 10px;
-      max-height: 200px;
-      overflow-y: auto;
+      font-size: 14px;
       line-height: 1.5;
       box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     }
@@ -145,7 +156,7 @@
       top: 12px;
       right: 12px;
       padding: 12px 16px;
-      font-size: var(--font-body);
+      font-size: 16px;
       font-weight: 600;
       border-radius: 10px;
       border: none;
@@ -153,22 +164,52 @@
       box-shadow: 0 1px 3px rgba(0,0,0,0.2);
       cursor: pointer;
       display: none;
-      visibility: hidden;
       z-index: 1000;
     }
 
     /* =========================
-       あきんど相談室
+       読本
+       ========================= */
+    .readbook-thumb {
+      width: 48px;
+      height: 67px;
+      object-fit: cover;
+      background: #eee;
+    }
+
+    /* =========================
+       ニュース
+       ========================= */
+    .news-headline {
+      font-size: 16px;
+      font-weight: 700;
+      margin: 16px 0 8px;
+    }
+
+    .news-summary,
+    .news-commentary {
+      font-size: 14px;
+      line-height: 1.7;
+      margin-bottom: 12px;
+    }
+
+    .news-karuta {
+      font-size: 15px;
+      margin-bottom: 12px;
+    }
+
+    /* =========================
+       相談室
        ========================= */
     .consult-title {
       text-align: center;
-      font-size: var(--font-title);
+      font-size: 22px;
       font-weight: 700;
       margin: 16px 0 12px;
     }
 
     .consult-description {
-      font-size: var(--font-body);
+      font-size: 14px;
       line-height: 1.7;
       margin-bottom: 24px;
     }
@@ -182,14 +223,13 @@
     .consult-input-wrapper {
       position: relative;
       width: 80%;
-      max-width: 720px;
     }
 
     .consult-textarea {
       width: 100%;
       min-height: 44px;
       padding: 12px 44px 12px 12px;
-      font-size: 16px; /* iOSズーム回避 */
+      font-size: 14px;
       line-height: 1.6;
       border-radius: 12px;
       border: none;
@@ -200,19 +240,16 @@
 
     .consult-send-btn {
       position: absolute;
-      right: 6px;
-      bottom: 6px;
-      width: 36px;
-      height: 36px;
+      right: 8px;
+      bottom: 8px;
+      width: 32px;
+      height: 32px;
       border-radius: 50%;
       border: none;
       background: #000;
       color: #fff;
       font-size: 18px;
-      line-height: 1;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      font-weight: 700;
       cursor: pointer;
     }
 
@@ -227,9 +264,15 @@
 
 <body>
 
-  <!-- メニュー -->
+  <!-- トップメニュー -->
   <div id="menuView" class="container">
-    <h1 style="text-align:center;">あきんどカルタ</h1>
+    <h1>あきんどカルタ</h1>
+
+    <section id="dailyCardSection">
+      <h2 style="font-size:16px;">今日の1枚</h2>
+      <div id="dailyCardPreview"></div>
+    </section>
+
     <div style="margin-top:24px; display:flex; flex-direction:column; gap:12px;">
       <button id="startGameBtn">4択カルタ</button>
       <button id="openBookBtn">あきんどカルタ読本</button>
@@ -238,7 +281,7 @@
     </div>
   </div>
 
-  <!-- ゲーム -->
+  <!-- 4択カルタ -->
   <div id="gameView" class="container" hidden>
     <button class="backToMenu">← トップへ戻る</button>
     <div id="currentKana"></div>
@@ -252,6 +295,12 @@
   <div id="bookView" class="container" hidden>
     <button class="backToMenu">← トップへ戻る</button>
     <div id="readbookRoot"></div>
+  </div>
+
+  <!-- 今日の1枚 詳細 -->
+  <div id="dailyDetailView" class="container" hidden>
+    <button class="backToMenu">← トップへ戻る</button>
+    <div id="dailyDetailContent"></div>
   </div>
 
   <!-- ニュース -->
@@ -271,8 +320,7 @@
 
     <div class="consult-input-area">
       <div class="consult-input-wrapper">
-        <textarea class="consult-textarea" rows="1"
-          placeholder="今日はどないしたん？"></textarea>
+        <textarea class="consult-textarea" placeholder="今日はどないしたん？" rows="1"></textarea>
         <button class="consult-send-btn">↑</button>
       </div>
     </div>
