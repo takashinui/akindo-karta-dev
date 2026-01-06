@@ -9,6 +9,17 @@
     /* =========================
        基本
        ========================= */
+    /* =========================
+   フォント定義（意味ベース）
+   ========================= */
+:root {
+  --font-title: 22px;
+  --font-heading: 20px;
+  --font-subheading: 18px;
+  --font-body: 16px;
+  --font-small: 14px;
+}
+
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
@@ -33,7 +44,7 @@
       display: inline-block;
       margin-bottom: 12px;
       padding: 12px 16px;
-      font-size: 16px;
+      font-size: var(--font-body);
       font-weight: 600;
       border-radius: 10px;
       border: none;
@@ -52,7 +63,7 @@
 
     #menuView button {
       padding: 12px 16px;
-      font-size: 16px;
+      font-size: var(--font-body);
       font-weight: 600;
       border-radius: 10px;
     }
@@ -72,14 +83,14 @@
        ========================= */
     #currentKana {
       text-align: center;
-      font-size: 30px;
+      font-size: var(--font-title);
       font-weight: bold;
       margin: 4px 0;
     }
 
     #fullPhrase {
       min-height: 2.5em;
-      font-size: 14px;
+      font-size: var(--font-body);
       font-weight: 600;
       text-align: center;
       padding: 4px;
@@ -146,7 +157,7 @@
       padding: 10px;
       margin-top: 12px;
       border-radius: 10px;
-      font-size: 14px;
+      font-size: var(--font-body);
       line-height: 1.5;
       box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     }
@@ -156,7 +167,7 @@
       top: 12px;
       right: 12px;
       padding: 12px 16px;
-      font-size: 16px;
+      font-size: var(--font-body);
       font-weight: 600;
       border-radius: 10px;
       border: none;
@@ -181,20 +192,20 @@
        ニュース
        ========================= */
     .news-headline {
-      font-size: 16px;
+      font-size: var(--font-heading);
       font-weight: 700;
       margin: 16px 0 8px;
     }
 
     .news-summary,
     .news-commentary {
-      font-size: 14px;
+      font-size: var(--font-body);
       line-height: 1.7;
       margin-bottom: 12px;
     }
 
     .news-karuta {
-      font-size: 15px;
+      font-size: var(--font-subheading);
       margin-bottom: 12px;
     }
 
@@ -203,13 +214,13 @@
        ========================= */
     .consult-title {
       text-align: center;
-      font-size: 22px;
+      font-size: var(--font-title);
       font-weight: 700;
       margin: 16px 0 12px;
     }
 
     .consult-description {
-      font-size: 14px;
+      font-size: var(--font-body);
       line-height: 1.7;
       margin-bottom: 24px;
     }
@@ -229,7 +240,7 @@
       width: 100%;
       min-height: 44px;
       padding: 12px 44px 12px 12px;
-      font-size: 14px;
+      font-size: var(--font-body);
       line-height: 1.6;
       border-radius: 12px;
       border: none;
@@ -256,9 +267,14 @@
     .consult-footer {
       margin-top: 32px;
       text-align: center;
-      font-size: 12px;
+      font-size: var(--font-small);
       color: #777;
     }
+.section-heading {
+  font-size: var(--font-heading);
+  font-weight: 600;
+}
+
   </style>
 </head>
 
@@ -269,12 +285,19 @@
     <h1>あきんどカルタ</h1>
 
     <section id="dailyCardSection">
-      <h2 style="font-size:16px;">今日の1枚</h2>
+<h2 class="section-heading">今日の1枚</h2>
       <div id="dailyCardPreview"></div>
     </section>
 
-    <div style="margin-top:24px; display:flex; flex-direction:column; gap:12px;">
-      <button id="startGameBtn">4択カルタ</button>
+    <div class="menu-buttons">
+.menu-buttons {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+    <button id="startGameBtn">4択カルタ</button>
       <button id="openBookBtn">あきんどカルタ読本</button>
       <button id="consultViewBtn">あきんど相談室</button>
       <button id="openNewsBtn">あきんどニュース</button>
