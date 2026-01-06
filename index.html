@@ -198,6 +198,31 @@
   display: block;
   margin: 12px auto;
 }
+
+/* 共通ボタンUI（見た目のみ） */
+.backButton {
+  padding: 12px 16px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  cursor: pointer;
+    z-index: 900;
+}
+
+/* 右上固定 */
+.topRight {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+}
+#detailBackBtn {
+  z-index: 3000;
+  pointer-events: auto;
+}
+
     
     /* =========================
        ニュース
@@ -330,6 +355,8 @@
   <div id="bookView" class="container" hidden>
     <button class="backToMenu">← トップへ戻る</button>
     <div id="readbookRoot"></div>
+      <button id="detailBackBtn" class="backButton topRight">
+    読本目次へ → </button>
   </div>
 
   <!-- 今日の1枚 詳細 -->
