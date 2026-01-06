@@ -357,9 +357,15 @@ window.addEventListener("load", () => {
 
   document.getElementById("backToMenuBtn")
     ?.addEventListener("click", showMenu);
+    
+    document.getElementById("detailBackBtn")
+  ?.addEventListener("click", () => {
+    showBook();   // 既存の読本目次表示関数
+  });
 
   document.querySelectorAll(".backToMenu")
     .forEach(btn => btn.addEventListener("click", showMenu));
+    
 
   const textarea = document.querySelector(".consult-textarea");
   if (textarea) {
