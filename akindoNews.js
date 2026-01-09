@@ -10,12 +10,21 @@ function getKarutaPhrase(karutaId) {
 }
 
 function render(content) {
-  const n = akindoNewsData[current];
-  const q = questions.find(q => q.id === n.karutaId);
+  // --- notice：1本目のみ表示 ---
+  const notice = document.getElementById("newsNotice");
+  if (notice) {
+    notice.hidden = (current !== 0);
+  }
 
+  // --- 表示するニュース ---
+  const n = akindoNewsData[current];
+
+  // --- 対応するカルタ取得 ---
+  const q = questions.find(q => q.id === n.karutaId);
   const karuta = q ? q.fullPhrase : "";
   const kana = q ? q.kana : null;
 
+  // --- かな → 画像ファイル対応 ---
   const kanaMap = {
     "あ": "a.jpg", "い": "i.jpg", "う": "u.jpg", "え": "e.jpg", "お": "o.jpg",
     "か": "ka.jpg", "き": "ki.jpg", "く": "ku.jpg", "け": "ke.jpg", "こ": "ko.jpg",
@@ -31,12 +40,28 @@ function render(content) {
 
   const imageFile = kana ? kanaMap[kana] : null;
 
+  // --- 描画 ---
   content.innerHTML = `
-    <div class="news-headline">${n.headline}</div>
-    <div class="news-source">出典：${n.source}</div>
-    <div class="news-summary">${n.summary}</div>
-    <div class="news-karuta"><strong>${karuta}</strong></div>
-    <div class="news-commentary">${n.commentary ?? ""}</div>
+    <div class="news-headline">
+      ${n.headline}
+    </div>
+
+    <div class="news-source">
+      出典：${n.source}
+    </div>
+
+    <div class="news-summary">
+      ${n.summary}
+    </div>
+
+    <div class="news-karuta">
+      <strong>${karuta}</strong>
+    </div>
+
+    <div class="news-commentary">
+      ${n.commentary ?? ""}
+    </div>
+
     ${
       imageFile
         ? `<div class="news-karuta-image">
