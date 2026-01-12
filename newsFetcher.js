@@ -21,8 +21,7 @@ const FEEDS = [
 ];
 
 export async function fetchExternalNews() {
-  console.log("[newsFetcher] fetchExternalNews called");
-
+  
   try {
     for (const feed of FEEDS) {
       // CORS回避：allorigins の get を使う
