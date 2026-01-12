@@ -1,23 +1,38 @@
 // akindoNews.js
-import { akindoNewsData } from "./newsData.js";
+import { akindoNews } from "./newsData.js";
 import { questions } from "./questions.js";
 
 let current = 0;
 
+// ==============================
+// ニュース一覧取得（日付降順）
+// ==============================
+function getNewsList() {
+  return Object.values(akindoNews)
+    .sort((a, b) => b.date.localeCompare(a.date));
+}
+
+// ==============================
+// カルタ本文取得
+// ==============================
 function getKarutaPhrase(karutaId) {
   const q = questions.find(q => q.id === karutaId);
   return q ? q.fullPhrase : "";
 }
 
+// ==============================
+// 描画
+// ==============================
 function render(content) {
+  const list = getNewsList();
+  const n = list[current];
+  if (!n) return;
+
   // --- notice：1本目のみ表示 ---
   const notice = document.getElementById("newsNotice");
   if (notice) {
     notice.hidden = (current !== 0);
   }
-
-  // --- 表示するニュース ---
-  const n = akindoNewsData[current];
 
   // --- 対応するカルタ取得 ---
   const q = questions.find(q => q.id === n.karutaId);
@@ -72,7 +87,9 @@ function render(content) {
   `;
 }
 
-
+// ==============================
+// 公開関数
+// ==============================
 export function showAkindoNews() {
   const content = document.getElementById("newsContent");
   const nextBtn = document.getElementById("nextNewsBtn");
@@ -83,7 +100,8 @@ export function showAkindoNews() {
   render(content);
 
   nextBtn.onclick = () => {
-    current = (current + 1) % akindoNewsData.length;
+    const list = getNewsList();
+    current = (current + 1) % list.length;
     render(content);
   };
 }
