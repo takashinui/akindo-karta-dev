@@ -1,8 +1,9 @@
 // newsFetcher.js
 import { akindoNews } from "./newsData.js";
-console.log("[newsFetcher] file loaded");
+/* DEBUG CODE */ console.log("[newsFetcher] file loaded");
 
 export async function fetchExternalNews() {
+/* DEBUG CODE */ console.log("[newsFetcher] fetchExternalNews called");
   try {
     const res = await fetch(
       "https://api.rss2json.com/v1/api.json?rss_url=https://www.reuters.com/rssFeed/worldNews"
