@@ -1,5 +1,6 @@
 // newsFetcher.js
 import { akindoNews } from "./newsData.js";
+console.log("[newsFetcher] file loaded");
 
 export async function fetchExternalNews() {
   try {
