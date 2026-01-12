@@ -1,6 +1,7 @@
 // main.js
 import { questions } from "./questions.js";
 import { showAkindoNews } from "./akindoNews.js";
+import { akindoNews } from "./newsData.js";
 
 // ==============================
 //  かな → ファイル名
@@ -304,6 +305,12 @@ function showDailyDetail(q) {
 // ==============================
 //  ニュース
 // ==============================
+
+function getNewsList() {
+  return Object.values(akindoNews)
+    .sort((a, b) => b.date.localeCompare(a.date));
+}
+
 function showNews() {
   hideIfExists("menuView");
   hideIfExists("gameView");
