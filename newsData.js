@@ -8,7 +8,7 @@ export const akindoNews = {
     commentary:"商いの目で見ると、遠くの政治より足元の判断が問われる場面とも言える。",
       karutaId: "q20"
     status: "published"
-  }
+  },
   "2026-01-10-01": {
     id: "2026-01-10-01",
     date: "2026-01-10",
