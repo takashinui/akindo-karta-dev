@@ -47,7 +47,9 @@ export async function fetchExternalNews() {
         const title =
           item.querySelector("title")?.textContent?.trim() ?? "";
         const link =
-          item.querySelector("link")?.textContent?.trim() ?? "";
+           item.querySelector("link")?.textContent?.trim() ||
+           item.querySelector("link")?.getAttribute("href") ||
+          "";
         const pubDate =
           item.querySelector("pubDate")?.textContent?.trim() ||
           item.querySelector("dc\\:date")?.textContent?.trim() ||
@@ -55,7 +57,7 @@ export async function fetchExternalNews() {
 
         if (!title || !link || !pubDate) return;
 
-        const date = pubDate.slice(0, 10);
+        const date = pubDate ? pubDate.slice(0, 10) : new Date().toISOString().slice(0, 10);
         const id = `${feed.source}-${date}-rss-${i}`;
 
         mapped[id] = {
