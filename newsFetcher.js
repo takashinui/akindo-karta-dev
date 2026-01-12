@@ -18,9 +18,9 @@ export async function fetchExternalNews() {
 
   try {
     for (const feed of FEEDS) {
-      // CORS回避のため allorigins 経由
+      // CORS回避：allorigins の get を使う
       const proxyUrl =
-        "https://api.allorigins.win/raw?url=" +
+        "https://api.allorigins.win/get?url=" +
         encodeURIComponent(feed.url);
 
       const res = await fetch(proxyUrl);
@@ -33,13 +33,16 @@ export async function fetchExternalNews() {
         continue;
       }
 
-      const text = await res.text();
-      const xml = new DOMParser().parseFromString(text, "text/xml");
+      const data = await res.json();
+      const xmlText = data.contents;
+      if (!xmlText) continue;
+
+      const xml = new DOMParser().parseFromString(xmlText, "text/xml");
       const items = Array.from(xml.querySelectorAll("item"));
 
       const mapped = {};
 
-      // ひとまず各媒体5本まで
+      // 各媒体5本まで
       items.slice(0, 5).forEach((item, i) => {
         const title =
           item.querySelector("title")?.textContent?.trim() ?? "";
@@ -50,7 +53,6 @@ export async function fetchExternalNews() {
 
         if (!title || !link || !pubDate) return;
 
-        // 日付は雑でOK（後で整える）
         const date = pubDate.slice(0, 10);
         const id = `${feed.source}-${date}-rss-${i}`;
 
@@ -60,7 +62,7 @@ export async function fetchExternalNews() {
           source: feed.source,
           sourceURL: link,
           headline: title,
-          summary: "",        // 外部要約は使わない（憲法）
+          summary: "",        // 外部要約は表示しない
           commentary: "",     // 自前生成は後工程
           karutaId: "q20",    // 仮置き
           status: "published"
