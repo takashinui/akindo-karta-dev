@@ -9,6 +9,7 @@ export const akindoNews = {
       karutaId: "q20"
     status: "published"
   },
+
   "2026-01-10-01": {
     id: "2026-01-10-01",
     date: "2026-01-10",
