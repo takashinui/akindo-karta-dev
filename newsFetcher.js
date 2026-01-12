@@ -6,7 +6,8 @@ export async function fetchExternalNews() {
 /* DEBUG CODE */ console.log("[newsFetcher] fetchExternalNews called");
   try {
     const res = await fetch(
-      "https://api.rss2json.com/v1/api.json?rss_url=https://www.reuters.com/rssFeed/worldNews"
+      "https://api.rss2json.com/v1/api.json?rss_url=http://feeds.bbci.co.uk/news/world/rss.xml"
+
     );
 
     if (!res.ok) {
