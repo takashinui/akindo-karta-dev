@@ -1,6 +1,7 @@
 // akindoNews.js
 import { akindoNews } from "./newsData.js";
 import { questions } from "./questions.js";
+import { fetchExternalNews } from "./newsFetcher.js";
 
 let current = 0;
 let wired = false;
@@ -78,7 +79,7 @@ function render() {
 
 // 公開関数
 export function showAkindoNews() {
-  +  fetchExternalNews();
+ fetchExternalNews();
   const nextBtn = document.getElementById("nextNewsBtn");
   if (!nextBtn) return;
 
