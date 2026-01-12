@@ -93,17 +93,6 @@ export function showAkindoNews() {
       render();
     });
   }
-async function fetchExternalNews() {
-  try {
-    const res = await fetch("./news.json");
-    if (!res.ok) return;
-
-    const data = await res.json();
-    Object.assign(akindoNews, data);
-  } catch (e) {
-    // 失敗時は何もしない（既存ニュースで表示）
-  }
-}
   
   // ニュース画面を開いたら必ず1本目から
   current = 0;
