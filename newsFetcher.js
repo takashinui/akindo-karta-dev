@@ -49,7 +49,9 @@ export async function fetchExternalNews() {
         const link =
           item.querySelector("link")?.textContent?.trim() ?? "";
         const pubDate =
-          item.querySelector("pubDate")?.textContent?.trim() ?? "";
+          item.querySelector("pubDate")?.textContent?.trim() ||
+          item.querySelector("dc\\:date")?.textContent?.trim() ||
+          "";
 
         if (!title || !link || !pubDate) return;
 
