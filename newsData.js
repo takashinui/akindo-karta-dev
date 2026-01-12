@@ -18,7 +18,7 @@ export const akindoNews = {
     headline: "原油相場、供給懸念で小幅高",
     summary: "中東情勢への警戒感から原油先物が小幅に上昇した。",
     commentary: "値が動く理由より、動き続ける前提で備えるのが商い。",
-    karutaId: "q05",
+    karutaId: "q5",
     status: "published"
   }
 };
