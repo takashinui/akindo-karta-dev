@@ -317,8 +317,6 @@ function showNews() {
 
   showAkindoNews();
 
-  document.getElementById("nextNewsBtn")
-    ?.addEventListener("click", showNextNews);
 }
 
 
