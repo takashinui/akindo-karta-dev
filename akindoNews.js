@@ -92,8 +92,8 @@ function render() {
 }
 
 // 公開関数
-export function showAkindoNews() {
- fetchExternalNews();
+export async function showAkindoNews() {
+ await fetchExternalNews();
   const nextBtn = document.getElementById("nextNewsBtn");
   if (!nextBtn) return;
 
