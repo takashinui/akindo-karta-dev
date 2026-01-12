@@ -306,11 +306,6 @@ function showDailyDetail(q) {
 //  ニュース
 // ==============================
 
-function getNewsList() {
-  return Object.values(akindoNews)
-    .sort((a, b) => b.date.localeCompare(a.date));
-}
-
 function showNews() {
   hideIfExists("menuView");
   hideIfExists("gameView");
@@ -321,7 +316,11 @@ function showNews() {
   if (news) news.hidden = false;
 
   showAkindoNews();
+
+  document.getElementById("nextNewsBtn")
+    ?.addEventListener("click", showNextNews);
 }
+
 
 // ==============================
 //  相談室
