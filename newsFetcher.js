@@ -55,8 +55,7 @@ export async function fetchExternalNews() {
           item.querySelector("dc\\:date")?.textContent?.trim() ||
           "";
 
-        if (!title || !link || !pubDate) return;
-
+        if (!title || !link) return;
         const date = pubDate ? pubDate.slice(0, 10) : new Date().toISOString().slice(0, 10);
         const id = `${feed.source}-${date}-rss-${i}`;
 
