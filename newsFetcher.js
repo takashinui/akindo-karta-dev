@@ -1,5 +1,12 @@
 // newsFetcher.js
 import { akindoNews } from "./newsData.js";
+function randomKarutaId() {
+  const ids = [
+    "q1","q2","q3","q4","q5","q6","q7","q8","q9","q10",
+    "q11","q12","q13","q14","q15","q16","q17","q18","q19","q20"
+  ];
+  return ids[Math.floor(Math.random() * ids.length)];
+}
 
 // 取得するRSS（NHK 経済 / CNN 国際）
 const FEEDS = [
@@ -67,7 +74,7 @@ export async function fetchExternalNews() {
           headline: title,
           summary: "",        // 外部要約は表示しない
           commentary: "",     // 自前生成は後工程
-          karutaId: "q20",    // 仮置き
+          karutaId: randomKarutaId(),//ランダムは仮置き
           status: "published"
         };
       });
