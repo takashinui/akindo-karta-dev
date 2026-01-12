@@ -65,9 +65,12 @@ function render() {
   content.innerHTML = `
     <div class="news-headline">${n.headline ?? ""}</div>
 
-    <div class="news-source">
-      出典：${n.source ?? ""}
-    </div>
+  <div class="news-source">
+  出典：
+  <a href="${n.sourceURL ?? "#"}" target="_blank" rel="noopener noreferrer">
+    ${n.source ?? ""}
+  </a>
+</div>
 
     <div class="news-summary">
       ${n.summary ?? ""}
