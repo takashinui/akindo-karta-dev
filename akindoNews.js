@@ -20,10 +20,24 @@ const kanaMap = {
   "わ": "wa.jpg", "を": "wo.jpg", "ん": "n.jpg"
 };
 
-// ニュース一覧（表示順はキー順のまま）
+// ニュース一覧（NHK3本、CNN2本）
 function getNewsList() {
-  return Object.values(akindoNews);
+  const all = Object.values(akindoNews);
+
+  const nhk = all
+    .filter(n => n.source === "NHK")
+    .sort((a, b) => b.date.localeCompare(a.date))
+    .slice(0, 3);
+
+  const cnn = all
+    .filter(n => n.source === "CNN")
+    .sort((a, b) => b.date.localeCompare(a.date))
+    .slice(0, 2);
+
+  return [...nhk, ...cnn]
+    .sort((a, b) => b.date.localeCompare(a.date));
 }
+
 
 // 描画
 function render() {
