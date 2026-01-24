@@ -2,6 +2,8 @@ name: Fetch News (test)
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"   # 3時間おき
 
 permissions:
   contents: write
@@ -13,7 +15,6 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
@@ -21,15 +22,19 @@ jobs:
         with:
           node-version: 20
 
-      # ① 依存関係をインストール（★必須）
-      - name: Install dependencies
-        run: npm install
+      # ① 実行開始時点での最新 main を取得
+      - name: Sync with remote (start)
+        run: git pull --rebase
 
       # ② ニュース取得・生成
       - name: Run fetchNews
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/fetchNews.js
+
+      # ★ 解決策A：push直前にもう一度 main と同期
+      - name: Sync with remote (before push)
+        run: git pull --rebase
 
       # ③ 変更があれば commit & push
       - name: Commit public/news.json if changed
