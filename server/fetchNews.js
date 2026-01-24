@@ -9,7 +9,7 @@ async function fetchNHK() {
 
   const xml = await res.text();
 
-  // 超簡易パース（NHK RSS専用）
+  // NHK RSS 専用の簡易パース
   const items = xml.split("<item>").slice(1, 4);
 
   const news = {};
@@ -24,7 +24,10 @@ async function fetchNHK() {
 
     if (!title || !link) return;
 
-    const date = pubDate.slice(0, 10);
+    const date = pubDate
+      ? pubDate.slice(0, 10)
+      : new Date().toISOString().slice(0, 10);
+
     const id = `NHK-${date}-${i}`;
 
     news[id] = {
