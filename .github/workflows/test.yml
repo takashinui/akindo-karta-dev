@@ -23,18 +23,19 @@ jobs:
         with:
           node-version: 20
 
-      # ★ 依存関係をインストール（server/package.json を使う）
+      # server/package.json の依存をインストール
       - name: Install dependencies
         working-directory: server
         run: npm install
 
-      # ニュース生成
+      # ★ server を起点に fetchNews.js を実行
       - name: Run fetchNews
+        working-directory: server
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: node scripts/fetchNews.js
+        run: node ../scripts/fetchNews.js
 
-      # 変更があれば commit & push（main）
+      # 変更があれば commit & push
       - name: Commit public/news.json if changed
         run: |
           git config user.name "github-actions"
