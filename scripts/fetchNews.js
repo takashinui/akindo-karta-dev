@@ -145,14 +145,32 @@ ${karta.explanation}
  * ================================
  */
 async function main() {
-  const nhkXML = await fetchRSS(NHK_RSS);
-  const cnnXML = await fetchRSS(CNN_RSS);
+  const newsList = [];
 
-  const newsList = [
-    ...parseRSS(nhkXML, 2).map((n) => ({ ...n, source: "NHK" })),
-    ...parseRSS(cnnXML, 2).map((n) => ({ ...n, source: "CNN" })),
-  ];
+  // NHK
+  try {
+    const nhkXML = await fetchRSS(NHK_RSS);
+    newsList.push(
+      ...parseRSS(nhkXML, 2).map((n) => ({ ...n, source: "NHK" }))
+    );
+  } catch (e) {
+    console.error("NHK fetch failed:", e.message);
+  }
 
+  // CNN
+  try {
+    const cnnXML = await fetchRSS(CNN_RSS);
+    newsList.push(
+      ...parseRSS(cnnXML, 2).map((n) => ({ ...n, source: "CNN" }))
+    );
+  } catch (e) {
+    console.error("CNN fetch failed:", e.message);
+  }
+
+  if (newsList.length === 0) {
+    console.error("No news fetched. Abort.");
+    return;
+  }
   const items = [];
 
   for (const news of newsList) {
