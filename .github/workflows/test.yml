@@ -13,6 +13,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -20,9 +21,9 @@ jobs:
         with:
           node-version: 20
 
-      # ① 先にリモートと同期
-      - name: Sync with remote
-        run: git pull --rebase
+      # ① 依存関係をインストール（★必須）
+      - name: Install dependencies
+        run: npm install
 
       # ② ニュース取得・生成
       - name: Run fetchNews
