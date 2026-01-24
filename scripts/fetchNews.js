@@ -8,6 +8,32 @@ if (!OPENAI_API_KEY) {
   throw new Error("OPENAI_API_KEY is not set");
 }
 
+/*
+============================================================
+System role (Constitution)
+
+【日本語注釈】
+あなたはプロフェッショナルなニュース編集者である。
+冷静で分析的かつ中立的なトーンを維持すること。
+与えられた情報を超えた推測は行わないこと。
+出力は厳密に正しい JSON のみとすること。
+
+※ 日本語は人間向け注釈。
+※ 実際に model に渡すのは英語部分のみ。
+============================================================
+*/
+const SYSTEM_ROLE = `
+You are a professional news editor.
+Maintain a calm, analytical, and neutral tone.
+Do not speculate beyond the given information.
+Output strictly valid JSON only.
+`;
+
+/*
+============================================================
+Utility functions
+============================================================
+*/
 function extractTag(block, tag) {
   return (
     block.match(new RegExp(`<${tag}><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>`))?.[1] ||
@@ -27,7 +53,29 @@ function extractItems(xml, limit = 1) {
   }));
 }
 
+/*
+============================================================
+OpenAI call
+============================================================
+*/
 async function callOpenAI(title, body) {
+  const userPrompt = `
+以下のニュースについて、日本語で summary と commentary を作成してください。
+必ず次の JSON 形式のみで出力してください。
+余分な文章や説明は一切書かないでください。
+
+{
+  "summary": "要約（3〜5行。事実関係を簡潔に整理）",
+  "commentary": "背景や意味づけの解説（短く）"
+}
+
+【ニュースタイトル】
+${title}
+
+【本文】
+${body}
+`.trim();
+
   const res = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
     headers: {
@@ -39,26 +87,11 @@ async function callOpenAI(title, body) {
       messages: [
         {
           role: "system",
-          content:
-            "You are a professional news editor. Output strictly valid JSON only."
+          content: SYSTEM_ROLE
         },
         {
           role: "user",
-          content:
-`以下のニュースについて、日本語で summary と commentary を作成してください。
-必ず次のJSON形式のみで出力してください。
-余分な文章や説明は一切書かないでください。
-
-{
-  "summary": "要約（3〜5行）",
-  "commentary": "背景や意味づけの解説（短く）"
-}
-
-【ニュースタイトル】
-${title}
-
-【本文】
-${body}`
+          content: userPrompt
         }
       ],
       temperature: 0.3
@@ -72,10 +105,15 @@ ${body}`
   const json = await res.json();
   const content = json.choices[0].message.content;
 
-  // JSONとして解釈（失敗したら例外）
+  // JSON厳守（ここで壊れたら即落とす）
   return JSON.parse(content);
 }
 
+/*
+============================================================
+Main
+============================================================
+*/
 async function main() {
   const res = await fetch(RSS_URL);
   const xml = await res.text();
