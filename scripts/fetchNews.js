@@ -8,27 +8,24 @@ if (!OPENAI_API_KEY) {
   throw new Error("OPENAI_API_KEY is not set");
 }
 
+function extractTag(block, tag) {
+  return (
+    block.match(new RegExp(`<${tag}><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>`))?.[1] ||
+    block.match(new RegExp(`<${tag}>([\\s\\S]*?)</${tag}>`))?.[1] ||
+    ""
+  ).trim();
+}
+
 function extractItems(xml, limit = 1) {
-  const items = [];
   const blocks = xml.match(/<item>[\s\S]*?<\/item>/g) || [];
 
-  for (const block of blocks.slice(0, limit)) {
-    const title =
-      (block.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/)?.[1] ??
-      block.match(/<title>([\s\S]*?)<\/title>/)?.[1] ??
-      "";
-
-    const description =
-      (block.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/)?.[1] ??
-      block.match(/<description>([\s\S]*?)<\/description>/)?.[1] ??
-      "";
-
-    items.push({
-      title: title.trim(),
-      body: description.trim()
-    });
-  }
-  return items;
+  return blocks.slice(0, limit).map((block, i) => ({
+    id: `nhk-${i + 1}`,
+    title: extractTag(block, "title"),
+    body: extractTag(block, "description"),
+    summary: "",
+    commentary: ""
+  }));
 }
 
 async function callOpenAI(text) {
@@ -41,14 +38,8 @@ async function callOpenAI(text) {
     body: JSON.stringify({
       model: "gpt-4.1-mini",
       messages: [
-        {
-          role: "system",
-          content: "You summarize news briefly and add a short commentary."
-        },
-        {
-          role: "user",
-          content: text
-        }
+        { role: "system", content: "You summarize news briefly and add a short commentary." },
+        { role: "user", content: text }
       ],
       temperature: 0.3
     })
@@ -65,31 +56,33 @@ async function callOpenAI(text) {
 async function main() {
   const res = await fetch(RSS_URL);
   const xml = await res.text();
+
   const items = extractItems(xml, 1);
 
   const aiText = await callOpenAI(
     `以下のニュースを要約し、その後に一言解説を付けてください。\n\n${items[0].title}\n${items[0].body}`
   );
 
-  const payload = {
-    updated: new Date().toISOString(),
-    items: [
-      {
-        id: "nhk-1",
-        title: items[0].title,
-        summary: aiText,
-        commentary: ""
-      }
-    ]
-  };
+  items[0].summary = aiText;
 
   fs.mkdirSync("public", { recursive: true });
-  fs.writeFileSync(OUT_PATH, JSON.stringify(payload, null, 2), "utf-8");
+  fs.writeFileSync(
+    OUT_PATH,
+    JSON.stringify(
+      {
+        updated: new Date().toISOString(),
+        items
+      },
+      null,
+      2
+    ),
+    "utf-8"
+  );
 
   console.log("AI summary generated");
 }
 
-main().catch(e => {
+main().catch((e) => {
   console.error(e);
   process.exit(1);
 });
