@@ -1,41 +1,30 @@
 import fs from "fs";
-import fetch from "node-fetch";
-import { DOMParser } from "xmldom";
 
 const outputPath = "../news.json";
-
-// 取得するRSS（まずは1本だけ）
-const RSS = {
-  source: "NHK",
-  url: "https://www3.nhk.or.jp/rss/news/cat5.xml"
-};
+const RSS_URL = "https://www3.nhk.or.jp/rss/news/cat5.xml";
 
 async function fetchNHK() {
-  const res = await fetch(RSS.url);
-  if (!res.ok) {
-    throw new Error(`fetch failed: ${res.status}`);
-  }
+  const res = await fetch(RSS_URL);
+  if (!res.ok) throw new Error(`fetch failed: ${res.status}`);
 
-  const xmlText = await res.text();
-  const xml = new DOMParser().parseFromString(xmlText, "text/xml");
-  const items = Array.from(xml.getElementsByTagName("item"));
+  const xml = await res.text();
+
+  // 超簡易パース（NHK RSS専用）
+  const items = xml.split("<item>").slice(1, 4);
 
   const news = {};
 
-  items.slice(0, 3).forEach((item, i) => {
-    const title =
-      item.getElementsByTagName("title")[0]?.textContent ?? "";
-    const link =
-      item.getElementsByTagName("link")[0]?.textContent ?? "";
-    const pubDate =
-      item.getElementsByTagName("pubDate")[0]?.textContent ?? "";
+  items.forEach((block, i) => {
+    const get = tag =>
+      block.split(`<${tag}>`)[1]?.split(`</${tag}>`)[0] ?? "";
+
+    const title = get("title");
+    const link = get("link");
+    const pubDate = get("pubDate");
 
     if (!title || !link) return;
 
-    const date = pubDate
-      ? pubDate.slice(0, 10)
-      : new Date().toISOString().slice(0, 10);
-
+    const date = pubDate.slice(0, 10);
     const id = `NHK-${date}-${i}`;
 
     news[id] = {
@@ -54,18 +43,12 @@ async function fetchNHK() {
   return news;
 }
 
-(async () => {
-  try {
-    const nhkNews = await fetchNHK();
+const news = await fetchNHK();
 
-    fs.writeFileSync(
-      outputPath,
-      JSON.stringify(nhkNews, null, 2),
-      "utf-8"
-    );
+fs.writeFileSync(
+  outputPath,
+  JSON.stringify(news, null, 2),
+  "utf-8"
+);
 
-    console.log("news.json generated (NHK)");
-  } catch (e) {
-    console.error(e);
-  }
-})();
+console.log("news.json generated (NHK)");
