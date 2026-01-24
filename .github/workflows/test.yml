@@ -7,4 +7,9 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "GitHub Actions is working"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: node -v
+
