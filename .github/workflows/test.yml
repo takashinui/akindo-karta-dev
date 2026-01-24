@@ -3,8 +3,7 @@ name: Fetch News
 on:
   workflow_dispatch:
   schedule:
-    # 毎日 02:00, 05:00, 08:00, 11:00, 14:00, 17:00, 20:00, 23:00（JST）
-    # GitHub Actions は UTC なので 17:00 = JST 02:00
+    # JST 02:00 起点・3時間おき（UTC換算）
     - cron: "0 17,20,23,2,5,8,11,14 * * *"
 
 permissions:
@@ -18,32 +17,33 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v4
-        with:
-          ref: main
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      # ★ 依存関係をインストール（server/package.json を使う）
+      - name: Install dependencies
+        working-directory: server
+        run: npm install
+
+      # ニュース生成
       - name: Run fetchNews
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/fetchNews.js
 
-      - name: Commit news.json to bot branch
+      # 変更があれば commit & push（main）
+      - name: Commit public/news.json if changed
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git checkout -B news-bot
           git add public/news.json
-
           if git diff --cached --quiet; then
             echo "No changes"
           else
             git commit -m "update news.json"
-            git push -f origin news-bot
+            git push
           fi
