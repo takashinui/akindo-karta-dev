@@ -1,10 +1,9 @@
 // akindoNews.js
-import { akindoNews } from "./newsData.js";
 import { questions } from "./questions.js";
-import { fetchExternalNews } from "./newsFetcher.js";
 
 let current = 0;
 let wired = false;
+let newsItems = [];
 
 // かな → 画像ファイル対応
 const kanaMap = {
@@ -20,57 +19,48 @@ const kanaMap = {
   "わ": "wa.jpg", "を": "wo.jpg", "ん": "n.jpg"
 };
 
-// ニュース一覧（NHK3本、CNN2本）
-function getNewsList() {
-  const all = Object.values(akindoNews);
-
-  const nhk = all
-    .filter(n => n.source === "NHK")
-    .sort((a, b) => b.date.localeCompare(a.date))
-    .slice(0, 3);
-
-  const cnn = all
-    .filter(n => n.source === "CNN")
-    .sort((a, b) => b.date.localeCompare(a.date))
-    .slice(0, 2);
-
-  return [...nhk, ...cnn]
-    .sort((a, b) => b.date.localeCompare(a.date));
+// public/news.json を取得
+async function loadNews() {
+  try {
+    const res = await fetch("./public/news.json");
+    if (!res.ok) return [];
+    const data = await res.json();
+    return Array.isArray(data.items) ? data.items : [];
+  } catch (e) {
+    console.error("failed to load news.json", e);
+    return [];
+  }
 }
-
 
 // 描画
 function render() {
   const content = document.getElementById("newsContent");
   if (!content) return;
-
-  const list = getNewsList();
-  if (list.length === 0) return;
+  if (newsItems.length === 0) {
+    content.innerHTML = "<p>ニュースがありません</p>";
+    return;
+  }
 
   // 範囲外防止
-  current = ((current % list.length) + list.length) % list.length;
+  current = ((current % newsItems.length) + newsItems.length) % newsItems.length;
 
   // notice：1本目のみ表示
   const notice = document.getElementById("newsNotice");
   if (notice) notice.hidden = (current !== 0);
 
-  const n = list[current];
+  const n = newsItems[current];
 
-  // 対応するカルタ取得
-  const q = questions.find(q => q.id === n.karutaId);
-  const karuta = q ? q.fullPhrase : "";
-  const kana = q ? q.kana : null;
+  // カルタ情報（news.json から）
+  const kana = n.karta?.leadingKana ?? null;
+  const karuta = n.karta?.phrase ?? "";
   const imageFile = kana ? kanaMap[kana] : null;
 
   content.innerHTML = `
-    <div class="news-headline">${n.headline ?? ""}</div>
+    <div class="news-headline">${n.title ?? ""}</div>
 
-  <div class="news-source">
-  出典：
-  <a href="${n.sourceURL ?? "#"}" target="_blank" rel="noopener noreferrer">
-    ${n.source ?? ""}
-  </a>
-</div>
+    <div class="news-source">
+      出典：${n.source ?? ""}
+    </div>
 
     <div class="news-summary">
       ${n.summary ?? ""}
@@ -96,7 +86,8 @@ function render() {
 
 // 公開関数
 export async function showAkindoNews() {
- await fetchExternalNews();
+  newsItems = await loadNews();
+
   const nextBtn = document.getElementById("nextNewsBtn");
   if (!nextBtn) return;
 
@@ -104,13 +95,12 @@ export async function showAkindoNews() {
   if (!wired) {
     wired = true;
     nextBtn.addEventListener("click", () => {
-      const list = getNewsList();
-      if (list.length === 0) return;
-      current = (current + 1) % list.length;
+      if (newsItems.length === 0) return;
+      current = (current + 1) % newsItems.length;
       render();
     });
   }
-  
+
   // ニュース画面を開いたら必ず1本目から
   current = 0;
   render();
