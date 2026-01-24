@@ -1,10 +1,13 @@
-name: Test Action
+name: Fetch News (test)
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  test:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -14,3 +17,16 @@ jobs:
           node-version: 20
 
       - run: node scripts/fetchNews.js
+
+      - name: Commit public/news.json if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add public/news.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "update news.json"
+            git push
+          fi
+
