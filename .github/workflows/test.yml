@@ -16,7 +16,10 @@ jobs:
         with:
           node-version: 20
 
-      - run: node scripts/fetchNews.js
+      - name: Run fetchNews
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/fetchNews.js
 
       - name: Commit public/news.json if changed
         run: |
@@ -29,4 +32,3 @@ jobs:
             git commit -m "update news.json"
             git push
           fi
-
