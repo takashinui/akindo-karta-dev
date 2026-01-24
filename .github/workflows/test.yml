@@ -25,6 +25,9 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          git pull --rebase
+
           git add public/news.json
           if git diff --cached --quiet; then
             echo "No changes"
@@ -32,3 +35,4 @@ jobs:
             git commit -m "update news.json"
             git push
           fi
+
