@@ -5,9 +5,5 @@
   "type": "module",
   "scripts": {
     "fetch": "node fetchNews.js"
-  },
-  "dependencies": {
-    "node-fetch": "^3.3.2",
-    "xmldom": "^0.8.0"
   }
 }
