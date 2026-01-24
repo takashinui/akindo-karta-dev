@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
 import OpenAI from "openai";
-import karta from "./karta.json";
+import { questions } from "../questions.js";
 
 /**
  * ================================
@@ -27,8 +27,8 @@ const openai = new OpenAI({
  * ================================
  */
 function pickRandomKarta() {
-  const index = Math.floor(Math.random() * karta.length);
-  return karta[index];
+  const index = Math.floor(Math.random() * questions.length);
+  return questions[index];
 }
 
 async function fetchRSS(url) {
@@ -60,7 +60,7 @@ async function callOpenAI(messages) {
 
 /**
  * ================================
- * system role（共通憲法）
+ * system role（共通憲法）※FIX版：一字一句変更しない
  * ================================
  */
 const SYSTEM_PROMPT = `
@@ -102,7 +102,7 @@ ${news.body}
 
 /**
  * ================================
- * commentary 用 prompt（FIX済）
+ * commentary 用 prompt（あなたの現行版）
  * ================================
  */
 function buildCommentaryPrompt(news, karta) {
