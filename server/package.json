@@ -1,9 +1,12 @@
 {
-  "name": "akindo-news-server",
+  "name": "akindo-karta-server",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": {
-    "fetch": "node fetchNews.js"
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "openai": "^4.1.0"
   }
 }
