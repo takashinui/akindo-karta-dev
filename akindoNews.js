@@ -44,9 +44,9 @@ function render() {
   // 範囲外防止
   current = ((current % newsItems.length) + newsItems.length) % newsItems.length;
 
-  // notice：1本目のみ表示
-  const notice = document.getElementById("newsNotice");
-  if (notice) notice.hidden = (current !== 0);
+  // disclaimer：1本目のみ表示
+  const disclaimer = document.getElementById("newsDisclaimer");
+  if (disclaimer) disclaimer.hidden = (current !== 0);
 
   const n = newsItems[current];
 
