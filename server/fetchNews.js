@@ -45,9 +45,10 @@ async function fetchRSS(url) {
 }
 
 
-function parseRSS(xml, limit = 5) {
+function parseRSS(xml, limit = 5, label = "") {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)];
-  console.log("NIKKEI item count:", items.length);
+  console.log(label, "item count:", items.length);
+
   return items.slice(0, limit).map((item) => {
     const block = item[1];
     const title =
@@ -187,14 +188,17 @@ async function main() {
 try {
   const xml = await fetchRSS(NIKKEI_RSS);
   console.log("NIKKEI items:", [...xml.matchAll(/<item>/g)].length);
-  buckets.nikkei = parseRSS(xml, 5).map(n => ({ ...n, source: "NIKKEI" }));
+  buckets.nikkei = parseRSS(xml, 5, "NIKKEI")
+  .map(n => ({ ...n, source: "NIKKEI" }));
+
 } catch (e) {
   console.error("NIKKEI ERROR", e.message);
 }
 
   try {
     const xml = await fetchRSS(NHK_RSS);
-    buckets.nhk = parseRSS(xml, 3).map(n => ({ ...n, source: "NHK" }));
+    buckets.nhk = parseRSS(xml, 3, "NHK")
+  .map(n => ({ ...n, source: "NHK" }));
   } catch (e)  {
      console.error("NHK ERROR", e);
   }
@@ -202,7 +206,9 @@ try {
 
   try {
     const xml = await fetchRSS(LNEWS_RSS);
-    buckets.lnews = parseRSS(xml, 3).map(n => ({ ...n, source: "LNEWS" }));
+    buckets.lnews = parseRSS(xml, 3, "LNEWS")
+  .map(n => ({ ...n, source: "LNEWS" }));
+
   } catch (e)  {
      console.error("LNEWS ERROR", e);
   }
@@ -210,7 +216,8 @@ try {
   try {
     const xml = await fetchRSS(CNN_RSS);
     console.log("=== CNN RSS length ===", xml.length);
-    buckets.cnn = parseRSS(xml, 2).map(n => ({ ...n, source: "CNN" }));
+    buckets.cnn = parseRSS(xml, 2, "CNN")
+  .map(n => ({ ...n, source: "CNN" }));
     console.log("=== CNN parseRSS(1) ===", parseRSS(xml, 1));
   } catch (e)  {
      console.error("CNN ERROR", e);
