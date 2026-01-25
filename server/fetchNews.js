@@ -9,7 +9,7 @@ import { questions } from "../questions.js";
  * ================================
  */
 const NIKKEI_RSS = "https://www.nikkei.com/rss/news.xml";
-const REUTERS_RSS = "https://feeds.reuters.com/reuters/topNews";
+const REUTERS_RSS = "https://www.reuters.com/business/rss";
 const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml"; // 経済
 const LNEWS_RSS = "https://www.lnews.jp/feed";
 const CNN_RSS = "https://rss.cnn.com/rss/money_latest.rss";
@@ -45,19 +45,14 @@ function parseRSS(xml, limit = 5) {
   console.log("NIKKEI item count:", items.length);
   return items.slice(0, limit).map((item) => {
     const block = item[1];
-
     const title =
       block.match(/<title>(.*?)<\/title>/)?.[1] ?? "";
-
     const body =
       block.match(/<description>([\s\S]*?)<\/description>/)?.[1] ?? "";
-
     const guidLink =
       block.match(/<guid[^>]*>(.*?)<\/guid>/)?.[1] ?? "";
-
     const link =
       block.match(/<link>(.*?)<\/link>/)?.[1] ?? "";
-
     return {
       title,
       body,
@@ -184,15 +179,13 @@ async function main() {
     cnn: [],
   };
 
-  try {
-    const xml = await fetchRSS(NIKKEI_RSS);
-      console.log("=== NIKKEI raw length ===", xml.length);
-  console.log("=== NIKKEI parse test ===");
-  console.log(parseRSS(xml, 1));
-    buckets.nikkei = parseRSS(xml, 5).map(n => ({ ...n, source: "NIKKEI" }));
-  } catch (e) {
-     console.error("NIKKEI ERROR", e);
-  }
+try {
+  const xml = await fetchRSS(NIKKEI_RSS);
+  console.log("NIKKEI items:", [...xml.matchAll(/<item>/g)].length);
+  buckets.nikkei = parseRSS(xml, 5).map(n => ({ ...n, source: "NIKKEI" }));
+} catch (e) {
+  console.error("NIKKEI ERROR", e.message);
+}
 
   try {
     const xml = await fetchRSS(NHK_RSS);
