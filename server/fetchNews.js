@@ -9,7 +9,6 @@ import { questions } from "../questions.js";
  * ================================
  */
 const NIKKEI_RSS = "https://www.nikkei.com/rss/news.xml";
-const REUTERS_RSS = "https://www.reuters.com/business/rss";
 const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml"; // 経済
 const LNEWS_RSS = "https://www.lnews.jp/feed";
 const CNN_RSS = "https://rss.cnn.com/rss/money_latest.rss";
@@ -35,10 +34,16 @@ function pickRandomKarta() {
 }
 
 async function fetchRSS(url) {
-  const res = await fetch(url);
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (NewsFetcher/1.0)",
+      "Accept": "application/rss+xml, application/xml, text/xml"
+    }
+  });
   if (!res.ok) throw new Error(`RSS fetch failed: ${res.status}`);
   return await res.text();
 }
+
 
 function parseRSS(xml, limit = 5) {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)];
@@ -194,14 +199,6 @@ try {
      console.error("NHK ERROR", e);
   }
 
-  try {
-    const xml = await fetchRSS(REUTERS_RSS);
-    console.log("=== REUTERS RSS length ===", xml.length);
-    buckets.reuters = parseRSS(xml, 3).map(n => ({ ...n, source: "REUTERS" }));
-    console.log("=== REUTERS parseRSS(1) ===", parseRSS(xml, 1));
-  } catch (e)  {
-     console.error("REUTERS ERROR", e);
-  }
 
   try {
     const xml = await fetchRSS(LNEWS_RSS);
