@@ -3,15 +3,10 @@ name: Fetch News
 on:
   workflow_dispatch:
   schedule:
-    # JST 02:00 起点・3時間おき（UTC換算）
     - cron: "0 17,20,23,2,5,8,11,14 * * *"
 
 permissions:
   contents: write
-
-concurrency:
-  group: fetch-news
-  cancel-in-progress: true
 
 jobs:
   fetch:
@@ -23,20 +18,17 @@ jobs:
         with:
           node-version: 20
 
-      # server/package.json の依存をインストール
       - name: Install dependencies
         working-directory: server
         run: npm install
 
-      # ★ server を起点に fetchNews.js を実行
       - name: Run fetchNews
         working-directory: server
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: node ../scripts/fetchNews.js
+        run: node fetchNews.js
 
-      # 変更があれば commit & push
-      - name: Commit public/news.json if changed
+      - name: Commit news.json if changed
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
