@@ -42,6 +42,7 @@ async function fetchRSS(url) {
 
 function parseRSS(xml, limit = 5) {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)];
+  console.log("NIKKEI item count:", items.length);
   return items.slice(0, limit).map((item) => {
     const block = item[1];
 
@@ -185,6 +186,9 @@ async function main() {
 
   try {
     const xml = await fetchRSS(NIKKEI_RSS);
+      console.log("=== NIKKEI raw length ===", xml.length);
+  console.log("=== NIKKEI parse test ===");
+  console.log(parseRSS(xml, 1));
     buckets.nikkei = parseRSS(xml, 5).map(n => ({ ...n, source: "NIKKEI" }));
   } catch {}
 
