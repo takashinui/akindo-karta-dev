@@ -59,7 +59,12 @@ function render() {
     <div class="news-headline">${n.title ?? ""}</div>
 
     <div class="news-source">
-      出典：${n.source ?? ""}
+    掲載元：
+    <a href="${n.sourceURL ?? "#"}"
+    target="_blank"
+    rel="noopener noreferrer">
+    ${n.source ?? ""}
+    </a>
     </div>
 
     <div class="news-summary">
