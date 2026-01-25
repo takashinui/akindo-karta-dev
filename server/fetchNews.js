@@ -40,13 +40,28 @@ function parseRSS(xml, limit = 2) {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)];
   return items.slice(0, limit).map((item) => {
     const block = item[1];
+
+    const title =
+      block.match(/<title>(.*?)<\/title>/)?.[1] ?? "";
+
+    const body =
+      block.match(/<description>([\s\S]*?)<\/description>/)?.[1] ?? "";
+
+    // NHK対策：guid(permalink)を優先
+    const guidLink =
+      block.match(/<guid[^>]*>(.*?)<\/guid>/)?.[1] ?? "";
+
+    const link =
+      block.match(/<link>(.*?)<\/link>/)?.[1] ?? "";
+
     return {
-      title: block.match(/<title>(.*?)<\/title>/)?.[1] ?? "",
-      body: block.match(/<description>([\s\S]*?)<\/description>/)?.[1] ?? "",
-      sourceURL: block.match(/<link>(.*?)<\/link>/)?.[1] ?? ""
+      title,
+      body,
+      sourceURL: guidLink || link
     };
   });
 }
+
 
 
 async function callOpenAI(messages) {
