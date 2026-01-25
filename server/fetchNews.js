@@ -199,7 +199,9 @@ async function main() {
 
   try {
     const xml = await fetchRSS(REUTERS_RSS);
+    console.log("=== REUTERS RSS length ===", xml.length);
     buckets.reuters = parseRSS(xml, 3).map(n => ({ ...n, source: "REUTERS" }));
+    console.log("=== REUTERS parseRSS(1) ===", parseRSS(xml, 1));
   } catch {}
 
   try {
@@ -209,7 +211,9 @@ async function main() {
 
   try {
     const xml = await fetchRSS(CNN_RSS);
+    console.log("=== CNN RSS length ===", xml.length);
     buckets.cnn = parseRSS(xml, 2).map(n => ({ ...n, source: "CNN" }));
+    console.log("=== CNN parseRSS(1) ===", parseRSS(xml, 1));
   } catch {}
 
   // 媒体優先順で合成
