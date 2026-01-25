@@ -196,6 +196,7 @@ async function main() {
       source: news.source,
       title: news.title,
       summary,
+      sourceURL: news.sourceURL,
       karta: {
         leadingKana: selectedKarta.leadingKana,
         phrase: selectedKarta.fullPhrase,
