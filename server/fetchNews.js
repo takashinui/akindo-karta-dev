@@ -8,8 +8,12 @@ import { questions } from "../questions.js";
  * 設定
  * ================================
  */
-const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml";
+const NIKKEI_RSS = "https://www.nikkei.com/rss/news.xml";
+const REUTERS_RSS = "https://feeds.reuters.com/reuters/topNews";
+const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml"; // 経済
+const LNEWS_RSS = "https://www.lnews.jp/feed";
 const CNN_RSS = "https://rss.cnn.com/rss/money_latest.rss";
+
 const OUTPUT_PATH = path.resolve("../public/news.json");
 
 if (!process.env.OPENAI_API_KEY) {
@@ -36,7 +40,7 @@ async function fetchRSS(url) {
   return await res.text();
 }
 
-function parseRSS(xml, limit = 2) {
+function parseRSS(xml, limit = 5) {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)];
   return items.slice(0, limit).map((item) => {
     const block = item[1];
@@ -47,7 +51,6 @@ function parseRSS(xml, limit = 2) {
     const body =
       block.match(/<description>([\s\S]*?)<\/description>/)?.[1] ?? "";
 
-    // NHK対策：guid(permalink)を優先
     const guidLink =
       block.match(/<guid[^>]*>(.*?)<\/guid>/)?.[1] ?? "";
 
@@ -57,13 +60,36 @@ function parseRSS(xml, limit = 2) {
     return {
       title,
       body,
-      sourceURL: guidLink || link
+      sourceURL: guidLink || link,
     };
   });
 }
 
+/**
+ * ================================
+ * 重複排除
+ * ================================
+ */
+function normalizeURL(url) {
+  return url
+    ?.replace(/^https?:\/\//, "")
+    .replace(/\/$/, "")
+    .toLowerCase();
+}
 
+function normalizeTitle(title) {
+  return title
+    .toLowerCase()
+    .replace(/[0-9]/g, "")
+    .replace(/[^\p{L}\p{N}]/gu, "")
+    .slice(0, 30);
+}
 
+/**
+ * ================================
+ * OpenAI
+ * ================================
+ */
 async function callOpenAI(messages) {
   const res = await openai.chat.completions.create({
     model: "gpt-4.1-mini",
@@ -127,18 +153,11 @@ function buildCommentaryPrompt(news, karta) {
 【一般的事項】
 個別の企業・人物・組織に対する批判や非難は行わず、 政治的または宗教的な立場を表明しないでください。 出来事を評価・断定せず、構造や環境を落ち着いて示してください。
 
-【あきんどカルタの精神】
-あきんどカルタという行動規範・判断基準の精神を踏まえてください。
-あきんどカルタの精神とは、商売や仕事を単なる利益獲得の手段としてではなく、社会との関係性の中で営まれる営為として捉える姿勢にある。
-短期的な成果や派手な成功に一喜一憂するのではなく、日々の判断や行動の積み重ねが信頼を形づくるという前提に立ち、誠実さや持続性を重んじる。
-そこでは、他者を批判したり正解を断定したりすることよりも、現実の複雑さを受け止め、その中で自分はどう振る舞うべきかを問い続ける態度が大切にされる。
-うまくいかなかった出来事や困難な状況からも学びを引き出し、次の行動につなげる視点を持つことが求められる。
-あきんどカルタは、教訓を押し付けるものではなく、読む人それぞれが自分の立場や経験に引き寄せて考えるための「言葉のきっかけ」であり、仕事に向き合う心構えを静かに整えるための拠り所である。
-商売や仕事を社会との関係性の中で捉え、 信頼を積み重ねる姿勢を身につけた人物が 後進に語りかけるスタンスで書いてください。 前向きだが楽観せず、考える余白を残してください。
+【あきんどカルタの精神】 
+あきんどカルタという行動規範・判断基準の精神を踏まえてください。 あきんどカルタの精神とは、商売や仕事を単なる利益獲得の手段としてではなく、社会との関係性の中で営まれる営為として捉える姿勢にある。短期的な成果や派手な成功に一喜一憂するのではなく、日々の判断や行動の積み重ねが信頼を形づくるという前提に立ち、誠実さや持続性を重んじる。 そこでは、他者を批判したり正解を断定したりすることよりも、現実の複雑さを受け止め、その中で自分はどう振る舞うべきかを問い続ける態度が大切にされる。うまくいかなかった出来事や困難な状況からも学びを引き出し、次の行動につなげる視点を持つことが求められる。 あきんどカルタは、教訓を押し付けるものではなく、読む人それぞれが自分の立場や経験に引き寄せて考えるための「言葉のきっかけ」であり、仕事に向き合う心構えを静かに整えるための拠り所である。 商売や仕事を社会との関係性の中で捉え、 信頼を積み重ねる姿勢を身につけた人物が 後進に語りかけるスタンスで書いてください。 前向きだが楽観せず、考える余白を残してください。 
 
 【カルタを主題にする】
-以下のカルタを「レンズ」として用い、 ニュースそのものを主題として解説してください。 
-commentary は関西弁のあきんど言葉で記述し、 150〜200文字としてください。
+以下のカルタを「レンズ」として用い、 ニュースそのものを主題として解説してください。 commentary は関西弁のあきんど言葉で記述し、 150〜200文字としてください。
 
 【ニュース】
 見出し：${news.title}
@@ -156,27 +175,83 @@ ${karta.explanation}
  * ================================
  */
 async function main() {
-  const newsList = [];
+  const buckets = {
+    nikkei: [],
+    nhk: [],
+    reuters: [],
+    lnews: [],
+    cnn: [],
+  };
 
   try {
-    const nhkXML = await fetchRSS(NHK_RSS);
-    newsList.push(
-      ...parseRSS(nhkXML, 2).map((n) => ({ ...n, source: "NHK" }))
-    );
+    const xml = await fetchRSS(NIKKEI_RSS);
+    buckets.nikkei = parseRSS(xml, 5).map(n => ({ ...n, source: "NIKKEI" }));
   } catch {}
 
   try {
-    const cnnXML = await fetchRSS(CNN_RSS);
-    newsList.push(
-      ...parseRSS(cnnXML, 2).map((n) => ({ ...n, source: "CNN" }))
-    );
+    const xml = await fetchRSS(NHK_RSS);
+    buckets.nhk = parseRSS(xml, 3).map(n => ({ ...n, source: "NHK" }));
   } catch {}
 
-  if (newsList.length === 0) return;
+  try {
+    const xml = await fetchRSS(REUTERS_RSS);
+    buckets.reuters = parseRSS(xml, 3).map(n => ({ ...n, source: "REUTERS" }));
+  } catch {}
+
+  try {
+    const xml = await fetchRSS(LNEWS_RSS);
+    buckets.lnews = parseRSS(xml, 3).map(n => ({ ...n, source: "LNEWS" }));
+  } catch {}
+
+  try {
+    const xml = await fetchRSS(CNN_RSS);
+    buckets.cnn = parseRSS(xml, 2).map(n => ({ ...n, source: "CNN" }));
+  } catch {}
+
+  // 媒体優先順で合成
+  const ordered = [
+    ...buckets.nikkei,
+    ...buckets.nhk,
+    ...buckets.reuters,
+    ...buckets.lnews,
+    ...buckets.cnn,
+  ];
+
+  // 重複排除
+  const seenURL = new Set();
+  const seenTitle = new Set();
+  const deduped = [];
+
+  for (const news of ordered) {
+    const u = normalizeURL(news.sourceURL);
+    const t = normalizeTitle(news.title);
+
+    if (u && seenURL.has(u)) continue;
+    if (t && seenTitle.has(t)) continue;
+
+    if (u) seenURL.add(u);
+    if (t) seenTitle.add(t);
+
+    deduped.push(news);
+  }
+
+  // 本数ルール適用
+  const selected = [
+    ...deduped.filter(n => n.source === "NIKKEI").slice(0, 2),
+    ...deduped.filter(n => n.source === "NHK").slice(0, 1),
+    ...deduped.filter(n => n.source === "REUTERS").slice(0, 1),
+    ...deduped.filter(n => n.source === "LNEWS").slice(0, 1),
+  ];
+
+  // CNN は取れたら +1
+  const cnnOne = deduped.find(n => n.source === "CNN");
+  if (cnnOne) selected.push(cnnOne);
+
+  if (selected.length === 0) return;
 
   const items = [];
 
-  for (const news of newsList) {
+  for (const news of selected) {
     const summary = await callOpenAI([
       { role: "system", content: SYSTEM_PROMPT },
       { role: "user", content: buildSummaryPrompt(news) },
@@ -195,8 +270,8 @@ async function main() {
     items.push({
       source: news.source,
       title: news.title,
-      summary,
       sourceURL: news.sourceURL,
+      summary,
       karta: {
         leadingKana: selectedKarta.leadingKana,
         phrase: selectedKarta.fullPhrase,
