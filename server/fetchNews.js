@@ -8,7 +8,7 @@ import { questions } from "../questions.js";
  * 設定
  * ================================
  */
-const NIKKEI_RSS = "https://www.nikkei.com/rss/news.xml";
+const NIKKEI_RSS = "https://www.nikkei.com/rss/industry.xml";
 const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml"; // 経済
 const LNEWS_RSS = "https://www.lnews.jp/feed";
 const CNN_RSS = "https://rss.cnn.com/rss/money_latest.rss";
