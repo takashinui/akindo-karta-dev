@@ -8,12 +8,12 @@ import { questions } from "../questions.js";
  * 設定
  * ================================
  */
-const NIKKEI_RSS = "https://www.nikkei.com/rss/news/basic.xml";
-const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml"; // 経済
+const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml";
 const LNEWS_RSS = "https://www.lnews.jp/feed";
 const CNN_RSS = "https://rss.cnn.com/rss/money_latest.rss";
 
 const OUTPUT_PATH = path.resolve("../public/news.json");
+const STOCK_LIMIT = 50;
 
 if (!process.env.OPENAI_API_KEY) {
   throw new Error("OPENAI_API_KEY is not set");
@@ -37,13 +37,12 @@ async function fetchRSS(url) {
   const res = await fetch(url, {
     headers: {
       "User-Agent": "Mozilla/5.0 (NewsFetcher/1.0)",
-      "Accept": "application/rss+xml, application/xml, text/xml"
-    }
+      "Accept": "application/rss+xml, application/xml, text/xml",
+    },
   });
   if (!res.ok) throw new Error(`RSS fetch failed: ${res.status}`);
   return await res.text();
 }
-
 
 function parseRSS(xml, limit = 5, label = "") {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)];
@@ -59,6 +58,7 @@ function parseRSS(xml, limit = 5, label = "") {
       block.match(/<guid[^>]*>(.*?)<\/guid>/)?.[1] ?? "";
     const link =
       block.match(/<link>(.*?)<\/link>/)?.[1] ?? "";
+
     return {
       title,
       body,
@@ -69,7 +69,7 @@ function parseRSS(xml, limit = 5, label = "") {
 
 /**
  * ================================
- * 重複排除
+ * 正規化（重複排除用）
  * ================================
  */
 function normalizeURL(url) {
@@ -84,7 +84,7 @@ function normalizeTitle(title) {
     .toLowerCase()
     .replace(/[0-9]/g, "")
     .replace(/[^\p{L}\p{N}]/gu, "")
-    .slice(0, 30);
+    .slice(0, 40);
 }
 
 /**
@@ -177,93 +177,67 @@ ${karta.explanation}
  * ================================
  */
 async function main() {
-  const buckets = {
-    nikkei: [],
-    nhk: [],
-    reuters: [],
-    lnews: [],
-    cnn: [],
-  };
+  /** 既存在庫を読み込み */
+  let existing = { stock: [] };
+  try {
+    const raw = fs.readFileSync(OUTPUT_PATH, "utf-8");
+    existing = JSON.parse(raw);
+    if (!Array.isArray(existing.stock)) existing.stock = [];
+  } catch {}
 
-try {
-  const xml = await fetchRSS(NIKKEI_RSS);
-  console.log("NIKKEI items:", [...xml.matchAll(/<item>/g)].length);
-  buckets.nikkei = parseRSS(xml, 5, "NIKKEI")
-  .map(n => ({ ...n, source: "NIKKEI" }));
-
-} catch (e) {
-  console.error("NIKKEI ERROR", e.message);
-}
+  /** 今回取得分 */
+  const fetched = [];
 
   try {
     const xml = await fetchRSS(NHK_RSS);
-    buckets.nhk = parseRSS(xml, 3, "NHK")
-  .map(n => ({ ...n, source: "NHK" }));
-  } catch (e)  {
-     console.error("NHK ERROR", e);
-  }
-
+    fetched.push(
+      ...parseRSS(xml, 3, "NHK").map(n => ({ ...n, source: "NHK" }))
+    );
+  } catch {}
 
   try {
     const xml = await fetchRSS(LNEWS_RSS);
-    buckets.lnews = parseRSS(xml, 3, "LNEWS")
-  .map(n => ({ ...n, source: "LNEWS" }));
-
-  } catch (e)  {
-     console.error("LNEWS ERROR", e);
-  }
+    fetched.push(
+      ...parseRSS(xml, 3, "LNEWS").map(n => ({ ...n, source: "LNEWS" }))
+    );
+  } catch {}
 
   try {
     const xml = await fetchRSS(CNN_RSS);
-    console.log("=== CNN RSS length ===", xml.length);
-    buckets.cnn = parseRSS(xml, 2, "CNN")
-  .map(n => ({ ...n, source: "CNN" }));
-    console.log("=== CNN parseRSS(1) ===", parseRSS(xml, 1));
-  } catch (e)  {
-     console.error("CNN ERROR", e);
+    fetched.push(
+      ...parseRSS(xml, 2, "CNN").map(n => ({ ...n, source: "CNN" }))
+    );
+  } catch {}
+
+  /** 在庫マージ（新しいものを前） */
+  const merged = [...fetched, ...existing.stock];
+
+  const seen = new Set();
+  const stock = [];
+
+  for (const n of merged) {
+    const key =
+      normalizeURL(n.sourceURL) || normalizeTitle(n.title);
+    if (seen.has(key)) continue;
+    seen.add(key);
+
+    stock.push({
+      ...n,
+      id: key,
+      fetchedAt: new Date().toISOString(),
+    });
   }
 
-  // 媒体優先順で合成
-  const ordered = [
-    ...buckets.nikkei,
-    ...buckets.nhk,
-    ...buckets.reuters,
-    ...buckets.lnews,
-    ...buckets.cnn,
-  ];
+  const finalStock = stock.slice(0, STOCK_LIMIT);
 
-  // 重複排除
-  const seenURL = new Set();
-  const seenTitle = new Set();
-  const deduped = [];
-
-  for (const news of ordered) {
-    const u = normalizeURL(news.sourceURL);
-    const t = normalizeTitle(news.title);
-
-    if (u && seenURL.has(u)) continue;
-    if (t && seenTitle.has(t)) continue;
-
-    if (u) seenURL.add(u);
-    if (t) seenTitle.add(t);
-
-    deduped.push(news);
+  /** 表示用：常に最大5本 */
+  const selected = [];
+  for (const n of finalStock) {
+    if (selected.length >= 5) break;
+    selected.push(n);
   }
 
-  // 本数ルール適用
-  const selected = [
-    ...deduped.filter(n => n.source === "NIKKEI").slice(0, 2),
-    ...deduped.filter(n => n.source === "NHK").slice(0, 1),
-    ...deduped.filter(n => n.source === "REUTERS").slice(0, 1),
-    ...deduped.filter(n => n.source === "LNEWS").slice(0, 1),
-  ];
-
-  // CNN は取れたら +1
-  const cnnOne = deduped.find(n => n.source === "CNN");
-  if (cnnOne) selected.push(cnnOne);
-
-  if (selected.length === 0) return;
-
+  /** OpenAI 生成 */
   const items = [];
 
   for (const news of selected) {
@@ -272,14 +246,11 @@ try {
       { role: "user", content: buildSummaryPrompt(news) },
     ]);
 
-    const selectedKarta = pickRandomKarta();
+    const karta = pickRandomKarta();
 
     const commentary = await callOpenAI([
       { role: "system", content: SYSTEM_PROMPT },
-      {
-        role: "user",
-        content: buildCommentaryPrompt(news, selectedKarta),
-      },
+      { role: "user", content: buildCommentaryPrompt(news, karta) },
     ]);
 
     items.push({
@@ -288,18 +259,25 @@ try {
       sourceURL: news.sourceURL,
       summary,
       karta: {
-        leadingKana: selectedKarta.leadingKana,
-        phrase: selectedKarta.fullPhrase,
+        leadingKana: karta.leadingKana,
+        phrase: karta.fullPhrase,
       },
       commentary,
     });
   }
 
+  /** 書き出し */
   fs.writeFileSync(
     OUTPUT_PATH,
     JSON.stringify(
       {
         generatedAt: new Date().toISOString(),
+        run: {
+          ranAt: new Date().toISOString(),
+          runner: process.env.GITHUB_ACTIONS ? "github-actions" : "manual",
+          runId: process.env.GITHUB_RUN_ID || null,
+        },
+        stock: finalStock,
         items,
       },
       null,
