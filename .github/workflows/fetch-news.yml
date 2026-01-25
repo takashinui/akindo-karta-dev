@@ -1,5 +1,44 @@
 name: Fetch News
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        working-directory: server
+        run: npm install
+
+      - name: Run fetchNews
+        working-directory: server
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node fetchNews.js
+
+      - name: Commit news.json if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add public/news.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "update news.json"
+            git push
+          fi
