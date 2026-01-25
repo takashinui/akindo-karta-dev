@@ -103,7 +103,5 @@ export async function showAkindoNews() {
 
   // ニュース画面を開いたら必ず1本目から
   current = 0;
-  console.log("render current =", current);
-
   render();
 }
