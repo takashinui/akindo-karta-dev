@@ -42,11 +42,12 @@ function parseRSS(xml, limit = 2) {
     const block = item[1];
     return {
       title: block.match(/<title>(.*?)<\/title>/)?.[1] ?? "",
-      body:
-        block.match(/<description>([\s\S]*?)<\/description>/)?.[1] ?? "",
+      body: block.match(/<description>([\s\S]*?)<\/description>/)?.[1] ?? "",
+      sourceURL: block.match(/<link>(.*?)<\/link>/)?.[1] ?? ""
     };
   });
 }
+
 
 async function callOpenAI(messages) {
   const res = await openai.chat.completions.create({
