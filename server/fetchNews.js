@@ -11,7 +11,7 @@ import { kartaGroups } from "../kartaGroups.js";
  */
 const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml";
 const LNEWS_RSS = "https://www.lnews.jp/feed";
-const GUARDIAN_WORLD_RSS = "https://www.theguardian.com/world/rss";
+const GUARDIAN_RSS = "https://www.theguardian.com/world/rss";
 
 const OUTPUT_PATH = path.resolve("../public/news.json");
 const STOCK_LIMIT = 50;
