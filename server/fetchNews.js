@@ -258,18 +258,18 @@ async function main() {
 
   try {
     const xml = await fetchRSS(NHK_RSS);
-    fetched.push(...parseRSS(xml, 3, "NHK").map((n) => ({ ...n, source: "NHK" })));
+    fetched.push(...parseRSS(xml, 2, "NHK").map((n) => ({ ...n, source: "NHK" })));
   } catch {}
 
     try {
     const xml = await fetchRSS(GUARDIAN_RSS);
-    fetched.push(...parseRSS(xml, 3, "The Guardian").map((n) => ({ ...n, source: "NHK" })));
+    fetched.push(...parseRSS(xml, 1, "Guardian").map((n) => ({ ...n, source: "Guardian" })));
   } catch {}
   
   try {
     const xml = await fetchRSS(LNEWS_RSS);
     fetched.push(
-      ...parseRSS(xml, 3, "LNEWS").map((n) => ({ ...n, source: "LNEWS" }))
+      ...parseRSS(xml, 2, "LNEWS").map((n) => ({ ...n, source: "LNEWS" }))
     );
   } catch {}
 
