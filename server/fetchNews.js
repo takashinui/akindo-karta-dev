@@ -261,17 +261,18 @@ async function main() {
     fetched.push(...parseRSS(xml, 2, "NHK").map((n) => ({ ...n, source: "NHK" })));
   } catch {}
 
-    try {
-    const xml = await fetchRSS(GUARDIAN_RSS);
-    fetched.push(...parseRSS(xml, 1, "Guardian").map((n) => ({ ...n, source: "Guardian" })));
-  } catch {}
-  
   try {
     const xml = await fetchRSS(LNEWS_RSS);
     fetched.push(
       ...parseRSS(xml, 2, "LNEWS").map((n) => ({ ...n, source: "LNEWS" }))
     );
   } catch {}
+
+      try {
+    const xml = await fetchRSS(GUARDIAN_RSS);
+    fetched.push(...parseRSS(xml, 1, "Guardian").map((n) => ({ ...n, source: "Guardian" })));
+  } catch {}
+  
 
 
   /** 在庫マージ（新しいものを前） */
