@@ -11,7 +11,7 @@ import { kartaGroups } from "../kartaGroups.js";
  */
 const NHK_RSS = "https://www3.nhk.or.jp/rss/news/cat5.xml";
 const LNEWS_RSS = "https://www.lnews.jp/feed";
-const CNN_RSS = "https://rss.cnn.com/rss/money_latest.rss";
+const GUARDIAN_WORLD_RSS = "https://www.theguardian.com/world/rss";
 
 const OUTPUT_PATH = path.resolve("../public/news.json");
 const STOCK_LIMIT = 50;
@@ -261,6 +261,11 @@ async function main() {
     fetched.push(...parseRSS(xml, 3, "NHK").map((n) => ({ ...n, source: "NHK" })));
   } catch {}
 
+    try {
+    const xml = await fetchRSS(GUARDIAN_RSS);
+    fetched.push(...parseRSS(xml, 3, "The Guardian").map((n) => ({ ...n, source: "NHK" })));
+  } catch {}
+  
   try {
     const xml = await fetchRSS(LNEWS_RSS);
     fetched.push(
@@ -268,10 +273,6 @@ async function main() {
     );
   } catch {}
 
-  try {
-    const xml = await fetchRSS(CNN_RSS);
-    fetched.push(...parseRSS(xml, 2, "CNN").map((n) => ({ ...n, source: "CNN" })));
-  } catch {}
 
   /** 在庫マージ（新しいものを前） */
   const merged = [...fetched, ...existing.stock];
