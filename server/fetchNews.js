@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import OpenAI from "openai";
 import { questions } from "../questions.js";
+import { kartaGroups } from "../kartaGroups.js";
 
 /**
  * ================================
@@ -28,9 +29,18 @@ const openai = new OpenAI({
  * ユーティリティ
  * ================================
  */
-function pickRandomKarta() {
-  const index = Math.floor(Math.random() * questions.length);
-  return questions[index];
+function pickKartaByClassification(tone, term) {
+  const pool = kartaGroups?.[tone]?.[term];
+  if (!pool || pool.length === 0) {
+    // 合意どおり：フォールバックは N-S
+    return pickKartaByClassification("N", "S");
+  }
+  const kana = pool[Math.floor(Math.random() * pool.length)];
+  const karta = questions.find((q) => q.leadingKana === kana);
+
+  // 万一 questions 側に該当が無い場合も N-S に退避（推測ではなく安全弁）
+  if (!karta) return pickKartaByClassification("N", "S");
+  return karta;
 }
 
 async function fetchRSS(url) {
@@ -50,14 +60,11 @@ function parseRSS(xml, limit = 5, label = "") {
 
   return items.slice(0, limit).map((item) => {
     const block = item[1];
-    const title =
-      block.match(/<title>(.*?)<\/title>/)?.[1] ?? "";
+    const title = block.match(/<title>(.*?)<\/title>/)?.[1] ?? "";
     const body =
       block.match(/<description>([\s\S]*?)<\/description>/)?.[1] ?? "";
-    const guidLink =
-      block.match(/<guid[^>]*>(.*?)<\/guid>/)?.[1] ?? "";
-    const link =
-      block.match(/<link>(.*?)<\/link>/)?.[1] ?? "";
+    const guidLink = block.match(/<guid[^>]*>(.*?)<\/guid>/)?.[1] ?? "";
+    const link = block.match(/<link>(.*?)<\/link>/)?.[1] ?? "";
 
     return {
       title,
@@ -73,10 +80,7 @@ function parseRSS(xml, limit = 5, label = "") {
  * ================================
  */
 function normalizeURL(url) {
-  return url
-    ?.replace(/^https?:\/\//, "")
-    .replace(/\/$/, "")
-    .toLowerCase();
+  return url?.replace(/^https?:\/\//, "").replace(/\/$/, "").toLowerCase();
 }
 
 function normalizeTitle(title) {
@@ -92,11 +96,11 @@ function normalizeTitle(title) {
  * OpenAI
  * ================================
  */
-async function callOpenAI(messages) {
+async function callOpenAI(messages, temperature = 0.7) {
   const res = await openai.chat.completions.create({
     model: "gpt-4.1-mini",
     messages,
-    temperature: 0.7,
+    temperature,
   });
   return res.choices[0].message.content.trim();
 }
@@ -141,6 +145,67 @@ ${news.title}
 【本文】
 ${news.body}
 `;
+}
+
+/**
+ * ================================
+ * news classification prompt（summary を読ませる）
+ * ================================
+ */
+function buildClassificationPrompt(summary) {
+  return `
+以下の要約文を、ニュースそのものの性質として分類してください。
+必ず JSON のみで出力してください。
+
+tone:
+- G = 前向き・改善・発展
+- B = 問題・不祥事・後退
+- N = 善悪を伴わない事象・変動
+
+term:
+- S = 主な影響範囲が 1か月
+- M = 主な影響範囲が 1年
+- L = 主な影響範囲が 1年以上（構造的・長期）
+
+出力形式：
+{
+  "tone": "G|B|N",
+  "term": "S|M|L"
+}
+
+【要約文】
+${summary}
+`;
+}
+
+/**
+ * ================================
+ * classify（JSON厳格）
+ * ================================
+ */
+async function classifyFromSummary(summary) {
+  const raw = await callOpenAI(
+    [
+      { role: "system", content: SYSTEM_PROMPT },
+      { role: "user", content: buildClassificationPrompt(summary) },
+    ],
+    0.0 // JSON安定のため
+  );
+
+  try {
+    const obj = JSON.parse(raw);
+    const tone = obj?.tone;
+    const term = obj?.term;
+
+    const okTone = tone === "G" || tone === "B" || tone === "N";
+    const okTerm = term === "L" || term === "M" || term === "S";
+
+    if (!okTone || !okTerm) return { tone: "N", term: "S" };
+    return { tone, term };
+  } catch {
+    // 合意どおり：迷ったら N-S
+    return { tone: "N", term: "S" };
+  }
 }
 
 /**
@@ -193,23 +258,19 @@ async function main() {
 
   try {
     const xml = await fetchRSS(NHK_RSS);
-    fetched.push(
-      ...parseRSS(xml, 3, "NHK").map(n => ({ ...n, source: "NHK" }))
-    );
+    fetched.push(...parseRSS(xml, 3, "NHK").map((n) => ({ ...n, source: "NHK" })));
   } catch {}
 
   try {
     const xml = await fetchRSS(LNEWS_RSS);
     fetched.push(
-      ...parseRSS(xml, 3, "LNEWS").map(n => ({ ...n, source: "LNEWS" }))
+      ...parseRSS(xml, 3, "LNEWS").map((n) => ({ ...n, source: "LNEWS" }))
     );
   } catch {}
 
   try {
     const xml = await fetchRSS(CNN_RSS);
-    fetched.push(
-      ...parseRSS(xml, 2, "CNN").map(n => ({ ...n, source: "CNN" }))
-    );
+    fetched.push(...parseRSS(xml, 2, "CNN").map((n) => ({ ...n, source: "CNN" })));
   } catch {}
 
   /** 在庫マージ（新しいものを前） */
@@ -219,8 +280,7 @@ async function main() {
   const stock = [];
 
   for (const n of merged) {
-    const key =
-      normalizeURL(n.sourceURL) || normalizeTitle(n.title);
+    const key = normalizeURL(n.sourceURL) || normalizeTitle(n.title);
     if (seen.has(key)) continue;
     seen.add(key);
 
@@ -249,7 +309,11 @@ async function main() {
       { role: "user", content: buildSummaryPrompt(news) },
     ]);
 
-    const karta = pickRandomKarta();
+    // ★ 追加：分類（summary を読ませる）
+    const classification = await classifyFromSummary(summary);
+
+    // ★ 変更：分類に一致するカルタを選ぶ
+    const karta = pickKartaByClassification(classification.tone, classification.term);
 
     const commentary = await callOpenAI([
       { role: "system", content: SYSTEM_PROMPT },
@@ -261,6 +325,7 @@ async function main() {
       title: news.title,
       sourceURL: news.sourceURL,
       summary,
+      classification, // ★ 保存する（合意）
       karta: {
         leadingKana: karta.leadingKana,
         phrase: karta.fullPhrase,
