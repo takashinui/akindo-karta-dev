@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-01-28T16:28:47.008Z",
+  "generatedAt": "2026-01-28T16:53:11.733Z",
   "run": {
-    "ranAt": "2026-01-28T16:28:47.008Z",
+    "ranAt": "2026-01-28T16:53:11.733Z",
     "runner": "github-actions",
-    "runId": "21446532911"
+    "runId": "21447409860"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037781000.html",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "フジテレビ 社員1人を懲戒解雇処分 取材情報など複数回漏えい",
@@ -20,15 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037921000.html",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
-    },
-    {
-      "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
-      "body": "&lt;p&gt;Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week&lt;/p&gt;&lt;p&gt;Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered southern Italy and Malta, the Italian coastguard has said, as a shipwreck with the loss of 50 lives was confirmed by Maltese authorities.&lt;/p&gt;&lt;p&gt;Just one person, who was hospitalised in Malta, survived the shipwreck, which happened on Friday.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-      "source": "Guardian",
-      "id": "www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "オリックス不動産／埼玉県伊奈町に3.3万m2のマルチテナント型物流施設を竣工",
@@ -36,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310010",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310010",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "国交省／日ASEAN物流専門家会合開き、コールドチェーン物流などの情報共有",
@@ -44,7 +36,15 @@
       "sourceURL": "https://www.lnews.jp/?p=310034",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310034",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
+    },
+    {
+      "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
+      "body": "&lt;p&gt;Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week&lt;/p&gt;&lt;p&gt;Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered southern Italy and Malta, the Italian coastguard has said, as a shipwreck with the loss of 50 lives was confirmed by Maltese authorities.&lt;/p&gt;&lt;p&gt;Just one person, who was hospitalised in Malta, survived the shipwreck, which happened on Friday.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "円相場 一時1ドル＝152円台前半まで値上がり トランプ氏発言で",
@@ -52,7 +52,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037331000.html",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "阪急阪神エクスプレス／上野動物園から中国へ、パンダ返還をサポート",
@@ -60,7 +60,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310052",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310052",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "日銀 利上げを決めた12月の金融政策決定会合の議事要旨公表",
@@ -68,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037541000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037541000.html",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "【きょうのおはBiz1月28日(水)】“レートチェック”  効果は?",
@@ -76,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037481000.html",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "株価 値下がり 円高ドル安進み輸出関連銘柄中心に売り注文",
@@ -84,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037581000.html",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "大和ハウス工業／東京都青梅市の物流施設、災害時等の支援で協定",
@@ -92,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310043",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310043",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "日本郵便／28日より104郵便局で軽四輪の追加停止処分",
@@ -100,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310040",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310040",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "日銀 2015年後半の金融政策決定会合議事録を公開",
@@ -108,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037441000.html",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "NYダウ 前日から400ドルあまり値下がり S＆P500は最高値を更新",
@@ -116,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037431000.html",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "カウネット／当日配達エリアでの一部翌日配達移行で、配達完了時間「前倒し」実現",
@@ -124,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309968",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309968",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "佐川急便など3社／「高尾100年の森」でカーボンクレジット創出へ実証開始",
@@ -132,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309956",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309956",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "ルーフィ／ネットスーパーと来店宅配の荷物、混載配送システムを提供開始",
@@ -140,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309962",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309962",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "メトラー・トレド／正確な測定データを基にした物流改革と経営改善を後押し",
@@ -148,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=308264",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=308264",
-      "fetchedAt": "2026-01-28T16:28:24.599Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "日本GLP／大阪市に「Marq」ブランド初の物流施設を竣工、マルカミ物流が1棟利用へ",
@@ -156,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309914",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309914",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "山善／埼玉県白岡市にEC専用拠点「ロジスEC関東」新設、物流網を最適化",
@@ -164,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309932",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309932",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "G7財務相会議 レアアースなど重要鉱物の安定的確保など議論",
@@ -172,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037341000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "米トランプ政権 レアアース開発など国が企業経営に関与の動き",
@@ -180,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037171000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "米FRB議長の後任選び 大詰めに “早ければ来週にも”",
@@ -188,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037151000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "楽天モバイル 音声通話やデータ通信などが復旧",
@@ -196,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036801000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "ソフトバンク “個人情報 最大8000件余が漏えいの可能性”発表",
@@ -204,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037111000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037111000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "衆院選 10の争点 テーマごとに詳しく【一覧】",
@@ -212,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036951000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "去年1年間 国内で出荷されたPC 1095万台余 前年比43.7％増",
@@ -220,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037031000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037031000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "円相場 いくぶん値下がり 1ドル＝154円台半ば中心の取り引きに",
@@ -228,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037011000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "春闘 電機連合 月額1万8000円以上賃上げ要求の方針決定",
@@ -236,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036981000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】エネルギー政策",
@@ -244,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036901000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】経済・財政政策",
@@ -252,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036671000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】物価高対策",
@@ -260,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036661000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "株価 値上がり 半導体関連の銘柄中心に買い注文広がる",
@@ -268,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036621000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "「民泊新法」違反容疑で初 会社と代表ら書類送検 東京 荒川区",
@@ -276,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036581000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "プロロジス／八千代市の物流施設に積み込み・荷降ろしロボ導入、テナントの自動化を後押し",
@@ -284,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309905",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309905",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "【PR】日野コンピューターシステム／セミナー「紙管理から脱却！車両点検DX」2月3・5日開催",
@@ -292,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309884",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309884",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "【PR】APT／セミナー「500名対象の最新調査から紐解く物流DX・自動化の成功法則」2月5・9日開催",
@@ -300,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309893",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309893",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "金融庁 プルデンシャル生命に立ち入り検査へ 行政処分も検討",
@@ -308,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036781000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "東急不動産／大阪府茨木市の物流施設で近隣住民と防災イベント",
@@ -316,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309860",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309860",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "ことしの春闘 事実上スタート 賃上げの勢い継続できるか焦点",
@@ -324,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036131000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036131000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "JILS／昨年末実施の調査で、会員の9割超が改正物流効率化法の内容認知",
@@ -332,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309827",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309827",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "佐川急便／ジャングリア沖縄を「手ぶらサービス」で満喫、新作コラム公開",
@@ -340,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309839",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309839",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "NXHD／インド半導体ミッション代表団が来訪、物流ハブ構築へ協議",
@@ -348,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309830",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309830",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "栗山米菓／賞味期限「年月表示」化と物流改善で農水省サイトに優良事例として掲載",
@@ -356,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309812",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309812",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "サッポログループ物流／ロッテと冬季限定のラウンドマッチング輸送開始",
@@ -364,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309803",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309803",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "セイノーHD／奈良県野迫川村で「準公共化モデル」実現目指しドローン配送実験",
@@ -372,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309797",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309797",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "7ケタ英数字「デジタルアドレス」普及へ 新団体が発足",
@@ -380,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036171000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "東京電力HD 今後10年間の新たな再建計画 国が認定",
@@ -388,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260126/k10015035661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260126/k10015035661000.html",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "EVERY HOLDINGS／グループ会社で給食向け食材輸送に水素トラック導入",
@@ -396,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309782",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     },
     {
       "title": "プロロジス／福島県郡山市に4.7万m2のマルチテナント型施設を起工、拠点内で4棟目",
@@ -404,7 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309674",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309674",
-      "fetchedAt": "2026-01-28T16:28:24.600Z"
+      "fetchedAt": "2026-01-28T16:52:49.819Z"
     }
   ],
   "items": [
@@ -412,52 +412,37 @@
       "source": "NHK",
       "title": "「特別注意銘柄」に指定されたニデック 東証に改善計画を提出",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037781000.html",
-      "summary": "電子部品大手のニデックは、不適切な会計処理に関する問題を受け、東京証券取引所から「特別注意銘柄」に指定されました。これに対し、同社は東証に対し改善計画を提出し、問題解決に向けた対応を進めています。",
+      "summary": "電子部品大手のニデックは、不適切な会計処理の問題により東京証券取引所から「特別注意銘柄」に指定されました。これを受けて、同社は東証に対し、問題解決に向けた具体的な改善計画を提出しています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "き",
-        "phrase": "気が乗らぬ時は ちょっと待つ"
+        "leadingKana": "つ",
+        "phrase": "つまらない 話もコトも しなさんな"
       },
-      "commentary": "企業の問題に直面した時、一歩引いて状況を見直すことが肝心や。焦って慌てても信頼は築けへん。信頼は日々の積み重ねやから、違和感感じたら無理せんと立ち止まり、丁寧に対応策を練る。その冷静さが次の信頼につながるんやで。"
+      "commentary": "問題が表面化した際、無意味な言い訳や形だけの説明に時間を割くより、核心を見据えて改善策に集中することが肝心や。信頼は積み重ねが肝要で、つまらん話に流されず、真摯に向き合う姿勢が未来をつくるで。"
     },
     {
       "source": "NHK",
       "title": "フジテレビ 社員1人を懲戒解雇処分 取材情報など複数回漏えい",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037921000.html",
-      "summary": "フジテレビは、社員1名が取材に関する情報を複数回にわたり他のメディアに漏らしたとして、懲戒解雇の措置を取ったと発表しました。社内調査の結果を踏まえた対応とされています。",
+      "summary": "フジテレビは、社員1名が取材情報を複数回にわたり他のメディアに漏らしたことを受け、懲戒解雇処分としたと発表しました。具体的な漏えいの内容や時期については明らかにされていません。",
       "classification": {
         "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "ふ",
-        "phrase": "不実やと 思うのならば やめなはれ"
+        "leadingKana": "こ",
+        "phrase": "ゴミが落ちていたら拾うんです"
       },
-      "commentary": "情報の扱いは信頼の根幹や。何度も漏らすのは信用の重みを軽んじることやから、長い商売に響くわな。誠実な積み重ねが信用を築くんやから、間違いに気づいたら迷わず改めるのがええ。これが次の仕事の礎になるんやで。"
-    },
-    {
-      "source": "Guardian",
-      "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
-      "sourceURL": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-      "summary": "イタリア沿岸警備隊によると、先週サイクロン・ハリーの影響下で地中海を渡ろうとした際、最大380人が溺死した可能性があると報告されました。また、マルタ当局は金曜日に発生した船舶事故で50人が死亡し、1人が病院に搬送されて生存したことを確認しています。事故は南イタリアとマルタ周辺で発生しました。",
-      "classification": {
-        "tone": "B",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "も",
-        "phrase": "もうアカン 思たトコから もう一歩"
-      },
-      "commentary": "命の重みが胸に刺さる状況やけど、ここで諦めたらあかん。厳しい環境の中でも、次の一歩を模索し続ける姿勢が信頼を築く鍵や。目の前の困難に向き合いながら、持続する力を育てることが、未来の可能性を広げるあきんどの道やと思うわ。"
+      "commentary": "情報の漏えいは信頼の根幹を揺るがすもんや。職場の隅から隅まで目を配り、誰もが自分の役割を果たすことが大事やで。小さな見落としが大きな亀裂になる。日々の誠実な行動の積み重ねが、信用の土台を作るんやからな。"
     },
     {
       "source": "LNEWS",
       "title": "オリックス不動産／埼玉県伊奈町に3.3万m2のマルチテナント型物流施設を竣工",
       "sourceURL": "https://www.lnews.jp/?p=310010",
-      "summary": "オリックス不動産は、埼玉県北足立郡伊奈町に延床面積約3万3000平方メートルのマルチテナント型物流施設「伊奈ロジスティクスセンター」を完成させた。施設は東北自動車道の蓮田スマートインターチェンジからのアクセスが可能で、複数のテナントによる利用を想定している。竣工は2024年1月28日。",
+      "summary": "オリックス不動産は埼玉県伊奈町に延床面積約3万3000平方メートルのマルチテナント型物流施設「伊奈ロジスティクスセンター」を完成させた。施設は東北自動車道の蓮田スマートICに近接しており、複数のテナントが利用できる物流拠点として設計されている。竣工は1月28日に発表された。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -466,22 +451,37 @@
         "leadingKana": "ら",
         "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "新しい物流施設の完成は、単なる売り場拡大や利益追求じゃおまへん。地域との長いお付き合いや信頼を積み重ねる中で、持続可能な事業の形を考えることが肝心や。目先の成果に惑わされず、これからも誠実に堅実にやっていく姿勢が求められまっせ。"
+      "commentary": "物流施設の開発は長期的な地域との共存を見据えた取り組みや。目先の利益より、日々の積み重ねで信頼築く姿勢が大事やで。未来も変わらぬ覚悟で、地域と共に歩むことがあきんどの道筋やと思うわ。"
     },
     {
       "source": "LNEWS",
       "title": "国交省／日ASEAN物流専門家会合開き、コールドチェーン物流などの情報共有",
       "sourceURL": "https://www.lnews.jp/?p=310034",
-      "summary": "国土交通省は1月14日、タイ・バンコクで第20回日ASEAN物流専門家会合を開催し、コールドチェーン物流の品質向上や人材育成、環境負荷低減を目指すグリーン物流の推進について、日本とASEAN各国の専門家が情報交換を行いました。",
+      "summary": "国土交通省は1月14日、タイのバンコクで第20回日ASEAN物流専門家会合を開催した。会合では、高品質なコールドチェーン物流の促進や人材育成、環境に配慮したグリーン物流の推進に関する取り組みについて、日本とASEAN諸国の専門家が情報交換を行った。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
+        "leadingKana": "か",
+        "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "物流の現場は地味やけど、国や国際の枠を越えて連携することで、日々の安心や安全を支えてるんや。焦らず着実に、環境や人の育成も見据えた取り組みが、長い信頼の積み重ねになる。そういう地道な支えが、社会の平和を形づくるんやで。"
+      "commentary": "国や地域を超えた物流の知恵の交換は、単なる技術共有にとどまらん。みんなが気づき合い、日々の改善を積み重ねることで、信頼の輪が広がっていくんや。焦らず着実に、持続可能な仕組みづくりに取り組む姿勢が肝心やで。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
+      "sourceURL": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "summary": "イタリア沿岸警備隊によると、先週、地中海を渡ろうとした約380人がサイクロン・ハリーの影響下で溺死した可能性があると推定されている。マルタ当局は、金曜日に起きた船の沈没事故で50人の死亡が確認され、生存者は病院に搬送された1名のみだった。この事故は南イタリアとマルタ周辺で発生した。",
+      "classification": {
+        "tone": "B",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "め",
+        "phrase": "目を見て 話せん奴を 信用すな"
+      },
+      "commentary": "荒波の中で命を賭ける姿、信頼の根本を考えさせられるわな。商売も命のやり取りや。顔を見て誠実に向き合わんと、信頼は築かれへん。短期の成功に惑わされず、目の前の現実と真摯に向き合う姿勢が何より大事やで。"
     }
   ]
 }
