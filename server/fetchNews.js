@@ -270,7 +270,7 @@ async function main() {
 
       try {
     const xml = await fetchRSS(GUARDIAN_RSS);
-    fetched.push(...parseRSS(xml, 1, "Guardian").map((n) => ({ ...n, source: "Guardian" })));
+    fetched.push(...parseRSS(xml, 1, "Guardian").map((n) => ({ ...n, source: "Guardian｜World" })));
   } catch {}
   
 
