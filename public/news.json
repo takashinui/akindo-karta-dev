@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-01-29T02:43:09.546Z",
+  "generatedAt": "2026-01-29T07:00:43.338Z",
   "run": {
-    "ranAt": "2026-01-29T02:43:09.546Z",
+    "ranAt": "2026-01-29T07:00:43.339Z",
     "runner": "github-actions",
-    "runId": "21463569736"
+    "runId": "21468813576"
   },
   "stock": [
     {
-      "title": "韓国 サムスン電子 去年の決算 売り上げ35兆円余 過去最高",
-      "body": "韓国のサムスン電子は、去年1年間の決算を発表し、売り上げは日本円で35兆円余りと過去最高になりました。韓国メディアは、生成AI向けの半導体の販売拡大がけん引役になったとの見方を伝えています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038331000.html",
+      "title": "株価 小幅に値上がり 売り買い交錯の展開",
+      "body": "29日の東京株式市場、売り買いが交錯する展開となり、日経平均株価は小幅に値上がりしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038381000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260129/k10015038331000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "id": "www3.nhk.or.jp/news/html/20260129/k10015038381000.html",
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
-      "title": "金の先物価格が初の5500ドル突破 急激な上昇続く ドル安懸念も",
-      "body": "アメリカのトランプ政権の政策をめぐる不透明感を背景にドル安傾向となるなか、ニューヨーク商品取引所では、安全な資産とされる金に資金を移す動きが強まり、国際的な取り引きの指標となる金の先物価格が初めて1オンス＝5500ドルを突破しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038121000.html",
+      "title": "全国の信用組合でシステム障害 午後3時ごろまでに すべて復旧",
+      "body": "29日、全国140の信用組合が利用するシステムで障害が発生し、窓口やATM＝現金自動預け払い機で一部で取り引きができなくなりましたが、「全国信用協同組合連合会」によりますと、午後3時ごろまでに復旧したということです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038451000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260129/k10015038121000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "id": "www3.nhk.or.jp/news/html/20260129/k10015038451000.html",
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
-      "title": "TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始",
-      "body": "<![CDATA[<p>TOPPAN、TOPPANロジスティクスとトーインの3社は2月2日から、食品・日用品・化粧品向け包装資材について、最終製品メーカー工場へ納品する共同配送を開始する。 TOPPANとトーインが、TOPPANロジスティクスの [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0129602.html\">TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310109",
+      "title": "東京都／港区の駐車スペースを荷さばき用に無償提供",
+      "body": "<![CDATA[<p>東京都は1月28日、物流効率化に向けたプロジェクト「東京物流ビズ」の一環で、運送事業者に対し、荷さばきを目的とした貨物車駐車スペースの無償提供を開始した。 ＜使用イメージ＞ ＜地図＞ 駐車スペースは、港区の芝大門二丁目駐 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0129608.html\">東京都／港区の駐車スペースを荷さばき用に無償提供</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310214",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310109",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "id": "www.lnews.jp/?p=310214",
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
-      "title": "日本通運／順次出荷と一括納品を両立、国内航空貨物向け新サービス開始",
-      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングスグループの日本通運は1月22日より、国内航空貨物向け新サービス「NXマルチオーダーOne」の提供を開始した。 ＜新サービスの利用イメージ＞ 「NXマルチオーダーOne」は、顧客 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0129702.html\">日本通運／順次出荷と一括納品を両立、国内航空貨物向け新サービス開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310115",
+      "title": "エスマット／AI在庫管理クラウドの成果発表、MARUWA SHOMEIで在庫300万円削減",
+      "body": "<![CDATA[<p>エスマットは1月29日、在庫管理から現場DXを目指すAIエージェント「SmartMat Cloud（スマートマットクラウド）」の成果発表会を、東京都内で開催した。会場では機能概要の説明に加え、導入企業として電子部品・セラ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0129501.html\">エスマット／AI在庫管理クラウドの成果発表、MARUWA SHOMEIで在庫300万円削減</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310187",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310115",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "id": "www.lnews.jp/?p=310187",
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
+    },
+    {
+      "title": "韓国 サムスン電子 去年の決算 売り上げ35兆円余 過去最高",
+      "body": "韓国のサムスン電子は、去年1年間の決算を発表し、売り上げは日本円で35兆円余りと過去最高になりました。韓国メディアは、生成AI向けの半導体の販売拡大がけん引役になったとの見方を伝えています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038331000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260129/k10015038331000.html",
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
+    },
+    {
+      "title": "金の先物価格が初の5500ドル突破 急激な上昇続く ドル安懸念も",
+      "body": "アメリカのトランプ政権の政策をめぐる不透明感を背景にドル安傾向となるなか、ニューヨーク商品取引所では、安全な資産とされる金に資金を移す動きが強まり、国際的な取り引きの指標となる金の先物価格が初めて1オンス＝5500ドルを突破しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038121000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260129/k10015038121000.html",
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
+    },
+    {
+      "title": "TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始",
+      "body": "<![CDATA[<p>TOPPAN、TOPPANロジスティクスとトーインの3社は2月2日から、食品・日用品・化粧品向け包装資材について、最終製品メーカー工場へ納品する共同配送を開始する。 TOPPANとトーインが、TOPPANロジスティクスの [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0129602.html\">TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310109",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=310109",
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
+    },
+    {
+      "title": "日本通運／順次出荷と一括納品を両立、国内航空貨物向け新サービス開始",
+      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングスグループの日本通運は1月22日より、国内航空貨物向け新サービス「NXマルチオーダーOne」の提供を開始した。 ＜新サービスの利用イメージ＞ 「NXマルチオーダーOne」は、顧客 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0129702.html\">日本通運／順次出荷と一括納品を両立、国内航空貨物向け新サービス開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310115",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=310115",
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "JR東海労組 春闘 ベア月額1万3000円要求へ 物価上昇で最高水準",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260129/k10015038001000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "「特別注意銘柄」に指定されたニデック 東証に改善計画を提出",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037781000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "オリックス不動産／埼玉県伊奈町に3.3万m2のマルチテナント型物流施設を竣工",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310010",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310010",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "国交省／日ASEAN物流専門家会合開き、コールドチェーン物流などの情報共有",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310034",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310034",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "フジテレビ 社員1人を懲戒解雇処分 取材情報など複数回漏えい",
@@ -84,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037921000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "円相場 一時1ドル＝152円台前半まで値上がり トランプ氏発言で",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037331000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "阪急阪神エクスプレス／上野動物園から中国へ、パンダ返還をサポート",
@@ -100,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310052",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310052",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "日銀 利上げを決めた12月の金融政策決定会合の議事要旨公表",
@@ -108,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037541000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037541000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "【きょうのおはBiz1月28日(水)】“レートチェック”  効果は?",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037481000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "株価 値下がり 円高ドル安進み輸出関連銘柄中心に売り注文",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037581000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "大和ハウス工業／東京都青梅市の物流施設、災害時等の支援で協定",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310043",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310043",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "日本郵便／28日より104郵便局で軽四輪の追加停止処分",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310040",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310040",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "日銀 2015年後半の金融政策決定会合議事録を公開",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037441000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "NYダウ 前日から400ドルあまり値下がり S＆P500は最高値を更新",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037431000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "カウネット／当日配達エリアでの一部翌日配達移行で、配達完了時間「前倒し」実現",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309968",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309968",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "佐川急便など3社／「高尾100年の森」でカーボンクレジット創出へ実証開始",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309956",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309956",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "ルーフィ／ネットスーパーと来店宅配の荷物、混載配送システムを提供開始",
@@ -180,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309962",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309962",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "メトラー・トレド／正確な測定データを基にした物流改革と経営改善を後押し",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=308264",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=308264",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "日本GLP／大阪市に「Marq」ブランド初の物流施設を竣工、マルカミ物流が1棟利用へ",
@@ -196,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309914",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309914",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "山善／埼玉県白岡市にEC専用拠点「ロジスEC関東」新設、物流網を最適化",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309932",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309932",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "G7財務相会議 レアアースなど重要鉱物の安定的確保など議論",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037341000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "米トランプ政権 レアアース開発など国が企業経営に関与の動き",
@@ -220,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037171000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "米FRB議長の後任選び 大詰めに “早ければ来週にも”",
@@ -228,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037151000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "楽天モバイル 音声通話やデータ通信などが復旧",
@@ -236,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036801000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "ソフトバンク “個人情報 最大8000件余が漏えいの可能性”発表",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037111000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037111000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "衆院選 10の争点 テーマごとに詳しく【一覧】",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036951000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "去年1年間 国内で出荷されたPC 1095万台余 前年比43.7％増",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037031000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037031000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "円相場 いくぶん値下がり 1ドル＝154円台半ば中心の取り引きに",
@@ -268,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037011000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "春闘 電機連合 月額1万8000円以上賃上げ要求の方針決定",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036981000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】エネルギー政策",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036901000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】経済・財政政策",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036671000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】物価高対策",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036661000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "株価 値上がり 半導体関連の銘柄中心に買い注文広がる",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036621000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "「民泊新法」違反容疑で初 会社と代表ら書類送検 東京 荒川区",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036581000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "プロロジス／八千代市の物流施設に積み込み・荷降ろしロボ導入、テナントの自動化を後押し",
@@ -324,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309905",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309905",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "【PR】日野コンピューターシステム／セミナー「紙管理から脱却！車両点検DX」2月3・5日開催",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309884",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309884",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "【PR】APT／セミナー「500名対象の最新調査から紐解く物流DX・自動化の成功法則」2月5・9日開催",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309893",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309893",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "金融庁 プルデンシャル生命に立ち入り検査へ 行政処分も検討",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036781000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "東急不動産／大阪府茨木市の物流施設で近隣住民と防災イベント",
@@ -356,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309860",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309860",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "ことしの春闘 事実上スタート 賃上げの勢い継続できるか焦点",
@@ -364,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036131000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036131000.html",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     },
     {
       "title": "JILS／昨年末実施の調査で、会員の9割超が改正物流効率化法の内容認知",
@@ -372,47 +404,45 @@
       "sourceURL": "https://www.lnews.jp/?p=309827",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309827",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
-    },
-    {
-      "title": "佐川急便／ジャングリア沖縄を「手ぶらサービス」で満喫、新作コラム公開",
-      "body": "<![CDATA[<p>佐川急便は1月27日、特設Webサイト「物流を止めない 持続可能な物流を NEVER STOPS LOGISTICS」で、テーマパーク「ジャングリア沖縄」で行っている荷物の預かり・発送サービスを紹介する新作コラムを公開し [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0127601.html\">佐川急便／ジャングリア沖縄を「手ぶらサービス」で満喫、新作コラム公開</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=309839",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=309839",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
-    },
-    {
-      "title": "NXHD／インド半導体ミッション代表団が来訪、物流ハブ構築へ協議",
-      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングス（HD）は1月27日、インド政府電子情報技術省傘下のインド半導体ミッション（ISM）代表団が2025年12月17日に同社グループビルを訪れ、インドの半導体分野における物流・倉庫 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0127502.html\">NXHD／インド半導体ミッション代表団が来訪、物流ハブ構築へ協議</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=309830",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=309830",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
-    },
-    {
-      "title": "栗山米菓／賞味期限「年月表示」化と物流改善で農水省サイトに優良事例として掲載",
-      "body": "<![CDATA[<p>“ばかうけ”などの米菓を製造販売する新潟県の栗山米菓は１月27日、自社が取り組んできた賞味期限表示の「年月表示」への変更が、農林水産省公式サイトにおいて食品ロス削減に資する優良事例として掲載されたと発表した。 食品を扱う [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0127501.html\">栗山米菓／賞味期限「年月表示」化と物流改善で農水省サイトに優良事例として掲載</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=309812",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=309812",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
-    },
-    {
-      "title": "サッポログループ物流／ロッテと冬季限定のラウンドマッチング輸送開始",
-      "body": "<![CDATA[<p>サッポロホールディングスのグループ企業であるサッポログループ物流は1月27日、ロッテとのトラックのラウンドマッチング輸送を冬季限定で実施すると発表した。 ■関連記事 ロッテ／31フィートスーパーＵＲコンテナ活用のラウンド [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0127702.html\">サッポログループ物流／ロッテと冬季限定のラウンドマッチング輸送開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=309803",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=309803",
-      "fetchedAt": "2026-01-29T02:42:42.395Z"
+      "fetchedAt": "2026-01-29T07:00:19.567Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "韓国 サムスン電子 去年の決算 売り上げ35兆円余 過去最高",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038331000.html",
-      "summary": "韓国のサムスン電子は、2023年の年間売上高が35兆円を超え、過去最高を記録しました。韓国の報道によると、この成長は生成AI向け半導体の販売増加が主な要因とされています。",
+      "title": "株価 小幅に値上がり 売り買い交錯の展開",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038381000.html",
+      "summary": "29日の東京株式市場では、売買の動きが混在し、日経平均株価はわずかに上昇しました。市場参加者の間で売りと買いが入り混じる中、全体としては小幅な値上がりの動きが見られました。",
+      "classification": {
+        "tone": "N",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
+      },
+      "commentary": "売り買いが交錯して値動きが小幅に終わるとき、市場の声をきちんと聞き取る姿勢が大事や。表面的な動きに惑わされず、疑問をそのままにせず確かめることで、次の一手への信頼が積み重なる。焦らず、真摯に市場と向き合うことが肝心やね。"
+    },
+    {
+      "source": "NHK",
+      "title": "全国の信用組合でシステム障害 午後3時ごろまでに すべて復旧",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038451000.html",
+      "summary": "29日、全国の140信用組合が共通で使用するシステムに障害が起き、一部の窓口やATMで取引が一時的に停止しました。全国信用協同組合連合会の発表によれば、問題は午後3時ごろまでに解消され、サービスは復旧したと報告されています。",
+      "classification": {
+        "tone": "B",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "め",
+        "phrase": "目を見て 話せん奴を 信用すな"
+      },
+      "commentary": "今回のシステム障害は、信用の根幹に関わる問題や。どんなに便利な仕組みでも、顔を見て話すような直接の信頼感には代われへん。トラブルから学び、日々の積み重ねで信頼の目線を保つことが、あきんどの道やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "東京都／港区の駐車スペースを荷さばき用に無償提供",
+      "sourceURL": "https://www.lnews.jp/?p=310214",
+      "summary": "東京都は1月28日、物流の効率化を目的とした「東京物流ビズ」プロジェクトの一環として、港区芝大門二丁目の駐車スペースを運送事業者に荷さばき用として無償で提供するサービスを開始した。これにより貨物車の駐車環境改善を図る。",
       "classification": {
         "tone": "G",
         "term": "M"
@@ -421,67 +451,37 @@
         "leadingKana": "お",
         "phrase": "おおきにと 言われてなんぼ 言うてなんぼ"
       },
-      "commentary": "売上の数字だけに浮かれず、支えてくれるお客さんや社会への感謝を忘れんことや。技術や商品が評価されてこそ「おおきに」と言われる商いになる。日々の積み重ねで信頼築き、次の一歩を考える姿勢が大切やで。"
-    },
-    {
-      "source": "NHK",
-      "title": "金の先物価格が初の5500ドル突破 急激な上昇続く ドル安懸念も",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038121000.html",
-      "summary": "ニューヨーク商品取引所で金の先物価格が初めて1オンスあたり5500ドルを超えました。これはアメリカのトランプ政権の政策に対する不透明感からドル安が進行し、安全資産としての金に資金が流入したことが背景にあります。この動きは国際的な市場で注目されています。",
-      "classification": {
-        "tone": "N",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
-      },
-      "commentary": "金の価格が急に跳ね上がると、商売人としては「何でや？」と感じるのは自然や。相場の動きは一時の風向きや政策の不透明さにも左右される。そんな時こそ、違和感を大事にして、焦らず地道に信頼と経験を積み重ねることが未来の糧になるんやで。"
+      "commentary": "港区が物流事業者に駐車場を無償提供する取り組みは、日々の仕事環境を支える地道な支援や感謝の輪を広げる一歩やね。商いは「おおきに」の信頼積み重ね、こうした環境があってこそ、運ぶ側も届ける側も前に進めるんやと改めて感じるわ。"
     },
     {
       "source": "LNEWS",
-      "title": "TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始",
-      "sourceURL": "https://www.lnews.jp/?p=310109",
-      "summary": "TOPPAN、TOPPANロジスティクス、トーインの3社は、食品や日用品、化粧品向けの包装資材を最終製品メーカーの工場へ納品する共同配送を、2月2日から開始する。これにより、各社が効率的な物流体制を目指す取り組みが進む。",
+      "title": "エスマット／AI在庫管理クラウドの成果発表、MARUWA SHOMEIで在庫300万円削減",
+      "sourceURL": "https://www.lnews.jp/?p=310187",
+      "summary": "エスマットは1月29日に東京都内で、AIを活用した在庫管理クラウド「SmartMat Cloud」の成果発表会を実施した。同システムは在庫管理の効率化と現場のデジタル化を目指しており、導入企業の一つであるMARUWA SHOMEIでは約300万円の在庫削減効果が報告された。会場ではシステムの機能説明も行われた。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "た",
-        "phrase": "鷹の目と 地虫の目と 人の目"
+        "leadingKana": "ゆ",
+        "phrase": "ゆっくりと 行くのは一体 何の為？"
       },
-      "commentary": "共同配送の取り組みは、遠くから全体の効率を捉えつつ、現場の細やかな課題も見逃さへん姿勢が大事や。製造現場の声や日々の信頼関係を大切にしながら、社会との繋がりを意識して持続的に進めることが肝心やで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "日本通運／順次出荷と一括納品を両立、国内航空貨物向け新サービス開始",
-      "sourceURL": "https://www.lnews.jp/?p=310115",
-      "summary": "日本通運は1月22日から、国内航空貨物向けの新サービス「NXマルチオーダーOne」の提供を開始した。このサービスは、複数の注文に対して順次出荷と一括納品の両方を可能にし、顧客の物流効率向上を目指している。日本通運ホールディングスグループの一環として展開されている。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "は",
-        "phrase": "早起きは 眠たいけども 憂いなし"
-      },
-      "commentary": "新しいサービスは、順次出荷と一括納品の両立を図り、顧客の多様なニーズに応える動きや。焦らず着実に仕組みを整え、日々の積み重ねで信頼を築く姿勢が大事やね。急がば回れ、準備を怠らずに進むことで、後の不安が減るもんや。"
+      "commentary": "AIを使うて在庫削減の成果は見事やけど、動きが鈍っては元も子もない。商売は待たせず、先手必勝が命。理由なくのんびり構えず、効率とスピードを磨きつつ、信頼の積み重ねを忘れんとこな。"
     },
     {
       "source": "Guardian｜World",
       "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
       "sourceURL": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-      "summary": "先週、地中海を渡ろうとした移民らが、イタリア南部やマルタを襲ったサイクロン・ハリーの影響で多数が犠牲になったと、イタリア沿岸警備隊が発表しました。マルタ当局は船の難破で50人が死亡し、1人が病院に搬送されて一命を取り留めたと確認しています。犠牲者数は最大で380人にのぼる可能性があるとされています。",
+      "summary": "先週、地中海を渡ろうとした移民ら約380人が、南イタリアとマルタを襲ったサイクロン・ハリーの影響で溺死した可能性があるとイタリア沿岸警備隊が発表した。マルタ当局は、50人が死亡した船の沈没事故を確認しており、唯一の生存者が病院で治療を受けているという。",
       "classification": {
         "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "も",
-        "phrase": "もうアカン 思たトコから もう一歩"
+        "leadingKana": "こ",
+        "phrase": "ゴミが落ちていたら拾うんです"
       },
-      "commentary": "命の重みを思うたら、簡単に諦めたらあかんわな。厳しい状況でも、心折れそうなとこから最後の一歩を踏み出すことが、信頼の積み重ねにつながるんや。あきんどは短期の勝ち負けでなく、困難を通じて学び、持続する姿勢を忘れたらあかんで。"
+      "commentary": "海の向こうで命が失われる現実は、私らの身近な「落ちてるものを拾う」感覚と繋がるんや。目の前の問題を見過ごさず、小さなことでも丁寧に対処する姿勢が、信頼と責任を積み重ねるんやで。どんなに大きな嵐でも、その積み重ねが次の行動の礎になるんやと思うわ。"
     }
   ]
 }
