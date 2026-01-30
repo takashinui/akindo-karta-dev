@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-01-29T18:59:42.386Z",
+  "generatedAt": "2026-01-30T02:43:56.911Z",
   "run": {
-    "ranAt": "2026-01-29T18:59:42.386Z",
+    "ranAt": "2026-01-30T02:43:56.911Z",
     "runner": "github-actions",
-    "runId": "21490964492"
+    "runId": "21502507751"
   },
   "stock": [
+    {
+      "title": "卵卸売価格 1月として過去最高 15か月連続で前年より値上がり",
+      "body": "1月の東京地区の卵の平均卸売価格は統計が公表されている1993年以降、1月としては最も高くなりました。クリスマスケーキなどの需要が高まった先月より値下がりしたものの、鳥インフルエンザの影響で高値の水準が続いています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039281000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260130/k10015039281000.html",
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
+    },
+    {
+      "title": "12月の完全失業率2.6％ 前月と変わらず横ばい",
+      "body": "先月の全国の完全失業率は2.6％で前の月と変わらず横ばいでした。また、去年1年間の平均の完全失業率は2.5％と、おととしと変わりませんでした。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039141000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260130/k10015039141000.html",
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
+    },
+    {
+      "title": "商船三井／Northern Lights社向け「液化CO2輸送船」2隻を新造",
+      "body": "<![CDATA[<p>商船三井は1月29日、欧州で世界初の国境をまたぐCO2海上輸送・貯留（CCS）事業を展開するNorthern Lights（ノーザン ライツ）社向けに、新造の液化CO2輸送船2隻の長期用船契約を締結したと発表した。同日、 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s1030502.html\">商船三井／Northern Lights社向け「液化CO2輸送船」2隻を新造</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310292",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=310292",
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
+    },
+    {
+      "title": "四国化成HD／物流費3.10％増の66.55億円、構成比も増加",
+      "body": "<![CDATA[<p>四国化成ホールディングスが1月29日に発表した2025年12月期決算によると、物流費（運送費及び保管費）は66億5500万円（前年同期比3.10％増）だった。 売上高に占める物流費の構成比は、前年同期比9.28％から9. [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0130702.html\">四国化成HD／物流費3.10％増の66.55億円、構成比も増加</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310286",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=310286",
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
+    },
+    {
+      "title": "Niger’s military ruler vows retaliation after gunfire and explosions heard in capital",
+      "body": "&lt;p&gt;General Tchiani accuses France, Benin and the Ivory Coast of links to attack near Niamey’s airport and thanks Russian troops for defence efforts &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Heavy security has been deployed around the main airport in Niger’s capital, Niamey, after overnight gunfire and explosions that the country’s military ruler blamed without evidence on France, Benin and Côte d’Ivoire.&lt;/p&gt;&lt;p&gt;The shooting and detonations began shortly after midnight on Wednesday, according to residents of a neighbourhood near the airport, which is next to Base Aérienne 101, a military base previously used by &lt;a href=\"https://www.theguardian.com/world/article/2024/may/03/us-confirms-russian-forces-have-entered-airbase-in-niger-where-us-troops-are-stationed\"&gt;US and then Russian troops&lt;/a&gt;.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
+    },
     {
       "title": "香港で大規模旅行博覧会 春節の連休前に 日本の自治体などがPR",
       "body": "香港で大規模な旅行博覧会が始まり、2月の旧正月の春節にあわせた連休を前に、日本の自治体などがそれぞれの魅力をPRしました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038861000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260129/k10015038861000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "東京電力HD 最終損益は6400億円余赤字見通し 廃炉の準備費用で",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260129/k10015038801000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "東急不動産／埼玉県蓮田市に9.8万m2の物流施設を竣工、白岡市の施設とドローン実証も",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310073",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310073",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始",
@@ -36,15 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310109",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310109",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
-    },
-    {
-      "title": "Heavy security deployed at airport in Niger capital after overnight explosions",
-      "body": "&lt;p&gt;Source says two aircraft on ground in Niamey ‘destroyed’ by gunfire although authorities yet to comment on situation&lt;/p&gt;&lt;p&gt;Heavy security has been deployed around the main airport in Niger’s capital, Niamey, after overnight gunfire and explosions.&lt;/p&gt;&lt;p&gt;The shooting and detonations began shortly after midnight on Wednesday, according to residents of a neighbourhood near the airport, which is next to Base Aérienne 101, a military base previously used by &lt;a href=\"https://www.theguardian.com/world/article/2024/may/03/us-confirms-russian-forces-have-entered-airbase-in-niger-where-us-troops-are-stationed\"&gt;US and then Russian troops&lt;/a&gt;.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "株価 小幅に値上がり 売り買い交錯の展開",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260129/k10015038381000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "全国の信用組合でシステム障害 午後3時ごろまでに すべて復旧",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260129/k10015038451000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "東京都／港区の駐車スペースを荷さばき用に無償提供",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310214",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310214",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "エスマット／AI在庫管理クラウドの成果発表、MARUWA SHOMEIで在庫300万円削減",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310187",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310187",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "韓国 サムスン電子 去年の決算 売り上げ35兆円余 過去最高",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260129/k10015038331000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "金の先物価格が初の5500ドル突破 急激な上昇続く ドル安懸念も",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260129/k10015038121000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "日本通運／順次出荷と一括納品を両立、国内航空貨物向け新サービス開始",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310115",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310115",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.225Z"
     },
     {
       "title": "JR東海労組 春闘 ベア月額1万3000円要求へ 物価上昇で最高水準",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260129/k10015038001000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "「特別注意銘柄」に指定されたニデック 東証に改善計画を提出",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037781000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "オリックス不動産／埼玉県伊奈町に3.3万m2のマルチテナント型物流施設を竣工",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310010",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310010",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "国交省／日ASEAN物流専門家会合開き、コールドチェーン物流などの情報共有",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310034",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310034",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "フジテレビ 社員1人を懲戒解雇処分 取材情報など複数回漏えい",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037921000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "円相場 一時1ドル＝152円台前半まで値上がり トランプ氏発言で",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037331000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "阪急阪神エクスプレス／上野動物園から中国へ、パンダ返還をサポート",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310052",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310052",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "日銀 利上げを決めた12月の金融政策決定会合の議事要旨公表",
@@ -172,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037541000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037541000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "【きょうのおはBiz1月28日(水)】“レートチェック”  効果は?",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037481000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "株価 値下がり 円高ドル安進み輸出関連銘柄中心に売り注文",
@@ -188,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037581000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "大和ハウス工業／東京都青梅市の物流施設、災害時等の支援で協定",
@@ -196,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310043",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310043",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "日本郵便／28日より104郵便局で軽四輪の追加停止処分",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310040",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310040",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "日銀 2015年後半の金融政策決定会合議事録を公開",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037441000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "NYダウ 前日から400ドルあまり値下がり S＆P500は最高値を更新",
@@ -220,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037431000.html",
-      "fetchedAt": "2026-01-29T18:59:14.979Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "カウネット／当日配達エリアでの一部翌日配達移行で、配達完了時間「前倒し」実現",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309968",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309968",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "佐川急便など3社／「高尾100年の森」でカーボンクレジット創出へ実証開始",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309956",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309956",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "ルーフィ／ネットスーパーと来店宅配の荷物、混載配送システムを提供開始",
@@ -244,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309962",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309962",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "メトラー・トレド／正確な測定データを基にした物流改革と経営改善を後押し",
@@ -252,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=308264",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=308264",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "日本GLP／大阪市に「Marq」ブランド初の物流施設を竣工、マルカミ物流が1棟利用へ",
@@ -260,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309914",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309914",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "山善／埼玉県白岡市にEC専用拠点「ロジスEC関東」新設、物流網を最適化",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=309932",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=309932",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "G7財務相会議 レアアースなど重要鉱物の安定的確保など議論",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037341000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "米トランプ政権 レアアース開発など国が企業経営に関与の動き",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037171000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "米FRB議長の後任選び 大詰めに “早ければ来週にも”",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260128/k10015037151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260128/k10015037151000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "楽天モバイル 音声通話やデータ通信などが復旧",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036801000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "ソフトバンク “個人情報 最大8000件余が漏えいの可能性”発表",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037111000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037111000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "衆院選 10の争点 テーマごとに詳しく【一覧】",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036951000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "去年1年間 国内で出荷されたPC 1095万台余 前年比43.7％増",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037031000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037031000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "円相場 いくぶん値下がり 1ドル＝154円台半ば中心の取り引きに",
@@ -332,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015037011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015037011000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "春闘 電機連合 月額1万8000円以上賃上げ要求の方針決定",
@@ -340,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036981000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】エネルギー政策",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036901000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】経済・財政政策",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036671000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "【詳しく知る衆院選の争点】物価高対策",
@@ -364,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036661000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     },
     {
       "title": "株価 値上がり 半導体関連の銘柄中心に買い注文広がる",
@@ -372,107 +404,75 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260127/k10015036621000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
-    },
-    {
-      "title": "「民泊新法」違反容疑で初 会社と代表ら書類送検 東京 荒川区",
-      "body": "東京 荒川区で民泊事業を行う会社が、区の条例で禁止されている平日に客を宿泊させたうえ、区にうその報告をしていたなどとして、警視庁は、いわゆる「民泊新法」違反の疑いで会社と、代表ら2人を書類送検しました。この法律での立件は全国で初めてだということです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260127/k10015036581000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260127/k10015036581000.html",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
-    },
-    {
-      "title": "プロロジス／八千代市の物流施設に積み込み・荷降ろしロボ導入、テナントの自動化を後押し",
-      "body": "<![CDATA[<p>プロロジスは1月27日、千葉県八千代市で運営するマルチテナント型物流施設「プロロジスパーク八千代2」において、物流業務の自動化を推進し、働き方の改善につながる新たな取り組みを開始すると発表した。 「プロロジスパーク八千代 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0127504.html\">プロロジス／八千代市の物流施設に積み込み・荷降ろしロボ導入、テナントの自動化を後押し</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=309905",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=309905",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
-    },
-    {
-      "title": "【PR】日野コンピューターシステム／セミナー「紙管理から脱却！車両点検DX」2月3・5日開催",
-      "body": "<![CDATA[<p>日野コンピューターシステムは2月3日・5日の2日間、セミナー「紙管理から脱却！車両点検DX～点検作業と管理の変革、承認作業に疲弊する管理者を救う～」を開催する。 セミナーでは、車両点検とその管理で抱える課題／車両点検DX [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0127801.html\">日野コンピューターシステム／セミナー「紙管理から脱却！車両点検DX」2月3・5日開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=309884",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=309884",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
-    },
-    {
-      "title": "【PR】APT／セミナー「500名対象の最新調査から紐解く物流DX・自動化の成功法則」2月5・9日開催",
-      "body": "<![CDATA[<p>APTは2月5日・9日の2日間、セミナー「500名対象の最新調査から紐解く物流DX・自動化の成功法則」を開催する。 セミナーでは、APT調査チームによる物流・倉庫関連企業500名を対象とした最新の実態調査に基づき、多くの [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0127802.html\">APT／セミナー「500名対象の最新調査から紐解く物流DX・自動化の成功法則」2月5・9日開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=309893",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=309893",
-      "fetchedAt": "2026-01-29T18:59:14.980Z"
+      "fetchedAt": "2026-01-30T02:43:30.226Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "香港で大規模旅行博覧会 春節の連休前に 日本の自治体などがPR",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038861000.html",
-      "summary": "香港で大規模な旅行博覧会が開催され、2月の旧正月の連休に向けて多くの来場者が訪れました。日本の複数の自治体がブースを設け、自地域の観光資源や特色を紹介し、訪日観光の促進を図る取り組みを行いました。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "は",
-        "phrase": "早起きは 眠たいけども 憂いなし"
-      },
-      "commentary": "春節前の旅行博は、準備の朝と同じ。眠たくても早起きして地道にPR重ねることで、信頼の種がまかれるわけや。焦らず着実に魅力を伝え続ける姿勢が、長い目で見た成果をつくる。急がば回れの心構えが大事やで。"
-    },
-    {
-      "source": "NHK",
-      "title": "東京電力HD 最終損益は6400億円余赤字見通し 廃炉の準備費用で",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038801000.html",
-      "summary": "東京電力ホールディングスは、2023年度の連結決算で、福島第一原発の廃炉準備費用が増加した影響を受け、約6400億円の最終赤字を見込んでいると発表しました。今回の赤字は廃炉関連の支出拡大が主な要因とされています。",
+      "title": "卵卸売価格 1月として過去最高 15か月連続で前年より値上がり",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039281000.html",
+      "summary": "1月の東京地区における卵の平均卸売価格が、1993年の統計開始以降で1月として最高値を記録しました。前月のクリスマス需要での高騰からはやや下落したものの、鳥インフルエンザの影響により高価格が継続し、15か月連続で前年を上回っています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "つ",
-        "phrase": "つまらない 話もコトも しなさんな"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "東京電力の巨額赤字は廃炉準備の現実を映してるわな。ただ無意味に費用だけ膨らむ話なら避けたいところやけど、将来の安全と信頼の種まきと考え、無駄を見極める目でじっくり向き合う姿勢が問われるんや。焦らず本気で真摯に取り組む覚悟が大事やで。"
+      "commentary": "卵の値上がり続きは、ただの数字や価格の問題やないで。長引く鳥インフルの影響は、商売の根っこを揺らす。苦労して得た価格の高さが真の価値かどうか、冷静に見極めることが肝心や。焦らず、何のための商いかを常に考える姿勢が信頼を築く道やで。"
+    },
+    {
+      "source": "NHK",
+      "title": "12月の完全失業率2.6％ 前月と変わらず横ばい",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039141000.html",
+      "summary": "12月の全国の完全失業率は2.6％で、11月から変動がありませんでした。前年1年間の平均失業率も2.5％で、前々年と同じ水準を維持しています。失業率は概ね安定した状況が続いています。",
+      "classification": {
+        "tone": "N",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
+      },
+      "commentary": "失業率が横ばいやからと言うて、現状をただ受け流すのはあきまへん。表面的な数字の裏にある課題や変化を見逃さんためにも、疑問を持って深掘りする姿勢が肝心や。商売も社会も、ほんまの意味で理解せんと信頼は積み上がらへんもんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "東急不動産／埼玉県蓮田市に9.8万m2の物流施設を竣工、白岡市の施設とドローン実証も",
-      "sourceURL": "https://www.lnews.jp/?p=310073",
-      "summary": "東急不動産は埼玉県蓮田市で約9.8万平方メートルのマルチテナント型物流施設「LOGI’Q蓮田」を完成させ、内覧会を実施した。また、近隣の白岡市にある同ブランドの物流施設間で荷物をドローンによって自動搬送する実証実験も行った。",
+      "title": "商船三井／Northern Lights社向け「液化CO2輸送船」2隻を新造",
+      "sourceURL": "https://www.lnews.jp/?p=310292",
+      "summary": "商船三井は1月29日、欧州で国境を越えるCO2の海上輸送・貯留事業を行うNorthern Lights社向けに、液化CO2輸送船2隻の新造と長期用船契約を締結したと発表した。これらの船舶は同社のCCS事業を支える重要な輸送手段となる見込みである。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "い",
-        "phrase": "いつだって  3％と 1/3"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "新しい物流施設とドローン搬送の実験、そないな取り組みは日々の「ちょっとした無駄」見つける目線が大事やで。普段の3％の改善を積み重ねつつ、時にはじっと考えて大きな変化を狙う、そんな姿勢が信頼を築く商いの道やろな。"
+      "commentary": "環境変化の中で船の役割も進化しとるわけや。短期の利益にとらわれず、持続可能な社会への貢献を見据えて汗かく姿勢が肝心や。答えは一朝一夕に出んけど、信頼積み重ねる地道な歩みが次の信頼を呼ぶんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始",
-      "sourceURL": "https://www.lnews.jp/?p=310109",
-      "summary": "TOPPAN、TOPPANロジスティクス、トーインの3社は、食品や日用品、化粧品向けの包装資材を最終製品メーカーの工場に届ける共同配送を、2月2日から開始する。これにより物流効率の向上を図る取り組みとなる。",
+      "title": "四国化成HD／物流費3.10％増の66.55億円、構成比も増加",
+      "sourceURL": "https://www.lnews.jp/?p=310286",
+      "summary": "四国化成ホールディングスが2025年12月期の決算を発表し、物流費が前年同期比3.10％増の約66億5500万円となったことが明らかになった。これに伴い、売上高に占める物流費の割合も前年より上昇し、コスト構成における物流費の比重が増加している。",
       "classification": {
-        "tone": "G",
+        "tone": "N",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "は",
-        "phrase": "早起きは 眠たいけども 憂いなし"
+        "leadingKana": "よ",
+        "phrase": "世の中は 広いんやから 驚くな"
       },
-      "commentary": "共同配送は手間とコストの削減だけやない。早朝の静けさを活かすように、日々の動きを丁寧に積み重ね、信頼の道を拓く感覚や。短期の成果に惑わされず、地道な連携が未来の強みになる。眠たくても、しっかり準備する朝の価値を思い出させる話やな。"
+      "commentary": "物流費が増えるというニュース、慌てることはあらへんで。世の中広いさかい、コストの変動はよくある話や。日々の積み重ねで信頼築くあきんどとしては、その理由や背景を見極め、次にどう動くかが大事や。驚かず、冷静に現実を受け止めよ。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Heavy security deployed at airport in Niger capital after overnight explosions",
+      "title": "Niger’s military ruler vows retaliation after gunfire and explosions heard in capital",
       "sourceURL": "https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
-      "summary": "ニジェールの首都ニアメの空港付近で、深夜に銃撃と爆発が発生し、現地の住民によると2機の地上の航空機が銃撃で破壊されたと報告されています。空港周辺には厳重な警備が敷かれており、空港は米軍やロシア軍が使用していた基地に隣接しています。現地当局からは現時点で公式なコメントはありません。",
+      "summary": "ニジェールの首都ニアメで深夜に銃撃や爆発音が確認され、軍事指導者のトチャニ将軍はフランス、ベナン、コートジボワールが関与していると非難しました。事件は主に空港周辺で発生し、同地域には米軍およびロシア軍が駐留していた基地もあります。現在、空港周辺には厳重な警備が敷かれ、トチャニ将軍はロシア軍の防衛支援に感謝の意を示しました。",
       "classification": {
         "tone": "B",
         "term": "S"
@@ -481,7 +481,7 @@
         "leadingKana": "こ",
         "phrase": "ゴミが落ちていたら拾うんです"
       },
-      "commentary": "今回の騒動も、周囲の状況を見て自分にできることを考える姿勢が大事や。混乱の中でも、目の前の小さな課題や変化に気づき、誠実に対応し続けることで信頼は積み重なる。大きな問題に押し流されず、日々の行動の積み重ねを忘れんとこな。"
+      "commentary": "混乱の中でも、自分の手元の環境を整えることは信頼の基礎や。遠くで起きることに振り回されても、日々の誠実な積み重ねが次の一歩をつくる。見えへん問題も放置せず、自分の範囲でできることを丁寧に果たす、それがあきんどの務めやと思うで。"
     }
   ]
 }
