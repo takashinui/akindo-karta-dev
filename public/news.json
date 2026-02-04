@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-02-04T07:04:17.269Z",
+  "generatedAt": "2026-02-04T13:19:08.153Z",
   "run": {
-    "ranAt": "2026-02-04T07:04:17.269Z",
+    "ranAt": "2026-02-04T13:19:08.153Z",
     "runner": "github-actions",
-    "runId": "21661946175"
+    "runId": "21672980719"
   },
   "stock": [
+    {
+      "title": "パナソニックHD 今年度業績見通し下方修正 構造改革費用かさむ",
+      "body": "パナソニックホールディングスは、今年度（2025年度）の業績について、グループで進める構造改革の規模が拡大し想定より費用がかさんでいるとして、最終的な利益をこれまでの想定より下方修正し、2400億円にとどまるとの見通しを示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043511000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260204/k10015043511000.html",
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
+    },
+    {
+      "title": "スルメイカ 新年度の漁獲枠案 “今年度当初の3.5倍に” 水産庁",
+      "body": "不漁から一転して今年度（2025年度）、漁獲量が増えたスルメイカについて、水産庁は新年度（2026年度）の漁獲枠を今年度当初の3.5倍に増やす案を示しました。この案は今後、パブリックコメントを経て今月の有識者会議で正式に決まる見通しです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043431000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260204/k10015043431000.html",
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
+    },
+    {
+      "title": "東京建物、三井物産都市開発／千葉県船橋市でマルチテナント型の冷凍冷蔵施設着工",
+      "body": "<![CDATA[<p>東京建物と三井物産都市開発は2月2日、千葉県船橋市でマルチテナント型の冷凍・冷蔵物流施設「T-LOGI船橋南海神」を着工した。2027年10月竣工を予定している。 ＜「T-LOGI船橋南海神」外観イメージ＞ 施設は4階建 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204605.html\">東京建物、三井物産都市開発／千葉県船橋市でマルチテナント型の冷凍冷蔵施設着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311012",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=311012",
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
+    },
+    {
+      "title": "アサヒフレッシュロジ／茨城県守谷市に食品物流拠点を移転新築、面積1.6倍に",
+      "body": "<![CDATA[<p>アサヒロジスティクスのグループ会社、アサヒフレッシュロジは2月13日、茨城県守谷市に新たな物流拠点「守谷センター」を開所する。 ＜守谷センター外観＞ ＜全景＞ 「守谷センター」は、旧「取手センター」が老朽化し、取扱量増加 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204601.html\">アサヒフレッシュロジ／茨城県守谷市に食品物流拠点を移転新築、面積1.6倍に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310922",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=310922",
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
+    },
+    {
+      "title": "Gunmen have killed at least 162 people in west Nigeria attack, says Red Cross",
+      "body": "&lt;p&gt;Government blames ‘terrorist cells’ for attack in Woro village, one of country’s deadliest in recent months&lt;/p&gt;&lt;p&gt;Gunmen have killed at least 162 people in a village in Kwara state in western Nigeria, a Red Cross official has said, making it one of the deadliest attacks in recent months in the country, which has been plagued by interlinked security crises.&lt;/p&gt;&lt;p&gt;Armed gangs, known locally as bandits, who loot villages and kidnap for ransom, operate in swathes of the country, while jihadist groups are active in the north-east and north-west. Intercommunal violence is also prevalent in the central states.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
+    },
     {
       "title": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
       "body": "レギュラーガソリンの小売価格は、2日時点の全国平均で、1リットル当たり155.6円と、前の週から0.2円値上がりしました。値上がりは2週連続です。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "株価 値下がり AI普及でソフトウエアの需要減少の見方から",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "日本郵便／4日より104郵便局で軽四輪の追加停止処分",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311057",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311057",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "パルシステム東京／利用者への接遇力を審査するコンテストを開催",
@@ -36,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311051",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311051",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
@@ -44,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "【きょうのおはBiz 2月4日(水)】じかまきコメ作り 技術開発",
@@ -52,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "プルデンシャル生命 新規契約の販売活動を90日間自粛",
@@ -60,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "楽一番／倉庫業法「一類倉庫」登録完了で国内物流事業に本格参入",
@@ -68,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310934",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310934",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "NX中国／SITC社と「NXブランドコンテナ」を上海－大阪航路で運用",
@@ -76,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310931",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310931",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "“旧村上ファンド系が株式買い増し撤回の意向” フジHD",
@@ -84,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042511000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "春闘 日商と連合のトップが会談 賃上げ 適正な価格転嫁で一致",
@@ -92,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042641000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "CBRE IM／滋賀県栗東市で8.8万m2のマルチテナント型物流施設着工",
@@ -100,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310844",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310844",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "NX台湾／台南市に1.5万ｍ2の半導体関連貨物向け「台南NEXT11倉庫」を開設",
@@ -108,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310766",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310766",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "Handful of sick and wounded Palestinians allowed through Rafah crossing on first day",
@@ -116,7 +156,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "株価 終値の最高値更新 5万4720円超",
@@ -124,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042141000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "日銀 ETFの売却を開始 1月に約53億円分を売却",
@@ -132,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042401000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042401000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "ファイズHD 決算／4～12月の売上高26.5％増、営業利益10.1％減",
@@ -140,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310889",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310889",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "ニチレイ 決算／4～12月の低温物流事業は売上高8％増、営業利益23％増",
@@ -148,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310886",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310886",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "イーロン・マスク氏 “スペースXがAI開発企業「xAI」を買収”",
@@ -156,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042181000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "霞ヶ関キャピタル／冷凍冷蔵物流施設の開発など評価され農林水産大臣賞受賞",
@@ -164,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310760",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310760",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "中部電力 9か月間決算で117億円の費用計上 浜岡原発問題に関連",
@@ -172,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041821000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "ニデックTOBめぐりインサイダー取引か 証券会社元取締役ら逮捕",
@@ -180,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041521000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "三井不動産／茨城県ひたちなか市で12万m2、ロジスティード東日本の専用施設着工",
@@ -188,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310550",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310550",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "大和ハウス工業／静岡県牧之原市で計17万m2、物流や商業施設の複合開発へ",
@@ -196,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310694",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310694",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes",
@@ -204,7 +244,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "ダイハツ工業 商用車EV発売 国内市場でEV販売比率が低迷の中",
@@ -212,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041621000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "阪急阪神エクスプレス／吉本敏 常務が新社長に就任、谷村社長は会長に",
@@ -220,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310679",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310679",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "西濃運輸・福山通運／特積み幹線輸送でのドライバー交替方式による中継輸送の実証運行",
@@ -228,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310676",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310676",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "International law meant to limit effects of war at breaking point, study finds",
@@ -236,7 +276,7 @@
       "sourceURL": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "円相場値下がり 一時155円台半ばに 米利下げペース不透明観測",
@@ -244,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041291000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "“次の利上げ検討は時間かけすぎないよう” 先月の日銀会合",
@@ -252,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041391000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "ライナフ／生活クラブ東京が「スマート置き配」採用、オートロックマンション380棟で導入",
@@ -260,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310559",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310559",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "三菱地所／大阪市大正区で2.1万m2のマルチ型冷凍冷蔵倉庫を竣工",
@@ -268,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310532",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310532",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "More than 200 killed in coltan mine collapse in eastern DRC, officials say",
@@ -276,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "中部電力 新たな経営計画 原発再稼働を前提としない方向で検討",
@@ -284,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260201/k10015040981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260201/k10015040981000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "NYダウ 一時600ドル超値下がり 次のFRB議長 利下げに不透明感",
@@ -292,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260131/k10015040211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260131/k10015040211000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "三菱商事都市開発／静岡県掛川市で5.3万m2の物流施設を竣工、中継や広域配送の拠点へ",
@@ -300,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310361",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310361",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "国交省／次期総合物流施策大綱に盛り込む評価指標の考え方示す",
@@ -308,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310436",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310436",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "23日の急激な円高ドル安 政府・日銀の市場介入なし 財務省発表",
@@ -316,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015039981000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "ANA 中期経営計画発表 国際線旅客事業の規模30％拡大する方針",
@@ -324,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015039991000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "Islamic State claims attack on international airport and airbase in Niger",
@@ -332,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "Niger’s military ruler vows retaliation after gunfire and explosions heard in capital",
@@ -340,7 +380,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "【100社アンケート】春闘で“賃上げを実施予定・検討”が97％",
@@ -348,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015031221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015031221000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "“トランプ大統領がFRB次期議長にウォーシュ氏指名準備”報道",
@@ -356,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015039411000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     },
     {
       "title": "軽油インタンク価格／12月は4.3円値下がり",
@@ -364,124 +404,84 @@
       "sourceURL": "https://www.lnews.jp/?p=310430",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310430",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
-    },
-    {
-      "title": "川崎重工／LPG アンモニア運搬船「LUCENT PATHFINDER」を引き渡し",
-      "body": "<![CDATA[<p>川崎重工業は1月30日、TSURUGI MARITIMA向けに、LPG（液化石油ガス）燃料推進LPG／アンモニア運搬船「LUCENT PATHFINDER」を引き渡した。 ＜LUCENT PATHFINDER＞ 「LUC [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0130603.html\">川崎重工／LPG アンモニア運搬船「LUCENT PATHFINDER」を引き渡し</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310424",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310424",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
-    },
-    {
-      "title": "卵卸売価格 1月として過去最高 15か月連続で前年より値上がり",
-      "body": "1月の東京地区の卵の平均卸売価格は統計が公表されている1993年以降、1月としては最も高くなりました。クリスマスケーキなどの需要が高まった先月より値下がりしたものの、鳥インフルエンザの影響で高値の水準が続いています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039281000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260130/k10015039281000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
-    },
-    {
-      "title": "12月の完全失業率2.6％ 前月と変わらず横ばい",
-      "body": "先月の全国の完全失業率は2.6％で前の月と変わらず横ばいでした。また、去年1年間の平均の完全失業率は2.5％と、おととしと変わりませんでした。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039141000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260130/k10015039141000.html",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
-    },
-    {
-      "title": "商船三井／Northern Lights社向け「液化CO2輸送船」2隻を新造",
-      "body": "<![CDATA[<p>商船三井は1月29日、欧州で世界初の国境をまたぐCO2海上輸送・貯留（CCS）事業を展開するNorthern Lights（ノーザン ライツ）社向けに、新造の液化CO2輸送船2隻の長期用船契約を締結したと発表した。同日、 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s1030502.html\">商船三井／Northern Lights社向け「液化CO2輸送船」2隻を新造</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310292",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310292",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
-    },
-    {
-      "title": "四国化成HD／物流費3.10％増の66.55億円、構成比も増加",
-      "body": "<![CDATA[<p>四国化成ホールディングスが1月29日に発表した2025年12月期決算によると、物流費（運送費及び保管費）は66億5500万円（前年同期比3.10％増）だった。 売上高に占める物流費の構成比は、前年同期比9.28％から9. [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0130702.html\">四国化成HD／物流費3.10％増の66.55億円、構成比も増加</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310286",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310286",
-      "fetchedAt": "2026-02-04T07:03:48.277Z"
+      "fetchedAt": "2026-02-04T13:18:39.946Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
-      "summary": "全国のレギュラーガソリン小売価格は、2日時点で1リットル当たり平均155.6円となり、前週比で0.2円上昇しました。この価格上昇は2週連続で確認されています。",
+      "title": "パナソニックHD 今年度業績見通し下方修正 構造改革費用かさむ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043511000.html",
+      "summary": "パナソニックホールディングスは2025年度の業績見通しを修正し、構造改革費用の増加により最終利益が当初予想を下回り約2400億円になると発表しました。グループの改革規模拡大が費用増加の主な要因としています。",
       "classification": {
-        "tone": "N",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
-      },
-      "commentary": "ガソリン価格の連続上昇、何か違和感感じるやろな。値動きには背景や理由があるけど、疑問を持つこと自体が商売の気づきや。慌てず日々の積み重ねで信頼築きながら、その「ん？」を手がかりに次の一手を考えることが、長い目で見た商売の強さに繋がるんやで。"
-    },
-    {
-      "source": "NHK",
-      "title": "株価 値下がり AI普及でソフトウエアの需要減少の見方から",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
-      "summary": "4日の東京株式市場では、AIの普及が進むことでソフトウエアの需要が将来的に減少すると予想され、これに関連する半導体関連銘柄に売り注文が増加しました。その結果、日経平均株価は下落しています。",
-      "classification": {
-        "tone": "N",
+        "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "よ",
-        "phrase": "世の中は 広いんやから 驚くな"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "AIの進展で市場が揺れるのは当然やけど、慌てずに見守ることや。世の中は広うて変化も多い。短期の値動きに一喜一憂せんと、日々の積み重ねと信頼を大事にして、次の一手を考えることが肝心やで。"
+      "commentary": "構造改革に費用が膨らむのは珍しい話やない。けど、苦労して掴んだ結果が本当に価値あるか、常に見つめ直すことが肝心や。目先の数字に振り回されず、真の目的に立ち返る姿勢が信頼を積む道やで。"
     },
     {
-      "source": "LNEWS",
-      "title": "日本郵便／4日より104郵便局で軽四輪の追加停止処分",
-      "sourceURL": "https://www.lnews.jp/?p=311057",
-      "summary": "日本郵便は、貨物自動車運送事業法第33条に基づき、1月28日付の行政処分により104の郵便局で保有する一部の軽四輪車両の使用停止を決定しました。この停止処分は2月4日から適用されます。対象となる郵便局の一覧も公表されています。",
-      "classification": {
-        "tone": "B",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "こ",
-        "phrase": "ゴミが落ちていたら拾うんです"
-      },
-      "commentary": "今回の処分は、業務の基盤を揺るがす厳しい知らせやけど、手ぇ抜かんで日々の小さな積み重ねを大事にするしかない。見えへんところの信用も、雑な扱いせん姿勢が形づけるもんや。どんな時も、目の前の仕事に誠実に向き合うことが、次の信頼の礎になるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "パルシステム東京／利用者への接遇力を審査するコンテストを開催",
-      "sourceURL": "https://www.lnews.jp/?p=311051",
-      "summary": "パルシステム東京は1月31日に、利用者への接遇力を評価する「パルシステムコンテスト」を開催した。今回で4回目の実施で、同社や関連の物流専門会社パルライン、宅配業務委託先の従業員が参加した。コンテストは宅配サービスの質向上を目的としている。",
+      "source": "NHK",
+      "title": "スルメイカ 新年度の漁獲枠案 “今年度当初の3.5倍に” 水産庁",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043431000.html",
+      "summary": "水産庁は、2025年度に漁獲量が増加したスルメイカの2026年度漁獲枠を、今年度当初の3.5倍に引き上げる案を提示しました。この案は今後、一般からの意見募集を経て有識者会議で正式決定される予定です。",
       "classification": {
         "tone": "G",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "と",
-        "phrase": "遠い道 一歩進めば 一歩近づく"
+        "leadingKana": "は",
+        "phrase": "早起きは 眠たいけども 憂いなし"
       },
-      "commentary": "接遇力を磨く取り組みは、日々の積み重ねが信頼の礎になるもんや。遠く感じる目標でも、一回の接客、一つの心遣いを大事に続けることで、確実に距離は縮まる。焦らず、着実に歩みを進めていく姿勢が大切やで。"
+      "commentary": "漁獲枠が急増する案、ええ話やけど慌てた動きは禁物や。日々の積み重ねと資源の見極めが大事やから、慌てず準備して信頼築くことが肝心や。焦らず着実に動く姿勢が次につながるで。"
     },
     {
-      "source": "Guardian｜World",
-      "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
-      "sourceURL": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
-      "summary": "ヒューマン・ライツ・ウォッチの報告によると、世界は「民主主義の後退」期にあり、約75％の人々が権威主義的な統治下で暮らしている。米国、ロシア、中国での権利侵害や権威主義の拡大が、国際的な人権体制とルールに基づく秩序を脅かしていると指摘された。これが現代社会の重大な課題とされている。",
+      "source": "LNEWS",
+      "title": "東京建物、三井物産都市開発／千葉県船橋市でマルチテナント型の冷凍冷蔵施設着工",
+      "sourceURL": "https://www.lnews.jp/?p=311012",
+      "summary": "東京建物と三井物産都市開発は千葉県船橋市で、複数のテナントが利用できる冷凍・冷蔵物流施設「T-LOGI船橋南海神」の建設を開始した。施設は4階建てで、2027年10月の完成を目指している。",
       "classification": {
-        "tone": "B",
+        "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "れ",
-        "phrase": "冷淡な　あいつの心は　仏さん"
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
       },
-      "commentary": "世界が権威主義に揺れる中、表面的な強さに惑わされず、相手の根底にある事情や理を冷静に見極めることが肝心や。商いも社会も、一時の感情で動くもんやおまへん。信頼は日々の理解と積み重ねから生まれるんやで。"
+      "commentary": "物流や流通の基盤を支える施設の新設は、地域と社会の暮らしを支える仕事や役割の積み重ねやな。地道な信頼の輪がなければ、大きな仕組みは動かへん。派手さよりも、ずっと続く縁と責任を意識して、しっかり取り組むことが肝心やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "アサヒフレッシュロジ／茨城県守谷市に食品物流拠点を移転新築、面積1.6倍に",
+      "sourceURL": "https://www.lnews.jp/?p=310922",
+      "summary": "アサヒロジスティクスの子会社、アサヒフレッシュロジは茨城県守谷市に新たな食品物流拠点「守谷センター」を2月13日に開設した。これは老朽化した旧取手センターの代替であり、施設面積は従来の約1.6倍に拡大している。物流能力の向上を目的とした移転・新築で、取扱量の増加に対応する狙いがある。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
+      },
+      "commentary": "物流拠点の新設は単なる拡大や効率化だけやあらへん。日々の現場で信頼積み重ね、地域と共に安定した流通を支えることが、社会全体の平和な暮らしを裏で支えてるんや。焦らず着実に、次の一歩を考え続けることが肝心やで。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "Gunmen have killed at least 162 people in west Nigeria attack, says Red Cross",
+      "sourceURL": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+      "summary": "西ナイジェリアのクワラ州ウォロ村で、武装集団による襲撃で少なくとも162人が死亡したと赤十字関係者が発表しました。政府はテロリストの関与を指摘しており、この事件は近年の国内で最も多くの犠牲者を出した攻撃の一つとなっています。ナイジェリアでは武装盗賊やジハード組織、地域間の暴力が複数地域で問題となっています。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
+      },
+      "commentary": "こうした悲報に直面したとき、表面的な情報だけで即断せず、事実関係を冷静に見極める姿勢が必要や。現場の複雑な背景を理解し、焦らずに根拠を確かめることが、信頼を築く商いの礎になるんやで。"
     }
   ]
 }
