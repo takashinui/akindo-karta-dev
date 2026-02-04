@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-02-04T02:44:34.620Z",
+  "generatedAt": "2026-02-04T07:04:17.269Z",
   "run": {
-    "ranAt": "2026-02-04T02:44:34.620Z",
+    "ranAt": "2026-02-04T07:04:17.269Z",
     "runner": "github-actions",
-    "runId": "21656358909"
+    "runId": "21661946175"
   },
   "stock": [
     {
-      "title": "【きょうのおはBiz 2月4日(水)】じかまきコメ作り 技術開発",
-      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
+      "title": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
+      "body": "レギュラーガソリンの小売価格は、2日時点の全国平均で、1リットル当たり155.6円と、前の週から0.2円値上がりしました。値上がりは2週連続です。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "id": "www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
-      "title": "プルデンシャル生命 新規契約の販売活動を90日間自粛",
-      "body": "営業社員が顧客から金銭をだまし取るなど31億円にのぼる不適切な金銭の受領が判明したプルデンシャル生命は、2月9日から新規契約の販売活動を90日間、自粛すると発表しました。ガバナンス態勢や営業制度の抜本的な見直しを最優先に実施するためだとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
+      "title": "株価 値下がり AI普及でソフトウエアの需要減少の見方から",
+      "body": "4日の東京株式市場、AIの普及によってソフトウエアの今後の需要が減少するのではないかとの見方から関連する半導体関連などの銘柄に売り注文が出て、日経平均株価は値下がりしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "id": "www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
-      "title": "楽一番／倉庫業法「一類倉庫」登録完了で国内物流事業に本格参入",
-      "body": "<![CDATA[<p>越境EC物流や海外転送サービスを手掛ける楽一番は2025年12月16日付で、関東運輸局から倉庫業法に基づく「一類倉庫」の登録（登録番号第10082号）を完了。これに伴い、越境EC物流に加え、国内物流事業に本格的に進出する [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204102.html\">楽一番／倉庫業法「一類倉庫」登録完了で国内物流事業に本格参入</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310934",
+      "title": "日本郵便／4日より104郵便局で軽四輪の追加停止処分",
+      "body": "<![CDATA[<p>日本郵便は、2月4日より行政処分を受ける郵便局一覧を公開した。 今回の通知は、貨物自動車運送事業法 第33条の規定に基づく、保有する一部の軽四輪車両の使用の停止処分。1月28日付の処分執行通知で104営業所が対象となり、 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204703.html\">日本郵便／4日より104郵便局で軽四輪の追加停止処分</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311057",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310934",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "id": "www.lnews.jp/?p=311057",
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
-      "title": "NX中国／SITC社と「NXブランドコンテナ」を上海－大阪航路で運用",
-      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングスのグループ会社、NX国際物流（中国）は昨年12月から、SITC International Holdings（SITC社）と連携し、「NXブランドコンテナ」の運用を始めた。 ＜ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204602.html\">NX中国／SITC社と「NXブランドコンテナ」を上海－大阪航路で運用</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310931",
+      "title": "パルシステム東京／利用者への接遇力を審査するコンテストを開催",
+      "body": "<![CDATA[<p>パルシステム東京は1月31日、宅配サービス利用者への接遇力を審査する「パルシステムコンテスト」を開催した。 4回目の開催となったコンテストには、パルシステム東京とパルシステム連合会の物流専門会社のパルライン、宅配業務を委 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204105.html\">パルシステム東京／利用者への接遇力を審査するコンテストを開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311051",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310931",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "id": "www.lnews.jp/?p=311051",
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
+    },
+    {
+      "title": "【きょうのおはBiz 2月4日(水)】じかまきコメ作り 技術開発",
+      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
+    },
+    {
+      "title": "プルデンシャル生命 新規契約の販売活動を90日間自粛",
+      "body": "営業社員が顧客から金銭をだまし取るなど31億円にのぼる不適切な金銭の受領が判明したプルデンシャル生命は、2月9日から新規契約の販売活動を90日間、自粛すると発表しました。ガバナンス態勢や営業制度の抜本的な見直しを最優先に実施するためだとしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
+    },
+    {
+      "title": "楽一番／倉庫業法「一類倉庫」登録完了で国内物流事業に本格参入",
+      "body": "<![CDATA[<p>越境EC物流や海外転送サービスを手掛ける楽一番は2025年12月16日付で、関東運輸局から倉庫業法に基づく「一類倉庫」の登録（登録番号第10082号）を完了。これに伴い、越境EC物流に加え、国内物流事業に本格的に進出する [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204102.html\">楽一番／倉庫業法「一類倉庫」登録完了で国内物流事業に本格参入</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310934",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=310934",
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
+    },
+    {
+      "title": "NX中国／SITC社と「NXブランドコンテナ」を上海－大阪航路で運用",
+      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングスのグループ会社、NX国際物流（中国）は昨年12月から、SITC International Holdings（SITC社）と連携し、「NXブランドコンテナ」の運用を始めた。 ＜ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204602.html\">NX中国／SITC社と「NXブランドコンテナ」を上海－大阪航路で運用</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=310931",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=310931",
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "“旧村上ファンド系が株式買い増し撤回の意向” フジHD",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042511000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "春闘 日商と連合のトップが会談 賃上げ 適正な価格転嫁で一致",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042641000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "CBRE IM／滋賀県栗東市で8.8万m2のマルチテナント型物流施設着工",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310844",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310844",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "NX台湾／台南市に1.5万ｍ2の半導体関連貨物向け「台南NEXT11倉庫」を開設",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310766",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310766",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "Handful of sick and wounded Palestinians allowed through Rafah crossing on first day",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "株価 終値の最高値更新 5万4720円超",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042141000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "日銀 ETFの売却を開始 1月に約53億円分を売却",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042401000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042401000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "ファイズHD 決算／4～12月の売上高26.5％増、営業利益10.1％減",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310889",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310889",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "ニチレイ 決算／4～12月の低温物流事業は売上高8％増、営業利益23％増",
@@ -116,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310886",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310886",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "イーロン・マスク氏 “スペースXがAI開発企業「xAI」を買収”",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042181000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "霞ヶ関キャピタル／冷凍冷蔵物流施設の開発など評価され農林水産大臣賞受賞",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310760",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310760",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "中部電力 9か月間決算で117億円の費用計上 浜岡原発問題に関連",
@@ -140,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041821000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "ニデックTOBめぐりインサイダー取引か 証券会社元取締役ら逮捕",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041521000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "三井不動産／茨城県ひたちなか市で12万m2、ロジスティード東日本の専用施設着工",
@@ -156,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310550",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310550",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "大和ハウス工業／静岡県牧之原市で計17万m2、物流や商業施設の複合開発へ",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310694",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310694",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "ダイハツ工業 商用車EV発売 国内市場でEV販売比率が低迷の中",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041621000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "阪急阪神エクスプレス／吉本敏 常務が新社長に就任、谷村社長は会長に",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310679",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310679",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "西濃運輸・福山通運／特積み幹線輸送でのドライバー交替方式による中継輸送の実証運行",
@@ -196,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310676",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310676",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "International law meant to limit effects of war at breaking point, study finds",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "円相場値下がり 一時155円台半ばに 米利下げペース不透明観測",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041291000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "“次の利上げ検討は時間かけすぎないよう” 先月の日銀会合",
@@ -220,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041391000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "ライナフ／生活クラブ東京が「スマート置き配」採用、オートロックマンション380棟で導入",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310559",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310559",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "三菱地所／大阪市大正区で2.1万m2のマルチ型冷凍冷蔵倉庫を竣工",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310532",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310532",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "More than 200 killed in coltan mine collapse in eastern DRC, officials say",
@@ -244,7 +276,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "中部電力 新たな経営計画 原発再稼働を前提としない方向で検討",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260201/k10015040981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260201/k10015040981000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "NYダウ 一時600ドル超値下がり 次のFRB議長 利下げに不透明感",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260131/k10015040211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260131/k10015040211000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "三菱商事都市開発／静岡県掛川市で5.3万m2の物流施設を竣工、中継や広域配送の拠点へ",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310361",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310361",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "国交省／次期総合物流施策大綱に盛り込む評価指標の考え方示す",
@@ -276,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310436",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310436",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "23日の急激な円高ドル安 政府・日銀の市場介入なし 財務省発表",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015039981000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "ANA 中期経営計画発表 国際線旅客事業の規模30％拡大する方針",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015039991000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "Islamic State claims attack on international airport and airbase in Niger",
@@ -300,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "Niger’s military ruler vows retaliation after gunfire and explosions heard in capital",
@@ -308,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "【100社アンケート】春闘で“賃上げを実施予定・検討”が97％",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015031221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015031221000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "“トランプ大統領がFRB次期議長にウォーシュ氏指名準備”報道",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015039411000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "軽油インタンク価格／12月は4.3円値下がり",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310430",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310430",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "川崎重工／LPG アンモニア運搬船「LUCENT PATHFINDER」を引き渡し",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310424",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310424",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "卵卸売価格 1月として過去最高 15か月連続で前年より値上がり",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015039281000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "12月の完全失業率2.6％ 前月と変わらず横ばい",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260130/k10015039141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260130/k10015039141000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "商船三井／Northern Lights社向け「液化CO2輸送船」2隻を新造",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310292",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310292",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     },
     {
       "title": "四国化成HD／物流費3.10％増の66.55億円、構成比も増加",
@@ -372,47 +404,15 @@
       "sourceURL": "https://www.lnews.jp/?p=310286",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310286",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
-    },
-    {
-      "title": "香港で大規模旅行博覧会 春節の連休前に 日本の自治体などがPR",
-      "body": "香港で大規模な旅行博覧会が始まり、2月の旧正月の春節にあわせた連休を前に、日本の自治体などがそれぞれの魅力をPRしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038861000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260129/k10015038861000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
-    },
-    {
-      "title": "東京電力HD 最終損益は6400億円余赤字見通し 廃炉の準備費用で",
-      "body": "東京電力ホールディングスは29日、決算会見を開き、今年度1年間のグループ全体の業績について、福島第一原発の廃炉に向けた準備費用が膨らんだことから最終損益は6400億円余りの赤字になる見通しだとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260129/k10015038801000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260129/k10015038801000.html",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
-    },
-    {
-      "title": "東急不動産／埼玉県蓮田市に9.8万m2の物流施設を竣工、白岡市の施設とドローン実証も",
-      "body": "<![CDATA[<p>東急不動産は1月28日、埼玉県蓮田市で開発を進めていたマルチテナント型物流施設「LOGI&#8217;Q蓮田」の竣工内覧会と、近隣に位置する白岡市の同ブランド施設から荷物をドローンで自動搬送する実証実験を行った。 ＜「L [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0129601.html\">東急不動産／埼玉県蓮田市に9.8万m2の物流施設を竣工、白岡市の施設とドローン実証も</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310073",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310073",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
-    },
-    {
-      "title": "TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始",
-      "body": "<![CDATA[<p>TOPPAN、TOPPANロジスティクスとトーインの3社は2月2日から、食品・日用品・化粧品向け包装資材について、最終製品メーカー工場へ納品する共同配送を開始する。 TOPPANとトーインが、TOPPANロジスティクスの [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/01/s0129602.html\">TOPPAN、トーイン／食品や日用品向け包装資材の共同配送を2月から開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310109",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310109",
-      "fetchedAt": "2026-02-04T02:44:10.694Z"
+      "fetchedAt": "2026-02-04T07:03:48.277Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "【きょうのおはBiz 2月4日(水)】じかまきコメ作り 技術開発",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
-      "summary": "NHKの平日朝の経済ニュース番組「おはBiz」では、最新のビジネストレンドや働き方、お役立ちサービス、スタートアップ情報を短時間で紹介しています。2月4日の放送では、じかまきによる米作りの技術開発について取り上げました。",
+      "title": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
+      "summary": "全国のレギュラーガソリン小売価格は、2日時点で1リットル当たり平均155.6円となり、前週比で0.2円上昇しました。この価格上昇は2週連続で確認されています。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -421,67 +421,67 @@
         "leadingKana": "ん",
         "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "新しいじかまきコメの技術、見た目は小さな変化やけど、どこか「ん？」と感じる感覚、大事にしたいな。慌てずに違和感の意味を探り、日々の積み重ねで信頼を築く視点が、将来の大きな成果につながるんやろな。焦らず見守る心が肝心やで。"
+      "commentary": "ガソリン価格の連続上昇、何か違和感感じるやろな。値動きには背景や理由があるけど、疑問を持つこと自体が商売の気づきや。慌てず日々の積み重ねで信頼築きながら、その「ん？」を手がかりに次の一手を考えることが、長い目で見た商売の強さに繋がるんやで。"
     },
     {
       "source": "NHK",
-      "title": "プルデンシャル生命 新規契約の販売活動を90日間自粛",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
-      "summary": "プルデンシャル生命は、営業社員による顧客からの不正な金銭受領が約31億円に上ることが判明したことを受け、2月9日から90日間、新規契約の販売活動を自粛すると発表しました。期間中は、ガバナンス体制や営業制度の抜本的な見直しを進める方針です。",
+      "title": "株価 値下がり AI普及でソフトウエアの需要減少の見方から",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
+      "summary": "4日の東京株式市場では、AIの普及が進むことでソフトウエアの需要が将来的に減少すると予想され、これに関連する半導体関連銘柄に売り注文が増加しました。その結果、日経平均株価は下落しています。",
+      "classification": {
+        "tone": "N",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "よ",
+        "phrase": "世の中は 広いんやから 驚くな"
+      },
+      "commentary": "AIの進展で市場が揺れるのは当然やけど、慌てずに見守ることや。世の中は広うて変化も多い。短期の値動きに一喜一憂せんと、日々の積み重ねと信頼を大事にして、次の一手を考えることが肝心やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "日本郵便／4日より104郵便局で軽四輪の追加停止処分",
+      "sourceURL": "https://www.lnews.jp/?p=311057",
+      "summary": "日本郵便は、貨物自動車運送事業法第33条に基づき、1月28日付の行政処分により104の郵便局で保有する一部の軽四輪車両の使用停止を決定しました。この停止処分は2月4日から適用されます。対象となる郵便局の一覧も公表されています。",
       "classification": {
         "tone": "B",
-        "term": "M"
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "つ",
-        "phrase": "つまらない 話もコトも しなさんな"
+        "leadingKana": "こ",
+        "phrase": "ゴミが落ちていたら拾うんです"
       },
-      "commentary": "信頼が損なわれた時、形だけの行動は意味を持ちませんわな。本音で向き合い、根本から見直す姿勢こそ大事。あきんどは無意味な儀礼や表面的な取り繕いに時間を割くより、心底から変わる覚悟を持って取り組むべきやと思いますで。"
+      "commentary": "今回の処分は、業務の基盤を揺るがす厳しい知らせやけど、手ぇ抜かんで日々の小さな積み重ねを大事にするしかない。見えへんところの信用も、雑な扱いせん姿勢が形づけるもんや。どんな時も、目の前の仕事に誠実に向き合うことが、次の信頼の礎になるんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "楽一番／倉庫業法「一類倉庫」登録完了で国内物流事業に本格参入",
-      "sourceURL": "https://www.lnews.jp/?p=310934",
-      "summary": "越境EC物流や海外転送サービスを展開する楽一番は、2025年12月16日付で関東運輸局より倉庫業法に基づく「一類倉庫」の登録を取得した。これにより、同社はこれまでの越境EC物流に加え、国内物流事業への本格的な参入を開始する。登録番号は第10082号である。",
+      "title": "パルシステム東京／利用者への接遇力を審査するコンテストを開催",
+      "sourceURL": "https://www.lnews.jp/?p=311051",
+      "summary": "パルシステム東京は1月31日に、利用者への接遇力を評価する「パルシステムコンテスト」を開催した。今回で4回目の実施で、同社や関連の物流専門会社パルライン、宅配業務委託先の従業員が参加した。コンテストは宅配サービスの質向上を目的としている。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
+        "leadingKana": "と",
+        "phrase": "遠い道 一歩進めば 一歩近づく"
       },
-      "commentary": "物流事業に新たに踏み出す姿は、単なる利益追求ではなく、社会の巡りを支える役割への覚悟と見えますわ。小さな一歩かもしれんが、地道に信頼積んでこそ、世のため人のための商いが形になる。焦らず、着実に歩み続けることが肝心やで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "NX中国／SITC社と「NXブランドコンテナ」を上海－大阪航路で運用",
-      "sourceURL": "https://www.lnews.jp/?p=310931",
-      "summary": "NIPPON EXPRESSホールディングスのグループ会社であるNX国際物流（中国）は、昨年12月からSITC International Holdingsと協力し、「NXブランドコンテナ」の運用を上海－大阪間の航路で開始した。この取り組みは両社の連携によるもので、国際物流サービスの強化を目的としている。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "ゆ",
-        "phrase": "ゆっくりと 行くのは一体 何の為？"
-      },
-      "commentary": "NX中国がSITCと組み、上海－大阪航路で新ブランドコンテナを動かし始めたんや。商売は待ってたら損する、無駄なゆっくりは避けて迅速な手を打つことが信頼の積み重ね。進む理由を持って、先を見据えた動きが今の時代のあきんどらしい在り方やな。"
+      "commentary": "接遇力を磨く取り組みは、日々の積み重ねが信頼の礎になるもんや。遠く感じる目標でも、一回の接客、一つの心遣いを大事に続けることで、確実に距離は縮まる。焦らず、着実に歩みを進めていく姿勢が大切やで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
       "sourceURL": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
-      "summary": "人権団体ヒューマン・ライツ・ウォッチ（HRW）の報告によると、世界は「民主主義の後退期」にあり、約3分の2の人々が権威主義的な体制下で生活しているという。特に米国、ロシア、中国での権力乱用が国際的な人権秩序に重大な影響を与えていると指摘されている。HRWはこの状況を「世代的な課題」と位置づけている。",
+      "summary": "ヒューマン・ライツ・ウォッチの報告によると、世界は「民主主義の後退」期にあり、約75％の人々が権威主義的な統治下で暮らしている。米国、ロシア、中国での権利侵害や権威主義の拡大が、国際的な人権体制とルールに基づく秩序を脅かしていると指摘された。これが現代社会の重大な課題とされている。",
       "classification": {
         "tone": "B",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "し",
-        "phrase": "商売人 仕事憎んで 人憎まず"
+        "leadingKana": "れ",
+        "phrase": "冷淡な　あいつの心は　仏さん"
       },
-      "commentary": "世の中が難しい状況でも、人の人格を断じるんやなく、やり方の問題として捉えるのが肝心や。商売も社会も、信頼は日々の積み重ねやから、苦しい時こそ冷静に本質を見極める姿勢が大事やな。"
+      "commentary": "世界が権威主義に揺れる中、表面的な強さに惑わされず、相手の根底にある事情や理を冷静に見極めることが肝心や。商いも社会も、一時の感情で動くもんやおまへん。信頼は日々の理解と積み重ねから生まれるんやで。"
     }
   ]
 }
