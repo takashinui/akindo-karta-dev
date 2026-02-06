@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-02-05T19:00:19.722Z",
+  "generatedAt": "2026-02-06T02:47:26.858Z",
   "run": {
-    "ranAt": "2026-02-05T19:00:19.722Z",
+    "ranAt": "2026-02-06T02:47:26.858Z",
     "runner": "github-actions",
-    "runId": "21724548930"
+    "runId": "21736794427"
   },
   "stock": [
+    {
+      "title": "キリンHD 傘下の米ウイスキーメーカー売却へ 選択と集中進める",
+      "body": "ビール大手のキリンホールディングスは、傘下にあるアメリカのウイスキーメーカー「フォアローゼズ」を現地の企業に売却すると発表しました。世界的にアルコール飲料の消費が伸び悩む中、事業の選択と集中を進めるねらいです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015044751000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260206/k10015044751000.html",
+      "fetchedAt": "2026-02-06T02:46:59.230Z"
+    },
+    {
+      "title": "アマゾン 3か月決算で増収増益 クラウドなど主力事業が好調",
+      "body": "アメリカのIT大手、「アマゾン」が発表した去年12月までの3か月間の決算では、クラウドをはじめとした主力事業が好調だったことで増収増益となりました。ことしは1年間で、AIなどに日本円で31兆円余りの設備投資を行う計画を明らかにしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015044471000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260206/k10015044471000.html",
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
+    },
+    {
+      "title": "日本アクセス／4月1日付で新CLOに山本泰之常務、宇佐美氏は副社長に",
+      "body": "<![CDATA[<p>日本アクセスは2月4日、2026年度の役員体制を発表した。 4月1日付でCLO（（Chief Logistics Officer）が、宇佐美文俊 副社長から山本泰之 常務（ロジスティクス管掌）に代わる。宇佐美氏は2025 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0206501.html\">日本アクセス／4月1日付で新CLOに山本泰之常務、宇佐美氏は副社長に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311369",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=311369",
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
+    },
+    {
+      "title": "JAL／成田ー天津線を週6に増便、フレイター25年度下期計画を変更",
+      "body": "<![CDATA[<p>日本航空（JAL）は2月6日、国際線貨物専用機（フレイター）の2025年度下期路線便数計画の変更を発表した。 2月7日以降、成田ー天津線を週6便に増便する。 ＜2025度下期計画（2026年2月7日～3月28日）＞</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0206602.html\">JAL／成田ー天津線を週6に増便、フレイター25年度下期計画を変更</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311363",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=311363",
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
+    },
+    {
+      "title": "‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
+      "body": "&lt;p&gt;Umar Bio Salihu, 53, the local head of Woro in Kwara state, says gunmen ‘just came in and started shooting’&lt;/p&gt;&lt;p&gt;The traditional chief of a village in western Nigeria where &lt;a href=\"https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross\"&gt;jihadists massacred residents earlier this week&lt;/a&gt; has recounted a night of terror during which the attackers killed two of his sons and kidnapped his wife and three daughters.&lt;/p&gt;&lt;p&gt;Umar Bio Salihu, the 53-year-old chief of Woro, a small, Muslim-majority village in Kwara state, said that at about 5pm on Tuesday the gunmen “just came in and started shooting”.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
+    },
     {
       "title": "スズキ 9か月間決算 5期ぶりに減益 原材料価格上昇などを受け",
       "body": "自動車メーカー「スズキ」の去年12月までの9か月間の決算は、原材料価格の上昇などを受けて、本業のもうけを示す営業利益が前の年度の同じ時期を10％下回り、この時期としては5期ぶりに減益となりました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015044371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015044371000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "三菱自動車 9か月間決算 最終損益44億円の赤字",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015044311000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015044311000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "日本GLP／大阪府枚方市に「Marq」ブランドの施設竣工、大阪運輸倉庫専用に",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311324",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311324",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "三井不動産／埼玉県入間市で8.7万m2のマルチ型物流施設を竣工、隣接の商業施設と連携も",
@@ -36,15 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311150",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311150",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
-    },
-    {
-      "title": "Nigeria sends troops to villages attacked by jihadist fighters",
-      "body": "&lt;p&gt;President says army will ‘checkmate barbaric terrorists’ who attacked Woro and Nuku in Kwara state, killing 170 people&lt;/p&gt;&lt;p&gt;Nigeria will deploy an army battalion to a district in the west of the country where suspected jihadist fighters killed 170 people in attacks in two villages in the region on Tuesday night, the office of the president has said.&lt;/p&gt;&lt;p&gt;In the country’s deadliest armed assault this year, gunmen &lt;a href=\"https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross\"&gt;attacked Woro and Nuku villages&lt;/a&gt; in Kaiama district in Kwara state, shooting residents, razing homes and looting shops.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
@@ -52,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "株価 値下がり AI需要の先行きに対する慎重な見方から",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015043991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015043991000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "円相場 一時1ドル＝157円台まで値下がり",
@@ -68,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015044181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015044181000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "AZ-COM丸和HD 決算／4～12月の売上高11.0％増、営業利益13.3％増",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311273",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311273",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "ケイヒン 決算／4～12月の売上高0.1％増、営業利益18.7％増",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311270",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311270",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "【きょうのおはBiz 2月5日(木)】タイでも抹茶ブーム",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015043891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015043891000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "パナソニックHD 今年度業績見通し下方修正 構造改革費用かさむ",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043511000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "ヤマト運輸／ファミマで「クロネコ」コラボスイーツ発売",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311129",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311129",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "WebKIT／1月の成約運賃指数、前年同月比2ポイント減の137",
@@ -116,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311108",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311108",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "スルメイカ 新年度の漁獲枠案 “今年度当初の3.5倍に” 水産庁",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043431000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "東京建物、三井物産都市開発／千葉県船橋市でマルチテナント型の冷凍冷蔵施設着工",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311012",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311012",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "アサヒフレッシュロジ／茨城県守谷市に食品物流拠点を移転新築、面積1.6倍に",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310922",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310922",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "株価 値下がり AI普及でソフトウエアの需要減少の見方から",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "日本郵便／4日より104郵便局で軽四輪の追加停止処分",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311057",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311057",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "パルシステム東京／利用者への接遇力を審査するコンテストを開催",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311051",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311051",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
@@ -180,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "【きょうのおはBiz 2月4日(水)】じかまきコメ作り 技術開発",
@@ -188,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043021000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "プルデンシャル生命 新規契約の販売活動を90日間自粛",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "楽一番／倉庫業法「一類倉庫」登録完了で国内物流事業に本格参入",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310934",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310934",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "NX中国／SITC社と「NXブランドコンテナ」を上海－大阪航路で運用",
@@ -212,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310931",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310931",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "“旧村上ファンド系が株式買い増し撤回の意向” フジHD",
@@ -220,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042511000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "春闘 日商と連合のトップが会談 賃上げ 適正な価格転嫁で一致",
@@ -228,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042641000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "CBRE IM／滋賀県栗東市で8.8万m2のマルチテナント型物流施設着工",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310844",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310844",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "NX台湾／台南市に1.5万ｍ2の半導体関連貨物向け「台南NEXT11倉庫」を開設",
@@ -244,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310766",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310766",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "Handful of sick and wounded Palestinians allowed through Rafah crossing on first day",
@@ -252,7 +284,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "株価 終値の最高値更新 5万4720円超",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042141000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "日銀 ETFの売却を開始 1月に約53億円分を売却",
@@ -268,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042401000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042401000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "ファイズHD 決算／4～12月の売上高26.5％増、営業利益10.1％減",
@@ -276,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310889",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310889",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "ニチレイ 決算／4～12月の低温物流事業は売上高8％増、営業利益23％増",
@@ -284,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310886",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310886",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "イーロン・マスク氏 “スペースXがAI開発企業「xAI」を買収”",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260203/k10015042181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260203/k10015042181000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "霞ヶ関キャピタル／冷凍冷蔵物流施設の開発など評価され農林水産大臣賞受賞",
@@ -300,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310760",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310760",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "中部電力 9か月間決算で117億円の費用計上 浜岡原発問題に関連",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041821000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "ニデックTOBめぐりインサイダー取引か 証券会社元取締役ら逮捕",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041521000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "三井不動産／茨城県ひたちなか市で12万m2、ロジスティード東日本の専用施設着工",
@@ -324,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310550",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310550",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "大和ハウス工業／静岡県牧之原市で計17万m2、物流や商業施設の複合開発へ",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310694",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310694",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "ダイハツ工業 商用車EV発売 国内市場でEV販売比率が低迷の中",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260202/k10015041621000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "阪急阪神エクスプレス／吉本敏 常務が新社長に就任、谷村社長は会長に",
@@ -356,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310679",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310679",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "西濃運輸・福山通運／特積み幹線輸送でのドライバー交替方式による中継輸送の実証運行",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=310676",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=310676",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     },
     {
       "title": "International law meant to limit effects of war at breaking point, study finds",
@@ -372,116 +404,84 @@
       "sourceURL": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
-    },
-    {
-      "title": "円相場値下がり 一時155円台半ばに 米利下げペース不透明観測",
-      "body": "週明け2日の外国為替市場、円相場は一時、1ドル＝155円台半ばまで値下がりしました。アメリカの今後の利下げのペースが不透明だという観測に加え、高市総理大臣の為替をめぐる発言も円を売る手がかりになっています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041291000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260202/k10015041291000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
-    },
-    {
-      "title": "“次の利上げ検討は時間かけすぎないよう” 先月の日銀会合",
-      "body": "日銀は2日、政策の維持を決めた先月の金融政策決定会合で出された主な意見を公表しました。円安の物価への影響を懸念し、次の利上げの検討に向けては時間をかけすぎないようにすべきだといった意見が相次いでいたことがわかりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260202/k10015041391000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260202/k10015041391000.html",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
-    },
-    {
-      "title": "ライナフ／生活クラブ東京が「スマート置き配」採用、オートロックマンション380棟で導入",
-      "body": "<![CDATA[<p>ライナフは2月日、同社が提供する「スマート置き配」が、生活クラブ生活協同組合・東京（生活クラブ東京）に導入されたと発表した。都内4つの地域生協の配達エリア内にあるオートロック付きマンション約380棟が対象となる。 ＜オー [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0202502.html\">ライナフ／生活クラブ東京が「スマート置き配」採用、オートロックマンション380棟で導入</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310559",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310559",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
-    },
-    {
-      "title": "三菱地所／大阪市大正区で2.1万m2のマルチ型冷凍冷蔵倉庫を竣工",
-      "body": "<![CDATA[<p>三菱地所は1月31日、大阪府大阪市大正区に賃貸型冷凍冷蔵物流施設「ロジクロス大阪大正」を竣工した。 ＜ロジクロス大阪大正 外観＞ 地上4階建て、延床面積2.1万m2で、同社としては2棟目のマルチテナント型施設となる。 ＜ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0202701.html\">三菱地所／大阪市大正区で2.1万m2のマルチ型冷凍冷蔵倉庫を竣工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310532",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310532",
-      "fetchedAt": "2026-02-05T18:59:51.267Z"
+      "fetchedAt": "2026-02-06T02:46:59.231Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "スズキ 9か月間決算 5期ぶりに減益 原材料価格上昇などを受け",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015044371000.html",
-      "summary": "スズキの昨年12月までの9か月間の決算で、営業利益が前年同期比で約10％減少しました。これは原材料価格の高騰などが影響したもので、同期間での減益は5期ぶりとなりました。",
+      "title": "キリンHD 傘下の米ウイスキーメーカー売却へ 選択と集中進める",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015044751000.html",
+      "summary": "キリンホールディングスは、傘下の米国ウイスキーメーカー「フォアローゼズ」を現地企業に売却する方針を明らかにしました。アルコール飲料市場の成長鈍化を背景に、事業の選択と集中を図るための措置としています。",
       "classification": {
-        "tone": "B",
-        "term": "S"
+        "tone": "N",
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "め",
-        "phrase": "目を見て 話せん奴を 信用すな"
+        "leadingKana": "け",
+        "phrase": "計画より  仕上げが大事"
       },
-      "commentary": "スズキの減益は原材料高騰という現実が影響したわけやけど、商売は数字だけやない。顔を上げて誠実に状況を伝え、腹を割って取引先や顧客と向き合う積み重ねこそ信頼の基や。目をそらさず、厳しい時こそ真摯な対話が次の道を拓くんやで。"
+      "commentary": "事業の取捨選択は計画の一部やけど、終わりまで仕上げる覚悟が肝心や。売却も単なる通過点、次の展開で信頼積むための動きや。焦らず、結果に責任持つ姿勢こそ、あきんどの真骨頂やで。"
     },
     {
       "source": "NHK",
-      "title": "三菱自動車 9か月間決算 最終損益44億円の赤字",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015044311000.html",
-      "summary": "三菱自動車工業は、2022年4月から12月までの9か月間の決算で、最終損益が44億円の赤字となったと発表しました。この赤字は、アメリカの関税政策や為替レートの変動が主な要因とされています。",
-      "classification": {
-        "tone": "B",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
-      },
-      "commentary": "三菱自動車の赤字は外部環境の影響が大きいけど、そこで得た成果や苦労が本当に会社の未来にどう繋がるか、見極めることが大事や。短期の結果に振り回されず、真の目的を見失わんように日々の積み重ねで信頼を築いていくことが肝心やと思うで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "日本GLP／大阪府枚方市に「Marq」ブランドの施設竣工、大阪運輸倉庫専用に",
-      "sourceURL": "https://www.lnews.jp/?p=311324",
-      "summary": "日本GLPは大阪府枚方市に新たな物流施設「Marq枚方IV」を完成させ、2月5日に竣工式を実施した。この施設は大阪運輸倉庫が専用で使用するもので、国道1号線沿いに位置している。新ブランド「Marq」を冠した同施設は、同地域の物流インフラの一環として稼働を開始した。",
+      "title": "アマゾン 3か月決算で増収増益 クラウドなど主力事業が好調",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015044471000.html",
+      "summary": "アマゾンが発表した直近3か月の決算では、クラウド事業を中心に主要部門が好調で、売上と利益が増加しました。また、今年は人工知能（AI）分野を含む設備投資に約31兆円を投じる計画を示しています。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "い",
-        "phrase": "いつだって  3％と 1/3"
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
       },
-      "commentary": "新しい物流施設の竣工は、効率化と信頼構築の積み重ねの一環や。日々の細かな改善が積もれば、大きな成果も見えてくる。慌てず焦らず、常に3％の無駄を探しつつ、時には思い切った見直しも必要やと、あきんどの目線で改めて考えたいもんやな。"
+      "commentary": "アマゾンの決算好調は、事業の現状と未来投資を明確に示し、隠し事なく情報を開示している姿勢が信頼を築く一例や。商売は隠すより見せるほうが、長く続く信用の礎になるんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "三井不動産／埼玉県入間市で8.7万m2のマルチ型物流施設を竣工、隣接の商業施設と連携も",
-      "sourceURL": "https://www.lnews.jp/?p=311150",
-      "summary": "三井不動産は埼玉県入間市で、延床面積約8.7万平方メートルのマルチテナント型物流施設「MFLP入間I」を完成させ、2月5日に竣工式を実施しました。施設は4階建てで、隣接する商業施設と連携した運用が計画されています。",
+      "title": "日本アクセス／4月1日付で新CLOに山本泰之常務、宇佐美氏は副社長に",
+      "sourceURL": "https://www.lnews.jp/?p=311369",
+      "summary": "日本アクセスは2026年度の役員体制を発表し、4月1日付で山本泰之常務がCLO（最高物流責任者）に就任することを明らかにした。これに伴い、現CLOの宇佐美文俊氏は副社長に就く予定である。両氏の役割変更は、同社の物流部門の管理体制に関わるものとされている。",
       "classification": {
-        "tone": "G",
+        "tone": "N",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "ち",
+        "phrase": "頂上を目指しているなら 自由に登ろう"
       },
-      "commentary": "大きな物流施設ができたんやけど、単にデカいだけやあらへん。隣の商業施設とうまいこと連携して、地域全体の価値を長く積み上げていく姿勢が大事や。短期の数字より、地道に信頼を重ねる覚悟が問われるで。"
+      "commentary": "新しい役員体制は組織の方向性を示すけど、その道の進み方は一つやない。自分たちの強みや環境に合うやり方を見極め、信頼の積み重ねを意識して歩むことが、長く続く商売の根っこになるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "JAL／成田ー天津線を週6に増便、フレイター25年度下期計画を変更",
+      "sourceURL": "https://www.lnews.jp/?p=311363",
+      "summary": "日本航空（JAL）は、2025年度下期の国際貨物専用機の運航計画を変更し、成田と天津を結ぶ路線の便数を週6便に増やすと発表した。この変更は2026年2月7日から3月28日までの期間に適用される。",
+      "classification": {
+        "tone": "G",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "を",
+        "phrase": "をそ鳥は　眠り豚より　ちょっとええ"
+      },
+      "commentary": "JALが成田―天津線のフレイター便を増便する動きは、先手を打つ姿勢として捉えられます。商売はタイミング命、遅れるより早めの対応が信頼の種になる。慌てずに、しかし迅速に変化を捉え、積み上げるべきものを大事にしたいもんやね。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Nigeria sends troops to villages attacked by jihadist fighters",
+      "title": "‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
       "sourceURL": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
-      "summary": "ナイジェリア政府は、同国西部クワラ州のカイアマ地区で起きた過激派による襲撃を受け、170人が死亡した事件を受けて、軍の大隊を派遣すると発表した。襲撃は2つの村、ウォロとヌクで発生し、住民が銃撃され、家屋が焼かれ、店舗が略奪された。大統領はテロリストの行為を阻止すると述べている。",
+      "summary": "ナイジェリア西部クワラ州の村長ウマル・ビオ・サリフ氏（53）は、ジハード過激派による襲撃で自らの息子2人が殺害され、妻と娘3人が誘拐されたと語った。襲撃は火曜日午後5時ごろに武装集団が突然村に侵入し銃撃を開始したもので、住民多数が犠牲となった。事件は地域社会に大きな衝撃を与えている。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "ほ",
-        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
+        "leadingKana": "す",
+        "phrase": "すいません  言うな"
       },
-      "commentary": "今回の報せ、現場の状況や背景は一筋縄ではいかへん。見たまま聞いたままに飛びつかず、情報の真偽や全体像をじっくり確かめることが、信頼を積む第一歩や。焦らず、疑いを持つことも商売の勘どころやで。"
+      "commentary": "こんな理不尽なことが起きても、ただ「すまん」と繰り返すだけやったら、信頼も未来も築かれへんで。痛みを受け止め、誠実に向き合う姿勢が、次の一歩を支える。あきんどは困難から逃げず、言葉と行動で責任を果たすことを忘れたらあかん。"
     }
   ]
 }
