@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-02-09T19:27:46.904Z",
+  "generatedAt": "2026-02-10T03:19:56.242Z",
   "run": {
-    "ranAt": "2026-02-09T19:27:46.904Z",
+    "ranAt": "2026-02-10T03:19:56.242Z",
     "runner": "github-actions",
-    "runId": "21837589289"
+    "runId": "21850355466"
   },
   "stock": [
     {
-      "title": "経団連会長 “選挙結果「歓迎」政策本位の政治遂行を”",
-      "body": "自民党が圧勝した衆議院選挙の結果について、経団連の筒井会長は9日の記者会見で「歓迎する」と述べたうえで、野党との建設的な議論を通じて政策本位の政治を遂行するよう求めました。一方、消費税減税については財源などの議論を深めるべきだとの認識を示しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047731000.html",
+      "title": "財務相 “食料品の消費税減税 あらゆる論点を国民会議で議論”",
+      "body": "消費税の減税について、片山財務大臣は、必要となる財源や外食産業への影響、レジのシステム変更などあらゆる論点について国民会議で議論されるという見通しを示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260210/k10015048241000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260209/k10015047731000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "id": "www3.nhk.or.jp/news/html/20260210/k10015048241000.html",
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
-      "title": "株価 終値 初の5万6000円台で最高値更新 長期金利は上昇",
-      "body": "週明けの東京株式市場は、衆議院選挙の結果を受けて高市政権が掲げる積極財政への期待などを背景に買い注文が広がり、日経平均株価の終値は初めて5万6000円台となり、最高値を更新しました。一方、債券市場では、財政への懸念から国債が売られ、長期金利は上昇しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047251000.html",
+      "title": "株価 一時5万8000円に迫る 取り引き時間中の最高値更新",
+      "body": "10日の東京株式市場、衆議院選挙の結果を受けて高市政権が掲げる積極財政への期待が続いていることなどからほぼ全面高の展開となり、日経平均株価は一時、5万8000円に迫る水準まで値上がりし、9日に続いて取り引き時間中の最高値を更新しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260210/k10015048101000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260209/k10015047251000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "id": "www3.nhk.or.jp/news/html/20260210/k10015048101000.html",
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
-      "title": "JPIC／フィジカルインターネット実装への羅針盤「成熟度モデル」を発表",
-      "body": "<![CDATA[<p>フィジカルインターネットセンター（JPIC）は2月9日、東京都内でフィジカルインターネット社会実装への現在地を示す上で指標となる「成熟度モデル（PIMM）」を発表した。 同モデルは産学官連携により策定。フィジカルインター [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0209504.html\">JPIC／フィジカルインターネット実装への羅針盤「成熟度モデル」を発表</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=311804",
+      "title": "ROMS／梱包AIに現場判断を反映させる「フィードバック機能」を強化",
+      "body": "<![CDATA[<p>物流倉庫や工場向けに自動化ソリューションを提供するROMSは2月10日、AIによる最適な梱包資材・手順を推奨するクラウドサービス「梱包アシストAI」において、現場の判断をAIの学習に直接反映させる「フィードバック機能」を [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0210501.html\">ROMS／梱包AIに現場判断を反映させる「フィードバック機能」を強化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311882",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=311804",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "id": "www.lnews.jp/?p=311882",
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
-      "title": "ロボトラックなど／センコーの中継輸送拠点間で自動運転セミトレーラーを公道実証",
-      "body": "<![CDATA[<p>ロボトラック、センコー、オリックス自動車の3社で構成する「L4物流自動運転トレーラー推進協議会」は2月10日から、セミトレーラー型自動運転トラックを活用した初の公道実証走行を開始する。 協議会での開発成果を踏まえ、センコ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0209607.html\">ロボトラックなど／センコーの中継輸送拠点間で自動運転セミトレーラーを公道実証</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=311726",
+      "title": "国交省／日本郵便への軽貨物自動車使用停止処分通知総数は1862営業所と発表",
+      "body": "<![CDATA[<p>国土交通省は2月10日、2025年10月1日から行ってきた日本郵便に対する貨物軽自動車運送事業の行政処分について、全国での処分通知が完了したことから、貨物自動車運送事業法第33条に基づき、自動車の使用停止処分の通知を行っ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0210103.html\">国交省／日本郵便への軽貨物自動車使用停止処分通知総数は1862営業所と発表</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311879",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=311726",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "id": "www.lnews.jp/?p=311879",
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
+    },
+    {
+      "title": "経団連会長 “選挙結果「歓迎」政策本位の政治遂行を”",
+      "body": "自民党が圧勝した衆議院選挙の結果について、経団連の筒井会長は9日の記者会見で「歓迎する」と述べたうえで、野党との建設的な議論を通じて政策本位の政治を遂行するよう求めました。一方、消費税減税については財源などの議論を深めるべきだとの認識を示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047731000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260209/k10015047731000.html",
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
+    },
+    {
+      "title": "株価 終値 初の5万6000円台で最高値更新 長期金利は上昇",
+      "body": "週明けの東京株式市場は、衆議院選挙の結果を受けて高市政権が掲げる積極財政への期待などを背景に買い注文が広がり、日経平均株価の終値は初めて5万6000円台となり、最高値を更新しました。一方、債券市場では、財政への懸念から国債が売られ、長期金利は上昇しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047251000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260209/k10015047251000.html",
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
+    },
+    {
+      "title": "JPIC／フィジカルインターネット実装への羅針盤「成熟度モデル」を発表",
+      "body": "<![CDATA[<p>フィジカルインターネットセンター（JPIC）は2月9日、東京都内でフィジカルインターネット社会実装への現在地を示す上で指標となる「成熟度モデル（PIMM）」を発表した。 同モデルは産学官連携により策定。フィジカルインター [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0209504.html\">JPIC／フィジカルインターネット実装への羅針盤「成熟度モデル」を発表</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311804",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=311804",
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
+    },
+    {
+      "title": "ロボトラックなど／センコーの中継輸送拠点間で自動運転セミトレーラーを公道実証",
+      "body": "<![CDATA[<p>ロボトラック、センコー、オリックス自動車の3社で構成する「L4物流自動運転トレーラー推進協議会」は2月10日から、セミトレーラー型自動運転トラックを活用した初の公道実証走行を開始する。 協議会での開発成果を踏まえ、センコ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0209607.html\">ロボトラックなど／センコーの中継輸送拠点間で自動運転セミトレーラーを公道実証</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311726",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=311726",
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "【きょうのおはBiz 2月9日(月)】解説 消費税減税 議論どう進む",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260209/k10015047281000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "東陽倉庫 決算／4～12月の売上高2.7％増、営業利益2.7％増",
@@ -60,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311753",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311753",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "セブン‐イレブン／弁当などの製造回数削減し、輸送コスト15％削減など見込む",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311747",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311747",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "去年の経常収支 31兆8799億円の黒字 2年連続で過去最大を更新",
@@ -84,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047261000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260209/k10015047261000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "伊藤忠食品／札幌物流センターの納品伝票電子化でJPRのシステム運用開始",
@@ -92,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311612",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311612",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "ダイセー阿波急行／徳島市に木造の新倉庫、木材会社の保管から輸送まで一体運用",
@@ -100,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311600",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311600",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "今回の衆議院選挙 経済3団体の反応",
@@ -108,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260208/k10015046781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260208/k10015046781000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "ワシントン・ポスト紙CEOが辞任 従業員を大量解雇で社内反発か",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260208/k10015046311000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260208/k10015046311000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "CRE／神奈川県厚木市に1.5万m2の物流施設竣工、ユーディーエルが1棟利用",
@@ -124,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311384",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311384",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "日本郵便／フリーランス法違反の疑い380件、一部報道を受け声明発表",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311426",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311426",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "ニデックTOBめぐりインサイダー取引か 新たに1人逮捕 東京地検",
@@ -140,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260207/k10015045791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260207/k10015045791000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "上場企業 去年4～12月の決算 最終利益 前年同時期とほぼ横ばい",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260207/k10015045641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260207/k10015045641000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "Thousands of Malawi businesses close in protest over tax changes",
@@ -156,7 +188,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "NYダウ 終値で初の5万ドル突破 米景気先行きに楽観的見方で",
@@ -164,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260207/k10015045441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260207/k10015045441000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "日米合意の80兆円規模の対米投資 3プロジェクトが第1弾候補に",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260207/k10015045291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260207/k10015045291000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "SUBARU 去年4～12月の決算 70％超大幅減益 米関税措置の影響",
@@ -188,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015045191000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260206/k10015045191000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "円相場 小幅な値動き 衆院選を前に積極的取り引き控えられたか",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015045171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260206/k10015045171000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "12月の景気動向指数 前月比0.4ポイント低下 基調判断据え置き",
@@ -204,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015044991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260206/k10015044991000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "トヨタ自動車グループの去年4～12月決算 営業収益最高も減益",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015044961000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260206/k10015044961000.html",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "石井食品／物流費0.50％増の5.18億円、構成比は減少",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311528",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311528",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "カンダHD 決算／4～12月の売上高0.2％増、営業利益9.4％増",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311525",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311525",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
-      "fetchedAt": "2026-02-09T19:27:18.964Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "キリンHD 傘下の米ウイスキーメーカー売却へ 選択と集中進める",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015044751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260206/k10015044751000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "アマゾン 3か月決算で増収増益 クラウドなど主力事業が好調",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260206/k10015044471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260206/k10015044471000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "日本アクセス／4月1日付で新CLOに山本泰之常務、宇佐美氏は副社長に",
@@ -260,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311369",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311369",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "JAL／成田ー天津線を週6に増便、フレイター25年度下期計画を変更",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311363",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311363",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "スズキ 9か月間決算 5期ぶりに減益 原材料価格上昇などを受け",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015044371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015044371000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "三菱自動車 9か月間決算 最終損益44億円の赤字",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015044311000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015044311000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "日本GLP／大阪府枚方市に「Marq」ブランドの施設竣工、大阪運輸倉庫専用に",
@@ -292,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311324",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311324",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "三井不動産／埼玉県入間市で8.7万m2のマルチ型物流施設を竣工、隣接の商業施設と連携も",
@@ -300,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311150",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311150",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
@@ -308,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "株価 値下がり AI需要の先行きに対する慎重な見方から",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015043991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015043991000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "円相場 一時1ドル＝157円台まで値下がり",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015044181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015044181000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "AZ-COM丸和HD 決算／4～12月の売上高11.0％増、営業利益13.3％増",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311273",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311273",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "ケイヒン 決算／4～12月の売上高0.1％増、営業利益18.7％増",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311270",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311270",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "【きょうのおはBiz 2月5日(木)】タイでも抹茶ブーム",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260205/k10015043891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260205/k10015043891000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "パナソニックHD 今年度業績見通し下方修正 構造改革費用かさむ",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260204/k10015043511000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "ヤマト運輸／ファミマで「クロネコ」コラボスイーツ発売",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311129",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311129",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     },
     {
       "title": "WebKIT／1月の成約運賃指数、前年同月比2ポイント減の137",
@@ -372,62 +404,30 @@
       "sourceURL": "https://www.lnews.jp/?p=311108",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311108",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
-    },
-    {
-      "title": "スルメイカ 新年度の漁獲枠案 “今年度当初の3.5倍に” 水産庁",
-      "body": "不漁から一転して今年度（2025年度）、漁獲量が増えたスルメイカについて、水産庁は新年度（2026年度）の漁獲枠を今年度当初の3.5倍に増やす案を示しました。この案は今後、パブリックコメントを経て今月の有識者会議で正式に決まる見通しです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043431000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260204/k10015043431000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
-    },
-    {
-      "title": "東京建物、三井物産都市開発／千葉県船橋市でマルチテナント型の冷凍冷蔵施設着工",
-      "body": "<![CDATA[<p>東京建物と三井物産都市開発は2月2日、千葉県船橋市でマルチテナント型の冷凍・冷蔵物流施設「T-LOGI船橋南海神」を着工した。2027年10月竣工を予定している。 ＜「T-LOGI船橋南海神」外観イメージ＞ 施設は4階建 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204605.html\">東京建物、三井物産都市開発／千葉県船橋市でマルチテナント型の冷凍冷蔵施設着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=311012",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=311012",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
-    },
-    {
-      "title": "アサヒフレッシュロジ／茨城県守谷市に食品物流拠点を移転新築、面積1.6倍に",
-      "body": "<![CDATA[<p>アサヒロジスティクスのグループ会社、アサヒフレッシュロジは2月13日、茨城県守谷市に新たな物流拠点「守谷センター」を開所する。 ＜守谷センター外観＞ ＜全景＞ 「守谷センター」は、旧「取手センター」が老朽化し、取扱量増加 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0204601.html\">アサヒフレッシュロジ／茨城県守谷市に食品物流拠点を移転新築、面積1.6倍に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=310922",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=310922",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
-    },
-    {
-      "title": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
-      "body": "レギュラーガソリンの小売価格は、2日時点の全国平均で、1リットル当たり155.6円と、前の週から0.2円値上がりしました。値上がりは2週連続です。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260204/k10015043251000.html",
-      "fetchedAt": "2026-02-09T19:27:18.965Z"
+      "fetchedAt": "2026-02-10T03:19:33.444Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "経団連会長 “選挙結果「歓迎」政策本位の政治遂行を”",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047731000.html",
-      "summary": "経団連の筒井会長は、自民党の衆議院選圧勝を歓迎すると表明しました。9日の記者会見で、野党とも建設的に議論し、政策重視の政治運営を求める姿勢を示しました。また、消費税減税については財源確保などの議論をさらに進める必要があると述べました。",
+      "title": "財務相 “食料品の消費税減税 あらゆる論点を国民会議で議論”",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260210/k10015048241000.html",
+      "summary": "片山財務大臣は、食料品の消費税減税に関して、必要な財源確保や外食産業への影響、レジシステムの改修など多角的な課題を国民会議で検討すると述べました。これにより幅広い視点から議論が進められる見通しです。",
       "classification": {
-        "tone": "N",
+        "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "わ",
-        "phrase": "わからん時　わからんと言う素直さよ"
+        "leadingKana": "は",
+        "phrase": "早起きは 眠たいけども 憂いなし"
       },
-      "commentary": "選挙結果を受けて、政策を正面から捉え議論を重ねる姿勢は大事や。分からんことは隠さず認め、対話を深めることが信頼の土台になる。焦らず、丁寧な積み重ねが未来を築くわけやから、慌てず着実に歩み続けることが肝心やで。"
+      "commentary": "消費税減税の議論は一夜漬けで決まるもんやない。準備に時間かけ、関係者みんなの意見を丁寧に拾い上げることが信頼の土台や。焦らず腰据えて取り組む姿勢が、長い目で見て商売の憂いを減らす道やと思いますで。"
     },
     {
       "source": "NHK",
-      "title": "株価 終値 初の5万6000円台で最高値更新 長期金利は上昇",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047251000.html",
-      "summary": "週明けの東京株式市場では、衆議院選挙の結果を受け、高市政権の積極的な財政政策への期待から買い注文が増加し、日経平均株価が初めて5万6000円台で取引を終え、過去最高値を更新しました。一方、債券市場では国債が売られ、長期金利が上昇しました。",
+      "title": "株価 一時5万8000円に迫る 取り引き時間中の最高値更新",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260210/k10015048101000.html",
+      "summary": "10日の東京株式市場では、衆議院選挙の結果を受けて高市政権の積極財政への期待が広がり、日経平均株価がほぼ全面高となりました。この影響で株価は一時5万8000円近くまで上昇し、前日に続き取引時間中の最高値を更新しました。",
       "classification": {
         "tone": "G",
         "term": "S"
@@ -436,52 +436,52 @@
         "leadingKana": "と",
         "phrase": "遠い道 一歩進めば 一歩近づく"
       },
-      "commentary": "株価が最高値を更新したとはいえ、経済の道は一気には進まへんもんや。焦らずに一歩一歩、状況を見極めて動くことが信頼を築く道や。短期の数字に踊らされず、持続する姿勢が次の一歩を確かなものにするんやで。"
+      "commentary": "株価が高値を更新しても、それは一歩進んだに過ぎへん。焦らず、刻々と変わる状況を見据え、地道に積み重ねることが信頼につながる。短期の波に振り回されず、着実な歩みを続ける姿勢が大切や。"
     },
     {
       "source": "LNEWS",
-      "title": "JPIC／フィジカルインターネット実装への羅針盤「成熟度モデル」を発表",
-      "sourceURL": "https://www.lnews.jp/?p=311804",
-      "summary": "フィジカルインターネットセンター（JPIC）は2月9日、東京都内でフィジカルインターネットの社会実装に向けた進捗を評価する「成熟度モデル（PIMM）」を発表した。このモデルは産学官の連携によって作成され、フィジカルインターネットの普及と発展を支援する指標として位置付けられている。",
+      "title": "ROMS／梱包AIに現場判断を反映させる「フィードバック機能」を強化",
+      "sourceURL": "https://www.lnews.jp/?p=311882",
+      "summary": "ROMSは、物流倉庫や工場向けのクラウドサービス「梱包アシストAI」において、現場での判断をAIの学習に直接反映させる「フィードバック機能」を強化した。この機能により、梱包資材や手順の提案が現場の実情により適合することを目指している。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "い",
-        "phrase": "いつだって  3％と 1/3"
+        "leadingKana": "な",
+        "phrase": "何するか 分からん時は 基礎鍛錬"
       },
-      "commentary": "フィジカルインターネットの成熟度モデルは、日々の小さな改善と大きな視点での効率化を促す羅針盤や。普段の3％の無駄を洗い出しつつ、大胆に全体の1/3を見直す姿勢が、持続的信頼の土台になるんやで。焦らず着実に進むことが肝心や。"
+      "commentary": "現場の声をAIに取り入れる取り組みは、技術と人の感覚が互いに磨き合う道筋や。焦らず基本を大事に、日々の地道な調整が信頼を築く鍵やで。急がば回れ、まずは現場の「基礎力」強化から始めて、次の一歩を見極めるんや。"
     },
     {
       "source": "LNEWS",
-      "title": "ロボトラックなど／センコーの中継輸送拠点間で自動運転セミトレーラーを公道実証",
-      "sourceURL": "https://www.lnews.jp/?p=311726",
-      "summary": "ロボトラック、センコー、オリックス自動車の3社が参加する「L4物流自動運転トレーラー推進協議会」は、2月10日より自動運転技術を搭載したセミトレーラーの公道実証走行を開始した。この取り組みは、センコーの中継輸送拠点間で実施され、自動運転技術の実用化に向けた開発成果を検証する目的がある。",
+      "title": "国交省／日本郵便への軽貨物自動車使用停止処分通知総数は1862営業所と発表",
+      "sourceURL": "https://www.lnews.jp/?p=311879",
+      "summary": "国土交通省は、日本郵便に対する貨物軽自動車の使用停止処分について、全国の1862営業所に通知を完了したと発表した。この処分は貨物自動車運送事業法第33条に基づくもので、2025年10月1日から実施されている。",
       "classification": {
-        "tone": "G",
-        "term": "L"
+        "tone": "N",
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "い",
-        "phrase": "いつだって  3％と 1/3"
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "自動運転トラックの実証は、新技術を日々の運用で少しずつ磨く姿勢が問われるで。派手な成功だけ見ず、細かな改善点を見逃さへんこと。普段の3％の無駄探しと、大きな変革に向けたじっと見つめる目、この両方が信頼を築くカギやと思うわ。"
+      "commentary": "今回の処分件数は、現場の実情や法令遵守の難しさを示してるわな。表面的な報告だけで済ますんやなく、何が問題か具体的に聞いて理解を深める姿勢が重要や。信頼は細かな確認と対話の積み重ねでできるんやで。"
     },
     {
       "source": "Guardian｜World",
       "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
       "sourceURL": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "summary": "地中海のリビア沖で migrant boatが転覆し、国連の移民機関によると、53人が死亡または行方不明となりました。救助されたのはわずか2人で、事故は金曜日にズワラ北方で発生しました。多くの人々がヨーロッパを目指し危険な海域を渡ろうとしていますが、今回も悲劇的な結果となりました。",
+      "summary": "リビア沖の地中海で移民を乗せた船が転覆し、国連移民機関によると53人が死亡または行方不明となりました。救助されたのは2人だけで、事故はズワラ北方の海域で金曜日に発生しました。この事件はヨーロッパを目指す移民の危険な海上移動に伴う最新の事故となっています。",
       "classification": {
         "tone": "B",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "こ",
-        "phrase": "ゴミが落ちていたら拾うんです"
+        "leadingKana": "や",
+        "phrase": "やるんかい やらんのやったら どいとれや"
       },
-      "commentary": "命の重みを見過ごさず、日々の小さな行動から信頼を積み重ねることや。厳しい現実に直面しても、あきんどは手を差し伸べる心を忘れず、目の前の困難から学び、次の一歩を考え続ける姿勢が肝心やで。"
+      "commentary": "海を渡る命の危うさは、誰かが動かなければ変わらん現実や。自分の役割を見極めつつも、必要な時に躊躇せず動く覚悟が求められる。日々の行動が信頼の積み重ねとなり、次の一歩を生むんやで。"
     }
   ]
 }
