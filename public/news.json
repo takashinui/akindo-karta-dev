@@ -1,66 +1,26 @@
 {
-  "generatedAt": "2026-02-13T07:09:47.623Z",
+  "generatedAt": "2026-02-13T13:19:54.311Z",
   "run": {
-    "ranAt": "2026-02-13T07:09:47.623Z",
+    "ranAt": "2026-02-13T13:19:54.311Z",
     "runner": "github-actions",
-    "runId": "21978019515"
+    "runId": "21988305832"
   },
   "stock": [
     {
-      "title": "米トランプ政権 自動車排ガス規制撤廃を発表",
-      "body": "アメリカのトランプ政権は、2009年に当時のオバマ政権が行った、温室効果ガスが公衆の健康と福祉の脅威だとする政府の決定を取り消し、自動車による温室効果ガスの排出規制を撤廃すると発表しました。気候変動を最優先課題の1つに掲げたバイデン前政権からの大きな政策転換で、気候変動に取り組む国際社会からの反発も強まりそうです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050631000.html",
+      "title": "円相場 値下がり 日米の金利差維持の見方を背景に 円売る動き",
+      "body": "13日の東京外国為替市場、円相場は日米の金利差が維持されるという見方を背景に円を売る動きが出て、円相場は値下がりしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015051181000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260213/k10015050631000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "id": "www3.nhk.or.jp/news/html/20260213/k10015051181000.html",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
-      "title": "【きょうのおはBiz2月13日(金)】長期金利 価格↓で金利↑ なぜ",
-      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050781000.html",
+      "title": "スーパーのコメ平均価格 5キロ4204円 2週連続の値上がり",
+      "body": "全国のスーパーで、今月8日までの1週間に販売されたコメの平均価格は5キロ当たり税込みで4204円と、前週より10円値上がりしました。値上がりは2週連続です。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015051121000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260213/k10015050781000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
-    },
-    {
-      "title": "アスクル／全物流拠点で新システムによる出荷再開、当日配送も対応",
-      "body": "<![CDATA[<p>アスクルは2月13日、2025年10月19日に発生したランサムウェア攻撃によるシステム障害に関し、「商品の品ぞろえを含む主要なECサービス機能について、システム障害発生前の水準まで復旧した」と発表した（第18報）。 2月 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0213504.html\">アスクル／全物流拠点で新システムによる出荷再開、当日配送も対応</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=312344",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=312344",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
-    },
-    {
-      "title": "ロジスティード 決算／4～12月の売上高10％増、営業利益30％増",
-      "body": "<![CDATA[<p>ロジスティードが2月13日に発表した2026年3月期第3四半期決算によると、売上高7384億3800円（前年同期比10％増）、調整後営業利益457億9300万円（30％増）、税引前利益317億3600万円（64％増）、親 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0213604.html\">ロジスティード 決算／4～12月の売上高10％増、営業利益30％増</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=312341",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=312341",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
-    },
-    {
-      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
-      "body": "&lt;p&gt;Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says&lt;/p&gt;&lt;p&gt;Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monday. Only two survivors were rescued.&lt;/p&gt;&lt;p&gt;The International Organization for Migration said the boat overturned north of Zuwara on Friday, in the latest disaster involving people attempting the perilous Mediterranean crossing in the hope of reaching Europe.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
-    },
-    {
-      "title": "80兆円規模の対米投資 第1弾プロジェクトを協議も合意に至らず",
-      "body": "日米合意に基づく5500億ドル、日本円にして80兆円規模のアメリカへの投資をめぐり、赤澤経済産業大臣はラトニック商務長官と会談し、第1弾となるプロジェクトについて協議しました。会談のあと赤澤大臣は一定の進展があった一方、合意には至らず、引き続き調整を図る考えを示しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050741000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260213/k10015050741000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
-    },
-    {
-      "title": "米キャボット／日本初の投資、大阪府箕面市の物流施設を取得",
-      "body": "<![CDATA[<p>米国、欧州、アジア太平洋地域において物流不動産への投資・開発・運営を手がけるキャボット・プロパティーズは2月13日、大阪府箕面市の先進的物流施設を取得したと発表した。 同社にとって国内初の投資案件となり、「人口集積地にお [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0213501.html\">米キャボット／日本初の投資、大阪府箕面市の物流施設を取得</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=312248",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=312248",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "id": "www3.nhk.or.jp/news/html/20260213/k10015051121000.html",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "CAPES／「デザインで物流をもっと楽しく」クリエイティブ発想の根っこ",
@@ -68,7 +28,71 @@
       "sourceURL": "https://www.lnews.jp/?p=311894",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311894",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
+    },
+    {
+      "title": "関通／サイバーセキュリティコンサル事業を独立させ子会社設立",
+      "body": "<![CDATA[<p>関通は2月13日、サイバーセキュリティコンサルティング事業の権利義務を、新設分割により設立する完全子会社「Cyber Governance Lab（サイバーガバナンスラボ）」に承継することを決めた。4月1日に効力発生する [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0213605.html\">関通／サイバーセキュリティコンサル事業を独立させ子会社設立</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=312362",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=312362",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
+    },
+    {
+      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+      "body": "&lt;p&gt;Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says&lt;/p&gt;&lt;p&gt;Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monday. Only two survivors were rescued.&lt;/p&gt;&lt;p&gt;The International Organization for Migration said the boat overturned north of Zuwara on Friday, in the latest disaster involving people attempting the perilous Mediterranean crossing in the hope of reaching Europe.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
+    },
+    {
+      "title": "米トランプ政権 自動車排ガス規制撤廃を発表",
+      "body": "アメリカのトランプ政権は、2009年に当時のオバマ政権が行った、温室効果ガスが公衆の健康と福祉の脅威だとする政府の決定を取り消し、自動車による温室効果ガスの排出規制を撤廃すると発表しました。気候変動を最優先課題の1つに掲げたバイデン前政権からの大きな政策転換で、気候変動に取り組む国際社会からの反発も強まりそうです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050631000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260213/k10015050631000.html",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
+    },
+    {
+      "title": "【きょうのおはBiz2月13日(金)】長期金利 価格↓で金利↑ なぜ",
+      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050781000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260213/k10015050781000.html",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
+    },
+    {
+      "title": "アスクル／全物流拠点で新システムによる出荷再開、当日配送も対応",
+      "body": "<![CDATA[<p>アスクルは2月13日、2025年10月19日に発生したランサムウェア攻撃によるシステム障害に関し、「商品の品ぞろえを含む主要なECサービス機能について、システム障害発生前の水準まで復旧した」と発表した（第18報）。 2月 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0213504.html\">アスクル／全物流拠点で新システムによる出荷再開、当日配送も対応</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=312344",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=312344",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
+    },
+    {
+      "title": "ロジスティード 決算／4～12月の売上高10％増、営業利益30％増",
+      "body": "<![CDATA[<p>ロジスティードが2月13日に発表した2026年3月期第3四半期決算によると、売上高7384億3800円（前年同期比10％増）、調整後営業利益457億9300万円（30％増）、税引前利益317億3600万円（64％増）、親 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0213604.html\">ロジスティード 決算／4～12月の売上高10％増、営業利益30％増</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=312341",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=312341",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
+    },
+    {
+      "title": "80兆円規模の対米投資 第1弾プロジェクトを協議も合意に至らず",
+      "body": "日米合意に基づく5500億ドル、日本円にして80兆円規模のアメリカへの投資をめぐり、赤澤経済産業大臣はラトニック商務長官と会談し、第1弾となるプロジェクトについて協議しました。会談のあと赤澤大臣は一定の進展があった一方、合意には至らず、引き続き調整を図る考えを示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050741000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260213/k10015050741000.html",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
+    },
+    {
+      "title": "米キャボット／日本初の投資、大阪府箕面市の物流施設を取得",
+      "body": "<![CDATA[<p>米国、欧州、アジア太平洋地域において物流不動産への投資・開発・運営を手がけるキャボット・プロパティーズは2月13日、大阪府箕面市の先進的物流施設を取得したと発表した。 同社にとって国内初の投資案件となり、「人口集積地にお [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0213501.html\">米キャボット／日本初の投資、大阪府箕面市の物流施設を取得</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=312248",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=312248",
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "政府「フィジカルAI」競争力強化 AIと半導体を一体的支援へ",
@@ -76,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260213/k10015050521000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "春闘 アシックス 大幅引き上げの8％賃上げ方針",
@@ -84,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260213/k10015050551000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "アマゾン／千葉県流山市に2拠点目、10.8万m2のフルフィルメントセンターを新設",
@@ -92,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312059",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312059",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "CPD／埼玉県草加市で5.5万m2のマルチテナント型物流施設が満床稼働",
@@ -100,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312083",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312083",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "豊田自動織機の株式非公開化へ トヨタグループがTOB期間を延長",
@@ -108,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260212/k10015050331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260212/k10015050331000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "楽天グループ 売り上げ過去最高も7年連続の最終赤字",
@@ -116,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260212/k10015050251000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260212/k10015050251000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "“昇級意欲の向上を” 富国生命 部長級社員に手厚い賃上げへ",
@@ -124,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260212/k10015049901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260212/k10015049901000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "株価 一時5万8000円台 取引時間中の最高値を更新",
@@ -132,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260212/k10015049691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260212/k10015049691000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "日本トランスシティ 決算／4～12月の売上高0.4％増、営業利益4.3％増",
@@ -140,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312158",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312158",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "東部ネットワーク 決算／4～12月の売上高2.9％減、営業利益45.0％増",
@@ -148,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312152",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312152",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "【きょうのおはBiz 2月12日(木)】国産ドローン 海外展開へ模索",
@@ -156,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260212/k10015049751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260212/k10015049751000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "円相場 1ドル＝153円台前半 アメリカの個人消費減速への懸念で",
@@ -164,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260212/k10015049701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260212/k10015049701000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "日本郵船／外航ばら積み船で低炭素メタノール燃料を使用",
@@ -172,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312074",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312074",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "日本郵便／10日より53郵便局で軽四輪の追加停止処分",
@@ -180,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312080",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312080",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "中国 1月の消費者物価指数 4か月連続でプラスも伸び率は縮小",
@@ -188,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260211/k10015049151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260211/k10015049151000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "赤澤経産相 アメリカへ出発 日米合意80兆円規模投資の協議へ",
@@ -196,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260211/k10015049101000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260211/k10015049101000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "国交省／共同輸送データベース普及の取り組みに対し大臣賞授与",
@@ -204,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311987",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311987",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "日本郵便／軽貨物の行政処分は6月1日に終了の見込み、不正の再発防止に全社一丸",
@@ -212,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312041",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312041",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "米 12月の小売業売上高 前月比と同水準 市場予想を下回る",
@@ -220,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260211/k10015048771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260211/k10015048771000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "小林製薬 “紅麹”問題の被害者510人 補償費用など36億円余に",
@@ -228,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260210/k10015048831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260210/k10015048831000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "財務相 “食料品の消費税減税 あらゆる論点を議論”【現場は】",
@@ -236,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260210/k10015048241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260210/k10015048241000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "株価 終値 初の5万7000円超え 最高値更新",
@@ -244,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260210/k10015048101000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260210/k10015048101000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "プルデンシャル生命 不適切金銭受領で第三者委設置",
@@ -252,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260210/k10015048121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260210/k10015048121000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "日本ロジテム 決算／4～12月の売上高9.0％増、営業利益69.4％増",
@@ -260,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312032",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312032",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "福山通運 決算／4～12月の売上高4.7％増、営業利益2.8％増",
@@ -268,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312035",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312035",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "ROMS／梱包AIに現場判断を反映させる「フィードバック機能」を強化",
@@ -276,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311882",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311882",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "国交省／日本郵便への軽貨物自動車使用停止処分通知総数は1862営業所と発表",
@@ -284,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311879",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311879",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "経団連会長 “選挙結果「歓迎」政策本位の政治遂行を”",
@@ -292,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047731000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260209/k10015047731000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "株価 終値 初の5万6000円台で最高値更新 長期金利は上昇",
@@ -300,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047251000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260209/k10015047251000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "JPIC／フィジカルインターネット実装への羅針盤「成熟度モデル」を発表",
@@ -308,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311804",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311804",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "ロボトラックなど／センコーの中継輸送拠点間で自動運転セミトレーラーを公道実証",
@@ -316,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311726",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311726",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "【きょうのおはBiz 2月9日(月)】解説 消費税減税 議論どう進む",
@@ -324,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260209/k10015047281000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "東陽倉庫 決算／4～12月の売上高2.7％増、営業利益2.7％増",
@@ -332,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311753",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311753",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "セブン‐イレブン／弁当などの製造回数削減し、輸送コスト15％削減など見込む",
@@ -340,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311747",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311747",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
@@ -348,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "去年の経常収支 31兆8799億円の黒字 2年連続で過去最大を更新",
@@ -356,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260209/k10015047261000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260209/k10015047261000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "伊藤忠食品／札幌物流センターの納品伝票電子化でJPRのシステム運用開始",
@@ -364,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311612",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311612",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "ダイセー阿波急行／徳島市に木造の新倉庫、木材会社の保管から輸送まで一体運用",
@@ -372,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311600",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311600",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     },
     {
       "title": "今回の衆議院選挙 経済3団体の反応",
@@ -380,54 +404,15 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260208/k10015046781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260208/k10015046781000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
-    },
-    {
-      "title": "ワシントン・ポスト紙CEOが辞任 従業員を大量解雇で社内反発か",
-      "body": "アメリカの有力紙ワシントン・ポストで経営基盤強化のためとして従業員の3分の1が解雇されるなかCEOが辞任を表明し、アメリカメディアは解雇を巡り社内で反発が強まっていると伝えています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260208/k10015046311000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260208/k10015046311000.html",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
-    },
-    {
-      "title": "CRE／神奈川県厚木市に1.5万m2の物流施設竣工、ユーディーエルが1棟利用",
-      "body": "<![CDATA[<p>シーアールイー（CRE）は2月6日、神奈川県厚木市で開発していた物流施設「ロジスクエア厚木南」の竣工を発表した。ユーディーエルと1棟全体の賃貸借契約が済んでおり、3PL事業の物流拠点として2月から稼働している。 ＜「ロジ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0206603.html\">CRE／神奈川県厚木市に1.5万m2の物流施設竣工、ユーディーエルが1棟利用</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=311384",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=311384",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
-    },
-    {
-      "title": "日本郵便／フリーランス法違反の疑い380件、一部報道を受け声明発表",
-      "body": "<![CDATA[<p>日本郵便は2月6日、フリーランスとの取引に関する一部の報道に対し、声明を発表した。 本件は、過去の日本郵便の取引のうち、計380件（本社23件、支社357件）が「特定受託事業者に係る取引の適正化等に関する法律（フリーラン [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0206704.html\">日本郵便／フリーランス法違反の疑い380件、一部報道を受け声明発表</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=311426",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=311426",
-      "fetchedAt": "2026-02-13T07:09:21.981Z"
+      "fetchedAt": "2026-02-13T13:19:30.309Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "米トランプ政権 自動車排ガス規制撤廃を発表",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050631000.html",
-      "summary": "トランプ政権は、2009年にオバマ政権が温室効果ガスを公衆の健康に対する脅威と認定し導入した自動車排出規制を撤廃すると発表しました。この措置は、気候変動対策を重視していたバイデン政権の方針からの転換であり、国際的な反応が注目されています。",
-      "classification": {
-        "tone": "B",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "る",
-        "phrase": "ルールはなぁ 心が勝手に 守るモノ"
-      },
-      "commentary": "ルールは誰かに言われて守るんやのうて、自分の心が自然に守ろうと思うもんや。政策が変わっても、その背景には多様な利害や価値観が交差しとる。商売も同じで、目先の都合より長い目で信頼築くことが肝心やと、改めて考えさせられるな。"
-    },
-    {
-      "source": "NHK",
-      "title": "【きょうのおはBiz2月13日(金)】長期金利 価格↓で金利↑ なぜ",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015050781000.html",
-      "summary": "NHKの朝の経済ニュース番組「おはBiz」では、2月13日に長期金利の動向について解説しました。価格が下がると金利が上昇する仕組みを取り上げ、最新のビジネストレンドや働き方、サービス、スタートアップ情報も紹介しています。",
+      "title": "円相場 値下がり 日米の金利差維持の見方を背景に 円売る動き",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015051181000.html",
+      "summary": "13日の東京外国為替市場で、日米間の金利差が引き続き保たれるとの見方から、円が売られる動きが見られました。この影響で円相場は下落しました。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -436,52 +421,67 @@
         "leadingKana": "ん",
         "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "金利が動くとき、表面だけ見て「あれ？」と感じるのは当然や。市場の動きは複雑で、単純な因果だけやない。違和感を大事にして、自分の理解を深める機会にせなあかん。そんな積み重ねが信頼の商いにつながるんやで。"
+      "commentary": "為替の動きに違和感を感じたら、その「ん？」を見逃したらあかんで。日米の金利差だけで円が動くわけやない。市場の裏側にある複雑な要因や将来の不確実性を見つめ直し、焦らず地道に情報の積み重ねで信頼を築くことが大事や。"
     },
     {
-      "source": "LNEWS",
-      "title": "アスクル／全物流拠点で新システムによる出荷再開、当日配送も対応",
-      "sourceURL": "https://www.lnews.jp/?p=312344",
-      "summary": "アスクルは、2025年10月に発生したランサムウェア攻撃によるシステム障害から、主要なECサービスの機能をほぼ完全に復旧させたと発表した。これに伴い、全物流拠点で新システムを導入し、出荷業務を再開。また、当日配送にも対応できる体制が整ったとしている。",
+      "source": "NHK",
+      "title": "スーパーのコメ平均価格 5キロ4204円 2週連続の値上がり",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015051121000.html",
+      "summary": "全国のスーパーマーケットにおけるコメの平均価格は、5キロあたり税込み4204円となり、前週から10円上昇しました。この値上げは2週連続で続いています。期間は今月8日までの1週間です。",
       "classification": {
-        "tone": "G",
-        "term": "L"
+        "tone": "N",
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "システム障害からの復旧は、単なる復活や利益回復だけでなく、日々の積み重ねと信頼の賜物や。誰か一人の力や派手な成功に頼るのではなく、地道な努力が社会の安定を支えるんやと改めて感じるな。焦らず、着実に歩み続ける姿勢が大切やで。"
+      "commentary": "値上げのニュースに、ただ受け流すんやなく「何がどうして？」と深掘りせなあかんで。価格変動の背景やお客の声をしっかり聞くことで、次の一手が見えてくる。表面だけで判断せず、疑問を持ち続ける姿勢こそ信頼の積み重ねに繋がるんや。"
     },
     {
       "source": "LNEWS",
-      "title": "ロジスティード 決算／4～12月の売上高10％増、営業利益30％増",
-      "sourceURL": "https://www.lnews.jp/?p=312341",
-      "summary": "ロジスティードは2026年3月期第3四半期決算を発表し、2025年4月から12月までの売上高が前年同期比で10％増の7384億円となりました。調整後営業利益は30％増の458億円、税引前利益は64％増の317億円となっています。",
+      "title": "CAPES／「デザインで物流をもっと楽しく」クリエイティブ発想の根っこ",
+      "sourceURL": "https://www.lnews.jp/?p=311894",
+      "summary": "昨年9月の国際物流総合展で、CAPESは物流業界向けにノベルティ制作やユニフォームデザインを提案する独自のブースを展開した。物流センターの立ち上げ支援や自動化システムに加え、デザインの力で業務をより楽しくする取り組みを紹介している。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "た",
-        "phrase": "鷹の目と 地虫の目と 人の目"
+        "leadingKana": "さ",
+        "phrase": "さぁ行こか ココまで落ちたら 上がるだけ"
       },
-      "commentary": "ロジスティードの決算は数字だけ見れば好調やけど、商売は数字の裏にある日々の積み重ねや現場の細かい変化も見逃したらあかん。遠くから全体を掴みつつ、現場の声に耳を傾けて、何のためにやるのかを自分の心で問い続ける姿勢が信頼を築くんやで。"
+      "commentary": "物流の現場がロボットやシステムだけやあらへん。デザインの力で、働く人の気持ちも動かす。落ち込むことあっても、工夫と発想で必ず道は開ける。地道な取り組みが信頼の礎やと、改めて教えてくれる話やね。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "関通／サイバーセキュリティコンサル事業を独立させ子会社設立",
+      "sourceURL": "https://www.lnews.jp/?p=312362",
+      "summary": "関通はサイバーセキュリティコンサルティング事業を分割し、4月1日付で新たに完全子会社「Cyber Governance Lab」を設立することを決定した。この子会社に該当事業の権利義務を承継させる。今回の措置は事業の独立性強化を目的としている。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
+      },
+      "commentary": "関通はサイバーセキュリティ事業を独立させたわけやけど、これは単なる分割やのうて、社会の安全に真摯に向き合う姿勢の表れやと思う。商売は社会と繋がるもんやから、自分らの役割を見据えてしっかり積み重ねてこそ信頼が生まれる。焦らず確実に歩み続けることが肝心やで。"
     },
     {
       "source": "Guardian｜World",
       "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
       "sourceURL": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "summary": "地中海のリビア沖で移民を乗せた船が転覆し、国連移民機関によると53人が死亡または行方不明となりました。救助された生存者は2人のみで、事故はズワラ北方の海域で金曜日に発生しました。この事件は、ヨーロッパを目指す移民たちの危険な航海の中で起きた最新の悲劇です。",
+      "summary": "国連の国際移住機関によると、地中海のリビア沖で移民を乗せた船が転覆し、53人が死亡または行方不明となりました。救助された生存者は2人のみで、事故はズワラ北方の海域で金曜日に発生しました。移民たちはヨーロッパを目指してこの危険な海路を渡ろうとしていました。",
       "classification": {
         "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "め",
-        "phrase": "目を見て 話せん奴を 信用すな"
+        "leadingKana": "も",
+        "phrase": "もうアカン 思たトコから もう一歩"
       },
-      "commentary": "命がけの旅路で、表面だけの言葉やうわべの約束では信頼は築かれへん。商売も人の繋がりも、しっかり向き合うことが大事や。短期の利益に走らず、目を見て誠実に関わる積み重ねが、困難を乗り越える力になるんやで。"
+      "commentary": "命の重みが見え隠れする現場やけど、悲しみに押しつぶされんと、次の一歩を考え続けることが大事や。商いも人生も、苦境で止まるんやなく、心が折れた瞬間こそ踏ん張りどき。短期の成果に惑わされず、信頼と持続を意識して歩みを続ける姿勢が、未来につながる道を作るんやで。"
     }
   ]
 }
