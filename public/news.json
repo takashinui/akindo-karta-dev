@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-02-19T07:11:30.280Z",
+  "generatedAt": "2026-02-19T13:26:12.641Z",
   "run": {
-    "ranAt": "2026-02-19T07:11:30.280Z",
+    "ranAt": "2026-02-19T13:26:12.641Z",
     "runner": "github-actions",
-    "runId": "22172125896"
+    "runId": "22183631924"
   },
   "stock": [
+    {
+      "title": "ルノー 去年1年間の決算 最終的な損益 約2兆円の赤字に",
+      "body": "フランスの自動車メーカー、ルノーの去年1年間の決算は、最終的な損益がおよそ2兆円の赤字となりました。提携先の日産自動車の業績が大きく悪化して株価が低迷する中、会計処理を変更したことに伴う損失が膨らんだ形です。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056571000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260219/k10015056571000.html",
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
+    },
+    {
+      "title": "不動産価格の高騰背景に「共有持分」だけの売買 広がる",
+      "body": "夫婦でおカネを出し合って家を買ったり、きょうだいで親から持ち家を相続したり・・・複数の持ち主がそれぞれ「共有持分」を持ち合って土地や建物を共有することを「共有不動産」といいます。今、不動産価格の高騰を背景に、「共有持分」だけの売買が活発になっていて、中にはトラブルになるケースも出ています。全国の持ち家の5分の1にあたるおよそ845万戸が共有状態になっているという推計もある中、その現場を取材しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056121000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260219/k10015056121000.html",
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
+    },
+    {
+      "title": "特別企画／フクダ・アンド・パートナーズ、開発進む「福島郡山LLタウン」、国のレジリエンスに貢献（後編）",
+      "body": "<![CDATA[<p>2022年6月にフクダ・アンド・パートナーズ（F&#38;P）が福島県郡山市で開発をスタートした新たな広域防災拠点「福島郡山LLタウン」。その1棟目となる施設が2025年9月に誕生した。前編ではF&#38;Pの福田社長に [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0219101.html\">特別企画／フクダ・アンド・パートナーズ、開発進む「福島郡山LLタウン」、国のレジリエンスに貢献（後編）</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=311444",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=311444",
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
+    },
+    {
+      "title": "プロロジス／茨城県古河市に10棟のHAZMAT倉庫が完成、エリア19棟に",
+      "body": "<![CDATA[<p>プロロジスは2月19日、茨城県古河市において、HAZMAT倉庫10棟からなる物流施設「プロロジスパーク古河7」の竣工式を執り行った。 ＜「プロロジスパーク古河7」（右手前10棟）＞ 「プロロジスパーク古河7」は、さまざま [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0219504.html\">プロロジス／茨城県古河市に10棟のHAZMAT倉庫が完成、エリア19棟に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=313031",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=313031",
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
+    },
+    {
+      "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+      "body": "&lt;p&gt;Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontline&lt;/p&gt;&lt;p&gt;More than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an intelligence report to the Kenyan parliament that highlights the scale of a Russian operation taking African men to the frontline.&lt;/p&gt;&lt;p&gt;The majority leader of Kenya’s national assembly, Kimani Ichung’wah, said “rogue recruitment agencies and individuals in Kenya” were continuing to send Kenyan nationals to fight in the conflict, as he read MPs the summary of an investigation by Kenya’s National Intelligence Service.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
+    },
     {
       "title": "株価 値上がり 米の景気は底堅いという見方から",
       "body": "19日の東京株式市場、アメリカ景気は底堅いという見方から日経平均株価は値上がりしました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015055871000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015055871000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "ホンダ 原付き免許で運転可能な電動バイク 来月下旬から販売へ",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015056021000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "【PR】船井総研／「トラックドライバー採用アップデート説明会2026春」3月11日開催",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313010",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313010",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "F-LINE／東京都の「東京女性リーダーズ応援ネットワーク」に賛同を表明",
@@ -36,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313016",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313016",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
@@ -44,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "東京23区 中古マンション平均価格 初の1億2000万円超に",
@@ -52,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015055801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015055801000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "NY市場 円相場 一時1ドル154円台後半まで値下がり",
@@ -60,15 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015055711000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015055711000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
-    },
-    {
-      "title": "特別企画／F&#038;P「福島郡山LLタウン」構想実現へ、郡山市、ヤマト運輸、プロロジス、NTT東日本と５者協定",
-      "body": "<![CDATA[<p>2022年6月にフクダ・アンド・パートナーズ（F&#38;P）が福島県郡山市で開発をスタートした新たな広域防災拠点「福島郡山LLタウン」。その1棟目となる施設が2025年9月に誕生した。前編ではF&#38;Pの福田社長に [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0219101.html\">特別企画／F&P「福島郡山LLタウン」構想実現へ、郡山市、ヤマト運輸、プロロジス、NTT東日本と５者協定</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=311444",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=311444",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "ANA Cargo／成田国際空港の上屋で自動運転レベル4の貨物搬送を開始",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312926",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312926",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "生保大手4社 国債など含み損合わせて13兆円超 長期金利上昇で",
@@ -84,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015055281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015055281000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "春闘 大手自動車メーカー労組が要求書提出 要求額減らす動き",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015055221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015055221000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "西濃運輸／愛知県清須市に2.8万m2の新ターミナル竣工、保管から配送まで一貫体制に",
@@ -100,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312800",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312800",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "プロロジス／古河市の倉庫はGHG17％減、国内の全物流施設で環境負荷算定へ",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312809",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312809",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
@@ -116,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "株価 値上がり 値下がりしていた銘柄を買い戻す動き",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015054971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015054971000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "ガソリン小売価格 2週ぶり値上がり 全国平均1リットル156.7円",
@@ -132,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015055111000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015055111000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "国交省／中継輸送拠点整備に向け物流効率化法の改正案を特別国会に提出へ",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312821",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312821",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "1月の貿易統計 米国向け輸出額 2か月連続で減少",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015054821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015054821000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "去年の生鮮野菜の輸入量 前年比20％以上増 天候不順の影響か",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015054611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015054611000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "マクニカ／あらゆる輸送リスクを「可視化」で回避する、次世代のデータ活用術",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312395",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312395",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "宅配便／2022年より受け取り頻度は低下、対面配達8割超で依然多く",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312749",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312749",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "【きょうのおはBiz 2月17日(火)】AIで肉をおいしく むだなく",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015053791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015053791000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "税関で去年1年間に押収された不正薬物 6年ぶりに3トン超",
@@ -188,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015054351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015054351000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "株価 値下がり 半導体関連の銘柄を中心に売り注文が優勢",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015053901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015053901000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "メルシャン 一部ワイン自主回収 日本で無認可の添加物使用",
@@ -204,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015053971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015053971000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "【PR】CBRE／賃貸冷凍冷蔵倉庫「ルネロジ神戸ポートアイランド」説明ウェビナー2月24日開催",
@@ -212,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312704",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312704",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "【PR】CBRE／3月5日・6日仙台の泉・富谷エリアで2物件合同内覧会を開催",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312707",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312707",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "日本酒の関心高まる南アフリカ 酒造会社が規制緩和へ働きかけ",
@@ -236,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015053641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015053641000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "“食料品の消費税2年間ゼロ” 賛成が57％ NHK世論調査",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015053001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015053001000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "コメリ／和歌山県橋本市にグループ最大規模8.2万m2の流通センター2月23日稼働",
@@ -252,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312590",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312590",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.761Z"
     },
     {
       "title": "三井住友銀行の労組 実質10％超の賃上げ要求する方針固める",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260216/k10015053211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260216/k10015053211000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "TikTok中国親会社の動画生成AI最新モデル 著作権侵害に懸念も",
@@ -268,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260216/k10015053371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260216/k10015053371000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "グリーンエキスプレス／埼玉県春日部市に医薬品向け低温物流センター竣工",
@@ -276,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312581",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312581",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "アメリカの安全基準満たした車 追加試験せず日本に輸入可能に",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260216/k10015053301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260216/k10015053301000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "株価 小幅な値下がり GDP伸び率 市場予想を下回ったこと背景に",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260216/k10015053051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260216/k10015053051000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "日本郵便／兵庫県・豊岡市と三者協定、中山間地域の物流維持へ全国初の連携",
@@ -300,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312563",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312563",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "ラストワンマイル協同組合／近畿配送サービスと相互配送委託契約",
@@ -308,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312560",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312560",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "【きょうのおはBiz 2月16日(月)】育て! “やせウニ”",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260216/k10015052981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260216/k10015052981000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "去年10～12月のGDP 年率換算+0.2％ 2期ぶりにプラス",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260216/k10015052891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260216/k10015052891000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "CAPES／「デザインで物流をもっと楽しく」クリエイティブ発想の根っこ",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311894",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311894",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "関通／サイバーセキュリティコンサル事業を独立させ子会社設立",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312362",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312362",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "Assailants kill at least 32 in north-west Nigerian villages, residents say",
@@ -348,7 +380,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "中国の「春節」今年は？日本への渡航自粛呼びかけで各地に影響",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260215/k10015052391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260215/k10015052391000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "電気事業連合会 新会長に関西電力 森望社長が就任の方向で調整",
@@ -364,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260215/k10015052381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260215/k10015052381000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     },
     {
       "title": "米 1月の消費者物価指数 前年同月比2.4％上昇",
@@ -372,116 +404,84 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015051541000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260213/k10015051541000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
-    },
-    {
-      "title": "住友林業 アメリカの住宅メーカーを6200億円余で買収",
-      "body": "大手住宅メーカーの住友林業は、アメリカの戸建て住宅メーカーをおよそ41億ドル、日本円にして6200億円余りで買収すると発表しました。国内で戸建て住宅の市場が縮小傾向となる中、成長が続くアメリカ市場で事業を強化するねらいがあります。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015051381000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260213/k10015051381000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
-    },
-    {
-      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
-      "body": "&lt;p&gt;Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says&lt;/p&gt;&lt;p&gt;Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monday. Only two survivors were rescued.&lt;/p&gt;&lt;p&gt;The International Organization for Migration said the boat overturned north of Zuwara on Friday, in the latest disaster involving people attempting the perilous Mediterranean crossing in the hope of reaching Europe.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
-    },
-    {
-      "title": "円相場 値下がり 日米の金利差維持の見方を背景に 円売る動き",
-      "body": "13日の東京外国為替市場、円相場は日米の金利差が維持されるという見方を背景に円を売る動きが出て、円相場は値下がりしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015051181000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260213/k10015051181000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
-    },
-    {
-      "title": "スーパーのコメ平均価格 5キロ4204円 2週連続の値上がり",
-      "body": "全国のスーパーで、今月8日までの1週間に販売されたコメの平均価格は5キロ当たり税込みで4204円と、前週より10円値上がりしました。値上がりは2週連続です。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260213/k10015051121000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260213/k10015051121000.html",
-      "fetchedAt": "2026-02-19T07:11:04.335Z"
+      "fetchedAt": "2026-02-19T13:25:45.762Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "株価 値上がり 米の景気は底堅いという見方から",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015055871000.html",
-      "summary": "19日の東京株式市場で、アメリカ経済が堅調であるとの見方を背景に、日経平均株価が上昇しました。投資家の間で米国の景気動向が注目されており、これが株価に影響を与えたとみられます。",
+      "title": "ルノー 去年1年間の決算 最終的な損益 約2兆円の赤字に",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056571000.html",
+      "summary": "フランスの自動車大手ルノーは、昨年度の決算で約2兆円の最終赤字を計上しました。これは、提携先の日産自動車の業績悪化と株価低迷を背景に、会計処理の見直しが損失拡大につながったためとされています。",
       "classification": {
-        "tone": "N",
-        "term": "S"
+        "tone": "B",
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "や",
+        "phrase": "やるんかい やらんのやったら どいとれや"
       },
-      "commentary": "米景気の底堅さで株価が上がったんやけど、表面の数字だけ追うんは危ないで。ほんまに何が背景にあるんか、疑問を持って聞き直すことが大事や。適当に流したら信頼は築けへん。日々、確かめる姿勢こそが長い目で見た信頼の基礎やと思うわ。"
+      "commentary": "大きな損失があっても、ただ指をくわえて見ているだけでは先はないで。自分の役割を見極めつつ、チャンスが来たらしっかり動く覚悟が必要や。慌てず焦らず、地道な積み重ねが信頼と次の一手を生むんやで。"
     },
     {
       "source": "NHK",
-      "title": "ホンダ 原付き免許で運転可能な電動バイク 来月下旬から販売へ",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056021000.html",
-      "summary": "ホンダは原動機付自転車の免許で運転可能な新型電動バイクを、来月下旬から市場に投入すると発表しました。国内外の大手メーカーは排出ガス規制の強化を背景に電動バイクの開発を加速させており、今後の電動化の進展が注目されています。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
-      },
-      "commentary": "ホンダが原付免許で乗れる電動バイクを出すんは、環境規制の中で商売の筋を守りつつ新たな道を探る姿勢や。秘密を抱えんと、開示して信頼を積んでいくのが長い商いのコツやから、競争もまた次の信頼の種になるやろな。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "【PR】船井総研／「トラックドライバー採用アップデート説明会2026春」3月11日開催",
-      "sourceURL": "https://www.lnews.jp/?p=313010",
-      "summary": "船井総研サプライチェーンコンサルティングは、3月11日に「トラックドライバー採用アップデート説明会2026春」をオンラインで開催する。同説明会では、ドライバー採用における求人反応の低下や広告費の増加といった課題について情報提供が行われる予定である。",
+      "title": "不動産価格の高騰背景に「共有持分」だけの売買 広がる",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056121000.html",
+      "summary": "不動産価格の上昇を背景に、土地や建物の一部権利である「共有持分」の売買が増加しています。共有不動産とは複数の所有者が権利を分け持つ形態で、全国の約845万戸が該当すると推計されています。この動きに伴い、売買に関するトラブルも報告されており、現状について取材が行われました。",
       "classification": {
         "tone": "N",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
+        "leadingKana": "け",
+        "phrase": "計画より  仕上げが大事"
       },
-      "commentary": "トラックドライバーの採用難は、単なる数字の問題や広告費だけやあらへん。違和感を感じたら、その背景や現場の声に耳を傾けることが大事や。表面的な「ん？」を見逃さず、根っこを探る姿勢こそが、信頼の積み重ねにつながるんやで。"
+      "commentary": "不動産の共有持分取引が増える中、計画だけでなく最後まで丁寧に仕上げる姿勢が肝心やで。共有は複雑やから、売買の過程で起こる問題も見逃せん。焦らず、ひとつひとつの取引を確実に終えることが信頼の積み重ねにつながるんや。"
     },
     {
       "source": "LNEWS",
-      "title": "F-LINE／東京都の「東京女性リーダーズ応援ネットワーク」に賛同を表明",
-      "sourceURL": "https://www.lnews.jp/?p=313016",
-      "summary": "F-LINEは2月19日、東京都が推進する「東京女性リーダーズ応援ネットワーク」の趣旨に賛同し、女性の意思決定参加や多様な働き方の促進を目指す共同宣言を発表した。この取り組みは、挑戦しやすい組織環境の実現を目指している。",
+      "title": "特別企画／フクダ・アンド・パートナーズ、開発進む「福島郡山LLタウン」、国のレジリエンスに貢献（後編）",
+      "sourceURL": "https://www.lnews.jp/?p=311444",
+      "summary": "フクダ・アンド・パートナーズは、2022年6月に福島県郡山市で広域防災拠点「福島郡山LLタウン」の開発を開始し、最初の施設が2025年9月に完成した。同プロジェクトは地域の防災力向上を目指すもので、国のレジリエンス強化に資する取り組みとして進められている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
       },
-      "commentary": "組織が女性の声を取り込み多様な働き方を進める動きは、社会との関わりを深め信頼を築く積み重ねや。短期の成果より、地道に場を整え続ける姿勢こそ、長く世のために尽くす商いの道筋やと考えるんや。"
+      "commentary": "福島の防災拠点づくりは、地域と国の安心を支える地道な取り組みや。商売も同じや、目先の利益だけ追わんと、長く信頼されることが大事やで。日々の積み重ねが社会の基盤となる、そんなあきんどの心を忘れんと進みたいもんや。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "プロロジス／茨城県古河市に10棟のHAZMAT倉庫が完成、エリア19棟に",
+      "sourceURL": "https://www.lnews.jp/?p=313031",
+      "summary": "プロロジスは茨城県古河市で、危険物対応のHAZMAT倉庫10棟を含む物流施設「プロロジスパーク古河7」を完成させ、2月19日に竣工式を実施した。これにより、同エリア内のHAZMAT倉庫は合計19棟となった。施設は多様な物流ニーズに対応することを目的としている。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "い",
+        "phrase": "いつだって  3％と 1/3"
+      },
+      "commentary": "物流施設の拡充は、日々の効率改善に加え、リスク管理の視点も欠かせませんわ。慌てず焦らず、普段の小さなムダを見逃さずに、時には立ち止まって全体を見渡すこと。そんな積み重ねが、信頼を築く商いの礎になるんやと改めて感じますな。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
-      "sourceURL": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
-      "summary": "元英国財務相ジョージ・オズボーン氏は、現職の米AI企業OpenAIでの役割を通じて、AI技術を取り入れない国は経済的に遅れを取る可能性があると指摘した。インドで開催されたAIサミットで、AI導入の遅れが労働力の流出や競争力低下を招く恐れがあると述べ、「取り残されるな」と警鐘を鳴らした。",
+      "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+      "sourceURL": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "summary": "ケニアの国家情報サービスの調査によると、ロシアとウクライナの紛争において、1000人以上のケニア人がロシア側で戦闘に参加するためにリクルートされていることが明らかになった。ケニア国会で報告された内容では、一部のリクルート機関や個人がこの人員動員に関与していると指摘されている。国会議員もこの情報を共有し、動向の監視が求められている。",
       "classification": {
         "tone": "B",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "あ",
-        "phrase": "あかんモンはあかん"
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "AIの導入は社会や経済の形を変える大波やけど、焦って飛びつくだけやと後悔もある。あきんどは時に「これはあかん」と線を引きつつ、挑戦も続ける。短期で見ず、信頼と持続を胸に、慎重に一歩を踏み出すことが肝心どすな。"
+      "commentary": "情報が飛び交う中、安易に信じ込まずに慎重に見極めることが肝心や。慌てて動く前に裏を取り、状況を冷静に理解してから判断する。それが信頼を積み重ねるあきんどの務めやで。焦らず、地道に事実を確かめる姿勢を忘れたらあかん。"
     }
   ]
 }
