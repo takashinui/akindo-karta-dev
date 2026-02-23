@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-02-23T13:24:11.198Z",
+  "generatedAt": "2026-02-23T19:17:43.496Z",
   "run": {
-    "ranAt": "2026-02-23T13:24:11.198Z",
+    "ranAt": "2026-02-23T19:17:43.496Z",
     "runner": "github-actions",
-    "runId": "22307968825"
+    "runId": "22321094703"
   },
   "stock": [
+    {
+      "title": "NYダウ 一時800ドル超える大幅下落 関税先行きの不透明感で",
+      "body": "23日のニューヨーク株式市場では、ダウ平均株価が先週末の終値と比べて一時、800ドルを超える大幅な値下がりとなりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059221000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260224/k10015059221000.html",
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
+    },
     {
       "title": "アメリカ税関当局「IEEPA」に基づく関税の徴収は24日に停止へ",
       "body": "アメリカの連邦最高裁判所が、「IEEPA＝国際緊急経済権限法」を根拠に相互関税などの関税を課す権限は大統領に与えられていないとする判断を示したことについて、アメリカの税関当局はこれに基づく関税の徴収を24日に停止すると発表しました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260223/k10015059041000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260223/k10015059041000.html",
-      "fetchedAt": "2026-02-23T13:23:44.764Z"
-    },
-    {
-      "title": "「年収130万円の壁」4月以降 扶養の要件を緩和へ 厚労省",
-      "body": "扶養を外れて社会保険料の負担が生じる、いわゆる「年収130万円の壁」への対応をめぐり、厚生労働省は、ことし4月以降、扶養の要件を緩和します。給与収入のみの場合、残業代などを含めずに年収を計算するよう改め、残業や休日出勤によって結果的に年収130万円を超えても扶養を認め、働き控えの解消につなげたい考えです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260223/k10015058881000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260223/k10015058881000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "AZ-COM丸和HD／埼玉県松伏町に2棟目の首都圏基幹物流センター、12.1万m2規模で3月着工",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313178",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313178",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "プロロジス・山田会長兼CEO／新規物流施設開発に加え既存施設のリノベーションにも意欲",
@@ -36,7 +36,23 @@
       "sourceURL": "https://www.lnews.jp/?p=313082",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313082",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
+    },
+    {
+      "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
+      "body": "&lt;p&gt;Bellarmine Chatunga Mugabe, known for lavish lifestyle, also accused of theft and being illegal immigrant after man allegedly shot in back&lt;/p&gt;&lt;p&gt;A son of the late Zimbabwean president Robert Mugabe has been charged with attempted murder after a 23-year-old man was allegedly shot in the back on 19 February in an upmarket area of Johannesburg.&lt;/p&gt;&lt;p&gt;Bellarmine Chatunga Mugabe, 28, appeared in court on Monday for a brief hearing alongside co-accused Tobias Mugabe Matonhodze. Mugabe’s lawyer Sinenhlanhla Mnguni declined to comment when &lt;a href=\"https://www.enca.com/news-top-stories/mugabes-son-makes-first-court-appearance-shooting\"&gt;asked by reporters&lt;/a&gt; whether the two men were related. Mnguni said he would request bail for his clients at the next hearing on 3 March.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
+    },
+    {
+      "title": "「年収130万円の壁」4月以降 扶養の要件を緩和へ 厚労省",
+      "body": "扶養を外れて社会保険料の負担が生じる、いわゆる「年収130万円の壁」への対応をめぐり、厚生労働省は、ことし4月以降、扶養の要件を緩和します。給与収入のみの場合、残業代などを含めずに年収を計算するよう改め、残業や休日出勤によって結果的に年収130万円を超えても扶養を認め、働き控えの解消につなげたい考えです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260223/k10015058881000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260223/k10015058881000.html",
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
@@ -44,7 +60,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "「国民会議」“今週にも設置” 消費税の減税など議論へ",
@@ -52,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260222/k10015058551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260222/k10015058551000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "「GDP」って？ニュースでよく聞くことば",
@@ -60,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260222/k10015058041000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260222/k10015058041000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "最高裁で敗訴も トランプ大統領 “すべての国対象に10％関税”",
@@ -68,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260221/k10015057551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260221/k10015057551000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "NYダウ 一時300ドル超の値上がり 相互関税で政権側敗訴受け",
@@ -76,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260221/k10015057841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260221/k10015057841000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "電気事業連合会 新会長に関西電力の森望社長が就任",
@@ -84,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015057681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015057681000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "スルメイカ漁 新年度の漁獲枠は今年度当初の3.5倍に決定",
@@ -92,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015057421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015057421000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "1月 消費者物価指数 去年同月比2％上昇 上昇率は前月より縮小",
@@ -100,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015056741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015056741000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "1月の訪日外国人旅行者 国交相“中国以外で補われ全体は好調”",
@@ -108,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015057011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015057011000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.669Z"
     },
     {
       "title": "公共工事の「労務単価」 3月から全国平均4.5％引き上げ 国交省",
@@ -116,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015057001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015057001000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "三菱ケミカル物流／楠本匡 専務取締役が4月1日付で新社長に",
@@ -124,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313166",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313166",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "SEMITEC／「薄膜サーミスタ」の需要拡大受け山口県に工場建設へ",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313172",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313172",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "【きょうのおはBiz 2月20日(金)】イオン子会社 非正規賃上げへ",
@@ -140,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015056781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015056781000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "商船三井／プラチナくるみん「プラス」に認定",
@@ -148,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313067",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313067",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "NCA／3月の国際航空貨物燃油サーチャージ据え置き",
@@ -156,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313064",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313064",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "ルノー 去年1年間の決算 最終的な損益 約2兆円の赤字に",
@@ -164,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056571000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015056571000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "不動産価格の高騰背景に「共有持分」だけの売買 広がる",
@@ -172,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015056121000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "特別企画／フクダ・アンド・パートナーズ、開発進む「福島郡山LLタウン」、国のレジリエンスに貢献（後編）",
@@ -180,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=311444",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=311444",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "プロロジス／茨城県古河市に10棟のHAZMAT倉庫が完成、エリア19棟に",
@@ -188,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313031",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313031",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
@@ -196,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "株価 値上がり 米の景気は底堅いという見方から",
@@ -204,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015055871000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015055871000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "ホンダ 原付き免許で運転可能な電動バイク 来月下旬から販売へ",
@@ -212,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015056021000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "【PR】船井総研／「トラックドライバー採用アップデート説明会2026春」3月11日開催",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313010",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313010",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "F-LINE／東京都の「東京女性リーダーズ応援ネットワーク」に賛同を表明",
@@ -228,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313016",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313016",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
@@ -236,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "東京23区 中古マンション平均価格 初の1億2000万円超に",
@@ -244,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015055801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015055801000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "NY市場 円相場 一時1ドル154円台後半まで値下がり",
@@ -252,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015055711000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015055711000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "ANA Cargo／成田国際空港の上屋で自動運転レベル4の貨物搬送を開始",
@@ -260,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312926",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312926",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "生保大手4社 国債など含み損合わせて13兆円超 長期金利上昇で",
@@ -268,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015055281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015055281000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "春闘 大手自動車メーカー労組が要求書提出 要求額減らす動き",
@@ -276,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015055221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015055221000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "西濃運輸／愛知県清須市に2.8万m2の新ターミナル竣工、保管から配送まで一貫体制に",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312800",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312800",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "プロロジス／古河市の倉庫はGHG17％減、国内の全物流施設で環境負荷算定へ",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312809",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312809",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "株価 値上がり 値下がりしていた銘柄を買い戻す動き",
@@ -308,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015054971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015054971000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "ガソリン小売価格 2週ぶり値上がり 全国平均1リットル156.7円",
@@ -316,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015055111000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015055111000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "国交省／中継輸送拠点整備に向け物流効率化法の改正案を特別国会に提出へ",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312821",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312821",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "1月の貿易統計 米国向け輸出額 2か月連続で減少",
@@ -332,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015054821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015054821000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "去年の生鮮野菜の輸入量 前年比20％以上増 天候不順の影響か",
@@ -340,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260218/k10015054611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260218/k10015054611000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "マクニカ／あらゆる輸送リスクを「可視化」で回避する、次世代のデータ活用術",
@@ -348,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312395",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312395",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "宅配便／2022年より受け取り頻度は低下、対面配達8割超で依然多く",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=312749",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=312749",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "【きょうのおはBiz 2月17日(火)】AIで肉をおいしく むだなく",
@@ -364,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015053791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015053791000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "税関で去年1年間に押収された不正薬物 6年ぶりに3トン超",
@@ -372,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015054351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015054351000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "株価 値下がり 半導体関連の銘柄を中心に売り注文が優勢",
@@ -380,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015053901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015053901000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     },
     {
       "title": "メルシャン 一部ワイン自主回収 日本で無認可の添加物使用",
@@ -388,31 +404,30 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260217/k10015053971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260217/k10015053971000.html",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
-    },
-    {
-      "title": "【PR】CBRE／賃貸冷凍冷蔵倉庫「ルネロジ神戸ポートアイランド」説明ウェビナー2月24日開催",
-      "body": "<![CDATA[<p>シービーアールイー（CBRE）は2月24日、兵庫県の賃貸冷凍冷蔵倉庫「ルネロジ神戸ポートアイランド」の説明セミナーをオンライン開催する。 今年1月に竣工した同施設は、ポートアイランド内で唯一の開発型賃貸倉庫かつ希少性の高 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0217801.html\">CBRE／賃貸冷凍冷蔵倉庫「ルネロジ神戸ポートアイランド」説明ウェビナー2月24日開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=312704",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=312704",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
-    },
-    {
-      "title": "【PR】CBRE／3月5日・6日仙台の泉・富谷エリアで2物件合同内覧会を開催",
-      "body": "<![CDATA[<p>シービーアールイー（CBRE）は3月5日・6日の2日間、宮城県の「SANKEILOGI仙台泉」と「仙台泉物流センター」の2物件で合同内覧会を開催する。 ＜SANKEILOGI仙台泉（写真左）、仙台泉物流センター＞ ＜位置 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0217802.html\">CBRE／3月5日・6日仙台の泉・富谷エリアで2物件合同内覧会を開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=312707",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=312707",
-      "fetchedAt": "2026-02-23T13:23:44.765Z"
+      "fetchedAt": "2026-02-23T19:17:11.670Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
+      "title": "NYダウ 一時800ドル超える大幅下落 関税先行きの不透明感で",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059221000.html",
+      "summary": "23日のニューヨーク株式市場で、ダウ平均株価は一時800ドル以上の急落を記録しました。この動きは関税の今後に対する不透明感が影響したとみられています。市場の変動は先週末の終値と比較して大きな下落となりました。",
+      "classification": {
+        "tone": "B",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "ふ",
+        "phrase": "不実やと 思うのならば やめなはれ"
+      },
+      "commentary": "市場の動きに振り回されて、短期的な利益追求ばかりに目を向けるのは危ういで。信頼は一朝一夕に築けへんから、不確実な状況でも誠実な判断を積み重ねることが、長い目で見た信頼の土台になるんや。焦らず腰据えて、冷静に見極める姿勢が大事やで。"
+    },
+    {
+      "source": "NHK",
       "title": "アメリカ税関当局「IEEPA」に基づく関税の徴収は24日に停止へ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260223/k10015059041000.html",
-      "summary": "アメリカ連邦最高裁は、国際緊急経済権限法（IEEPA）に基づき大統領が相互関税を課す権限を持たないとの判断を示しました。これを受け、アメリカの税関当局は同法に基づく関税の徴収を4月24日に停止すると発表しました。",
+      "summary": "アメリカ連邦最高裁は、国際緊急経済権限法（IEEPA）に基づく関税課税権限は大統領に認められないと判断しました。これを受け、アメリカ税関当局は同法に基づく関税の徴収を4月24日から停止すると発表しました。",
       "classification": {
         "tone": "N",
         "term": "M"
@@ -421,67 +436,52 @@
         "leadingKana": "わ",
         "phrase": "わからん時　わからんと言う素直さよ"
       },
-      "commentary": "今回の判断で「こうやな」と思い込むんは危ない話や。法律の解釈や運用は変わるもんやし、疑問や不明点を素直に認めて確認する姿勢こそ信頼を築く鍵やで。焦らず状況を見極め、相手とも誠実に向き合うことが大事やと改めて感じるわ。"
-    },
-    {
-      "source": "NHK",
-      "title": "「年収130万円の壁」4月以降 扶養の要件を緩和へ 厚労省",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260223/k10015058881000.html",
-      "summary": "厚生労働省は、今年4月から「年収130万円の壁」に関する扶養の基準を緩和する方針を示しました。給与収入のみを基に年収を算出し、残業代や休日出勤の分は含めない仕組みに改めます。これにより、残業で年収が130万円を超えても扶養認定が可能となり、労働意欲の低下を防ぐ狙いがあります。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "な",
-        "phrase": "何するか 分からん時は 基礎鍛錬"
-      },
-      "commentary": "130万円の壁が緩和され、働く人の負担が減る動きやな。ただ、慌てずに焦らず、制度の変化を自分の働き方にどう活かすか、基礎を固める感覚でじっくり考えてみることが大事や。信頼は日々の積み重ねやからな。"
+      "commentary": "今回の最高裁判断は、権限の範囲を改めて示したわけや。商売もそうやけど、わからんことは無理に決めつけず、正直に認めて周囲と確認する姿勢が信頼を育てる。焦らず、じっくり状況を見極めることが、長い目での信用につながるんやで。"
     },
     {
       "source": "LNEWS",
       "title": "AZ-COM丸和HD／埼玉県松伏町に2棟目の首都圏基幹物流センター、12.1万m2規模で3月着工",
       "sourceURL": "https://www.lnews.jp/?p=313178",
-      "summary": "AZ-COM丸和ホールディングスは、埼玉県松伏町に2棟目となる首都圏基幹物流センター「AZ-COM Matsubushi WEST」の建設を決定した。施設の延床面積は約12.1万平方メートルで、2024年3月に着工予定となっている。",
+      "summary": "AZ-COM丸和ホールディングスは、埼玉県松伏町に2棟目となる首都圏基幹物流センター「AZ-COM Matsubushi WEST」の建設を決定した。施設の延床面積は約12.1万平方メートルで、2026年3月に着工を予定している。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
       },
-      "commentary": "物流の拡充は単なる拡大や効率化だけやのうて、地域と社会を支える役割も担うもんや。新しい物流拠点の建設は、日々の積み重ねで信頼を築き、暮らしの平穏を守るための一歩。焦らず、着実に歩み続ける姿勢が大事やで。"
+      "commentary": "物流センターの新設は規模も大きく、地域と共に信頼を築く場やな。秘密を抱えず、情報を開示し筋を通すことで、長く続く商売の土台ができる。焦らず日々の積み重ねが大事やで。"
     },
     {
       "source": "LNEWS",
       "title": "プロロジス・山田会長兼CEO／新規物流施設開発に加え既存施設のリノベーションにも意欲",
       "sourceURL": "https://www.lnews.jp/?p=313082",
-      "summary": "プロロジスの山田御酒会長兼CEOは、茨城県古河市に完成した危険物保管用の倉庫10棟と管理棟からなる「プロロジスパーク古河7」を紹介しました。同施設は隣接するマルチテナント型物流施設と連携しており、山田氏は新規物流施設の開発に加え、既存施設のリノベーションにも積極的に取り組む意向を示しています。",
+      "summary": "プロロジスの山田御酒会長兼CEOは、茨城県古河市で完成した危険物保管用の倉庫10棟と管理棟からなる「プロロジスパーク古河7」について言及しました。同施設は隣接するマルチテナント型物流施設と連携しています。山田氏は新規の物流施設開発だけでなく、既存施設のリノベーションにも積極的に取り組む意向を示しています。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "物流施設の新設だけやなく、既存の価値も磨き直す姿勢は、社会との関わりを大事にするあきんどの心や。目先の利益に走らず、積み重ねが信頼を生むと心得て、地道に世のため尽くす道を歩むことが肝心やな。"
+      "commentary": "物流の現場は、ただ新しい施設を作るだけやあらへん。既存のものを見直し、磨き上げることもまた信頼の基礎や。今だけの成果にとらわれんと、長く続く価値を積み重ねる姿勢が肝心やで。日々の誠実な積み重ねが、未来の信頼を形作るんやと思うわ。"
     },
     {
       "source": "Guardian｜World",
-      "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
-      "sourceURL": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
-      "summary": "国連の事実調査団は、スーダン北ダルフールの州都エルファシールが準軍事組織RSFにより約18ヶ月間占拠されたことについて報告を発表した。この調査で、RSFとその同盟勢力がザガワ族やフルール族など特定の民族集団に対し、身体的破壊をもたらす意図的な行為を行ったと指摘された。占拠と包囲の状況は「ジェノサイドの特徴」を示しているとされた。",
+      "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
+      "sourceURL": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
+      "summary": "故ロバート・ムガベ元ジンバブエ大統領の息子、ベルラミン・チャトゥンガ・ムガベ容疑者（28）が、2月19日にヨハネスブルグの高級地区で23歳男性を背中から銃撃したとして殺人未遂の罪で起訴された。共犯者のトビアス・ムガベ・マトノホゼも同時に出廷し、次回の保釈申請は3月3日に行われる予定。弁護士は両容疑者の関係についてコメントを控えている。",
       "classification": {
         "tone": "B",
-        "term": "L"
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "あ",
-        "phrase": "あかんモンはあかん"
+        "leadingKana": "ふ",
+        "phrase": "不実やと 思うのならば やめなはれ"
       },
-      "commentary": "状況の複雑さを理解しても、暴力や破壊は商売の倫理から外れるもんや。社会との関係を大事にするあきんどとして、どんな事情があっても人の命や尊厳を壊すことには絶対に手を出したらあかん。難しい局面やなかでも、信頼の積み重ねを忘れんようにせな。"
+      "commentary": "過去の肩書きに頼らず、誠実な振る舞いが信頼を築く土台や。見かけの派手さや一時の行動で重みは変わらへん。商売も人生も、信頼の積み重ねが次に繋がるから、不誠実は長い目で見て自分の首を締めることになるんやで。"
     }
   ]
 }
