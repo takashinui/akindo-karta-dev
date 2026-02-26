@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-02-25T19:16:22.168Z",
+  "generatedAt": "2026-02-26T02:46:42.202Z",
   "run": {
-    "ranAt": "2026-02-25T19:16:22.168Z",
+    "ranAt": "2026-02-26T02:46:42.202Z",
     "runner": "github-actions",
-    "runId": "22411999915"
+    "runId": "22425608428"
   },
   "stock": [
     {
-      "title": "春闘 大手自動車メーカー 初回の労使交渉で満額回答相次ぐ",
-      "body": "ことしの春闘で大手自動車メーカーの間では、25日に行った初回の労使交渉で賃上げとボーナスの満額回答が相次ぎ、アメリカの関税措置などで厳しい経営環境の中でも賃上げに踏み切る動きが出ています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015060541000.html",
+      "title": "株価 初の5万9000円台 米株高や日銀の早期利上げ観測後退で",
+      "body": "26日の東京株式市場、25日のニューヨーク市場で主要な株価指数が上昇したことなどから買い注文が広がり、日経平均株価は取り引き時間中の最高値を更新して、初めて5万9000円台をつけました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260226/k10015060901000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260225/k10015060541000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "id": "www3.nhk.or.jp/news/html/20260226/k10015060901000.html",
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
-      "title": "東京証券取引所 新社長に横山隆介氏 4月1日付け",
-      "body": "日本取引所グループは傘下の東京証券取引所の新しい社長に、同じ傘下の大阪取引所で社長を務める横山隆介氏を起用すると発表しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015060631000.html",
+      "title": "米 エヌビディア 3か月間の決算 最終利益 前年同期比94％増",
+      "body": "生成AI向けの半導体の開発を手がけるアメリカの半導体大手、エヌビディアは25日、先月までの3か月間の決算を発表しました。それによりますと、売り上げは前の年の同じ時期と比べて73％増えて681億2700万ドル、日本円でおよそ10兆6500億円、最終的な利益は94％増えて429億6000万ドル、日本円でおよそ6兆7200億円でした。アメリカの大手IT各社がAI開発に巨額の投資を続ける中、データセンター向けの半導体の売り上げが好調だったことが背景にあります。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260226/k10015060761000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260225/k10015060631000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "id": "www3.nhk.or.jp/news/html/20260226/k10015060761000.html",
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
-      "title": "CLOフォーラム開催／物流を経営課題へ、先進企業3社がCLO実像語る",
-      "body": "<![CDATA[<p>国土交通省と経済産業省は2月24日、東京都内で「物流統括管理者（CLO）フォーラム」を共催した。4月に迫る特定荷主企業等へのCLO選任義務化を前に、制度の趣旨やCLOに期待される役割、必要な知見や人材育成の方向性について [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0225501.html\">CLOフォーラム開催／物流を経営課題へ、先進企業3社がCLO実像語る</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=313478",
+      "title": "コニシ／4月1日付け機構変更、ボンド営業本部CLOに中谷光宏氏",
+      "body": "<![CDATA[<p>化成メーカーのコニシは2月17日、機構変更と役員異動を発表した。 4月1日付で、ボンド営業本部をボンド営業本部、ストックマネジメント推進本部、物流本部に分割する。 また物流本部に業務統括部の機能を移管し、業務統括部を廃止 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0226503.html\">コニシ／4月1日付け機構変更、ボンド営業本部CLOに中谷光宏氏</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=313565",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=313478",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "id": "www.lnews.jp/?p=313565",
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
-      "title": "T2／自動運転トラックで「関東ー関西1日1往復」を実証",
-      "body": "<![CDATA[<p>T2は2月25日、レベル4自動運転トラックを用いた幹線輸送サービスの実現に向けて、関東ー関西間を1日1往復する運行を実証し、連続運行に必要なオペレーションを確認したと発表した。 ＜実証の様子＞ レベル4を見据えて設立した [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s025602.html\">T2／自動運転トラックで「関東ー関西1日1往復」を実証</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=313397",
+      "title": "豊田自動織機／フォークリフトをリコール、尾灯・制動灯・後退灯・後部反射器の不具合",
+      "body": "<![CDATA[<p>豊田自動織機は2月25日、国土交通省にフォークリフトのリコールを届け出た。対象は1996年9月6日～2025年8月27日に製造された2589台。 不具合は、尾灯・制動灯・後退灯および後部反射器で、保安基準に適合しないおそ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0226901.html\">豊田自動織機／フォークリフトをリコール、尾灯・制動灯・後退灯・後部反射器の不具合</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=313559",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=313397",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "id": "www.lnews.jp/?p=313559",
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
+    },
+    {
+      "title": "春闘 大手自動車メーカー 初回の労使交渉で満額回答相次ぐ",
+      "body": "ことしの春闘で大手自動車メーカーの間では、25日に行った初回の労使交渉で賃上げとボーナスの満額回答が相次ぎ、アメリカの関税措置などで厳しい経営環境の中でも賃上げに踏み切る動きが出ています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015060541000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260225/k10015060541000.html",
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
+    },
+    {
+      "title": "東京証券取引所 新社長に横山隆介氏 4月1日付け",
+      "body": "日本取引所グループは傘下の東京証券取引所の新しい社長に、同じ傘下の大阪取引所で社長を務める横山隆介氏を起用すると発表しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015060631000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260225/k10015060631000.html",
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
+    },
+    {
+      "title": "CLOフォーラム開催／物流を経営課題へ、先進企業3社がCLO実像語る",
+      "body": "<![CDATA[<p>国土交通省と経済産業省は2月24日、東京都内で「物流統括管理者（CLO）フォーラム」を共催した。4月に迫る特定荷主企業等へのCLO選任義務化を前に、制度の趣旨やCLOに期待される役割、必要な知見や人材育成の方向性について [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0225501.html\">CLOフォーラム開催／物流を経営課題へ、先進企業3社がCLO実像語る</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=313478",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=313478",
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
+    },
+    {
+      "title": "T2／自動運転トラックで「関東ー関西1日1往復」を実証",
+      "body": "<![CDATA[<p>T2は2月25日、レベル4自動運転トラックを用いた幹線輸送サービスの実現に向けて、関東ー関西間を1日1往復する運行を実証し、連続運行に必要なオペレーションを確認したと発表した。 ＜実証の様子＞ レベル4を見据えて設立した [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s025602.html\">T2／自動運転トラックで「関東ー関西1日1往復」を実証</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=313397",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=313397",
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "株価 終値として初めて5万8000円台に 最高値を更新",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015060121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260225/k10015060121000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "トランプ大統領 歴代最長の一般教書演説【ノーカット動画】",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015059991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260225/k10015059991000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "三菱商事ロジスティクス／4月に組織変更、営業カンパニー体制へ",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313508",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313508",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "【PR】CBRE・ロジスティード北日本／札幌市西区「KDXロジスティクス札幌発寒」内覧会＆商談会3月6日開催",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313421",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313421",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "Royal Artillery under fire after denying access to looted Asante treasure",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/feb/24/royal-artillery-access-looted-asante-treasure-ghana",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/feb/24/royal-artillery-access-looted-asante-treasure-ghana",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "ワーナーにパラマウントが新提案 ネットフリックスと争奪戦",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015060021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260225/k10015060021000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "ダイセーロジスティクス／倉庫作業も年間休日120日以上に 「休み少ない」の声で改定",
@@ -100,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313382",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313382",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "国交省・経産省／CLOフォーラム開き、求められる人物像など学ぶ機会提供",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313307",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313307",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "成長戦略相「申し上げるの控える」首相の追加利上げ難色報道で",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260224/k10015059931000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "中国 20の日本企業などに軍民両用品目の輸出を禁止",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260224/k10015059371000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "西濃運輸／SUBARUと自動車部品輸送で協業、豊川支店をメーカーの荷物集約拠点に",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313214",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313214",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "株価 値上がり 半導体関連中心に値下がりした銘柄買い戻す動き",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260224/k10015059411000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "パナソニックHD 欧米でのテレビ販売 中国の家電大手に移管へ",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260224/k10015059471000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "佐川急便／ドライバーの「あるある」を川柳に、新作コラムで紹介",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313328",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313328",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "GoQSystem／ヤマト運輸の置き配サービスEAZYと連携、EC向け配送を強化",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313313",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313313",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "マクドナルド あすから約6割の商品で10円～50円値上げ",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260224/k10015059341000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "コンビニの新たな収益源に “駐車場”活用の動き相次ぐ",
@@ -188,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059081000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260224/k10015059081000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "賃金動向／賃上げ見込みは6割強で過去最高、「運輸・倉庫」は業界別2位に",
@@ -196,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313235",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313235",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "フィジカルインターネット／フィリピンで国際シンポ、日本からJPIC森理事長ら講演",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313223",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313223",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "NYダウ 一時800ドル超える大幅下落 関税先行きの不透明感で",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260224/k10015059221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260224/k10015059221000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "アメリカ税関当局「IEEPA」に基づく関税の徴収は24日に停止へ",
@@ -220,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260223/k10015059041000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260223/k10015059041000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "AZ-COM丸和HD／埼玉県松伏町に2棟目の首都圏基幹物流センター、12.1万m2規模で3月着工",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313178",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313178",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "プロロジス・山田会長兼CEO／新規物流施設開発に加え既存施設のリノベーションにも意欲",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313082",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313082",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "「年収130万円の壁」4月以降 扶養の要件を緩和へ 厚労省",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260223/k10015058881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260223/k10015058881000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
@@ -252,7 +284,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "「国民会議」“今週にも設置” 消費税の減税など議論へ",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260222/k10015058551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260222/k10015058551000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "「GDP」って？ニュースでよく聞くことば",
@@ -268,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260222/k10015058041000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260222/k10015058041000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "最高裁で敗訴も トランプ大統領 “すべての国対象に10％関税”",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260221/k10015057551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260221/k10015057551000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "NYダウ 一時300ドル超の値上がり 相互関税で政権側敗訴受け",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260221/k10015057841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260221/k10015057841000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "電気事業連合会 新会長に関西電力の森望社長が就任",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015057681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015057681000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "スルメイカ漁 新年度の漁獲枠は今年度当初の3.5倍に決定",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015057421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015057421000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "1月 消費者物価指数 去年同月比2％上昇 上昇率は前月より縮小",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015056741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015056741000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "1月の訪日外国人旅行者 国交相“中国以外で補われ全体は好調”",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015057011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015057011000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "公共工事の「労務単価」 3月から全国平均4.5％引き上げ 国交省",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015057001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015057001000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "三菱ケミカル物流／楠本匡 専務取締役が4月1日付で新社長に",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313166",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313166",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "SEMITEC／「薄膜サーミスタ」の需要拡大受け山口県に工場建設へ",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313172",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313172",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "【きょうのおはBiz 2月20日(金)】イオン子会社 非正規賃上げへ",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260220/k10015056781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260220/k10015056781000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "商船三井／プラチナくるみん「プラス」に認定",
@@ -356,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313067",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313067",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "NCA／3月の国際航空貨物燃油サーチャージ据え置き",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313064",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313064",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     },
     {
       "title": "ルノー 去年1年間の決算 最終的な損益 約2兆円の赤字に",
@@ -372,47 +404,15 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056571000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260219/k10015056571000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
-    },
-    {
-      "title": "不動産価格の高騰背景に「共有持分」だけの売買 広がる",
-      "body": "夫婦でおカネを出し合って家を買ったり、きょうだいで親から持ち家を相続したり・・・複数の持ち主がそれぞれ「共有持分」を持ち合って土地や建物を共有することを「共有不動産」といいます。今、不動産価格の高騰を背景に、「共有持分」だけの売買が活発になっていて、中にはトラブルになるケースも出ています。全国の持ち家の5分の1にあたるおよそ845万戸が共有状態になっているという推計もある中、その現場を取材しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260219/k10015056121000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260219/k10015056121000.html",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
-    },
-    {
-      "title": "特別企画／フクダ・アンド・パートナーズ、開発進む「福島郡山LLタウン」、国のレジリエンスに貢献（後編）",
-      "body": "<![CDATA[<p>2022年6月にフクダ・アンド・パートナーズ（F&#38;P）が福島県郡山市で開発をスタートした新たな広域防災拠点「福島郡山LLタウン」。その1棟目となる施設が2025年9月に誕生した。前編ではF&#38;Pの福田社長に [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0219101.html\">特別企画／フクダ・アンド・パートナーズ、開発進む「福島郡山LLタウン」、国のレジリエンスに貢献（後編）</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=311444",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=311444",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
-    },
-    {
-      "title": "プロロジス／茨城県古河市に10棟のHAZMAT倉庫が完成、エリア19棟に",
-      "body": "<![CDATA[<p>プロロジスは2月19日、茨城県古河市において、HAZMAT倉庫10棟からなる物流施設「プロロジスパーク古河7」の竣工式を執り行った。 ＜「プロロジスパーク古河7」（右手前10棟）＞ 「プロロジスパーク古河7」は、さまざま [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/02/s0219504.html\">プロロジス／茨城県古河市に10棟のHAZMAT倉庫が完成、エリア19棟に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=313031",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=313031",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
-    },
-    {
-      "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
-      "body": "&lt;p&gt;Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontline&lt;/p&gt;&lt;p&gt;More than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an intelligence report to the Kenyan parliament that highlights the scale of a Russian operation taking African men to the frontline.&lt;/p&gt;&lt;p&gt;The majority leader of Kenya’s national assembly, Kimani Ichung’wah, said “rogue recruitment agencies and individuals in Kenya” were continuing to send Kenyan nationals to fight in the conflict, as he read MPs the summary of an investigation by Kenya’s National Intelligence Service.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
-      "fetchedAt": "2026-02-25T19:15:55.488Z"
+      "fetchedAt": "2026-02-26T02:46:12.644Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "春闘 大手自動車メーカー 初回の労使交渉で満額回答相次ぐ",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015060541000.html",
-      "summary": "今年の春闘で、大手自動車メーカーは25日に実施した初回の労使交渉で賃上げとボーナスについて満額回答を示すケースが相次ぎました。アメリカの関税措置など厳しい経営環境下にありながらも、賃金改善に前向きな姿勢が見られています。",
+      "title": "株価 初の5万9000円台 米株高や日銀の早期利上げ観測後退で",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260226/k10015060901000.html",
+      "summary": "26日の東京株式市場で、アメリカ株の上昇や日本銀行による早期利上げの可能性が後退したことを背景に、日経平均株価が取引時間中に過去最高値を更新し、初めて5万9000円台に達しました。買い注文が広がったことが要因とされています。",
       "classification": {
         "tone": "G",
         "term": "S"
@@ -421,28 +421,13 @@
         "leadingKana": "と",
         "phrase": "遠い道 一歩進めば 一歩近づく"
       },
-      "commentary": "経済環境が厳しいなかでも、労使が互いに歩み寄る姿勢は大事や。大きな変化も一歩一歩の積み重ねやから、焦らず着実に信頼を築くことが、今後の道を照らすで。"
+      "commentary": "株価の上昇は一度に成るもんとちゃう。日米の動きひとつで揺れながらも、地道な歩みの積み重ねが信頼を形作る。焦らず、浮き沈みも受け止め、確実に前へ進む姿勢が商売の根っこやと思てるで。"
     },
     {
       "source": "NHK",
-      "title": "東京証券取引所 新社長に横山隆介氏 4月1日付け",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260225/k10015060631000.html",
-      "summary": "日本取引所グループは、東京証券取引所の新社長に横山隆介氏を4月1日付で就任させると発表しました。横山氏は現在、同グループ傘下の大阪取引所の社長を務めています。今後、東京証券取引所の経営に携わることになります。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "よ",
-        "phrase": "世の中は 広いんやから 驚くな"
-      },
-      "commentary": "東京の取引所社長に大阪の経験者が就く。新しい顔ぶれに驚くこともあるけど、商売の現場は広く奥深いもんや。慌てず、経験の積み重ねが信頼を作ると心得て、次の一手を考えるのがあきんどの道やで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "CLOフォーラム開催／物流を経営課題へ、先進企業3社がCLO実像語る",
-      "sourceURL": "https://www.lnews.jp/?p=313478",
-      "summary": "国土交通省と経済産業省は2月24日、東京都内で「物流統括管理者（CLO）フォーラム」を開催した。4月から特定荷主企業にCLOの選任が義務付けられることを受け、制度の目的やCLOに求められる役割、必要な知識や人材育成の方向性について議論が行われた。フォーラムには先進的な企業3社が参加し、CLOの実態や課題について意見を共有した。",
+      "title": "米 エヌビディア 3か月間の決算 最終利益 前年同期比94％増",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260226/k10015060761000.html",
+      "summary": "米半導体大手エヌビディアは、先月までの3か月間の決算で売上高が前年同期比73％増の約681億ドル、純利益は94％増の約430億ドルとなりました。これは生成AI向け半導体の需要増加や、主要IT企業のAI関連投資が続く中で、データセンター向け製品の販売が好調だったことが要因とされています。",
       "classification": {
         "tone": "G",
         "term": "M"
@@ -451,37 +436,52 @@
         "leadingKana": "の",
         "phrase": "ノコの歯は 引いて切って 押して切る"
       },
-      "commentary": "物流のCLO制度、新たな経営課題として注目やな。一つの動きに多角的な目的を持たせる工夫が求められる。効率だけ追わず、現場の知見や育成にも手間かけて、信頼の輪をじっくり広げる姿勢が大事やと思うわ。"
+      "commentary": "利益の急増に浮かれるだけやのうて、ひとつの動きで複数の狙いを持つんが大事や。AI投資の追い風を受けつつ、単発でなく持続する価値を見据えて、次の一手を考え続ける姿勢が信頼を生む。焦らず、重ねてこそやで。"
     },
     {
       "source": "LNEWS",
-      "title": "T2／自動運転トラックで「関東ー関西1日1往復」を実証",
-      "sourceURL": "https://www.lnews.jp/?p=313397",
-      "summary": "T2はレベル4自動運転トラックを使い、関東と関西間で1日1往復の幹線輸送サービスの実証運行を2月25日に実施しました。この実験では、連続運行に必要なオペレーションの確認が行われ、将来的な自動運転トラックの実用化に向けた取り組みとして位置づけられています。",
+      "title": "コニシ／4月1日付け機構変更、ボンド営業本部CLOに中谷光宏氏",
+      "sourceURL": "https://www.lnews.jp/?p=313565",
+      "summary": "化成品メーカーのコニシは、4月1日付で組織改編と役員人事を実施する。ボンド営業本部を三つの部門に分割し、物流本部に業務統括部の機能を移管して業務統括部を廃止する。また、中谷光宏氏がボンド営業本部の最高法務責任者（CLO）に就任する。",
       "classification": {
-        "tone": "G",
-        "term": "L"
+        "tone": "N",
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
+        "leadingKana": "ん",
+        "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "自動運転トラックが関東と関西を一日一往復。これ、ただの技術デモやのうて、日々の物流を支える社会の役割を担う挑戦や。商売は社会と繋がることやから、精一杯続けて信頼積むことが大事やね。結果だけ追わず、継続の価値に目を向けたいわ。"
+      "commentary": "組織変革は現場の声を見逃さず進めるもんや。違和感を感じたら無理に押し通さず、何が引っかかるのか掘り下げることが信頼の積み重ねにつながる。焦らず、日々の積み重ねで新たな発見を大事にしたいな。"
     },
     {
-      "source": "Guardian｜World",
-      "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
-      "sourceURL": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
-      "summary": "米国がザンビアとの約10億ドルの保健支援協定を巡り、「無遠慮な搾取」と非難されている。漏洩した覚書案によると、ザンビア側には厳しい目標達成の義務やデータ共有が求められ、さらに鉱山権へのアクセスも含まれている。専門家からは、トランプ政権のこの支援条件が、他のアフリカ16カ国との協定よりも不利な可能性が指摘されている。",
+      "source": "LNEWS",
+      "title": "豊田自動織機／フォークリフトをリコール、尾灯・制動灯・後退灯・後部反射器の不具合",
+      "sourceURL": "https://www.lnews.jp/?p=313559",
+      "summary": "豊田自動織機は、フォークリフトの尾灯、制動灯、後退灯および後部反射器に保安基準不適合の不具合が判明し、国土交通省にリコールを届け出た。対象は1996年9月から2025年8月までに製造された2589台である。安全確保のため、対象機種について点検や修理が行われる見込みだ。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "つ",
-        "phrase": "つまらない 話もコトも しなさんな"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "相手の都合や価値観を無視して進める取引は、長続きせえへんもんや。表面の数字や条件だけで動かず、相手の本音や立場に耳を傾けることが信頼の第一歩やで。つまらん約束ごとに巻き込まれんよう、自分の意志を持って付き合いを選ぶ勇気も大事や。"
+      "commentary": "リコールは一見マイナスやけど、実は信頼の積み重ねや。苦労して作ったモノでも不具合あれば見直す勇気が大事や。商売は短期の成果やなく、真の目的＝安全と信用を見失わんことやで。焦らず、次に活かす姿勢が肝心や。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
+      "summary": "アメリカがザンビアとの約10億ドル規模の保健支援協定で「無遠慮な搾取」を行っているとの指摘が出ている。流出した5年契約の草案には、ザンビア側に厳しい目標設定やデータ共有の義務、さらに鉱山権へのアクセスが含まれており、同様の他アフリカ16カ国との協定よりも不利な条件が示唆されている。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
+      },
+      "commentary": "健康支援の話やけど、一面の情報だけで判断せんと、条件の裏側をじっくり見直すことが肝心や。短期の成果に飛びつくんやなく、相手との信頼を築きながら、次にどう動くべきかを考えることが、長い目で見た商いの基本やで。"
     }
   ]
 }
