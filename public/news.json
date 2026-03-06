@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-03-06T07:02:31.700Z",
+  "generatedAt": "2026-03-06T13:14:56.926Z",
   "run": {
-    "ranAt": "2026-03-06T07:02:31.700Z",
+    "ranAt": "2026-03-06T13:14:56.926Z",
     "runner": "github-actions",
-    "runId": "22752883158"
+    "runId": "22764987719"
   },
   "stock": [
+    {
+      "title": "コメにかかるコスト 5キロ2800円余と算定 農水省 “参考に”",
+      "body": "食品の流通でコストを考慮した取り引きを促そうと、4月から事業者に努力義務を課す法律が施行されます。これに先だって現在のコメにかかるコストが5キロ2800円余りと算定され、農林水産省は今回の数値も参考に生産者や小売業者などの間で適切に協議してほしいとしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068811000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260306/k10015068811000.html",
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
+    },
+    {
+      "title": "原油市場 WTI先物価格が値上がり 一時1バレル＝86ドル台半ばに",
+      "body": "アメリカ・イスラエルとイランとの攻撃の応酬が続く中、6日の原油市場では国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝86ドル台半ばまで値上がりしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068801000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260306/k10015068801000.html",
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
+    },
+    {
+      "title": "物効法改正案／中継輸送促進が主眼、閣議決定され特別国会に提出へ",
+      "body": "<![CDATA[<p>国土交通省が現在開会中の特別国会に提出を予定している改正物流効率化法案が、3月6日に閣議決定された。 ■関連記事 金子国交大臣／中継輸送促進に向け特別国会に物流効率化法の改正法案提出予定と説明 2026年02月24日 改 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0306104.html\">物効法改正案／中継輸送促進が主眼、閣議決定され特別国会に提出へ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=314669",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=314669",
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
+    },
+    {
+      "title": "センコーGHD／丸運株公開買い付けの終了と成立を発表、連結子会社化",
+      "body": "<![CDATA[<p>センコーグループホールディングス（GHD）は3月6日、1月26日から実施していた丸運の普通株式の公開買い付けが3月5日に終了したと発表した。 ■関連記事 センコーGHD／連結子会社化を目的に丸運株式の公開買い付けを決議  [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0306108.html\">センコーGHD／丸運株公開買い付けの終了と成立を発表、連結子会社化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=314765",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=314765",
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
+    },
+    {
+      "title": "Weight-loss jab could be made for $3 a month, study finds",
+      "body": "&lt;p&gt;Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countries&lt;/p&gt;&lt;p&gt;Weight-loss jabs such as Wegovy and Ozempic could be made for just $3 a month, according to new analysis, potentially making the treatment available to millions in poorer countries as patents expire.&lt;/p&gt;&lt;p&gt;More than &lt;a href=\"https://www.theguardian.com/society/2024/feb/29/more-than-a-billion-people-worldwide-are-obese-research-finds\"&gt;a billion people live with obesity&lt;/a&gt; worldwide, with rates rising fast in lower-income nations as they &lt;a href=\"https://www.theguardian.com/global-development/2025/sep/10/junk-food-upf-more-children-obese-than-underweight-unicef\"&gt;shift to westernised diets&lt;/a&gt; and more sedentary lifestyles.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
+    },
     {
       "title": "アンソロピック “米政府から安全保障上リスクに指定された”",
       "body": "生成AIを開発するアメリカの新興企業「アンソロピック」は、国防総省から国家安全保障上のサプライチェーン上のリスクに正式に指定されたと発表しました。アメリカのメディアは自国の企業がこうした指定を受けるのは初めてだと伝えていてAIの軍事利用をめぐるトランプ政権との対立が際立っています。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260306/k10015068181000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "北陸新幹線延伸ルート 7月までに1つに絞り込む方向性を確認",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068081000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260306/k10015068081000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "JAL／国際線貨物専用機、2026年度上期の路線便数計画を決定",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314741",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314741",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "サカイ引越センター／鹿児島県龍郷町とネイチャーポジティブ推進で協定",
@@ -36,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314723",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314723",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "Three men deported by US file legal case against Eswatini over detention",
@@ -44,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "株価 一時600円以上値下がり 原油の先物価格上昇で",
@@ -52,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015067861000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260306/k10015067861000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "NYダウ 一時1100ドル超値下がり 原油市場 先物は値上がり高値",
@@ -60,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015067751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260306/k10015067751000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "センコーGHD／特別協賛ゴルフ大会の公式アプリをリリース",
@@ -68,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314636",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314636",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "ニチレイロジ／ポーランド子会社が低温需要拡大受け物流センター増設",
@@ -76,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314612",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314612",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "輸入米急増受け 業務用コメ生産者支援へ与党などと調整 農水省",
@@ -84,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260305/k10015067651000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260305/k10015067651000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "改正物効法／特定荷主の中長期計画書・定期報告書の記載事例集を公表",
@@ -92,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314582",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314582",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "ヤマトHD／「Sustainability Yearbook Member」に初選定",
@@ -100,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314564",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314564",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’",
@@ -108,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "ペルシャ湾発着の貨物 予約受付停止 コンテナ船事業会社",
@@ -116,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260305/k10015067411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260305/k10015067411000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "South Sudan risks return to full-blown civil war as violence escalates",
@@ -124,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "株価 大きく値上がり 下落した株式をいったん買い戻す動き",
@@ -132,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260305/k10015066811000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260305/k10015066811000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "ホンダ 米で生産の2車種「逆輸入」 ことし後半から順次発売へ",
@@ -140,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260305/k10015067181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260305/k10015067181000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "ヤマト運輸／2月の小口貨物取扱実績、宅配便は4.9％減",
@@ -148,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314561",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314561",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "【きょうのおはBiz 3月5日(木)】重要鉱物 自前で確保を",
@@ -156,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260305/k10015066841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260305/k10015066841000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "ギオン／東京都町田市のスポーツ施設命名権の継続契約締結",
@@ -164,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314432",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314432",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "Hacobu／QRチケットかざすだけで入退場、トラック予約受付に新機能",
@@ -172,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314426",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314426",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "株価 一時2600円超の急落 イラン情勢長期化懸念で世界的株安に",
@@ -180,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260304/k10015065891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260304/k10015065891000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "外国人の不動産取得ルールのあり方検討 有識者会議が初会合",
@@ -188,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260304/k10015066491000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260304/k10015066491000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "アサヒロジスティクス／埼玉県狭山市にグループ会社の物流センター、3月13に開所式",
@@ -196,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314297",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314297",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "国交省／次期総合物流施策大綱案へのパブリックコメント募集",
@@ -204,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314405",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314405",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "日本から中東に抹茶輸出できず 原油高で家計負担増の試算も",
@@ -212,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260304/k10015066171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260304/k10015066171000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "【きょうのおはBiz3月4日(水)】海外スタートアップ なぜ日本へ",
@@ -220,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260304/k10015065961000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260304/k10015065961000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "JETRO／中東情勢悪化により中央アジアで物流ルートに影響",
@@ -228,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314390",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314390",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "阪急阪神エクスプレス／中東地域で物流に影響発生、緊急サーチャージ導入の情報も",
@@ -236,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314387",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314387",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "“外国人材を活用”企業の9割超に 課題も【100社アンケート】",
@@ -244,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260304/k10015065171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260304/k10015065171000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "金子国交大臣／ペルシャ湾内の船舶に日本人乗組員23人の乗船確認を報告、安全な海域で待機",
@@ -252,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314261",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314261",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "物流最前線／国交省 髙田課長に聞く　改正物効法全面施行で物流事業者に求められる取り組み",
@@ -260,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=313877",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=313877",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "欧州エネルギー市場 天然ガス 原油の供給懸念で先物価格上昇",
@@ -268,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260304/k10015065671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260304/k10015065671000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "株価 NYダウ一時1200ドルあまり大幅な値下がり 事態長期化懸念",
@@ -276,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260304/k10015065721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260304/k10015065721000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "日本梱包運輸倉庫／福岡県苅田町で1.5万m2の倉庫を竣工、自動フォークリフト導入も視野に",
@@ -284,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314252",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314252",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "イラン情勢受け 日本企業の間でも燃料価格上昇への懸念広がる",
@@ -292,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260303/k10015065491000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260303/k10015065491000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "ニデック 不正会計処理問題 第三者委“責め負うべきは永守氏”",
@@ -300,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260303/k10015065091000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260303/k10015065091000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
@@ -308,7 +348,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "株価 一時1900円超値下がり イラン情勢受け原油価格上昇に懸念",
@@ -316,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260303/k10015064811000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260303/k10015064811000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "去年10～12月 国内企業経常利益 前年同時期比4.7％増 過去最高",
@@ -324,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260303/k10015064881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260303/k10015064881000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "【PR】ZenGroup／イベント「越境ECの未来を考える2026」3月12日開催",
@@ -332,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314183",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314183",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "【PR】CBRE／京都府「ジンドンプロパティー京都長岡京」内覧会3月17日開催",
@@ -340,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314198",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314198",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "【イラン情勢 閣僚発言】金子国交相 日本関係42隻の安全を確認",
@@ -348,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260303/k10015064841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260303/k10015064841000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "カタール LNG生産停止 日本への影響は?【解説】",
@@ -356,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260303/k10015064831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260303/k10015064831000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     },
     {
       "title": "アセンド／4PL事業に参入、サプライチェーン全体の最適化へ",
@@ -364,124 +404,84 @@
       "sourceURL": "https://www.lnews.jp/?p=314114",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314114",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
-    },
-    {
-      "title": "XYZ Robotics／日本トランスシティの物流施設でデバンニングロボットの実証実験",
-      "body": "<![CDATA[<p>XYZ Roboticsは3月3日、日本トランスシティの関東地区の物流施設で、デバンニングロボット「RockyOne（ロッキーワン）」を用いたデバンニング自動化の実証実験を開始すると発表した。 ＜RockyOneによるデ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0303101.html\">XYZ Robotics／日本トランスシティの物流施設でデバンニングロボットの実証実験</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=314108",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=314108",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
-    },
-    {
-      "title": "NYダウ 一時600ドル近い値下がり イラン情勢長期化の見方から",
-      "body": "2日のニューヨーク株式市場は取り引き開始直後から売り注文が広がり、ダウ平均株価は一時、先週末の終値と比べて600ドル近い値下がりとなりました。アメリカなどとイランとの間で攻撃の応酬が続くなか、投資家の間では事態の長期化は避けられないとの見方からリスクを避けようという姿勢が強まっています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260303/k10015064711000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260303/k10015064711000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
-    },
-    {
-      "title": "【影響・反応】アメリカとイスラエル イランを攻撃",
-      "body": "アメリカとイスラエルはイランの最高指導者ハメネイ師を殺害したあとも攻撃を続けているのに対し、イランは報復としてアメリカ軍を攻撃したなどと主張して応酬が激しくなっています。各国への影響や反応についてまとめています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260302/k10015063981000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260302/k10015063981000.html",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
-    },
-    {
-      "title": "ESR／佐賀県内に初の6.6万m2マルチテナント型物流施設を竣工、九州では2件目",
-      "body": "<![CDATA[<p>ESRは2月27日、佐賀県基山町の長崎自動車道・長崎県道3号沿いに、ESRとして佐賀県初、九州地方では2件目となる「ESR基山町ディストリビューションセンター（DC）」を竣工した。 ＜ESR基山町ディストリビューションセ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0302101.html\">ESR／佐賀県内に初の6.6万m2マルチテナント型物流施設を竣工、九州では2件目</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=313931",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=313931",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
-    },
-    {
-      "title": "三菱商事都市開発／埼玉県春日部市に2.3万m2の物流施設を着工、2027年秋竣工へ",
-      "body": "<![CDATA[<p>三菱商事都市開発は3月2日、埼玉県春日部市で、プロジェクトマネジメント業務を受託している「（仮称）春日部市下柳物流開発計画」の新築工事に着手したと発表した。竣工は2027年秋を予定している。 ＜周辺地図＞ 開発地は、東京 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0302603.html\">三菱商事都市開発／埼玉県春日部市に2.3万m2の物流施設を着工、2027年秋竣工へ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=313940",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=313940",
-      "fetchedAt": "2026-03-06T07:02:00.584Z"
+      "fetchedAt": "2026-03-06T13:14:29.520Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "アンソロピック “米政府から安全保障上リスクに指定された”",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068181000.html",
-      "summary": "アメリカの生成AI企業アンソロピックが、国防総省から国家安全保障に関わるサプライチェーン上のリスクとして正式に指定されました。これは米国内の企業として初めてのケースと報じられており、同社とトランプ政権との間でAIの軍事利用をめぐる対立が浮き彫りになっています。",
+      "title": "コメにかかるコスト 5キロ2800円余と算定 農水省 “参考に”",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068811000.html",
+      "summary": "食品流通におけるコストを踏まえた取引促進を目的とした法律が4月から施行されます。これに関連し、農林水産省はコメの流通コストを5キロあたり約2800円と算出しました。同省はこの数値を参考に、生産者や小売業者が適切な協議を行うことを求めています。",
       "classification": {
-        "tone": "B",
-        "term": "M"
+        "tone": "G",
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "す",
-        "phrase": "すいません  言うな"
+        "leadingKana": "か",
+        "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "企業としての責任と社会とのつながりが問われる時代やな。安全保障の視点からの指摘は厳しいけど、謙虚に受け止めてただ謝るだけやなく、信頼回復の具体策を示すことが大事や。商売は一瞬の謝罪よりも、積み重ねる誠実な行動にこそ価値があるんやで。"
+      "commentary": "コストの見える化は、商いの土台を固める一歩や。数字を共有して、みんなで話し合うことで、無理のない商いの形が見えてくる。焦らず、日々の気づきを積み重ねて、しなやかな信頼の商売を築くことが大事やと思うで。"
     },
     {
       "source": "NHK",
-      "title": "北陸新幹線延伸ルート 7月までに1つに絞り込む方向性を確認",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068081000.html",
-      "summary": "北陸新幹線の新大阪延伸に関し、自民党と日本維新の会のプロジェクトチームが協議を行い、今年7月までに延伸ルートを一本化する方針を確認しました。今後、具体的なルート選定作業が進められる見通しです。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
-      },
-      "commentary": "新幹線の延伸ルート決定は、単なる線路の選択や利益追求だけやあらへん。地域や社会とのつながりを考え、みんなの暮らしにどう役立つかを見据えて進めていくことや。小さな一歩が信頼の積み重ねやから、焦らんと丁寧に道を選ぶべきやな。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "JAL／国際線貨物専用機、2026年度上期の路線便数計画を決定",
-      "sourceURL": "https://www.lnews.jp/?p=314741",
-      "summary": "日本航空（JAL）は2026年度上期（3月29日～6月14日）の国際線貨物専用機の路線便数計画を発表した。具体的な運行スケジュールや使用機材の詳細についても提示されているが、成田―バンコク間の運行日程が含まれていることが明らかになっている。今後の貨物輸送体制の一環として計画が進められている。",
+      "title": "原油市場 WTI先物価格が値上がり 一時1バレル＝86ドル台半ばに",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068801000.html",
+      "summary": "米国とイスラエル、イラン間での攻撃の応酬が続く中、6日の原油市場ではWTI先物価格が一時1バレルあたり86ドル台半ばまで上昇しました。国際的な原油取引の指標となるこの価格変動は、地域情勢の影響を受けています。",
       "classification": {
         "tone": "N",
-        "term": "M"
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "ま",
-        "phrase": "迷ったら もっかい一から やり直し"
+        "leadingKana": "ん",
+        "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "路線便数の計画は先を見据えた大切な判断やけど、状況が変われば再検討も必要や。焦らず、基本に立ち返って見直す姿勢が、信頼を積み重ねる商売の土台になるんや。迷った時は、もう一度原点から考え直すことで、確かな歩みを続けられるで。"
+      "commentary": "原油価格の急変は「なんでやろ？」と感じる瞬間や。市場も世情も複雑やから、違和感を見過ごしたらあかん。商売も同じ、日々の変化に敏感になって、何が起こってるか掘り下げることが、長い信頼につながるんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "サカイ引越センター／鹿児島県龍郷町とネイチャーポジティブ推進で協定",
-      "sourceURL": "https://www.lnews.jp/?p=314723",
-      "summary": "サカイ引越センターは3月6日、鹿児島県龍郷町と生物多様性の保全と回復を目指す「ネイチャーポジティブ」の推進に関する協定を結んだ。龍郷町は自然環境の保全に取り組んでおり、今回の協定により両者が連携して地域の生態系保全活動を進めることを目指す。",
+      "title": "物効法改正案／中継輸送促進が主眼、閣議決定され特別国会に提出へ",
+      "sourceURL": "https://www.lnews.jp/?p=314669",
+      "summary": "国土交通省は、物流の中継輸送を促進することを目的とした物流効率化法の改正案を3月6日に閣議決定した。この改正案は現在開会中の特別国会に提出される予定で、物流の効率化を図るための制度見直しが含まれている。関連して国交大臣も改正案の提出計画を説明している。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "い",
-        "phrase": "いつだって  3％と 1/3"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "サカイ引越センターと龍郷町の協定は、持続可能な取り組みの一歩やな。日々の小さな改善に目を配りつつ、環境の回復という大きな課題にじっくり向き合う姿勢が肝心や。商売も同じで、目先の利益だけやなく、長期の信頼を築くために地道な努力と見極めが必要やで。"
+      "commentary": "物流効率化の法改正は、一時の効果だけ追わず、長い目で中継輸送の基盤を築く挑戦やな。急がば回れや、日々の積み重ねが信頼を生む。今だけでなく先も見据え、誠実に進む姿勢が求められる。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "センコーGHD／丸運株公開買い付けの終了と成立を発表、連結子会社化",
+      "sourceURL": "https://www.lnews.jp/?p=314765",
+      "summary": "センコーグループホールディングスは、丸運の普通株式に対する公開買い付けを1月26日から実施し、3月5日にその期間が終了したと発表した。この買い付けにより、丸運の株式を取得し連結子会社化を進める方針としている。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
+      },
+      "commentary": "企業の連携や統合は、社会の仕組み全体の安定や信頼を支える一手や。目先の利益だけやなく、日々の積み重ねで関係性を育てることが、長く続く商売の土台になるんやで。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Three men deported by US file legal case against Eswatini over detention",
-      "sourceURL": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
-      "summary": "アメリカで刑期を終えた後、出身国ではなくエスワティニに送還されたキューバ、ジャマイカ、イエメン出身の3人が、同国政府に対し拘束が人権侵害に当たるとしてアフリカ連合の人権機関に提訴した。うち2人はエスワティニで約8か月間収監され、3人目は9月にジャマイカへ送還された。",
+      "title": "Weight-loss jab could be made for $3 a month, study finds",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
+      "summary": "減量薬として知られるセマグルチド（オゼンピックやウェゴビーに含まれる）は、月額約3ドルで製造可能との分析が報告された。この低コスト化により、特許切れを迎える国々で糖尿病や肥満治療が広がる可能性がある。世界では10億人以上が肥満状態にあり、特に低所得国で西洋型の食生活や運動不足の増加に伴い肥満率が急増している。",
       "classification": {
-        "tone": "B",
-        "term": "M"
+        "tone": "G",
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "ほ",
-        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
       },
-      "commentary": "今回の件も、表面の情報だけで判断せず、疑問点をクリアにせなあかん話や。相手の言い分も環境も複雑やから、焦らず冷静に状況を見極めることが信頼を築く第一歩やと思うで。商売も人生も、ええ加減にせんと持続せえへんからな。"
+      "commentary": "薬の値段が下がると情報も広がりやすい。隠し事せず透明にすれば、信頼は積み重なるわな。世界の健康課題に向き合うには、継続的な説明と開示が欠かせん。商いは信用の積み重ね、秘密を減らすことが次の一歩やと思うで。"
     }
   ]
 }
