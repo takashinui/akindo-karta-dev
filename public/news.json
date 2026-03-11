@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-03-11T13:20:09.570Z",
+  "generatedAt": "2026-03-11T19:03:57.201Z",
   "run": {
-    "ranAt": "2026-03-11T13:20:09.570Z",
+    "ranAt": "2026-03-11T19:03:57.201Z",
     "runner": "github-actions",
-    "runId": "22954577738"
+    "runId": "22969625907"
   },
   "stock": [
     {
       "title": "米 2月の消費者物価指数 2.4％上昇 市場の予想と同水準",
-      "body": "円相場や株価にも影響を与えるアメリカの2月の消費者物価指数が11日、発表され、去年の同じ月と比べて2.4％の上昇となりました。これは1月から横ばいで、市場の予想と同じ水準でした。アメリカではこのところ物価上昇の勢いがやや落ち着いてきていますが、イラン情勢を受けてガソリンなどは値上がりしていて、今後、インフレが再加速するとの警戒感も強まっています。",
+      "body": "円相場や株価にも影響するアメリカの2月の消費者物価指数は、去年の同じ月と比べて2.4％の上昇となり、1月から横ばいでした。ただ、イラン情勢を受けてガソリン価格が足元で大幅に値上がりするなど、今後、インフレが再加速するとの警戒感も強まっています。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015073211000.html",
-      "fetchedAt": "2026-03-11T13:19:44.017Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
-      "title": "ことしの主食用米の作付面積発表 大幅増産の去年とほぼ同水準",
-      "body": "農林水産省は11日、ことしの主食用米の作付面積を発表しました。1月時点の調査で136万ヘクタール余りとコメの価格高騰を受けて大幅な増産となった去年とほぼ同じ水準で、今後の価格への影響が焦点となります。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073151000.html",
+      "title": "日米欧など石油備蓄協調放出で合意 過去最大規模 IEA",
+      "body": "イラン情勢の緊迫化で国際的な原油の先物価格が高騰する中、IEA＝国際エネルギー機関は11日、日本やアメリカ、ヨーロッパ諸国など、加盟国が協調してあわせて4億バレルの石油備蓄を放出することで合意したと発表しました。IEAの加盟国による備蓄の放出はロシアがウクライナに侵攻した2022年以来、およそ4年ぶりで、過去最大規模の石油備蓄の放出になります。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073331000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260311/k10015073151000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "id": "www3.nhk.or.jp/news/html/20260311/k10015073331000.html",
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "東京建物／福岡県内に同社九州初の危険物倉庫と冷凍冷蔵倉庫の2物件を開発へ",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315161",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315161",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "FOODEX JAPAN 2026／冷凍食品・冷凍冷蔵倉庫が活況、物流ゾーンでは省人化や自動化に関心",
@@ -36,15 +36,23 @@
       "sourceURL": "https://www.lnews.jp/?p=315281",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315281",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
-      "title": "French aid worker among three killed in drone attack in eastern DRC, M23 rebels say",
-      "body": "&lt;p&gt;Attack on residential part of M23-controlled city of Goma blamed by rebel group on government&lt;/p&gt;&lt;p&gt;At least three people, including a French humanitarian worker for the UN children’s agency, were killed in a drone attack in Goma early on Wednesday morning, a spokesperson for the M23 rebel group has said.&lt;/p&gt;&lt;p&gt;The attack happened at about 4am in a residential neighbourhood in the city, which has been under M23 occupation since January 2025.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels\"&gt;Continue reading...&lt;/a&gt;",
+      "title": "French aid worker among three killed in dronestrike in east DRC, M23 rebels say",
+      "body": "&lt;p&gt;Rebel group blames government for attack on residential area of M23-controlled city of Goma&lt;/p&gt;&lt;p&gt;Three people including a French UN aid worker have been killed in a drone attack in Goma, a spokesperson for the M23 rebel group has said.&lt;/p&gt;&lt;p&gt;The attack took place at about 4am on Wednesday in the upmarket residential neighbourhood of Himbi in the city, which has been under M23 occupation since January 2025.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels\"&gt;Continue reading...&lt;/a&gt;",
       "sourceURL": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
+    },
+    {
+      "title": "ことしの主食用米の作付面積発表 大幅増産の去年とほぼ同水準",
+      "body": "農林水産省は11日、ことしの主食用米の作付面積を発表しました。1月時点の調査で136万ヘクタール余りとコメの価格高騰を受けて大幅な増産となった去年とほぼ同じ水準で、今後の価格への影響が焦点となります。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073151000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260311/k10015073151000.html",
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "ガソリン価格 全国平均1リットル161.8円 3か月ぶり160円上回る",
@@ -52,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072751000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "木原官房長官 ガソリンなど支援策 適切な時期に公表の考え示す",
@@ -60,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072541000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072541000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "商船三井と大王製紙／国際女性デーで対話型イベントを開催、100名が参加",
@@ -68,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315257",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315257",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "NXHD／2月の国際航空貨物取扱実績、グローバル合計10.8％増",
@@ -76,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315251",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315251",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community",
@@ -84,7 +92,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "株価 一時1200円以上値上がり 原油価格高騰の懸念いくぶん後退",
@@ -92,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072461000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072461000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "G7エネルギー担当相会議 “石油備蓄の協調放出含め用意ある”",
@@ -100,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015072271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015072271000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "TRCほか／平和島自動運転協議会の第2回総会、新年度の方針示す",
@@ -108,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315128",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315128",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "GoQSystem／倉庫とモールの在庫を同期、在庫切れ販売を未然に防止",
@@ -116,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315122",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315122",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "Villagers on Príncipe, the ‘African Galapagos’, to be paid for protecting the ecosystem",
@@ -124,7 +132,7 @@
       "sourceURL": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "JA全中 神農新会長 コメ価格 “折り合う価格の設定は難しい”",
@@ -132,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072101000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072101000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "飲料メーカー 自販機事業で苦戦 人件費の上昇など背景",
@@ -140,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072091000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072091000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "新連載 世界物流のフロンティアを歩く／ 第1回 世界の物流を動かす「地政学」のリアル",
@@ -148,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314663",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314663",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "国交省／3月11日に「中央回廊カスピ海ルートに関する実証輸送（春夏）」の公募開始",
@@ -156,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315083",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315083",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "赤澤経産相 “石油協調放出を支持” G7エネルギー相会議開催へ",
@@ -164,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015072001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015072001000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "日産 生産の移管統合で福岡県などが従業員対象の説明会開催へ",
@@ -172,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071941000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "Descendants of Zimbabwe resistance heroes urge UK to locate looted skulls",
@@ -180,7 +188,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/07/descendants-of-zimbabwe-resistance-heroes-urge-uk-to-locate-looted-skulls",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/07/descendants-of-zimbabwe-resistance-heroes-urge-uk-to-locate-looted-skulls",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "JR東日本 運賃値上げ 金子国土交通相 “安全確保に生かして”",
@@ -188,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071751000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "外食大手コロワイド カフェ・ベローチェなどの運営会社 買収へ",
@@ -196,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071801000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "SGHD／1月のデリバリー事業取り扱い個数8.3％増",
@@ -204,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315107",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315107",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "トランプ大統領「イランが石油流通止めれば20倍激しく攻撃」",
@@ -212,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071331000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "去年10～12月のGDP改定値 年率換算+1.3％ 速報値から上方修正",
@@ -220,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071431000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "日本通運／2月の鉄道コンテナ取り扱い実績6.2％減",
@@ -228,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315005",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315005",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "ANA／グループ27社が健康経営優良法人2026に認定",
@@ -236,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314999",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314999",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "G7財務相会議 フランス「石油備蓄放出含む必要な措置講じる」",
@@ -244,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015071241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015071241000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "NYダウ 一時800ドル超下落 原油急騰で世界経済への影響懸念",
@@ -252,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015071271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015071271000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "シャロンテック／埼玉県入間に自社初、2.4万m2の次世代型冷凍冷蔵物流センター開発へ",
@@ -260,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314834",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314834",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "Pパレ共同使用会／位置情報の追跡でパレット流出防止、2026年度から取り組み拡大へ",
@@ -268,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314888",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314888",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "高市首相 IMF専務理事と会談 世界経済や金融の安定に向け協力",
@@ -276,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015071171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015071171000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "JR東日本の運賃値上げ 不安や安全対策強化など求める声",
@@ -284,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015070671000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "「エチレン」国内生産に影響 イラン情勢 原油の安定供給懸念で",
@@ -292,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015070751000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "G7 IEA加盟国の備蓄石油 市場放出の可能性を議論へ 英報道",
@@ -300,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015070771000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "NTTロジスコ／医療機器物流で「返却AIシステム」導入、属人的作業脱し生産性向上",
@@ -308,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314900",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314900",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "日本郵船／フィリピン商船大学で15期生76名の卒業式典、社長が祝福",
@@ -316,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314879",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314879",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "NY原油先物 一時118ドル台まで上昇 東京原油も急騰",
@@ -324,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070401000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015070401000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "株価 一時4200円を超える急落 原油の安定供給への懸念強まる中",
@@ -332,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015070431000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "西鉄／2月の航空輸出混載重量3.5％減、航空輸入通関件数3.1％減",
@@ -340,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314804",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314804",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "ロジスティード／4月1日付でグローバルフォワーディング営業開発本部新設など機構改革",
@@ -348,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314795",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314795",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "農業経営で優れた功績あげた農家や団体 日本農業賞の表彰式",
@@ -356,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260307/k10015069301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260307/k10015069301000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "NYダウ 450ドル余の値下がり 雇用統計やイラン情勢受け",
@@ -364,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260307/k10015068921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260307/k10015068921000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "物効法改正案／中継輸送促進が主眼、閣議決定され特別国会に提出へ",
@@ -372,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314669",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314669",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "センコーGHD／丸運株公開買い付けの終了と成立を発表、連結子会社化",
@@ -380,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314765",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314765",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "Weight-loss jab could be made for $3 a month, study finds",
@@ -388,7 +396,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     },
     {
       "title": "原油市場 WTI先物価格が値上がり 一時1バレル＝92ドル台に",
@@ -396,15 +404,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260306/k10015068801000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
-    },
-    {
-      "title": "米 2月雇用統計 就業者は前月比9万2000人減 大幅な減少に",
-      "body": "円相場や株価に影響を及ぼすアメリカの雇用統計が発表され、2月の農業分野以外の就業者は前の月から9万2000人の大幅な減少となりました。増加を見込んでいた市場予想を大きく下回り、金融市場では雇用情勢の減速への警戒感が再び強まることも予想されます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260306/k10015068861000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260306/k10015068861000.html",
-      "fetchedAt": "2026-03-11T13:19:44.018Z"
+      "fetchedAt": "2026-03-11T19:03:28.908Z"
     }
   ],
   "items": [
@@ -412,22 +412,7 @@
       "source": "NHK",
       "title": "米 2月の消費者物価指数 2.4％上昇 市場の予想と同水準",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073211000.html",
-      "summary": "アメリカの2月の消費者物価指数は前年同月比で2.4％上昇し、1月と同水準で市場予想と一致しました。物価上昇の勢いはやや鈍化しているものの、イラン情勢の影響でガソリン価格が上昇しており、インフレの動向に注目が集まっています。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "わ",
-        "phrase": "わからん時　わからんと言う素直さよ"
-      },
-      "commentary": "物価の動きは予想通りやけど、先のことはまだ見えへん。無理に答えを急がず、変化を冷静に見つめる姿勢が大事や。知らんことは認めて、周囲と情報を共有しながら、着実に信頼を積み重ねていく。焦らず、次の一歩を考えるんやで。"
-    },
-    {
-      "source": "NHK",
-      "title": "ことしの主食用米の作付面積発表 大幅増産の去年とほぼ同水準",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073151000.html",
-      "summary": "農林水産省は、今年の主食用米の作付面積が約136万ヘクタールで、前年の大幅増産時とほぼ同じ規模であると発表しました。昨年は米価の上昇を受けて増産が進んだ経緯があり、今年の作付け状況が今後の米価動向にどのように影響するかが注目されています。",
+      "summary": "アメリカの2月の消費者物価指数は前年同月比で2.4％上昇し、1月とほぼ同じ水準となりました。この数字は市場の予想と一致しています。一方で、イラン情勢の影響でガソリン価格が急騰しており、今後のインフレ動向に注意が必要とされています。",
       "classification": {
         "tone": "N",
         "term": "M"
@@ -436,52 +421,67 @@
         "leadingKana": "ま",
         "phrase": "迷ったら もっかい一から やり直し"
       },
-      "commentary": "今年の米作付面積は昨年とほぼ同じ。増産の背景には価格変動があり、経営判断も難しいわな。慌てず根本から見直す姿勢、これが信頼の土台や。結果だけ追わず、日々の積み重ねを大事にせなあかんで。"
+      "commentary": "物価の動きは景気の見通しに直結しますわな。慌てて先を急ぐより、根本の数字や要因をもう一度見直すことが大事どす。焦りや思い込み抜きで、日々の積み重ねを確かめる姿勢が長い目での信頼を生みますえ。"
+    },
+    {
+      "source": "NHK",
+      "title": "日米欧など石油備蓄協調放出で合意 過去最大規模 IEA",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073331000.html",
+      "summary": "国際エネルギー機関（IEA）は、日本や米国、欧州諸国を含む加盟国が協力して合計4億バレルの石油備蓄を放出することで合意したと発表しました。これはイラン情勢の緊迫化による原油先物価格の高騰を受けた措置で、IEA加盟国による備蓄放出としては約4年ぶりで最大規模となります。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "た",
+        "phrase": "鷹の目と 地虫の目と 人の目"
+      },
+      "commentary": "国際情勢の波にも、遠くから全体を見つつ細かな動きも見逃さず、そして何より人としての責任を忘れんことが肝心や。大きな動きの裏にある日々の積み重ねが信頼を支える。短期の効果だけに惑わされず、次にどう動くか、冷静に考え続けることが商売の道やで。"
     },
     {
       "source": "LNEWS",
       "title": "東京建物／福岡県内に同社九州初の危険物倉庫と冷凍冷蔵倉庫の2物件を開発へ",
       "sourceURL": "https://www.lnews.jp/?p=315161",
-      "summary": "東京建物は福岡県内で九州初となる危険物倉庫と冷凍冷蔵倉庫の2施設を開発すると発表した。北九州市ではドライ倉庫に危険物倉庫を併設した物流施設を、久山町では冷凍冷蔵倉庫を建設する計画で、両施設はそれぞれ異なる物流ニーズに対応するものとなる。",
+      "summary": "東京建物は福岡県内で、九州初となる危険物倉庫を併設した物流施設「北九州新門司物流施設PJ」（北九州市）と、冷凍冷蔵倉庫「T-LOGI福岡久山」（久山町）の2物件を開発すると発表した。これにより同社は地域の物流インフラを強化する計画を進めている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "か",
-        "phrase": "カイゼンは  みんなの宝"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "新しい倉庫の開発は、現場の気づきを活かし続ける姿勢が要やな。単なる設備投資や利益追求だけやなく、地域や働く人の安全・利便を見据え、日々の改善で信頼を積み重ねることが商売の強さにつながる。変化を受け止め、じっくり進むことが肝心やで。"
+      "commentary": "新たな倉庫開発は一時の成果や目先の利益だけやあらへん。地域社会や産業の安全、持続的な物流基盤づくりを見据え、日々の積み重ねが信頼を生むんや。目先の派手さに流されんと、長い目で「やるべきこと」を着実にやってこそ、あきんどの真価が問われるんやで。"
     },
     {
       "source": "LNEWS",
       "title": "FOODEX JAPAN 2026／冷凍食品・冷凍冷蔵倉庫が活況、物流ゾーンでは省人化や自動化に関心",
       "sourceURL": "https://www.lnews.jp/?p=315281",
-      "summary": "日本能率協会主催の国際食品・飲料展「FOODEX JAPAN 2026」が3月10～13日に東京ビッグサイトで開催された。冷凍食品や冷凍冷蔵倉庫関連の展示が活況を呈し、物流エリアでは省人化や自動化技術への関心が高まっていることが報告された。参加国は約80か国に及んだ。",
+      "summary": "日本能率協会主催の国際食品・飲料展「FOODEX JAPAN 2026」が3月10日から13日まで東京ビッグサイトで開催された。会場では冷凍食品や冷凍冷蔵倉庫関連の展示が盛況で、物流ゾーンでは省人化や自動化技術への関心が高まっている。約80か国から出展者が参加している。",
       "classification": {
         "tone": "G",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "と",
-        "phrase": "遠い道 一歩進めば 一歩近づく"
+        "leadingKana": "を",
+        "phrase": "をそ鳥は　眠り豚より　ちょっとええ"
       },
-      "commentary": "FOODEXの現場は、省人化や自動化といった未来の物流技術に注目が集まっとるわ。急ぐよりも一歩ずつ、確実に信頼を築きながら変化に向き合う姿勢が大事や。焦らず、日々の積み重ねで確実に前へ進むことが商売の道やと思うで。"
+      "commentary": "FOODEXの動き見てると、冷凍食品や省人化への関心が高まってるな。商売は焦らずとも、準備と先手が肝心や。遅れるより、少し早めに動くことで信頼も積み重なる。慌てずとも、のろくならんことやで。"
     },
     {
       "source": "Guardian｜World",
-      "title": "French aid worker among three killed in drone attack in eastern DRC, M23 rebels say",
+      "title": "French aid worker among three killed in dronestrike in east DRC, M23 rebels say",
       "sourceURL": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
-      "summary": "東コンゴ民主共和国のゴマ市で、M23反政府勢力の支配地域にある住宅地がドローン攻撃を受け、国連児童基金（UNICEF）のフランス人人道支援者を含む少なくとも3人が死亡した。攻撃は午前4時頃に発生し、M23側は政府の関与を指摘している。ゴマは2025年1月からM23の支配下にある。",
+      "summary": "東コンゴ民主共和国のゴマ市で、ドローン攻撃により3人が死亡したと、反政府勢力M23の報道官が伝えた。犠牲者にはフランス人の国連援助職員が含まれている。攻撃はM23が支配する高級住宅街ヒンビ地区で午前4時ごろに発生した。M23は政府軍による攻撃だと非難している。",
       "classification": {
         "tone": "B",
-        "term": "M"
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
+        "leadingKana": "も",
+        "phrase": "もうアカン 思たトコから もう一歩"
       },
-      "commentary": "現場での苦労や努力が、必ずしも望む結果につながらへんこともあるわな。この状況でも、真の目的を見失わんことが大事や。表面的な勝ち負けや一瞬の成果に惑わされず、何が本質かを問い続ける姿勢が信頼を築く道やで。"
+      "commentary": "紛争のなかで命が失われる現実は重いけど、そこで立ち止まるだけやなく、見えへん先にも小さな一歩を踏み出すことが肝心や。短期の成果に囚われず、続ける中で築く信頼が次を支える。難局にこそ、心の折れん強さが問われるんやで。"
     }
   ]
 }
