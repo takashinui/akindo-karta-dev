@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-03-12T07:06:56.464Z",
+  "generatedAt": "2026-03-12T13:20:27.917Z",
   "run": {
-    "ranAt": "2026-03-12T07:06:56.464Z",
+    "ranAt": "2026-03-12T13:20:27.917Z",
     "runner": "github-actions",
-    "runId": "22990549749"
+    "runId": "23003963871"
   },
   "stock": [
+    {
+      "title": "大手化学メーカー間で石油関連製品の減産や値上げ相次ぐ",
+      "body": "イラン情勢を受けた原油の安定供給への懸念から、大手化学メーカーの間では石油関連の製品を減産したり、値上げしたりする動きが相次いでいます。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073971000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260312/k10015073971000.html",
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
+    },
+    {
+      "title": "ガソリン価格大幅値上げ イラン情勢緊迫化 生活への影響広がる",
+      "body": "イラン情勢を受けた原油先物価格の上昇を背景に、12日、店頭のガソリンが大幅に値上がりしました。ガソリンスタンドの中には、レギュラーガソリン1リットルあたりの小売価格を196円に引き上げたところも。生活への影響が広がっています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073801000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260312/k10015073801000.html",
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
+    },
+    {
+      "title": "住友商事／京都府久御山町で9.5万m2の物流施設竣工、危険物倉庫も確保",
+      "body": "<![CDATA[<p>住友商事は2月27日、消費地近接型物流施設SOSiLA（ソシラ）シリーズの「SOSiLA京都久御山」（京都府久世郡）を竣工した。 ＜「SOSiLA京都久御山」外観＞ SOSiLA京都久御山は、地上4階建て延床面積約9万5 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0312701.html\">住友商事／京都府久御山町で9.5万m2の物流施設竣工、危険物倉庫も確保</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=315323",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=315323",
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
+    },
+    {
+      "title": "阪急阪神不動産／千葉県松戸市に1.3万m2の物流施設着工、27年2月末竣工予定",
+      "body": "<![CDATA[<p>阪急阪神不動産は3月12日、千葉県松戸市において物流施設「ロジスタ松戸」の新築工事に着手したと発表した。竣工は2027年2月末の予定。 ＜「ロジスタ松戸」外観イメージ＞ 開発地は首都圏各地を結ぶ外環道の「三郷南IC」まで [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0312504.html\">阪急阪神不動産／千葉県松戸市に1.3万m2の物流施設着工、27年2月末竣工予定</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=315404",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=315404",
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
+    },
+    {
+      "title": "UK government axes flagship global health project",
+      "body": "&lt;p&gt;Programme which supports schemes in six African countries was previously hailed as vital protection for Britain against future pandemics&lt;/p&gt;&lt;p&gt;A flagship health project in Africa, which UK ministers said would play a vital role in protecting Britain from future pandemic threats, is being axed due to aid cuts, the Guardian can reveal.&lt;/p&gt;&lt;p&gt;The Global Health Workforce Programme (GHWP) which supported development and training for healthcare staff in six African countries, will close at the end of the month, the Foreign, Commonwealth and Development Office (FCDO) said.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
+    },
     {
       "title": "【きょうのおはBiz 3月12日(木)】プサン港 災害時 物流拠点に",
       "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073591000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260312/k10015073591000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "NY原油市場 先物価格 一時1バレル＝95ドル台まで上昇 高騰続く",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073601000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260312/k10015073601000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "日本通運ほか／水素供給網モデル構築に向けた共同調査・実証で基本合意書",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315398",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315398",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "岸産業／大阪府堺市に倉庫新設、冷凍食品需要で防熱扉の受注が拡大",
@@ -36,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315386",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315386",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts",
@@ -44,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "トランプ政権 特定製造業での過剰生産能力を調査へ 日本も対象",
@@ -52,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260312/k10015073431000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "日米欧など石油備蓄協調放出で合意 過去最大規模 IEA",
@@ -60,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015073331000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "住友倉庫／大阪府と災害救助物資の供給で協定締結",
@@ -68,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315344",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315344",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "近鉄エクスプレス／3年連続で健康経営優良法人に認定",
@@ -76,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315338",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315338",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "At least 17 killed after drone strikes school in Sudan",
@@ -84,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "米 2月の消費者物価指数 2.4％上昇 市場の予想と同水準",
@@ -92,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015073211000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "東京建物／福岡県内に同社九州初の危険物倉庫と冷凍冷蔵倉庫の2物件を開発へ",
@@ -100,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315161",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315161",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "FOODEX JAPAN 2026／冷凍食品・冷凍冷蔵倉庫が活況、物流ゾーンでは省人化や自動化に関心",
@@ -108,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315281",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315281",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "French aid worker among three killed in dronestrike in east DRC, M23 rebels say",
@@ -116,7 +156,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "ことしの主食用米の作付面積発表 大幅増産の去年とほぼ同水準",
@@ -124,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015073151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015073151000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "ガソリン価格 全国平均1リットル161.8円 3か月ぶり160円上回る",
@@ -132,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072751000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "木原官房長官 ガソリンなど支援策 適切な時期に公表の考え示す",
@@ -140,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072541000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072541000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "商船三井と大王製紙／国際女性デーで対話型イベントを開催、100名が参加",
@@ -148,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315257",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315257",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "NXHD／2月の国際航空貨物取扱実績、グローバル合計10.8％増",
@@ -156,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315251",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315251",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community",
@@ -164,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "株価 一時1200円以上値上がり 原油価格高騰の懸念いくぶん後退",
@@ -172,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072461000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072461000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "G7エネルギー担当相会議 “石油備蓄の協調放出含め用意ある”",
@@ -180,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015072271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015072271000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "TRCほか／平和島自動運転協議会の第2回総会、新年度の方針示す",
@@ -188,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315128",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315128",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "GoQSystem／倉庫とモールの在庫を同期、在庫切れ販売を未然に防止",
@@ -196,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315122",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315122",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "Villagers on Príncipe, the ‘African Galapagos’, to be paid for protecting the ecosystem",
@@ -204,7 +244,7 @@
       "sourceURL": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "JA全中 神農新会長 コメ価格 “折り合う価格の設定は難しい”",
@@ -212,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072101000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072101000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "飲料メーカー 自販機事業で苦戦 人件費の上昇など背景",
@@ -220,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260311/k10015072091000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260311/k10015072091000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "新連載 世界物流のフロンティアを歩く／ 第1回 世界の物流を動かす「地政学」のリアル",
@@ -228,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314663",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314663",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "国交省／3月11日に「中央回廊カスピ海ルートに関する実証輸送（春夏）」の公募開始",
@@ -236,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315083",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315083",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "赤澤経産相 “石油協調放出を支持” G7エネルギー相会議開催へ",
@@ -244,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015072001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015072001000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "日産 生産の移管統合で福岡県などが従業員対象の説明会開催へ",
@@ -252,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071941000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "Descendants of Zimbabwe resistance heroes urge UK to locate looted skulls",
@@ -260,7 +300,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/07/descendants-of-zimbabwe-resistance-heroes-urge-uk-to-locate-looted-skulls",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/07/descendants-of-zimbabwe-resistance-heroes-urge-uk-to-locate-looted-skulls",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "JR東日本 運賃値上げ 金子国土交通相 “安全確保に生かして”",
@@ -268,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071751000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "外食大手コロワイド カフェ・ベローチェなどの運営会社 買収へ",
@@ -276,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071801000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "SGHD／1月のデリバリー事業取り扱い個数8.3％増",
@@ -284,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315107",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315107",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "トランプ大統領「イランが石油流通止めれば20倍激しく攻撃」",
@@ -292,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071331000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "去年10～12月のGDP改定値 年率換算+1.3％ 速報値から上方修正",
@@ -300,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260310/k10015071431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260310/k10015071431000.html",
-      "fetchedAt": "2026-03-12T07:06:30.382Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "日本通運／2月の鉄道コンテナ取り扱い実績6.2％減",
@@ -308,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315005",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315005",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "ANA／グループ27社が健康経営優良法人2026に認定",
@@ -316,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314999",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314999",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "G7財務相会議 フランス「石油備蓄放出含む必要な措置講じる」",
@@ -324,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015071241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015071241000.html",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "NYダウ 一時800ドル超下落 原油急騰で世界経済への影響懸念",
@@ -332,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015071271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015071271000.html",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "シャロンテック／埼玉県入間に自社初、2.4万m2の次世代型冷凍冷蔵物流センター開発へ",
@@ -340,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314834",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314834",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "Pパレ共同使用会／位置情報の追跡でパレット流出防止、2026年度から取り組み拡大へ",
@@ -348,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314888",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314888",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "高市首相 IMF専務理事と会談 世界経済や金融の安定に向け協力",
@@ -356,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015071171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015071171000.html",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     },
     {
       "title": "JR東日本の運賃値上げ 不安や安全対策強化など求める声",
@@ -364,70 +404,15 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260309/k10015070671000.html",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
-    },
-    {
-      "title": "「エチレン」国内生産に影響 イラン情勢 原油の安定供給懸念で",
-      "body": "イラン情勢の緊迫化で原油の安定供給への懸念が強まっていることを受けて、原油を原料として使っている企業の間では生産活動への影響が出てきています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070751000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260309/k10015070751000.html",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
-    },
-    {
-      "title": "G7 IEA加盟国の備蓄石油 市場放出の可能性を議論へ 英報道",
-      "body": "イギリスのフィナンシャル・タイムズは9日、G7＝主要7か国の財務相らがイラン情勢に伴う原油価格の急激な上昇に対応するため9日に緊急で会合を開き、IEA＝国際エネルギー機関の加盟国が備蓄する石油の市場への放出の可能性について議論すると報じました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070771000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260309/k10015070771000.html",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
-    },
-    {
-      "title": "NTTロジスコ／医療機器物流で「返却AIシステム」導入、属人的作業脱し生産性向上",
-      "body": "<![CDATA[<p>NTTロジスコは3月9日、医療機器物流で、返却された医療機器の受け入れ作業をAI技術で自動化する「返却AIシステム」を「メディカルディストリビューションセンター東京」に導入したと発表した。 ＜「返却AIシステム」のイメー [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0309109.html\">NTTロジスコ／医療機器物流で「返却AIシステム」導入、属人的作業脱し生産性向上</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=314900",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=314900",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
-    },
-    {
-      "title": "日本郵船／フィリピン商船大学で15期生76名の卒業式典、社長が祝福",
-      "body": "<![CDATA[<p>日本郵船は3月5日、フィリピンの商船大学NYK-TDG MARITIME ACADEMY（NTMA）で第15期生計76人の卒業式典を開催した。 NTMAは、マニラ近郊でTransnational Diversified  [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0309703.html\">日本郵船／フィリピン商船大学で15期生76名の卒業式典、社長が祝福</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=314879",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=314879",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
-    },
-    {
-      "title": "NY原油先物 一時118ドル台まで上昇 東京原油も急騰",
-      "body": "8日のニューヨーク原油市場では国際的な取り引きの指標となるWTIの先物価格が急激に上昇し、1バレル＝100ドルの大台を突破しておよそ3年9か月ぶりに一時、118ドル台まで上昇しました。また週明け9日の東京原油市場もイラン情勢の長期化で安定供給への懸念から先物価格は8万円を超え、2024年7月以来の高い水準となっています。イラン情勢を受けてホルムズ海峡での原油の輸送など安定供給への不安が一段と強まっていて、世界経済への悪影響が懸念されます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260309/k10015070401000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260309/k10015070401000.html",
-      "fetchedAt": "2026-03-12T07:06:30.383Z"
+      "fetchedAt": "2026-03-12T13:19:58.324Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "【きょうのおはBiz 3月12日(木)】プサン港 災害時 物流拠点に",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073591000.html",
-      "summary": "NHKの朝の経済ニュース番組「おはBiz」では、3月12日にプサン港が災害時の物流拠点として活用される可能性について取り上げました。番組は最新のビジネストレンドや働き方、スタートアップ情報などを短時間で紹介しています。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "よ",
-        "phrase": "世の中は 広いんやから 驚くな"
-      },
-      "commentary": "災害時の物流拠点としてプサン港が注目されてるんやけど、こういう話は決して他人事やない。世の中は広うて、いろんな備えや仕組みが日々積み重ねられてる。驚かずに、複雑な現実の中で自分たちがどう動くべきか、冷静に見極めていくことが大事やね。"
-    },
-    {
-      "source": "NHK",
-      "title": "NY原油市場 先物価格 一時1バレル＝95ドル台まで上昇 高騰続く",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073601000.html",
-      "summary": "11日のニューヨーク原油市場で、ホルムズ海峡の封鎖が長期化する懸念が高まり、WTI原油先物価格が一時95ドル台に達しました。国際エネルギー機関（IEA）の加盟国が石油備蓄を放出する方針を示しているものの、原油価格の上昇傾向が続いています。",
+      "title": "大手化学メーカー間で石油関連製品の減産や値上げ相次ぐ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073971000.html",
+      "summary": "イラン情勢を背景に原油供給の不安が高まる中、大手化学メーカー各社が石油由来製品の生産を抑制し、価格を引き上げる対応を進めています。これらの動きは原料の調達環境の変化に対応するためとみられます。",
       "classification": {
         "tone": "N",
         "term": "M"
@@ -436,52 +421,67 @@
         "leadingKana": "け",
         "phrase": "計画より  仕上げが大事"
       },
-      "commentary": "原油価格の高騰は市場の不確実性を映すもんや。計画だけで終わらんと、備蓄放出などの実行がどれだけ効果を生むかが大事やで。商売も油断せず、結果まで見届ける姿勢が信頼を築くんや。"
+      "commentary": "原油の不安定な状況で減産や値上げが続く中、計画通りに動けるかどうかだけやなく、実際に最後まできっちり仕上げる力が問われるわけや。あきんどは、途中で手を緩めたら信頼も落ちる。複雑な環境でも、結果を出す覚悟が大事やで。"
+    },
+    {
+      "source": "NHK",
+      "title": "ガソリン価格大幅値上げ イラン情勢緊迫化 生活への影響広がる",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073801000.html",
+      "summary": "イラン情勢の緊迫化により原油先物価格が上昇し、12日にガソリン価格が大幅に引き上げられました。一部のガソリンスタンドではレギュラーガソリンの小売価格が1リットルあたり196円にまで上昇しており、日常生活への影響が拡大しています。",
+      "classification": {
+        "tone": "B",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "こ",
+        "phrase": "ゴミが落ちていたら拾うんです"
+      },
+      "commentary": "情勢で価格が動くと、生活の基盤も揺らぎますわな。そんな時こそ、あきんどは小さな困りごとや見落とされがちなことに気を配り、日々の積み重ねで信頼を守ることが肝心や。表面的な変化に振り回されず、身近なことから手を抜かん姿勢が、長い目で見て商いの根を支えるんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "日本通運ほか／水素供給網モデル構築に向けた共同調査・実証で基本合意書",
-      "sourceURL": "https://www.lnews.jp/?p=315398",
-      "summary": "日本通運を含む11社は、水素供給網のモデル構築に向けた共同調査と実証実験を進めるため、基本合意書を締結しました。参加企業には関西電力やJR西日本、NTT、パナソニック、川崎重工などが含まれており、持続可能な水素インフラの開発を目指しています。",
+      "title": "住友商事／京都府久御山町で9.5万m2の物流施設竣工、危険物倉庫も確保",
+      "sourceURL": "https://www.lnews.jp/?p=315323",
+      "summary": "住友商事は京都府久御山町に、延床面積約9万5,000平方メートルの消費地近接型物流施設「SOSiLA京都久御山」を竣工した。この施設は地上4階建てで、危険物の保管が可能な倉庫も備えている。物流の効率化を目的とした大型施設の完成となる。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
       },
-      "commentary": "複数社が水素供給網のモデル構築に動く動きは、情報共有と透明性が欠かせん証や。秘密ごとを抱え込まず、率直に課題を出し合うことで信頼が積み重なり、持続可能な仕組みが生まれる。焦らずに着実に進める姿勢が、長い目で見た商売の強みになるんやで。"
+      "commentary": "物流施設の新設は単なる効率化だけやあらへん。地域の安全と暮らしを支える役割も大きい。危険物倉庫の確保は、社会の安心感を形にする一歩や。あきんどとして、日々の積み重ねで信頼築き、地域と共に歩む姿勢が大事やで。"
     },
     {
       "source": "LNEWS",
-      "title": "岸産業／大阪府堺市に倉庫新設、冷凍食品需要で防熱扉の受注が拡大",
-      "sourceURL": "https://www.lnews.jp/?p=315386",
-      "summary": "岸産業は大阪府堺市の本社近くに新たな倉庫を設置した。これは冷凍食品の需要増加に伴い、防熱扉の注文が増加したことを受けたもので、倉庫の拡充により保管スペースの不足を解消し、物流の効率化を図る狙いがある。",
+      "title": "阪急阪神不動産／千葉県松戸市に1.3万m2の物流施設着工、27年2月末竣工予定",
+      "sourceURL": "https://www.lnews.jp/?p=315404",
+      "summary": "阪急阪神不動産は千葉県松戸市で新しい物流施設「ロジスタ松戸」の建設を開始した。敷地面積は約1万3000平方メートルで、完成は2027年2月末を予定している。施設は首都圏の外環道「三郷南IC」へのアクセスが良好な場所に位置している。",
       "classification": {
         "tone": "G",
-        "term": "M"
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "な",
-        "phrase": "何するか 分からん時は 基礎鍛錬"
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
       },
-      "commentary": "倉庫新設で需要増に応えるのは、焦らず基盤を固める姿勢の表れや。慌てず堅実に、自社の強みを磨き直してから動く。冷凍食品の拡大に伴う変化も、まずは自分の土台を鍛えてから対応策を練ることが信頼を築く鍵やで。"
+      "commentary": "物流の拠点を新たに整える意味は、ただの利益追求にとどまらへん。地域と繋がり、日々の積み重ねで信頼を築くことが大事や。社会の中で役割を果たす覚悟を持って、着実に歩み続ける姿勢を見習いたいもんやね。"
     },
     {
       "source": "Guardian｜World",
-      "title": "‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts",
-      "sourceURL": "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
-      "summary": "アフリカの11か国が、中国製の顔認識や動向監視を行うAI搭載の監視技術に計20億ドル以上を投じていることが報告された。この技術の導入は市民のプライバシー権を侵害し、社会に萎縮効果をもたらしていると指摘されている。国家安全保障を理由に規制が不十分なまま拡大している状況が問題視されている。",
+      "title": "UK government axes flagship global health project",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
+      "summary": "英国政府は、将来的なパンデミック対策に重要とされていたアフリカ6カ国の医療従事者育成支援プロジェクト「グローバル・ヘルス・ワークフォース・プログラム（GHWP）」を、政府の援助削減に伴い今月末で終了すると発表した。外務・英連邦・開発省が閉鎖を決定した。",
       "classification": {
         "tone": "B",
-        "term": "L"
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "あ",
-        "phrase": "あかんモンはあかん"
+        "leadingKana": "も",
+        "phrase": "もうアカン 思たトコから もう一歩"
       },
-      "commentary": "監視技術の導入には国ごとの事情もあるやろけど、大切なんは、どんな理由があっても人の自由や信頼を損なうことには手を出したらあかんちゅうことや。短期的に便利でも、長い目で見て社会の信頼を築く行動を忘れんようにせなな。"
+      "commentary": "支援打ち切りの知らせは厳しいけど、ここで止まるわけにはいかん。予期せぬ困難があっても、次の一歩をどう踏み出すかが信頼を築く道や。短期の成果だけ追わず、持続できる関わり方を模索し続けることが、あきんどの心得やと思うで。"
     }
   ]
 }
