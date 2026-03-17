@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-17T13:43:11.670Z",
+  "generatedAt": "2026-03-17T19:14:56.676Z",
   "run": {
-    "ranAt": "2026-03-17T13:43:11.670Z",
+    "ranAt": "2026-03-17T19:14:56.676Z",
     "runner": "github-actions",
-    "runId": "23197194536"
+    "runId": "23212058122"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
-      "fetchedAt": "2026-03-17T13:42:46.313Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "オーストラリア 政策金利引き上げ イラン情勢のインフレ抑制で",
@@ -20,7 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015078161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015078161000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "東急不動産／広島市内に冷凍冷蔵対応7.7万m2のマルチ型物流施設を5月着工",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315959",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315959",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "プロロジス／東京都板橋区に用地・冷蔵倉庫を取得、「アーバン東京板橋1」開発へ",
@@ -36,7 +36,15 @@
       "sourceURL": "https://www.lnews.jp/?p=315926",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315926",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
+    },
+    {
+      "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
+      "body": "&lt;p&gt;Family of then PM, Patrice Lumumba, welcome decision to charge Étienne Davignon as ‘beginning of a reckoning’ &lt;/p&gt;&lt;p&gt;A former Belgian diplomat, 93, should stand trial over alleged complicity in the 1961 murder of Patrice Lumumba, the first prime minister of what was then the newly independent Congolese state, a Brussels court has ruled.&lt;/p&gt;&lt;p&gt;Étienne Davignon, the only person still alive among 10 Belgians the Lumumba family accuses of involvement in the killing, is charged with participation in war crimes.&lt;/p&gt;&lt;p&gt;The illegal transfer of Lumumba and his associates from Léopoldville (now Kinshasa) to Katanga.&lt;/p&gt;&lt;p&gt;The “humiliating and degrading treatment” of the men.&lt;/p&gt;&lt;p&gt;Depriving them of a fair trial.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
@@ -44,7 +52,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "米エヌビディア AIの「推論」処理能力高める半導体を開発",
@@ -52,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077831000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "株価 値上がり 幅広い銘柄に買い注文",
@@ -60,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077781000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "【PR】APT／「マテハン資産管理の新潮流」テーマに3月31日・4月14日セミナー開催",
@@ -68,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315896",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315896",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "【PR】CBRE／滋賀県「UIB湖南ロジスティクスセンターII」内覧会3月27日開催",
@@ -76,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315887",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315887",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
@@ -84,7 +92,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "政府「日本版CFIUS」創設へ 外為法の改正案を閣議決定",
@@ -92,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077661000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "全日空新社長 “原油価格高騰 直ちに影響ないが高止まり懸念”",
@@ -100,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077291000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "三菱地所、ダイフクなど13社／高速道路直結型ステーションハブ推進協議会が始動",
@@ -108,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315827",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315827",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "九州西濃運輸／JPロジスティクスと宮崎県延岡市の拠点を共同利用、配達エリアを分担",
@@ -116,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315821",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315821",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "石油の民間備蓄 放出開始 安定した供給を待つ国内各地では",
@@ -124,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015076451000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "「ナフサ」供給懸念 関連製品の減産や値上げの動きが広がる",
@@ -132,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015077221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015077221000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "三井不動産・日鉄興和不動産／京都府八幡市に2棟で24万m2超の物流施設開発、第一弾が着工",
@@ -140,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315719",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315719",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "霞ヶ関キャピタル／神戸市に冷凍自動倉庫着工、約1.5万パレット保管可能",
@@ -148,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315776",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315776",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "株価 小幅に値下がり",
@@ -156,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015076951000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "関東運輸／グループ会社のケーシーエスがホームページを開設",
@@ -164,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315782",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?",
@@ -172,7 +180,7 @@
       "sourceURL": "https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "中国 1～2月の主要経済統計 生産堅調も消費は力強さ欠く状況",
@@ -180,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015076941000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "セイノースーパーエクスプレス／古河航空営業所を移転、西濃運輸の特積みと連携",
@@ -188,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315668",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315668",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "DNPロジスティクス／医薬品の通信販売拠点を東京都板橋区のセンター内に開設",
@@ -196,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315644",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315644",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "日米などエネルギー担当相会合“安定供給確保へ協力”共同声明",
@@ -204,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260315/k10015076601000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260315/k10015076601000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "日韓財務対話 イラン情勢受けエネルギーの安定供給など連携へ",
@@ -212,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075841000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "CPD／9.4万m2のマルチテナント型物流施設を愛知県一宮市で竣工",
@@ -220,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315548",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315548",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "アサヒロジスティクス／待遇底上げへ新卒初任給28万円、ドライバー職は6.4％賃上げ",
@@ -228,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315572",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315572",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "日米閣僚 レアアースなど重要鉱物の供給網多角化で連携へ",
@@ -236,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075801000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "France returns sacred talking drum looted from Côte d’Ivoire over 100 years ago",
@@ -244,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "東電 柏崎刈羽原発6号機の発送電停止 営業運転は延期の見通し",
@@ -252,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075741000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "JR東日本 きょうから運賃値上げ 背景に「コスト」と「乗客数」",
@@ -260,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075381000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "日米やアジアなどエネルギー担当相会合 安定供給の対応協議へ",
@@ -268,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075341000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "共栄火災海上保険 元代理店店主が客から7700万円余詐取と発表",
@@ -276,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075431000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "ニデック 外部専門家の調査委設置 経営陣の法的責任調査へ",
@@ -284,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015075421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015075421000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "双日 豪でレアアース開発の企業と新鉱山開発に向けて基本合意",
@@ -292,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015075031000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015075031000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "イラン情勢緊迫化 石油の民間備蓄 16日から放出へ 経済産業省",
@@ -300,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074641000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration",
@@ -308,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "「ローム」と「東芝」 パワー半導体事業統合で交渉",
@@ -316,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074701000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "政府備蓄米 ことしのコメの買い入れ 4月に初入札を正式発表",
@@ -324,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074721000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "物流系のアルバイト・パート募集時平均時給／2月は4.0％増",
@@ -332,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315584",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315584",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "日本郵便／2026年の祝日に配達休止日を追加、一部郵便は例外",
@@ -340,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315578",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315578",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "【きょうのおはBiz 3月13日(金)】原油調達 現場の模索",
@@ -348,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074451000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "NY原油市場 先物価格 1バレル＝100ドルの大台に再び迫る",
@@ -356,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074511000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "安田倉庫／合同サステナビリティ推進意見交換会、住友倉庫など6社が参加",
@@ -364,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315473",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315473",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "日本郵船／ノルウェーのオープンハッチ船事業会社を完全子会社化",
@@ -372,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315470",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315470",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "NYダウ 一時700ドル超値下がり イラン情勢を受け",
@@ -380,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074241000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "大手化学メーカー間で石油関連製品の減産や値上げ相次ぐ",
@@ -388,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260312/k10015073971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260312/k10015073971000.html",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     },
     {
       "title": "住友商事／京都府久御山町で9.5万m2の物流施設竣工、危険物倉庫も確保",
@@ -396,15 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315323",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315323",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
-    },
-    {
-      "title": "阪急阪神不動産／千葉県松戸市に1.3万m2の物流施設着工、27年2月末竣工予定",
-      "body": "<![CDATA[<p>阪急阪神不動産は3月12日、千葉県松戸市において物流施設「ロジスタ松戸」の新築工事に着手したと発表した。竣工は2027年2月末の予定。 ＜「ロジスタ松戸」外観イメージ＞ 開発地は首都圏各地を結ぶ外環道の「三郷南IC」まで [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0312504.html\">阪急阪神不動産／千葉県松戸市に1.3万m2の物流施設着工、27年2月末竣工予定</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=315404",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=315404",
-      "fetchedAt": "2026-03-17T13:42:46.314Z"
+      "fetchedAt": "2026-03-17T19:14:23.279Z"
     }
   ],
   "items": [
@@ -412,22 +412,22 @@
       "source": "NHK",
       "title": "政府 日米首脳会談でアラスカ産原油調達の意向伝える方針",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
-      "summary": "政府は、イラン情勢の緊迫化を背景に、今週の日本とアメリカの首脳会談でアラスカ産原油の増産支援と調達意向を表明する予定です。これにより、世界的な原油供給の安定化と日本の調達先の多様化を目指す方針です。",
+      "summary": "政府は、イラン情勢の緊迫化による原油供給の不安定化を受け、今週の米日首脳会談でアラスカ産原油の増産協力と調達意向を表明する方針です。この取り組みは、原油供給の安定化と多様化を目指すものとされています。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "な",
-        "phrase": "何するか 分からん時は 基礎鍛錬"
+        "leadingKana": "は",
+        "phrase": "早起きは 眠たいけども 憂いなし"
       },
-      "commentary": "情勢が揺れる中、原油調達の多角化を目指す動きは、焦らず基本を固める姿勢に似てるわな。急がば回れで、安定供給の土台作りに時間かけることが、信頼を積み重ねるあきんどの道や。状況見極めつつ、一歩ずつ進むことが大事やで。"
+      "commentary": "原油の調達先を増やすって話やけど、一朝一夕で結果は出へんもんや。焦らずじっくり準備を重ね、地道に信頼を積むことが大事やな。眠たい朝でも一歩踏み出すように、着実な行動が不安を減らしていくんやで。"
     },
     {
       "source": "NHK",
       "title": "オーストラリア 政策金利引き上げ イラン情勢のインフレ抑制で",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015078161000.html",
-      "summary": "オーストラリア準備銀行は、イラン情勢を背景に燃料価格が急騰していることを踏まえ、インフレ抑制を目的に政策金利を0.25％引き上げる決定をしました。この措置は物価上昇の加速を防ぐ狙いがあります。",
+      "summary": "オーストラリア準備銀行は、イラン情勢による燃料価格の急騰を受け、インフレ加速の懸念から政策金利を0.25％引き上げました。今回の利上げは、物価上昇圧力を抑制するための対応として実施されたものです。",
       "classification": {
         "tone": "N",
         "term": "M"
@@ -436,13 +436,13 @@
         "leadingKana": "ま",
         "phrase": "迷ったら もっかい一から やり直し"
       },
-      "commentary": "外部の影響で物価が揺れる時、あわてて前へ進むより、根本からもう一度状況を見直すことが大事や。短期の対応だけでなく、持続的な信頼を築くには、立ち止まって基盤を確かめる姿勢が欠かせへん。それが次の一手の確実な土台になるんやで。"
+      "commentary": "外部の影響で物価が揺れる時、焦って先走るより、基本に立ち返って経済の土台を見直すことが肝心や。せやから、政策変更も慌てず慎重に、もう一度原点から考え直す姿勢が信頼を築く一歩になるんやで。"
     },
     {
       "source": "LNEWS",
       "title": "東急不動産／広島市内に冷凍冷蔵対応7.7万m2のマルチ型物流施設を5月着工",
       "sourceURL": "https://www.lnews.jp/?p=315959",
-      "summary": "東急不動産は広島市内に約7万7千平方メートルの物流施設「LOGI’Q広島」を建設すると発表した。施設は一部が冷凍冷蔵対応のマルチ型となる。着工は2026年5月31日、完成は2028年4月28日を予定している。",
+      "summary": "東急不動産は広島市内に約7万7365平方メートルの物流施設「LOGI’Q広島」を建設すると発表した。施設の一部は冷凍・冷蔵対応となる。建設は5月31日に始まり、2028年4月28日の完成を予定している。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -451,13 +451,13 @@
         "leadingKana": "か",
         "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "物流の現場で新たな施設を作るとき、その先に働く人や地域のことを見つめ続けることが大事や。改良や工夫は一度きりやなく、みんなで育てる宝物やから、現場の声に耳を傾けて、変化に柔軟に対応していくことが、長く信頼される商売の土台になるんやで。"
+      "commentary": "物流施設の新設は一度きりの成果や派手さだけやない。冷凍冷蔵対応の拡充は業務の改善を促し、現場の気づきを育てる機会や。日々の小さな工夫が積み重なって、強くしなやかな商売の基盤を作る。長い目で信頼を育てる心持ちが大切やで。"
     },
     {
       "source": "LNEWS",
       "title": "プロロジス／東京都板橋区に用地・冷蔵倉庫を取得、「アーバン東京板橋1」開発へ",
       "sourceURL": "https://www.lnews.jp/?p=315926",
-      "summary": "プロロジスは東京都板橋区にて、新たな都市型物流施設「プロロジスアーバン東京板橋1」を開発すると発表した。開発用地と隣接する冷蔵倉庫を取得しており、施設は東京都中央卸売市場板橋市場の近くに位置する。完成は2028年末を予定している。",
+      "summary": "プロロジスは東京都板橋区にて、都市型物流施設「プロロジスアーバン東京板橋1」の開発を発表した。開発用地と隣接する冷蔵倉庫を取得し、東京都中央卸売市場板橋市場の近くに立地する。施設は2028年末の完成を予定している。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -466,22 +466,22 @@
         "leadingKana": "へ",
         "phrase": "平和の世 支える一人で あり続ける"
       },
-      "commentary": "都市の物流は日々の社会を裏で支えるもんや。板橋の開発も単なる倉庫増設やなく、地域の流通と生活を支える役割がある。短期の利益だけやなく、信頼と持続を意識して、じっくり取り組む姿勢が大事やな。"
+      "commentary": "物流の現場では、日々の積み重ねが信頼を築くんや。今回の都市型物流施設の開発も、地域の暮らしと商いを支える一歩。派手やなくても地道に、社会の仕組みの一部として役割を果たし続けることが大事やと改めて感じるわ。"
     },
     {
       "source": "Guardian｜World",
-      "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
-      "sourceURL": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
-      "summary": "ナイジェリア北東部マイドゥグリで複数の自爆攻撃が発生し、少なくとも23人が死亡、100人以上が負傷しました。爆弾は郵便局や市場、マイドゥグリ大学付属病院の入口付近で起き、ラマダンの断食明けの時間帯に襲撃されました。近年比較的安定していた同市での事件となりました。",
+      "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
+      "sourceURL": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
+      "summary": "ベルギーの裁判所は、当時のコンゴ初代首相パトリス・ルムンバの1961年の殺害に関与したとして、93歳の元外交官エティエンヌ・ダヴィニョンを裁判にかける決定を下した。ダヴィニョンは、ルムンバ一家が関与を主張する10人のベルギー人のうち唯一存命で、戦争犯罪の共謀や、ルムンバらのレオポルドヴィルからカタンガへの違法移送、屈辱的な扱い、公正な裁判の欠如などの罪に問われている。",
       "classification": {
         "tone": "B",
-        "term": "S"
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "め",
-        "phrase": "目を見て 話せん奴を 信用すな"
+        "leadingKana": "あ",
+        "phrase": "あかんモンはあかん"
       },
-      "commentary": "こんな厳しい状況やけど、顔を見て話せへん相手に信頼は生まれん。商売も人とのつながりやから、目をそらさず誠実に向き合う姿勢が大事や。困難な時こそ、信頼の積み重ねが未来を支えるんやで。"
+      "commentary": "歴史の重みは商いにも通じるもんや。過去の過ちは理屈で曖昧にせず、真摯に向き合う姿勢が信頼の礎になる。事情は複雑でも、正しい筋は譲らず、何度でも誠実に挑むことが、長い目で見た信用につながるんやで。"
     }
   ]
 }
