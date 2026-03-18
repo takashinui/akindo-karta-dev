@@ -1,58 +1,26 @@
 {
-  "generatedAt": "2026-03-18T07:13:56.825Z",
+  "generatedAt": "2026-03-18T13:44:58.132Z",
   "run": {
-    "ranAt": "2026-03-18T07:13:56.826Z",
+    "ranAt": "2026-03-18T13:44:58.132Z",
     "runner": "github-actions",
-    "runId": "23233344376"
+    "runId": "23247738543"
   },
   "stock": [
     {
-      "title": "春闘 きょう集中回答日 大手企業 満額回答相次ぐ【随時更新】",
-      "body": "ことしの春闘は18日が集中回答日です。自動車や電機などの大手では、満額を含む高い水準の回答が相次いでいます。一方、イラン情勢の悪化が中小企業の賃上げの判断に影響を与えかねないという見方もあり、物価の上昇を上回る賃上げが実現するかが焦点です。",
+      "title": "春闘 集中回答日 自動車や電機など大手 満額含む回答相次ぐ",
+      "body": "ことしの春闘は18日が集中回答日です。自動車や電機などの大手では、満額を含む高い水準の回答が相次ぎました。一方、イラン情勢の悪化が中小企業の賃上げの判断に影響を与えかねないという見方もあり、物価の上昇を上回る賃上げが実現するかが焦点です。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260318/k10015078471000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.111Z"
     },
     {
-      "title": "株価 1500円超値上がり 買い戻す動き強まる",
-      "body": "18日の東京株式市場、このところ株価の下落が続いていた中で値下がりした銘柄を買い戻す動きが強まって、日経平均株価は1500円を超える値上がりとなりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078421000.html",
+      "title": "ソニー生命 元社員が顧客やその親族から22億円近くを借り入れ",
+      "body": "ソニー生命の営業担当だった社員が保険の営業とは関係なく顧客やその親族から22億円近くを借り入れ、およそ半分が今も返済されていないことがわかりました。プルデンシャル生命でも顧客から借金をしていた事例が発覚していて、生命保険業界で社員の不適切な金銭の受領が相次いで明らかになっています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078981000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260318/k10015078421000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
-    },
-    {
-      "title": "JR貨物／2月の鉄道コンテナ輸送量4.9％減",
-      "body": "<![CDATA[<p>日本貨物鉄道（JR貨物）が3月18日に公表した2月分の輸送動向によると、輸送実績はコンテナが137万7000トン（前年同月比4.9％減）、車扱が80万2000トン（1.9％減）で、合計218万トン（3.8％減）だった。  [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0318507.html\">JR貨物／2月の鉄道コンテナ輸送量4.9％減</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=316127",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=316127",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
-    },
-    {
-      "title": "財務省／2月分貿易統計、輸出4.2％増、輸入10.2％増",
-      "body": "<![CDATA[<p>財務省が3月18日に発表した2月分の貿易統計速報によると、輸出金額は9兆5716億円（前年同月比4.2％増）で6か月連続の増加、輸入金額は9兆5143億円（10.2％増）で2か月ぶりの増加だった。 輸出と輸入の差引金額は [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0318707.html\">財務省／2月分貿易統計、輸出4.2％増、輸入10.2％増</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=316118",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=316118",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
-    },
-    {
-      "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
-      "body": "&lt;p&gt;Family of then PM, Patrice Lumumba, welcome decision to charge Étienne Davignon as ‘beginning of a reckoning’ &lt;/p&gt;&lt;p&gt;A former Belgian diplomat, 93, should stand trial over alleged complicity in the 1961 murder of Patrice Lumumba, the first prime minister of what was then the newly independent Congolese state, a Brussels court has ruled.&lt;/p&gt;&lt;p&gt;Étienne Davignon, the only person still alive among 10 Belgians the Lumumba family accuses of involvement in the killing, is charged with participation in war crimes.&lt;/p&gt;&lt;p&gt;The illegal transfer of Lumumba and his associates from Léopoldville (now Kinshasa) to Katanga.&lt;/p&gt;&lt;p&gt;The “humiliating and degrading treatment” of the men.&lt;/p&gt;&lt;p&gt;Depriving them of a fair trial.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
-    },
-    {
-      "title": "2月貿易統計 米向け輸出額 前年同月比8％減 減少は3か月連続",
-      "body": "財務省が発表した2月の貿易統計では、アメリカ向けの輸出額が3か月連続で減少し、このうち自動車の輸出額は14％余り減少しました。トランプ政権による関税措置の影響が続いていることがうかがえます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078361000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260318/k10015078361000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "id": "www3.nhk.or.jp/news/html/20260318/k10015078981000.html",
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "インフォア／グローバル標準のデータ統合――「見える化」の先にある迅速な意思決定とは",
@@ -60,7 +28,55 @@
       "sourceURL": "https://www.lnews.jp/?p=314702",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314702",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
+    },
+    {
+      "title": "福岡運輸／北海道の定温物流企業をグループ化、全6拠点で輸送力強化",
+      "body": "<![CDATA[<p>福岡運輸ホールディングスは3月17日付で、子会社の札幌定温運輸を通じて、リーヴラインの全株式を取得し、グループ化したと発表した。 福岡運輸グループの定温物流事業は、食品を中心とした定温物流サービスを全国で展開している。ま [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0318702.html\">福岡運輸／北海道の定温物流企業をグループ化、全6拠点で輸送力強化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=316010",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=316010",
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
+    },
+    {
+      "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
+      "body": "&lt;p&gt;Family of then PM, Patrice Lumumba, welcome decision to charge Étienne Davignon as ‘beginning of a reckoning’ &lt;/p&gt;&lt;p&gt;A former Belgian diplomat, 93, should stand trial over alleged complicity in the 1961 murder of Patrice Lumumba, the first prime minister of what was then the newly independent Congolese state, a Brussels court has ruled.&lt;/p&gt;&lt;p&gt;Étienne Davignon, the only person still alive among 10 Belgians the Lumumba family accuses of involvement in the killing, is charged with participation in war crimes.&lt;/p&gt;&lt;p&gt;The illegal transfer of Lumumba and his associates from Léopoldville (now Kinshasa) to Katanga.&lt;/p&gt;&lt;p&gt;The “humiliating and degrading treatment” of the men.&lt;/p&gt;&lt;p&gt;Depriving them of a fair trial.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
+    },
+    {
+      "title": "株価 1500円超値上がり 買い戻す動き強まる",
+      "body": "18日の東京株式市場、このところ株価の下落が続いていた中で値下がりした銘柄を買い戻す動きが強まって、日経平均株価は1500円を超える値上がりとなりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078421000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260318/k10015078421000.html",
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
+    },
+    {
+      "title": "JR貨物／2月の鉄道コンテナ輸送量4.9％減",
+      "body": "<![CDATA[<p>日本貨物鉄道（JR貨物）が3月18日に公表した2月分の輸送動向によると、輸送実績はコンテナが137万7000トン（前年同月比4.9％減）、車扱が80万2000トン（1.9％減）で、合計218万トン（3.8％減）だった。  [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0318507.html\">JR貨物／2月の鉄道コンテナ輸送量4.9％減</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=316127",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=316127",
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
+    },
+    {
+      "title": "財務省／2月分貿易統計、輸出4.2％増、輸入10.2％増",
+      "body": "<![CDATA[<p>財務省が3月18日に発表した2月分の貿易統計速報によると、輸出金額は9兆5716億円（前年同月比4.2％増）で6か月連続の増加、輸入金額は9兆5143億円（10.2％増）で2か月ぶりの増加だった。 輸出と輸入の差引金額は [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0318707.html\">財務省／2月分貿易統計、輸出4.2％増、輸入10.2％増</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=316118",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=316118",
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
+    },
+    {
+      "title": "2月貿易統計 米向け輸出額 前年同月比8％減 減少は3か月連続",
+      "body": "財務省が発表した2月の貿易統計では、アメリカ向けの輸出額が3か月連続で減少し、このうち自動車の輸出額は14％余り減少しました。トランプ政権による関税措置の影響が続いていることがうかがえます。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078361000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260318/k10015078361000.html",
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "Hacobu／チェリオで配車から入出荷まで一気通貫で改善、導入事例公開",
@@ -68,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316013",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316013",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "政府 日米首脳会談でアラスカ産原油調達の意向伝える方針",
@@ -76,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "オーストラリア 政策金利引き上げ イラン情勢のインフレ抑制で",
@@ -84,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015078161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015078161000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "東急不動産／広島市内に冷凍冷蔵対応7.7万m2のマルチ型物流施設を5月着工",
@@ -92,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315959",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315959",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "プロロジス／東京都板橋区に用地・冷蔵倉庫を取得、「アーバン東京板橋1」開発へ",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315926",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315926",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "米エヌビディア AIの「推論」処理能力高める半導体を開発",
@@ -116,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077831000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "株価 値上がり 幅広い銘柄に買い注文",
@@ -124,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077781000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "【PR】APT／「マテハン資産管理の新潮流」テーマに3月31日・4月14日セミナー開催",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315896",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315896",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "【PR】CBRE／滋賀県「UIB湖南ロジスティクスセンターII」内覧会3月27日開催",
@@ -140,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315887",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315887",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
@@ -148,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "政府「日本版CFIUS」創設へ 外為法の改正案を閣議決定",
@@ -156,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077661000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "全日空新社長 “原油価格高騰 直ちに影響ないが高止まり懸念”",
@@ -164,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077291000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "三菱地所、ダイフクなど13社／高速道路直結型ステーションハブ推進協議会が始動",
@@ -172,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315827",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315827",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "九州西濃運輸／JPロジスティクスと宮崎県延岡市の拠点を共同利用、配達エリアを分担",
@@ -180,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315821",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315821",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "石油の民間備蓄 放出開始 安定した供給を待つ国内各地では",
@@ -188,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015076451000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "「ナフサ」供給懸念 関連製品の減産や値上げの動きが広がる",
@@ -196,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015077221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015077221000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "三井不動産・日鉄興和不動産／京都府八幡市に2棟で24万m2超の物流施設開発、第一弾が着工",
@@ -204,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315719",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315719",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "霞ヶ関キャピタル／神戸市に冷凍自動倉庫着工、約1.5万パレット保管可能",
@@ -212,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315776",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315776",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "株価 小幅に値下がり",
@@ -220,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015076951000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "関東運輸／グループ会社のケーシーエスがホームページを開設",
@@ -228,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315782",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?",
@@ -236,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "中国 1～2月の主要経済統計 生産堅調も消費は力強さ欠く状況",
@@ -244,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015076941000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "セイノースーパーエクスプレス／古河航空営業所を移転、西濃運輸の特積みと連携",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315668",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315668",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "DNPロジスティクス／医薬品の通信販売拠点を東京都板橋区のセンター内に開設",
@@ -260,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315644",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315644",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "日米などエネルギー担当相会合“安定供給確保へ協力”共同声明",
@@ -268,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260315/k10015076601000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260315/k10015076601000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "日韓財務対話 イラン情勢受けエネルギーの安定供給など連携へ",
@@ -276,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075841000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "CPD／9.4万m2のマルチテナント型物流施設を愛知県一宮市で竣工",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315548",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315548",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "アサヒロジスティクス／待遇底上げへ新卒初任給28万円、ドライバー職は6.4％賃上げ",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315572",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315572",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "日米閣僚 レアアースなど重要鉱物の供給網多角化で連携へ",
@@ -300,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075801000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "France returns sacred talking drum looted from Côte d’Ivoire over 100 years ago",
@@ -308,7 +324,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "東電 柏崎刈羽原発6号機の発送電停止 営業運転は延期の見通し",
@@ -316,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075741000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "JR東日本 きょうから運賃値上げ 背景に「コスト」と「乗客数」",
@@ -324,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075381000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "日米やアジアなどエネルギー担当相会合 安定供給の対応協議へ",
@@ -332,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075341000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "共栄火災海上保険 元代理店店主が客から7700万円余詐取と発表",
@@ -340,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260314/k10015075431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260314/k10015075431000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "ニデック 外部専門家の調査委設置 経営陣の法的責任調査へ",
@@ -348,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015075421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015075421000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "双日 豪でレアアース開発の企業と新鉱山開発に向けて基本合意",
@@ -356,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015075031000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015075031000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "イラン情勢緊迫化 石油の民間備蓄 16日から放出へ 経済産業省",
@@ -364,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074641000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration",
@@ -372,7 +388,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "「ローム」と「東芝」 パワー半導体事業統合で交渉",
@@ -380,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074701000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     },
     {
       "title": "政府備蓄米 ことしのコメの買い入れ 4月に初入札を正式発表",
@@ -388,100 +404,84 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260313/k10015074721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260313/k10015074721000.html",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
-    },
-    {
-      "title": "物流系のアルバイト・パート募集時平均時給／2月は4.0％増",
-      "body": "<![CDATA[<p>リクルートグループは3月13日、同社の調査研究機関「ジョブズリサーチセンター（JBRC）」がまとめた2月度のアルバイト・パート募集時平均時給調査を発表した。 ＜三大都市圏（首都圏・東海・関西）の製造・物流・清掃系 平均時 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0313604.html\">物流系のアルバイト・パート募集時平均時給／2月は4.0％増</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=315584",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=315584",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
-    },
-    {
-      "title": "日本郵便／2026年の祝日に配達休止日を追加、一部郵便は例外",
-      "body": "<![CDATA[<p>日本郵便は3月13日、2026年の祝日等における郵便物等の配達日について変更を発表した。 今回発表された内容では、もともと配達日としていた5月4日（月）と9月21日（月）を配達休止日に変更したことが示されている。 なお、 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0313707.html\">日本郵便／2026年の祝日に配達休止日を追加、一部郵便は例外</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=315578",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=315578",
-      "fetchedAt": "2026-03-18T07:13:28.915Z"
+      "fetchedAt": "2026-03-18T13:44:28.112Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "春闘 きょう集中回答日 大手企業 満額回答相次ぐ【随時更新】",
+      "title": "春闘 集中回答日 自動車や電機など大手 満額含む回答相次ぐ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078471000.html",
-      "summary": "今年の春闘は18日に集中回答日を迎え、自動車や電機業界の大手企業を中心に満額回答を含む高い賃上げ水準が相次いでいます。一方で、イラン情勢の悪化が中小企業の賃上げ判断に影響を与える可能性も指摘されており、物価上昇を上回る賃上げの実現が課題となっています。",
+      "summary": "今年の春闘では18日が集中回答日となり、自動車や電機業界の大手企業で満額回答を含む高水準の賃上げ案が相次ぎました。一方で、イラン情勢の悪化が中小企業の賃上げ判断に影響を及ぼす可能性が指摘されています。物価上昇を超える賃上げが実現するかが注目されています。",
       "classification": {
         "tone": "N",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
+        "leadingKana": "わ",
+        "phrase": "わからん時　わからんと言う素直さよ"
       },
-      "commentary": "春闘で大手企業が満額回答を示す一方、中小は国際情勢の影響もあり賃上げに慎重な様子や。ここで違和感を感じるのは自然で、その「ん？」を見過ごさず、何が環境や前提を動かしてるか考えることが、先々の信頼につながるんや。"
+      "commentary": "大手が高水準の回答を示す中、中小の動向は先行き不透明やな。賃上げの実現には経済情勢の読み解きと正直な対話が欠かせん。わからんことは隠さず、素直に現状を受け止める姿勢が信頼を積み重ねる第一歩やで。"
     },
     {
       "source": "NHK",
-      "title": "株価 1500円超値上がり 買い戻す動き強まる",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078421000.html",
-      "summary": "18日の東京株式市場では、これまで下落していた銘柄の買い戻しが活発化し、日経平均株価が1500円以上上昇しました。投資家の売買動向の変化が株価の大幅な回復につながったとみられます。",
+      "title": "ソニー生命 元社員が顧客やその親族から22億円近くを借り入れ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078981000.html",
+      "summary": "ソニー生命の元営業社員が、保険営業とは無関係に顧客やその親族から約22億円を借り入れ、そのうち約半分が未返済のままであることが判明しました。これに加え、プルデンシャル生命でも同様に顧客から借金をするケースが明らかになっており、生命保険業界で社員による不適切な金銭の受領が相次いでいます。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
+      },
+      "commentary": "借り入れの問題は、一時的な成果や目の前の利益にとらわれる危うさを示してるわな。あきんどは、手にしたものの価値を見極めて、真の目的を見失わんようにせなあかん。信頼は一朝一夕で築けるもんやないし、日々の誠実な積み重ねが大事やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "インフォア／グローバル標準のデータ統合――「見える化」の先にある迅速な意思決定とは",
+      "sourceURL": "https://www.lnews.jp/?p=314702",
+      "summary": "国際物流の増加に伴い、海上輸送中の貨物状況の正確な把握や企業間でのリアルタイム情報共有が課題となっている。インフォアは、グローバル標準のデータ統合を通じて物流の「見える化」を推進し、迅速な意思決定を支援する取り組みを進めている。",
       "classification": {
         "tone": "G",
-        "term": "S"
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "と",
-        "phrase": "遠い道 一歩進めば 一歩近づく"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "値が戻る動きは焦らず、確かな歩みを示すもんや。慌てて飛びつくより、地道な判断の積み重ねこそが信頼を築く道筋や。今日の上昇も一歩に過ぎん。焦らず次の一歩を考えることが肝心やで。"
+      "commentary": "国境越えの物流は情報の一元管理が肝心や。短期の成果に惑わされず、地道にデータ連携を続けて信頼を築く。その積み重ねが迅速な判断を支える。答えは一朝一夕に出るもんやない、日々の誠実な取り組みこそが道を拓くんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "JR貨物／2月の鉄道コンテナ輸送量4.9％減",
-      "sourceURL": "https://www.lnews.jp/?p=316127",
-      "summary": "日本貨物鉄道（JR貨物）が発表した2月の輸送実績によると、コンテナ輸送量は前年同月比で4.9％減の約137万7000トン、車扱貨物は1.9％減の約80万2000トンとなり、合計輸送量は約218万トンで3.8％減少した。",
+      "title": "福岡運輸／北海道の定温物流企業をグループ化、全6拠点で輸送力強化",
+      "sourceURL": "https://www.lnews.jp/?p=316010",
+      "summary": "福岡運輸ホールディングスは3月17日、子会社の札幌定温運輸を通じて北海道の定温物流企業リーヴラインの全株式を取得し、グループに加えた。これにより、同社の定温物流事業は全国6拠点での輸送能力が強化され、食品を中心としたサービスの提供体制が拡充される。",
       "classification": {
-        "tone": "N",
-        "term": "S"
+        "tone": "G",
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "輸送量の減少は数字だけやなく、背景や現場の声をしっかり聞くことが大事や。表面的な数値に惑わされず、何が起きてるのか根っこを探る姿勢が信頼を築く。適当に流さず、真意を問い続けることで次の一手が見えてくるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "財務省／2月分貿易統計、輸出4.2％増、輸入10.2％増",
-      "sourceURL": "https://www.lnews.jp/?p=316118",
-      "summary": "財務省が発表した2月の貿易統計速報によると、輸出額は前年同月比4.2％増の約9兆5716億円で、6か月連続の増加となった。一方、輸入額は同10.2％増の約9兆5143億円で、2か月ぶりに増加に転じた。輸出入の増減が続いている状況が示されている。",
-      "classification": {
-        "tone": "N",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
-      },
-      "commentary": "輸出は伸びとるけど輸入の増加がそれ以上で、差額が縮まっとる。ここで焦らんと、「ん？」と思う違和感を大事にせなあかん。数字の裏に何があるんか、短期的な成果だけ見ずに、じっくり原因を探って信頼の積み重ねにつなげるべきやね。"
+      "commentary": "福岡運輸の動きは、単なる拡大じゃのうて、地道な信頼と責任の積み重ねがあってこそや。定温物流の強化は、日々の確実な仕事が次代へ続く基盤作り。商売は一瞬の成功に浮かれず、長い目で取り組むことが肝心やと教えてくれる話やね。"
     },
     {
       "source": "Guardian｜World",
       "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
       "sourceURL": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
-      "summary": "ベルギーの裁判所は、93歳の元外交官エティエンヌ・ダヴィニョンを、1961年に当時のコンゴ初代首相パトリス・ルムンバの殺害に関与した疑いで裁判にかけることを決定した。ダヴィニョンは、ルムンバ一家が関与を指摘する10人のベルギー人のうち唯一存命で、戦争犯罪への関与が問われている。具体的には、ルムンバらの違法な移送や不当な扱い、公正な裁判を受けさせなかった点が問題視されている。",
+      "summary": "ベルギーの裁判所は、元外交官の93歳エティエンヌ・ダヴィニョン氏を、1961年に当時のコンゴ初代首相パトリス・ルムンバの殺害に関与した疑いで裁判にかけることを決定した。ルムンバ家族はダヴィニョン氏を含む10人のベルギー人の関与を指摘しており、同氏は戦争犯罪の共謀で起訴されている。事件ではルムンバらが不法に移送され、不当な扱いを受け、公正な裁判を受ける権利を奪われたとされる。",
       "classification": {
         "tone": "B",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "あ",
-        "phrase": "あかんモンはあかん"
+        "leadingKana": "る",
+        "phrase": "ルールはなぁ 心が勝手に 守るモノ"
       },
-      "commentary": "歴史の重みを抱えつつ、過去の過ちを見過ごさず向き合うことは、信頼の礎を築く商いの姿勢と共通します。どんな複雑な事情があっても、正義に背く行為は見過ごせません。しかし、問題解決は一回限りで終わらず、継続的な対話と検証が不可欠。信頼は日々の積み重ねでしか守れへんのや。"
+      "commentary": "歴史の重みを背負う問題や過去の責任追及は、単なる形式では済まへん。信頼は外圧や強制でなく、自分自身の心が自然に守るルールから生まれるもんや。あきんどとして、長い目で誠実に向き合う姿勢が、次代の信頼を築く鍵やで。"
     }
   ]
 }
