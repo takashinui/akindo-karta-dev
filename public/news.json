@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-03-19T19:10:04.152Z",
+  "generatedAt": "2026-03-20T02:46:57.064Z",
   "run": {
-    "ranAt": "2026-03-19T19:10:04.152Z",
+    "ranAt": "2026-03-20T02:46:57.064Z",
     "runner": "github-actions",
-    "runId": "23312304705"
+    "runId": "23326891915"
   },
   "stock": [
     {
-      "title": "ヨーロッパ中央銀行 主要政策金利を2％に据え置き 6会合連続",
-      "body": "ヨーロッパ中央銀行は金融政策を決める理事会で主要な政策金利を6会合連続で据え置くことを決めました。一方で、エネルギー価格の高騰を受け、物価上昇率の見通しを引き上げていて、市場では今後、利上げを含めた政策変更を迫られるという見方も出ています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015080151000.html",
+      "title": "再エネ賦課金 新年度から引き上げ 年間2万円超の見通し 経産省",
+      "body": "経済産業省は、再生可能エネルギーの拡大のために毎月の電気料金に上乗せしている「再エネ賦課金」について、新年度から引き上げることにしています。この結果、1年間の賦課金が平均的な家庭で初めて2万円を超える見通しです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260320/k10015080301000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260319/k10015080151000.html",
-      "fetchedAt": "2026-03-19T19:09:34.955Z"
+      "id": "www3.nhk.or.jp/news/html/20260320/k10015080301000.html",
+      "fetchedAt": "2026-03-20T02:46:29.793Z"
     },
     {
-      "title": "花王 臨時株主総会の開催検討 株主の投資ファンドからの求めで",
-      "body": "日用品大手の花王は、株主の投資ファンドから原材料の調達でのリスク管理体制などをめぐり、臨時の株主総会の開催などを求められました。これを受けて、事実関係の確認を進めているとしたうえで、求めに応じて臨時の株主総会の開催を検討していることを明らかにしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079921000.html",
+      "title": "日米両政府 対米投資の第2弾候補 共同文書を正式発表",
+      "body": "今回の日米首脳会談にあわせて、日米両政府はアメリカへの80兆円規模の投資で、第2弾のプロジェクトの候補をまとめた共同文書を正式に発表しました。次世代型の原子炉のほか、天然ガス発電施設の建設が盛り込まれ、投資総額は最大で11兆円を超える見込みです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260320/k10015080241000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260319/k10015079921000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "id": "www3.nhk.or.jp/news/html/20260320/k10015080241000.html",
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "NXHD／広島で西川ゴム工業の物流拠点再編を支援、施設集約で効率化",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316196",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316196",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "カゴメとF-LINE／野菜飲料の海上輸送でモーダルシフト大賞「海事局長表彰」受賞",
@@ -36,15 +36,31 @@
       "sourceURL": "https://www.lnews.jp/?p=316187",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316187",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
-      "body": "&lt;p&gt;UK’s bilateral aid to Africa, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29&lt;/p&gt;&lt;p&gt;Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics, due to budget cuts set out by the foreign secretary.&lt;/p&gt;&lt;p&gt;The UK’s bilateral aid to Africa will be reduced by almost £900m by 2028-29 – a 56% cut – part of more than £6bn in cuts which are funding an increase in defence spending.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut\"&gt;Continue reading...&lt;/a&gt;",
+      "body": "&lt;p&gt;UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29&lt;/p&gt;&lt;p&gt;Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics, due to budget cuts set out by the foreign secretary.&lt;/p&gt;&lt;p&gt;The UK’s bilateral aid to African countries will be reduced by almost £900m by 2028-29 – a 56% cut – as part of more than £6bn in cuts which are funding an increase in defence spending.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut\"&gt;Continue reading...&lt;/a&gt;",
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
+    },
+    {
+      "title": "ヨーロッパ中央銀行 主要政策金利を2％に据え置き 6会合連続",
+      "body": "ヨーロッパ中央銀行は金融政策を決める理事会で主要な政策金利を6会合連続で据え置くことを決めました。一方で、エネルギー価格の高騰を受け、物価上昇率の見通しを引き上げていて、市場では今後、利上げを含めた政策変更を迫られるという見方も出ています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015080151000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260319/k10015080151000.html",
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
+    },
+    {
+      "title": "花王 臨時株主総会の開催検討 株主の投資ファンドからの求めで",
+      "body": "日用品大手の花王は、株主の投資ファンドから原材料の調達でのリスク管理体制などをめぐり、臨時の株主総会の開催などを求められました。これを受けて、事実関係の確認を進めているとしたうえで、求めに応じて臨時の株主総会の開催を検討していることを明らかにしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079921000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260319/k10015079921000.html",
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "火力発電の主力燃料LNG “中東依存度低くすぐ影響せず”電事連",
@@ -52,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079911000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
@@ -60,7 +76,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "日銀 金融政策維持を決定 植田総裁 午後3時半から会見",
@@ -68,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079621000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "原油安定供給に懸念 関連製品の値上げや火力発電設備の停止も",
@@ -76,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079761000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "日本郵便／企業向けマーケットでデジタルアドレスアプリの配信開始",
@@ -84,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316241",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316241",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "日本郵便／ビジネスデジタルアドレス提供開始、企業や個人事業主向けに発行",
@@ -92,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316220",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316220",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "ガソリン 激変緩和措置始まる 約1～2週間で小売価格反映見込み",
@@ -108,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079001000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "【きょうのおはBiz 3月19日(木)】日本の不動産 台湾から注目",
@@ -116,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079331000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "インドネシア総研／ドライバー不足など解決へ、インドネシアの物流業界団体と会談",
@@ -124,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316181",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316181",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "首都圏1都3県 2月販売の新築マンション 平均価格は1億1025万円",
@@ -140,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079181000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "ガソリン補助金 あすから1週間は1リットル当たり30円支給へ",
@@ -148,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260318/k10015078921000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "インフォア／グローバル標準のデータ統合――「見える化」の先にある迅速な意思決定とは",
@@ -156,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=314702",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=314702",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "福岡運輸／北海道の定温物流企業をグループ化、全6拠点で輸送力強化",
@@ -164,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316010",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316010",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "春闘 集中回答日 自動車や電機など大手 満額含む回答相次ぐ",
@@ -172,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260318/k10015078471000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "ソニー生命 元社員が顧客やその親族から22億円近くを借り入れ",
@@ -180,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260318/k10015078981000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "株価 1500円超値上がり 買い戻す動き強まる",
@@ -188,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260318/k10015078421000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "JR貨物／2月の鉄道コンテナ輸送量4.9％減",
@@ -196,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316127",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316127",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "財務省／2月分貿易統計、輸出4.2％増、輸入10.2％増",
@@ -204,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316118",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316118",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "2月貿易統計 米向け輸出額 前年同月比8％減 減少は3か月連続",
@@ -212,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078361000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260318/k10015078361000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "Hacobu／チェリオで配車から入出荷まで一気通貫で改善、導入事例公開",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316013",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316013",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "政府 日米首脳会談でアラスカ産原油調達の意向伝える方針",
@@ -228,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "オーストラリア 政策金利引き上げ イラン情勢のインフレ抑制で",
@@ -236,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015078161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015078161000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "東急不動産／広島市内に冷凍冷蔵対応7.7万m2のマルチ型物流施設を5月着工",
@@ -244,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315959",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315959",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "プロロジス／東京都板橋区に用地・冷蔵倉庫を取得、「アーバン東京板橋1」開発へ",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315926",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315926",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
@@ -260,7 +276,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "米エヌビディア AIの「推論」処理能力高める半導体を開発",
@@ -268,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077831000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "株価 値上がり 幅広い銘柄に買い注文",
@@ -276,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077781000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "【PR】APT／「マテハン資産管理の新潮流」テーマに3月31日・4月14日セミナー開催",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315896",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315896",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "【PR】CBRE／滋賀県「UIB湖南ロジスティクスセンターII」内覧会3月27日開催",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315887",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315887",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "政府「日本版CFIUS」創設へ 外為法の改正案を閣議決定",
@@ -308,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077661000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "全日空新社長 “原油価格高騰 直ちに影響ないが高止まり懸念”",
@@ -316,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260317/k10015077291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260317/k10015077291000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "三菱地所、ダイフクなど13社／高速道路直結型ステーションハブ推進協議会が始動",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315827",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315827",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "九州西濃運輸／JPロジスティクスと宮崎県延岡市の拠点を共同利用、配達エリアを分担",
@@ -332,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315821",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315821",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "石油の民間備蓄 放出開始 安定した供給を待つ国内各地では",
@@ -340,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015076451000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "「ナフサ」供給懸念 関連製品の減産や値上げの動きが広がる",
@@ -348,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015077221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015077221000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "三井不動産・日鉄興和不動産／京都府八幡市に2棟で24万m2超の物流施設開発、第一弾が着工",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315719",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315719",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "霞ヶ関キャピタル／神戸市に冷凍自動倉庫着工、約1.5万パレット保管可能",
@@ -364,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315776",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315776",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "株価 小幅に値下がり",
@@ -372,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260316/k10015076951000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "関東運輸／グループ会社のケーシーエスがホームページを開設",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=315782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=315782",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     },
     {
       "title": "Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?",
@@ -388,100 +404,84 @@
       "sourceURL": "https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
-    },
-    {
-      "title": "中国 1～2月の主要経済統計 生産堅調も消費は力強さ欠く状況",
-      "body": "中国はことし1月と先月の2か月分の主要な経済統計を発表し、企業の生産は堅調だったものの、消費の動向を示す指標の水準は低く、力強さを欠く状況となりました。不動産市場の低迷も続いていて、景気の先行きには不透明感が広がっています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260316/k10015076941000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260316/k10015076941000.html",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
-    },
-    {
-      "title": "セイノースーパーエクスプレス／古河航空営業所を移転、西濃運輸の特積みと連携",
-      "body": "<![CDATA[<p>セイノースーパーエクスプレスは3月16日、古賀航空営業所（茨城県古河市）を新物流施設「GLP境古河I」（茨城県猿島郡境町）へ移転することを発表した。営業開始は4月13日を予定している。 ＜「GLP境古河I」外観＞ 今回の [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0316702.html\">セイノースーパーエクスプレス／古河航空営業所を移転、西濃運輸の特積みと連携</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=315668",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=315668",
-      "fetchedAt": "2026-03-19T19:09:34.956Z"
+      "fetchedAt": "2026-03-20T02:46:29.794Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "ヨーロッパ中央銀行 主要政策金利を2％に据え置き 6会合連続",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015080151000.html",
-      "summary": "ヨーロッパ中央銀行は、6回連続で主要政策金利を2％に据え置くことを決定しました。一方で、エネルギー価格の上昇を背景に物価上昇率の見通しを引き上げており、市場では今後の利上げなど政策変更の可能性が指摘されています。",
+      "title": "再エネ賦課金 新年度から引き上げ 年間2万円超の見通し 経産省",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260320/k10015080301000.html",
+      "summary": "経済産業省は、新年度から再生可能エネルギー促進のための電気料金に上乗せされる再エネ賦課金を引き上げる方針を示しました。この改定により、一般的な家庭の年間負担額が初めて2万円を超える見込みとなっています。",
       "classification": {
         "tone": "N",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "ま",
-        "phrase": "迷ったら もっかい一から やり直し"
+        "leadingKana": "け",
+        "phrase": "計画より  仕上げが大事"
       },
-      "commentary": "物事が複雑になるほど、立ち止まって根っこから見直すのは大切や。外部環境が変わる中で方針を固めるのは難儀やけど、慌てず改めて状況を整理することで、信頼を積み重ねる土台ができる。焦らず自らの手で何度でも振り返る姿勢が、長い目で見て商売の強みになるんやで。"
+      "commentary": "再エネ賦課金の引き上げ、計画だけでは終われへん話や。商いは結果がすべて、実際に支払いが増える家庭の負担も見据えて、継続的に信頼を築く工夫が必要やな。持続可能な道を模索しつつ、日々の積み重ねで次の一手を考えるべきや。"
     },
     {
       "source": "NHK",
-      "title": "花王 臨時株主総会の開催検討 株主の投資ファンドからの求めで",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079921000.html",
-      "summary": "花王は、株主の投資ファンドから原材料調達に関するリスク管理体制について臨時株主総会の開催を求められています。同社は現在、事実関係の確認を進めており、要請に応じて臨時株主総会の開催を検討していると発表しました。",
+      "title": "日米両政府 対米投資の第2弾候補 共同文書を正式発表",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260320/k10015080241000.html",
+      "summary": "日米両政府は、最新の首脳会談に合わせて、アメリカへの約80兆円の投資計画の第2弾候補をまとめた共同文書を正式に発表しました。この計画には次世代原子炉や天然ガス発電施設の建設が含まれ、総投資額は最大で11兆円を超える見通しです。",
       "classification": {
-        "tone": "N",
-        "term": "S"
+        "tone": "G",
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
+        "leadingKana": "か",
+        "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "株主からの問いは、企業の見えにくいリスク管理に対する違和感の表れやねん。その声を受け止め、事実確認する姿勢は信頼の土台や。焦らずに「ん？」の芽を育て、持続的な関係づくりに繋げることが、あきんどの道やと思うで。"
+      "commentary": "今回の日米投資協力は巨大な資金が動く大事な案件やけど、一発の勝負やなしに、現場の気づきを積み重ねて改善していく姿勢が肝心や。投資の成果は関わるみんなの力で育てるもんやから、じっくり信頼を築きながら進めていくことが大切やと思うで。"
     },
     {
       "source": "LNEWS",
       "title": "NXHD／広島で西川ゴム工業の物流拠点再編を支援、施設集約で効率化",
       "sourceURL": "https://www.lnews.jp/?p=316196",
-      "summary": "NIPPON EXPRESSホールディングス（NXHD）のグループ会社である日本通運は、西川ゴム工業の物流拠点再編を支援し、広島に新たな物流施設「NX広島観音LC」を設立した。新施設は2024年1月6日から運用を開始しており、複数の物流拠点を集約することで業務の効率化を図っている。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
-      },
-      "commentary": "物流拠点の集約は効率化の一歩やけど、それは単なる数字の話やあらへん。地域や取引先との関係を大切に守りつつ、日々の積み重ねで信頼を築くことが肝心や。社会の一員として、着実に役割を果たす姿勢がこれからも求められるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "カゴメとF-LINE／野菜飲料の海上輸送でモーダルシフト大賞「海事局長表彰」受賞",
-      "sourceURL": "https://www.lnews.jp/?p=316187",
-      "summary": "カゴメはF-LINEと協力し、野菜飲料の輸送において陸上から海上へのモーダルシフトを推進してきた。この取り組みが国土交通省海事局の令和7年度「エコシップ・モーダルシフト事業」の優良事業者に選ばれ、「海事局長表彰」を受賞した。",
+      "summary": "NIPPON EXPRESSホールディングス（NXHD）のグループ会社、日本通運は、西川ゴム工業の物流拠点再編を支援し、広島に新たな物流センター「NX広島観音LC」が1月6日から稼働を開始した。今回の施設集約により、物流の効率化を図っている。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "は",
-        "phrase": "早起きは 眠たいけども 憂いなし"
+        "leadingKana": "お",
+        "phrase": "おおきにと 言われてなんぼ 言うてなんぼ"
       },
-      "commentary": "環境や物流の変化は一朝一夕にはいかへん。地道な取り組みが信頼と実績を築くんや。眠たい朝も我慢して準備を怠らんように、持続可能な輸送の道を探り続ける姿勢が、未来を支える一歩になるんやで。"
+      "commentary": "物流拠点の統合は効率化へ向けた一歩やけど、それ以上に日々の信頼関係を大事にせなあかん。相手からありがとう言われる商いは、ただ数字追うだけと違う。身近な感謝を忘れず、地道に歩むからこそ、次への道が見えてくるんや。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "カゴメとF-LINE／野菜飲料の海上輸送でモーダルシフト大賞「海事局長表彰」受賞",
+      "sourceURL": "https://www.lnews.jp/?p=316187",
+      "summary": "カゴメはF-LINEと協力し、野菜飲料の輸送において陸上から海上輸送へのモーダルシフトを推進した。この取り組みが国土交通省海事局の令和7年度「エコシップ・モーダルシフト事業 優良事業者」に選ばれ、「海事局長表彰」を受けたことを3月19日に発表した。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "た",
+        "phrase": "鷹の目と 地虫の目と 人の目"
+      },
+      "commentary": "海の道へ運び方を変えるって、全体の環境と現場の細部、そして人の想いが揃わなあかん話や。長い目で信頼築くために、それぞれの視点を持ち続け、環境にも社会にもええ商売の形を考え続けることが、これからのあきんどの道やで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
-      "summary": "英国政府は、アフリカ諸国への二国間援助を2028～29年までに約9億ポンド（56％）削減する方針を示した。この援助は学校や診療所の運営資金として用いられている。今回の削減は総額60億ポンド以上の予算カットの一環で、防衛費の増加を賄う目的がある。これにより、一部の最貧国が支援を受けられなくなる見込みだ。",
+      "summary": "英国政府は、防衛費増加に充てるため、2028～29年までにアフリカ諸国への二国間援助を約9億ポンド削減すると発表しました。これにより、学校や医療施設の支援を含む一部の最貧国向けの援助が56％減少します。総額で60億ポンド超の援助削減が計画されています。",
       "classification": {
         "tone": "B",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "る",
-        "phrase": "ルールはなぁ 心が勝手に 守るモノ"
+        "leadingKana": "み",
+        "phrase": "水はなぁ 高いとっから 低いとこ"
       },
-      "commentary": "国際支援の縮小は現場に影響を与えるけど、商売と同じで信頼は一朝一夕には築かれへん。利益の調整が必要な時も、自分の心で「守るべきもの」を考え続ける姿勢が大事や。目先の都合だけで動かず、長い目で信頼の積み重ねを意識せなあかんで。"
+      "commentary": "英国の援助削減は、支援の必要な地域と資源配分のギャップを浮き彫りにするわな。高いところ（資金源）から低いところ（受益地）へ流れるべき水が減ると、その流れの途絶えがもたらす影響に敏感でおらなあかん。信頼は日々の積み重ねやから、今の判断が未来の関係をつくるんやで。"
     }
   ]
 }
