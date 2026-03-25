@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-03-24T19:16:05.013Z",
+  "generatedAt": "2026-03-25T02:53:33.773Z",
   "run": {
-    "ranAt": "2026-03-24T19:16:05.013Z",
+    "ranAt": "2026-03-25T02:53:33.773Z",
     "runner": "github-actions",
-    "runId": "23507829066"
+    "runId": "23522600893"
   },
   "stock": [
     {
-      "title": "中部電力 専務執行役員の辞任発表 複数人へのセクハラ発言で",
-      "body": "中部電力は、片山明彦専務執行役員が、複数人に対してセクハラにあたる発言をしていたとして、24日付けで辞任したと発表しました。事案を極めて重く受け止めるとして、林欣吾社長も、役員報酬の一部を自主的に返上します。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015083321000.html",
+      "title": "きょうのおはBiz3月25日(水) デジタル化で逆風!? 文具に勝機は",
+      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260325/k10015083591000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260324/k10015083321000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "id": "www3.nhk.or.jp/news/html/20260325/k10015083591000.html",
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
-      "title": "化学メーカー団体“来月までは石油化学製品の製造続けられる”",
-      "body": "イラン情勢の緊迫化で供給が懸念される「ナフサ」を原料に、さまざまな石油化学製品をつくっている化学メーカーの業界団体は、来月までは製造を続けられるという見通しを示すとともに、代わりの調達先の確保に取り組むとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015082941000.html",
+      "title": "米 オープンAI 動画生成AI「Sora」サービス終了へ",
+      "body": "アメリカのオープンAIは、自社が開発した動画生成AI「Sora」について、サービスを終了する方針を明らかにしました。AI開発の競争が激しさを増す中、企業向け製品に事業を絞り込み、戦略を転換する動きだとみられています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260325/k10015083611000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260324/k10015082941000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "id": "www3.nhk.or.jp/news/html/20260325/k10015083611000.html",
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
-      "title": "物流最前線／プロロジス山田会長に聞く 倉庫を「物流施設」に変えた25年、次の一手は",
-      "body": "<![CDATA[<p>1999年に日本法人を設立してから四半世紀。外資系デベロッパーとして日本市場に参入し、「賃貸物流不動産」という歴史そのものを創ってきたのがプロロジスだ。いまや大型マルチテナント型物流施設はよく見る風景となったが、創業当初 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0324502.html\">物流最前線／プロロジス山田会長に聞く 倉庫を「物流施設」に変えた25年、次の一手は</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=315647",
+      "title": "日本郵船／乗組員のウェルビーイング向上目的に船上野菜栽培を開始",
+      "body": "<![CDATA[<p>日本郵船は3月25日、北海道電力向けに運航する石炭専用船「ぴりかもしり丸」で、乗組員のウェルビーイング向上を目的に、小型植物栽培ラックによる船上野菜栽培を開始したと発表した。 ＜ぴりかもしり丸＞ 長期間の大洋航海に従事し [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0325103.html\">日本郵船／乗組員のウェルビーイング向上目的に船上野菜栽培を開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=316715",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=315647",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "id": "www.lnews.jp/?p=316715",
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
-      "title": "日本GLP／東京都板橋区で「Marq」ブランド、佐川急便の専用施設を着工",
-      "body": "<![CDATA[<p>日本GLPは3月24日、東京都板橋区で新ブランドの物流施設「Marq板橋」の起工式を行った。佐川急便が一棟全体を「赤羽営業所」として利用する建て替えプロジェクトで、2027年に竣工の予定。 ＜「Marq板橋」完成イメージ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0324606.html\">日本GLP／東京都板橋区で「Marq」ブランド、佐川急便の専用施設を着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=316607",
+      "title": "川崎汽船／コンプライアンス連絡会開きグループ各社の取り組み共有",
+      "body": "<![CDATA[<p>川崎汽船は3月6日、第9回公正競争推進専門委員会（コンプライアンス連絡会）を開催した。 ＜連絡会の様子＞ 連絡会は、グループのコンプライアンス活動活性化や情報共有、ネットワーク強化を目的に開催しているもので、今回は国内グ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0325102.html\">川崎汽船／コンプライアンス連絡会開きグループ各社の取り組み共有</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=316709",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=316607",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "id": "www.lnews.jp/?p=316709",
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
+    },
+    {
+      "title": "中部電力 専務執行役員の辞任発表 複数人へのセクハラ発言で",
+      "body": "中部電力は、片山明彦専務執行役員が、複数人に対してセクハラにあたる発言をしていたとして、24日付けで辞任したと発表しました。事案を極めて重く受け止めるとして、林欣吾社長も、役員報酬の一部を自主的に返上します。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015083321000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260324/k10015083321000.html",
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
+    },
+    {
+      "title": "化学メーカー団体“来月までは石油化学製品の製造続けられる”",
+      "body": "イラン情勢の緊迫化で供給が懸念される「ナフサ」を原料に、さまざまな石油化学製品をつくっている化学メーカーの業界団体は、来月までは製造を続けられるという見通しを示すとともに、代わりの調達先の確保に取り組むとしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015082941000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260324/k10015082941000.html",
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
+    },
+    {
+      "title": "物流最前線／プロロジス山田会長に聞く 倉庫を「物流施設」に変えた25年、次の一手は",
+      "body": "<![CDATA[<p>1999年に日本法人を設立してから四半世紀。外資系デベロッパーとして日本市場に参入し、「賃貸物流不動産」という歴史そのものを創ってきたのがプロロジスだ。いまや大型マルチテナント型物流施設はよく見る風景となったが、創業当初 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0324502.html\">物流最前線／プロロジス山田会長に聞く 倉庫を「物流施設」に変えた25年、次の一手は</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=315647",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=315647",
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
+    },
+    {
+      "title": "日本GLP／東京都板橋区で「Marq」ブランド、佐川急便の専用施設を着工",
+      "body": "<![CDATA[<p>日本GLPは3月24日、東京都板橋区で新ブランドの物流施設「Marq板橋」の起工式を行った。佐川急便が一棟全体を「赤羽営業所」として利用する建て替えプロジェクトで、2027年に竣工の予定。 ＜「Marq板橋」完成イメージ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0324606.html\">日本GLP／東京都板橋区で「Marq」ブランド、佐川急便の専用施設を着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=316607",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=316607",
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "石油「国家備蓄」放出 全国11か所の備蓄基地から順次 経産相",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015082861000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260324/k10015082861000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "データ通信用SIM 契約時本人確認義務づけへ 法改正案 閣議決定",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015082801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260324/k10015082801000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "日本郵便、JR東日本／「はこビュン」による羽越本線での郵便物輸送を開始へ",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316586",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316586",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "NXHD／化学品の荷主3社で同一コンテナを利用した往復鉄道輸送に実験成果",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316571",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316571",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "トヨタ 4月も中東向け輸出の自動車を約2万4000台減産へ",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015082551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260324/k10015082551000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "2月の消費者物価指数 去年同月比1.6％上昇 2％を下回る",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015082461000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260324/k10015082461000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "JR東日本／日本初となる荷物専用新幹線の運行を開始、初日は約800箱を輸送",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316496",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316496",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "高市首相 “賃上げの勢い中小企業などに波及が重要”",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260323/k10015082211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260323/k10015082211000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "スーパー コメ平均価格 5キロ3980円 約7か月ぶり3000円台",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260323/k10015081991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260323/k10015081991000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "ロジネットジャパン九州／福岡県粕屋町に保税蔵置場対応の物流施設を4月1日着工",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316352",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316352",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "佐川急便、日本郵便／佐川の荷物を郵便局で受け取り、初回配達から可能に",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316337",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316337",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "【きょうのおはBiz 3月23日(月)】タクシー運転手 収入アップ",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260323/k10015081781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260323/k10015081781000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "株価 一時2600円超値下がり 原油供給めぐる混乱長引く懸念で",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260323/k10015081731000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260323/k10015081731000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "NTTとKCCS／倉庫のAIを再エネデータセンターに集約、物流DX・GX実現へ",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316463",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316463",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "EVolity／パルシステム東京のEVトラック24台に車両・電池管理サービス導入",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316448",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316448",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "政府 ガソリン価格 激変緩和措置 予備費から約8000億円支出へ",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260323/k10015081721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260323/k10015081721000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "女性管理職 どう増やす？ 働き方を見直した企業の取り組みは",
@@ -188,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260322/k10015081281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260322/k10015081281000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "ソフトバンクG 米オハイオ州にAI向けデータセンター建設と表明",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260321/k10015080821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260321/k10015080821000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "NXHD／広島で西川ゴム工業の物流拠点再編を支援、施設集約で効率化",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316196",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316196",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "カゴメとF-LINE／野菜飲料の海上輸送でモーダルシフト大賞「海事局長表彰」受賞",
@@ -212,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316187",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316187",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "イラン情勢緊迫化 関西の地方銀行で相談窓口設置の動き",
@@ -220,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260321/k10015080591000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260321/k10015080591000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "違法動画で広告費32億円ほど流出か 民放連の実態調査",
@@ -236,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260321/k10015080531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260321/k10015080531000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "中国 レアアース使った磁石の対日輸出 去年同期比9％余増加",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260320/k10015080481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260320/k10015080481000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "再エネ賦課金 新年度から引き上げ 年間2万円超の見通し 経産省",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260320/k10015080301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260320/k10015080301000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "日米両政府 対米投資の第2弾候補 共同文書を正式発表",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260320/k10015080241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260320/k10015080241000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "ヨーロッパ中央銀行 主要政策金利を2％に据え置き 6会合連続",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015080151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015080151000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "花王 臨時株主総会の開催検討 株主の投資ファンドからの求めで",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079921000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "火力発電の主力燃料LNG “中東依存度低くすぐ影響せず”電事連",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079911000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
@@ -300,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "日銀 金融政策維持を決定 植田総裁 午後3時半から会見",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079621000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "原油安定供給に懸念 関連製品の値上げや火力発電設備の停止も",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079761000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "日本郵便／企業向けマーケットでデジタルアドレスアプリの配信開始",
@@ -324,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316241",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316241",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "日本郵便／ビジネスデジタルアドレス提供開始、企業や個人事業主向けに発行",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316220",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316220",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "ガソリン 激変緩和措置始まる 約1～2週間で小売価格反映見込み",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079001000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "【きょうのおはBiz 3月19日(木)】日本の不動産 台湾から注目",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260319/k10015079331000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "インドネシア総研／ドライバー不足など解決へ、インドネシアの物流業界団体と会談",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316181",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316181",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     },
     {
       "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
@@ -372,116 +404,84 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
-    },
-    {
-      "title": "首都圏1都3県 2月販売の新築マンション 平均価格は1億1025万円",
-      "body": "2月、首都圏の1都3県で販売された新築マンションの平均価格は、前の年の同じ月より38.8％上昇して、1億1025万円でした。千葉県船橋市で高価格帯の物件が販売されたことなどにより、去年8月以来の1億円超えとなりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260319/k10015079181000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260319/k10015079181000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
-    },
-    {
-      "title": "ガソリン補助金 あすから1週間は1リットル当たり30円支給へ",
-      "body": "ガソリンの小売価格を抑える政府の激変緩和措置が19日から実施されるのを前に、経済産業省は、石油元売り各社に対する補助金の額を発表しました。1週間は1リットル当たり30円余りを支給し、今後、1週間から2週間ほどでガソリン価格は170円程度に値下がりする見込みだとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260318/k10015078921000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260318/k10015078921000.html",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
-    },
-    {
-      "title": "インフォア／グローバル標準のデータ統合――「見える化」の先にある迅速な意思決定とは",
-      "body": "<![CDATA[<p>グローバル化が進み、国際物流量が増加する中、国境をまたぐサプライチェーンにおいて、海上輸送中の貨物の状態を正確に把握することや、関係する企業間で情報をリアルタイムに共有することの難しさが課題となっている。 こうした現状に [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0318701.html\">インフォア／グローバル標準のデータ統合――「見える化」の先にある迅速な意思決定とは</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=314702",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=314702",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
-    },
-    {
-      "title": "福岡運輸／北海道の定温物流企業をグループ化、全6拠点で輸送力強化",
-      "body": "<![CDATA[<p>福岡運輸ホールディングスは3月17日付で、子会社の札幌定温運輸を通じて、リーヴラインの全株式を取得し、グループ化したと発表した。 福岡運輸グループの定温物流事業は、食品を中心とした定温物流サービスを全国で展開している。ま [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0318702.html\">福岡運輸／北海道の定温物流企業をグループ化、全6拠点で輸送力強化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=316010",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=316010",
-      "fetchedAt": "2026-03-24T19:15:37.412Z"
+      "fetchedAt": "2026-03-25T02:53:08.970Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "中部電力 専務執行役員の辞任発表 複数人へのセクハラ発言で",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015083321000.html",
-      "summary": "中部電力は、片山明彦専務執行役員が複数の社員に対してセクハラに該当する発言を行ったとして、24日付で辞任したと発表した。これを重く受け止め、林欣吾社長も役員報酬の一部を自主返上する意向を示している。",
+      "title": "きょうのおはBiz3月25日(水) デジタル化で逆風!? 文具に勝機は",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260325/k10015083591000.html",
+      "summary": "NHKの朝の経済ニュース「おはBiz」では、3月25日にデジタル化の進展が文具業界に与える影響について取り上げました。番組は最新のビジネストレンドや働き方の変化、役立つサービスやスタートアップの情報を簡潔に紹介しています。",
       "classification": {
-        "tone": "B",
+        "tone": "N",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
+        "leadingKana": "ま",
+        "phrase": "迷ったら もっかい一から やり直し"
       },
-      "commentary": "地位や肩書きにしがみつくんやなく、何のためにその立場におるのか、ほんまの目的を忘れたらあかんで。表面の栄光に惑わされず、信頼を積み上げる日々の行動こそが、長続きするあきんどの道や。今回の件は、その大切さを改めて考えさせるもんやな。"
+      "commentary": "デジタル化の波で文具業界は逆風やけど、そこで焦って一気に変えんのは危ない。もう一度基本に立ち返って、商品や顧客の本質的なニーズを丁寧に見直すことが信頼の積み重ねになる。慌てず地道に、やり直しの勇気を持つのが次の勝機をつかむ道やで。"
     },
     {
       "source": "NHK",
-      "title": "化学メーカー団体“来月までは石油化学製品の製造続けられる”",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260324/k10015082941000.html",
-      "summary": "化学メーカーの業界団体は、イラン情勢の緊迫化で供給が不安視される原料「ナフサ」を用いた石油化学製品について、来月までは製造を維持できるとの見通しを示しました。同時に、原料の代替調達先の確保に向けた取り組みも進めていると報告しています。",
+      "title": "米 オープンAI 動画生成AI「Sora」サービス終了へ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260325/k10015083611000.html",
+      "summary": "アメリカのOpenAIは、動画生成AI「Sora」の提供を終了する計画を発表しました。競争が激化するAI分野において、同社は企業向け製品に注力する方針に切り替えるとみられています。これにより、「Sora」のサービスは近く停止される見通しです。",
       "classification": {
         "tone": "N",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
+        "leadingKana": "よ",
+        "phrase": "世の中は 広いんやから 驚くな"
       },
-      "commentary": "イラン情勢で原料の供給に不安が出とるけど、「まだ大丈夫や」と言われても、何かしらの違和感は持っとくべきや。商売は予測不能な変化と常に向き合うもんやから、その「ん？」を無視せんと、備えや情報収集に地道に取り組む姿勢が信頼を築くんやで。"
+      "commentary": "AI技術の進展は速いけど、サービスの始まりと終わりはあたりまえのことや。商売は一歩引いて全体を見て、焦らず地道に信頼を積むもんやから、驚くより次にどう活かすか考えるのが肝心やで。"
     },
     {
       "source": "LNEWS",
-      "title": "物流最前線／プロロジス山田会長に聞く 倉庫を「物流施設」に変えた25年、次の一手は",
-      "sourceURL": "https://www.lnews.jp/?p=315647",
-      "summary": "プロロジスは1999年に日本法人を設立し、外資系デベロッパーとして日本の物流不動産市場に参入して以来、25年間で倉庫の概念を「物流施設」へと変革してきた。大型マルチテナント型物流施設の普及に寄与し、日本の物流インフラの発展に影響を与えている。現在は今後の展開について検討を進めている。",
+      "title": "日本郵船／乗組員のウェルビーイング向上目的に船上野菜栽培を開始",
+      "sourceURL": "https://www.lnews.jp/?p=316715",
+      "summary": "日本郵船は、北海道電力向けに運航する石炭専用船「ぴりかもしり丸」で、乗組員のウェルビーイング向上を目的に船上での野菜栽培を始めた。小型の植物栽培ラックを使用し、長期間の航海中に新鮮な野菜を提供することで、乗組員の生活環境の改善を図る取り組みである。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "な",
+        "phrase": "何するか 分からん時は 基礎鍛錬"
       },
-      "commentary": "物流施設の形が変わっても、根っこの役割は社会の信頼を支えることや。目先の利益にとらわれず、25年かけて築いた基盤を大事に次の一手を考える姿勢、これこそ商売の筋道や。焦らず、日々の積み重ねを信じて進むことやね。"
+      "commentary": "長い航海で気持ちが沈みがちな乗組員に、野菜を育てる基本の営みを取り入れたんやな。焦って結果を求めるんやなく、日々の小さな積み重ねが心身の調子を整え、確かな信頼につながる。こうした地道な取り組みこそ、持続可能な仕事の礎やと思うわ。"
     },
     {
       "source": "LNEWS",
-      "title": "日本GLP／東京都板橋区で「Marq」ブランド、佐川急便の専用施設を着工",
-      "sourceURL": "https://www.lnews.jp/?p=316607",
-      "summary": "日本GLPは東京都板橋区で新物流施設「Marq板橋」の起工式を3月24日に実施しました。この施設は佐川急便の「赤羽営業所」として全棟を利用する再建プロジェクトで、完成は2027年を予定しています。施設は新ブランド「Marq」の一環として建設されます。",
+      "title": "川崎汽船／コンプライアンス連絡会開きグループ各社の取り組み共有",
+      "sourceURL": "https://www.lnews.jp/?p=316709",
+      "summary": "川崎汽船は3月6日に第9回公正競争推進専門委員会（コンプライアンス連絡会）を開催し、グループ各社のコンプライアンス活動の状況や取り組みを共有した。連絡会はグループ内の情報交換やネットワーク強化を目的としており、今回も国内関連会社が参加して活動の活性化を図った。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
+        "leadingKana": "の",
+        "phrase": "ノコの歯は 引いて切って 押して切る"
       },
-      "commentary": "新しい物流施設の着工は、地域の生活や産業の基盤を支える一歩や。派手な成功よりも、日々積み重ねる信頼と役割の自覚が肝心やで。物流の現場も社会の大事な歯車、変わらず支え続ける覚悟が問われるんや。"
+      "commentary": "コンプライアンスの取り組みも一度きりでなく、情報共有と連携を繰り返すことで深まるもんや。動いて終わりやなく、引き出して押し込むように、継続的に関係を紡ぎながら信頼を築く姿勢が肝要やな。"
     },
     {
       "source": "Guardian｜World",
       "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
       "sourceURL": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
-      "summary": "コンゴ民主共和国のヴィルンガ国立公園で、山岳ゴリラの双子が2か月の間に2度誕生したことが確認された。今回の双子は、19頭からなるバラカ一家の中で生まれたオスとメスの兄妹で、保護活動関係者は希少な出来事として注目している。山岳ゴリラは絶滅危惧種であり、この新たな双子の誕生は種の保存にとって重要とされている。",
+      "summary": "コンゴ民主共和国のヴィルンガ国立公園で、希少な山岳ゴリラの双子が2組目として誕生した。前回の双子誕生から約2か月後で、今回の双子はオスとメスの兄妹。保護活動者はこの出来事を絶滅危惧種である山岳ゴリラにとって非常に珍しいと捉えている。双子はバラカファミリーの一員で、同群は19頭のゴリラから成る。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
+        "leadingKana": "お",
+        "phrase": "おおきにと 言われてなんぼ 言うてなんぼ"
       },
-      "commentary": "山奥で珍しい双子のゴリラが誕生したんや。これも自然の営みの中での小さな奇跡やけど、日々の地道な保護活動があってこそや。商売も同じで、派手な成功だけやなく、続けることが信頼を築く。焦らず、着実に歩む姿勢が大事やで。"
+      "commentary": "山ゴリラの双子誕生は珍しいことやけど、これも自然と共に続く命の積み重ねや。商いも同じで、一度きりの成功より、日々の信頼と感謝が大事や。おおきに言われる商いを目指して、焦らず続ける姿勢が肝心やで。"
     }
   ]
 }
