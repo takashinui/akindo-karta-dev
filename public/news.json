@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-03-30T13:53:10.158Z",
+  "generatedAt": "2026-03-30T19:12:28.959Z",
   "run": {
-    "ranAt": "2026-03-30T13:53:10.158Z",
+    "ranAt": "2026-03-30T19:12:28.959Z",
     "runner": "github-actions",
-    "runId": "23748330850"
+    "runId": "23762822546"
   },
   "stock": [
+    {
+      "title": "ニデック 株主から創業者らへの損害賠償提訴の請求受ける",
+      "body": "不正な会計処理が明らかになった電子部品大手の旧「日本電産」、「ニデック」は、個人株主から、創業者の永守重信氏や岸田光哉社長などに対して、損害賠償などを求める訴えを起こすよう、請求を受けたことを明らかにしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015087891000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260331/k10015087891000.html",
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
+    },
     {
       "title": "医療用物資や部品の安定供給求める声 制服づくりに影響懸念も",
       "body": "イラン情勢の緊迫化に伴って医療物資や石油製品「ナフサ」の供給が懸念されていて、ものづくりの現場などで影響が出始めています。入学シーズンを前に制服づくりが最盛期を迎えている宮崎県都城市の制服メーカーでは、生地の裁断に欠かせないポリエチレン製のシートの入荷に影響が出始めていて、広がりを懸念しています。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087671000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
-    },
-    {
-      "title": "円相場 一時1ドル＝160円台まで円安進むも小幅に値上がり",
-      "body": "週明けの東京外国為替市場、朝方に一時、1ドル＝160円台まで円安が進みましたが、財務省の三村財務官が「そろそろ断固たる措置も必要になる」と、市場をけん制したことなどを受けて、円を買い戻す動きが出て159円台後半まで小幅に値上がりしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087791000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260330/k10015087791000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "金子国交大臣／荷主等に燃料サーチャージ導入要請、トラック運賃に適切な転嫁を",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317318",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317318",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "NXHD／グループのNXSAOが「環インド洋戦略室」設立、本格稼働",
@@ -36,7 +36,23 @@
       "sourceURL": "https://www.lnews.jp/?p=317249",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317249",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
+    },
+    {
+      "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
+      "body": "&lt;p&gt;Reports, based on X post from unofficial account, follow JD Vance’s accusations and threats of finding ‘legal remedies’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;amp;utm_campaign=BN22326&amp;amp;utm_content=signup&amp;amp;utm_term=standfirst&amp;amp;utm_source=GUARDIAN_WEB\"&gt;Sign up for the Breaking News US email to get newsletter alerts in your inbox&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Several news outlets have falsely reported that Somaliland’s government called for the extradition of &lt;a href=\"https://www.theguardian.com/us-news/ilhan-omar\"&gt;Ilhan Omar&lt;/a&gt;, basing their stories on a post from an X account that does not represent the state despite its claims to the contrary.&lt;/p&gt;&lt;p&gt;Fox News, the New York Post, Sinclair Broadcast Group’s the National News Desk and the Independent ran stories on the US representative. The reports centred on a post by @RepOfSomaliland in reaction to claims by &lt;a href=\"https://www.theguardian.com/us-news/jd-vance\"&gt;JD Vance&lt;/a&gt; that Omar had committed immigration fraud, which echoed prior allegations against the Somali-born Minnesota Democrat that she has vehemently denied.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
+    },
+    {
+      "title": "円相場 一時1ドル＝160円台まで円安進むも小幅に値上がり",
+      "body": "週明けの東京外国為替市場、朝方に一時、1ドル＝160円台まで円安が進みましたが、財務省の三村財務官が「そろそろ断固たる措置も必要になる」と、市場をけん制したことなどを受けて、円を買い戻す動きが出て159円台後半まで小幅に値上がりしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087791000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260330/k10015087791000.html",
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
@@ -44,7 +60,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "株価 大幅な値下がり イラン情勢長期化で世界経済への打撃懸念",
@@ -52,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087351000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "【きょうのおはBiz 3月30日(月)】独自の面接で“人材”を獲得",
@@ -60,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087421000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "商船三井／無人運航船プロジェクト第2ステージで4隻の実証船が船舶検査に合格",
@@ -68,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317363",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317363",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "上組／4月1日から通関料を改定、20％引き上げ",
@@ -76,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317360",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317360",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
@@ -84,7 +100,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "NY原油市場 WTI先物価格 一時1バレル＝103ドル台まで値上がり",
@@ -92,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087281000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "南海電鉄／大阪府茨木市で18万m2のマルチテナント型物流施設を4月から供用開始",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317030",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317030",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "第一貨物／4月1日付で新社長に越智専務が昇任、米田社長は会長に",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317201",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317201",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
@@ -116,7 +132,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "中東産原油 愛媛の製油所に到着 ホルムズ海峡通らないルートで",
@@ -124,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260329/k10015087051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260329/k10015087051000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "中東産原油 愛媛県沖に到着 イラン軍事作戦開始後初めて日本へ",
@@ -132,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086681000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "リニア中央新幹線 国交相 “開業スケジュールの早期提示を”",
@@ -140,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086641000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "UN’s landmark slavery ruling energises African Union’s fight for reparations",
@@ -148,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "NYダウ 790ドル余 値下がり イラン情勢の長期化懸念で",
@@ -156,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086431000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "イラン情勢【日本への影響】政府 原油調達先の多角化急ぐ",
@@ -164,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086291000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "NY市場 1ドル＝160円台に 2024年7月以来 イラン情勢背景",
@@ -172,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086331000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "KDDI 不正取引確認の子会社 2社のネット広告代理事業を廃止へ",
@@ -180,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015086161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015086161000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "ビーエスフジとBSテレビ東京 BS4K放送終了へ",
@@ -188,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015086061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015086061000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "半導体素材大手「SUMCO」 佐賀の新工場建設 当面延期へ",
@@ -196,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085631000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "しずおかFGと名古屋銀行 経営統合に向け協議で基本合意と発表",
@@ -204,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085441000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "リニア 静岡県の専門部会 JR東海の対策すべて了承  年内着工も",
@@ -212,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085481000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "【PR】CBRE／神奈川県「厚木23号建物」内覧会を4月14・15日開催",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317126",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317126",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "JR7社／鉄道電気設備の部品を共通化、サプライチェーン強靭化へ",
@@ -228,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317156",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317156",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "Nigeria takes its place on world stage in quest to become regional superpower",
@@ -236,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "政府 新年度の暫定予算案を閣議決定 総額約8兆5600億円",
@@ -244,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085351000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "株価 一時1000円超下落 米とイランの事態収束に時間との懸念で",
@@ -252,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085331000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "エアロネクスト／新技術搭載のドローン試作機を公開、長距離飛行性能を強化",
@@ -260,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317024",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317024",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "セイノーHD／OpenFactoryと連携して在庫を持たないECを実現するサービス",
@@ -268,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317018",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317018",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "OECD 世界経済の成長率の予測を据え置き エネルギー価格上昇で",
@@ -276,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085141000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "政府 石炭火力発電所の稼働率高める緊急措置へ 電力安定供給に",
@@ -284,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260326/k10015085051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260326/k10015085051000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "サンケイビル／埼玉県日高市に1.4万m2のマルチテナント型物流施設竣工",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316910",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316910",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "INSOL-HIGH、山善など／ヒューマノイド実装目指しデータ収集施設稼働へ、コンソーシアム設立",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316952",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316952",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "沖電気と日立 ATM事業の統合発表",
@@ -308,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260326/k10015085081000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260326/k10015085081000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "日銀が新たな物価の指標を公表へ 物価の基調となる動き把握に",
@@ -316,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260326/k10015085031000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260326/k10015085031000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "北海道新幹線 開業10年 計画の遅れや利用客の伸び悩みなど課題",
@@ -332,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260326/k10015084701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260326/k10015084701000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "石油の「国家備蓄」の放出始まる 安定供給につなげたい考え",
@@ -340,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260326/k10015084541000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260326/k10015084541000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "商船三井／モザンビークの豪雨被害で義援金1万米ドルを拠出",
@@ -348,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316823",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316823",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "東京応化工業／福島県郡山市に9万m2の工場用地を取得",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316826",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316826",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
@@ -364,7 +380,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "【きょうのおはBiz 3月26日(木) 】中国の若者 雇用はいま",
@@ -372,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260326/k10015084521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260326/k10015084521000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "矢野経済研究所／2024年度の低温物流市場規模は3.9％増、需要増は続く見込み",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=316859",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316859",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     },
     {
       "title": "近鉄エクスプレス／中国現法が上海で3.4万m2新倉庫の運用を開始",
@@ -388,91 +404,75 @@
       "sourceURL": "https://www.lnews.jp/?p=316853",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316853",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
-    },
-    {
-      "title": "UN votes to describe slave trade as ‘gravest crime against humanity’",
-      "body": "&lt;p&gt;Members call for reparatory justice as landmark resolution aims for ‘political recognition at the highest level’&lt;/p&gt;&lt;p&gt;The United Nations has voted to describe the transatlantic chattel slave trade as the “gravest crime against humanity” and called for reparations as “a concrete step towards remedying historical wrongs”.&lt;/p&gt;&lt;p&gt;The landmark resolution passed on Wednesday was backed by the African Union (AU) and the Caribbean Community (Caricom). It had been proposed by Ghana’s president, &lt;a href=\"https://www.theguardian.com/profile/john-dramani-mahama\"&gt;John Dramani Mahama&lt;/a&gt;, who said: “Let it be recorded that when history beckoned, we did what was right for the memory of millions who suffered the indignity of slavery.”&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
-    },
-    {
-      "title": "ホンダとソニー EVの開発・販売を中止 ホンダの戦略見直しで",
-      "body": "ホンダとソニーグループは両社が共同で手がけてきたEV＝電気自動車の事業方針を見直し、開発・販売計画を中止すると発表しました。ホンダはEV事業で巨額損失が発生する見通しになり、戦略の見直しを進めていて、これにともない、技術や工場などの活用が困難になったとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260325/k10015084021000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260325/k10015084021000.html",
-      "fetchedAt": "2026-03-30T13:52:39.032Z"
+      "fetchedAt": "2026-03-30T19:11:42.372Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "医療用物資や部品の安定供給求める声 制服づくりに影響懸念も",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087671000.html",
-      "summary": "イラン情勢の緊迫化により、医療用物資や石油製品の供給に不安が生じています。これを受け、ものづくりの現場で影響が出始めており、宮崎県都城市の制服メーカーでは、ポリエチレン製シートの入荷が遅れ、制服製造に支障が出る可能性が指摘されています。",
+      "title": "ニデック 株主から創業者らへの損害賠償提訴の請求受ける",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015087891000.html",
+      "summary": "電子部品大手のニデックは、不適切な会計処理が判明したことを受け、個人株主から創業者の永守重信氏や現社長の岸田光哉氏に対し損害賠償請求訴訟の提起を求められたと発表しました。会社の対応が注目されています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "き",
-        "phrase": "気が乗らぬ時は ちょっと待つ"
+        "leadingKana": "す",
+        "phrase": "すいません  言うな"
       },
-      "commentary": "海外情勢の変化がものづくりに波及する時は、焦って動くより一呼吸おくのが肝心や。急ぐあまり見落としがちなリスクや代替策をしっかり見極めることで、信頼の積み重ねが崩れへん。日々の営みの中で、先を見据えて立ち止まる勇気が大事やで。"
+      "commentary": "企業の課題が明るみに出た時、謝罪を繰り返すだけで済ませるのは浅い話や。信頼は日々の誠実な行動で築くもんやから、事実を受け止めて次にどう動くかを問い続ける姿勢が肝心や。焦らず、でも逃げずに、真摯な対応が信頼回復の第一歩やで。"
     },
     {
       "source": "NHK",
-      "title": "円相場 一時1ドル＝160円台まで円安進むも小幅に値上がり",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087791000.html",
-      "summary": "週明けの東京外国為替市場で、ドルに対して円は一時160円台まで下落しました。その後、財務省の三村財務官が市場への警戒を示したことを受け、円の買い戻しが進み、159円台後半まで値を戻しました。",
+      "title": "医療用物資や部品の安定供給求める声 制服づくりに影響懸念も",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087671000.html",
+      "summary": "イラン情勢の緊迫化により、医療用物資や石油製品の供給に不安が生じています。これに伴い、宮崎県都城市の制服メーカーでは、制服製作に必要なポリエチレン製シートの入荷が滞り始め、製造現場での影響拡大が懸念されています。",
       "classification": {
-        "tone": "N",
-        "term": "S"
+        "tone": "B",
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
+        "leadingKana": "や",
+        "phrase": "やるんかい やらんのやったら どいとれや"
       },
-      "commentary": "為替の急変は、一瞬の市場心理の動きと政策発言が交錯する場面や。違和感を感じたら見過ごさず、何が背景か見極めることが信頼の土台やで。短期の値動きに振り回されず、日々の観察と学びを積み重ねる姿勢が、長い商いの糧になるんや。"
+      "commentary": "情勢変化で部品や資材の供給が揺らぐ中、ものづくりは慎重な判断が求められるわな。ただ待つだけやなく、自分の役割を見極めて動く姿勢が信頼を築く。焦らずでも、必要な時にはしっかり動いて状況を乗り切る覚悟が大事やで。"
     },
     {
       "source": "LNEWS",
       "title": "金子国交大臣／荷主等に燃料サーチャージ導入要請、トラック運賃に適切な転嫁を",
       "sourceURL": "https://www.lnews.jp/?p=317318",
-      "summary": "金子恭之国土交通大臣は3月27日、中小企業庁長官や公正取引委員長とともに、燃料価格の高騰に伴うトラック運送業の運賃への適切な価格転嫁を促す要請文書を関係団体に送付した。これには燃料サーチャージの導入を含め、荷主側に対して運賃の見直しを求める内容が含まれている。",
+      "summary": "金子恭之国土交通大臣は3月27日、中小企業庁長官と公正取引委員会委員長と連名で、燃料価格の高騰に対応したトラック運送業の価格転嫁の徹底を求める要請文を関係団体に送付した。この要請は、燃料サーチャージの導入を荷主側に促し、運賃に適切に反映させることを目的としている。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "の",
-        "phrase": "ノコの歯は 引いて切って 押して切る"
+        "leadingKana": "た",
+        "phrase": "鷹の目と 地虫の目と 人の目"
       },
-      "commentary": "燃料費の上昇に運賃転嫁を促す動き、荷主も運送も一方的な負担では続かへん。運ぶだけやなく、互いの立場を行き来しながら利益の道を探る、いわば往復の商いが信頼の基盤や。焦らず両輪の調整こそ、持続する物流のカタチやで。"
+      "commentary": "燃料費高騰の影響を全体視点で捉えつつ、現場の負担や実態にも目を配ることが大切や。数字だけでなく、人の立場や信頼関係を見失わず、持続可能な価格転嫁の道を模索せなあかん。焦らず着実に、次世代へ繋ぐ商いの姿勢を肝に銘じたいもんや。"
     },
     {
       "source": "LNEWS",
       "title": "NXHD／グループのNXSAOが「環インド洋戦略室」設立、本格稼働",
       "sourceURL": "https://www.lnews.jp/?p=317249",
-      "summary": "NIPPON EXPRESSホールディングスのグループ会社、NX南アジア・オセアニア（NXSAO）は、インド、東中東、アフリカを含む環インド洋地域での事業拡大を目指し、「環インド洋戦略室」を設立し、3月30日から本格的に活動を開始した。",
+      "summary": "NIPPON EXPRESSホールディングスのグループ会社NX南アジア・オセアニア（NXSAO）は、インド、中東、アフリカを含む環インド洋地域での事業拡大を目指し、「環インド洋戦略室」を設立し、本格的に稼働を開始しました。これにより同地域でのプレゼンス強化と成長促進を図る方針です。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
       },
-      "commentary": "NXSAOが環インド洋戦略室を立ち上げたんやな。遠くの市場へ踏み込むには、情報や方針を隠さず共有して信頼を積み上げることが肝心や。秘密にしても守り続けるのは難しいし、その分だけ誠実な関係づくりが先に進まへん。継続的な行動こそが次の信頼を生むんやで。"
+      "commentary": "新たな地域に手を伸ばすんは、ただの拡大や利益追求だけやあらへん。社会の繋がりを見据え、地道に信頼を積み重ねる姿勢が大事や。焦らず、環インド洋の可能性と役割をじっくり探りながら、世のために尽くす商いを続けていくことやと思うで。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
-      "sourceURL": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
-      "summary": "中東のアラビア半島で異例の強力なジェット気流が影響し、アラブ首長国連邦やサウジアラビアを中心に激しい雷雨が発生しました。通常乾燥した地域に数日で最大150mmの降雨が観測されました。この気象現象は、サウジアラビア北部で発達した低気圧がインド洋からの湿った空気を引き込み、暴風雨をもたらしたとされています。なお、北アフリカも強風に備えています。",
+      "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
+      "sourceURL": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
+      "summary": "複数の報道機関が、ソマリランド政府がイラン・オマル議員の身柄引き渡しを求めたと伝えたが、これは非公式のXアカウントの投稿に基づく誤報であった。問題のアカウントは政府公式を装っていたが、実際には代表性がなく、オマル議員をめぐる不正移民疑惑に関するJDバンス氏の主張に反応したものだった。オマル議員はこれらの疑惑を否定している。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -481,7 +481,7 @@
         "leadingKana": "て",
         "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "異例の豪雨が砂漠地帯に降り注いだんは、自然の複雑さと変化を教えてくれますわ。商売も同じで、表面だけ見て適当に流すんやなく、真意をきちんと確かめる姿勢が大事や。あわてず状況を掴みつつ、次の一手を考えることが信頼の積み重ねになるんやで。"
+      "commentary": "物事の真偽を確かめずに流す報道は、信頼の積み重ねを揺るがしますわな。商売でも「なんやそれ？」と疑問を持ち、きちんと確認する姿勢が肝心や。軽々しくうなずくんやなくて、正確な情報を得る努力こそが、長い付き合いの土台になるんやで。"
     }
   ]
 }
