@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-03-31T19:13:52.796Z",
+  "generatedAt": "2026-04-01T03:33:40.274Z",
   "run": {
-    "ranAt": "2026-03-31T19:13:52.796Z",
+    "ranAt": "2026-04-01T03:33:40.274Z",
     "runner": "github-actions",
-    "runId": "23814959804"
+    "runId": "23830614550"
   },
   "stock": [
     {
-      "title": "台湾当局 TSMC 3ナノ先端半導体 熊本で生産する計画を許可",
-      "body": "台湾の経済当局は、半導体の受託生産で世界最大手の台湾のTSMCが熊本県にある工場で回路の幅が3ナノメートルの先端半導体を生産する計画を許可したと発表しました。2028年から量産を開始する予定だとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089351000.html",
+      "title": "株価 一時2200円超値上がり イラン情勢長期化への懸念和らぐ",
+      "body": "4月1日の東京株式市場は、悪化しているイラン情勢をめぐり事態が長期化することへの懸念が和らいで、全面高の展開となり、日経平均株価は2000円を超える値上がりとなっています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089481000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260401/k10015089351000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "id": "www3.nhk.or.jp/news/html/20260401/k10015089481000.html",
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
     },
     {
-      "title": "「ナフサ」中東以外からの調達量 4月は通常の2倍に増加見通し",
-      "body": "イラン情勢の影響で安定供給が懸念されている石油製品「ナフサ」について、経済産業省は、民間企業と連携して調達先の拡大を進め、4月、中東以外からの調達量が通常の2倍の90万キロリットルに増える見通しを明らかにしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088961000.html",
+      "title": "日銀短観 大企業製造業景気判断4期連続改善も先行き見通し悪化",
+      "body": "日銀が4月1日に発表した短観＝企業短期経済観測調査で、大企業の製造業の景気判断を示す指数は4期連続の改善となりました。一方、先行きの見通しは悪化していて、イラン情勢の悪化で原油価格が上昇する中、慎重な見方が表れた形です。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089451000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260331/k10015088961000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "id": "www3.nhk.or.jp/news/html/20260401/k10015089451000.html",
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
     },
     {
-      "title": "大和ハウス工業／東京都町田市で3万m2のマルチテナント型物流施設着工",
-      "body": "<![CDATA[<p>大和ハウス工業は2月2日、東京都町田市で、マルチテナント型物流施設「DPL町田II」を着工した。 ＜「DPL町田II」外観イメージ＞ 施設は、開発計画段階でテナント企業が総合通信販売企業のdinosに決定しており、同社の [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0331705.html\">大和ハウス工業／東京都町田市で3万m2のマルチテナント型物流施設着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=317567",
+      "title": "物流連／国際委業務委員会を開催、令和8年度活動計画を承認",
+      "body": "<![CDATA[<p>日本物流団体連合会（物流連）は3月24日、東京都千代田区の全日通霞が関ビル会議室で、2026年度第2回国際業務委員会を開催した。 ＜委員会の様子＞ 同委員会は、物流事業の海外進出に関する課題を官民連携で検討する会合で、会 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0401702.html\">物流連／国際委業務委員会を開催、令和8年度活動計画を承認</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=317687",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=317567",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "id": "www.lnews.jp/?p=317687",
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
     },
     {
-      "title": "TC神鋼不動産／三重県鈴鹿市で1.1万m2のBOX型物流施設を竣工",
-      "body": "<![CDATA[<p>TC神鋼不動産は3月31日、三重県鈴鹿市に延床面積約1万900m2のマルチテナント型物流施設「AS－LOGI鈴鹿」を竣工したと発表した。 ＜「AS－LOGI鈴鹿」外観＞ 「AS－LOGI鈴鹿」は同社の物流施設としては第6 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0331702.html\">TC神鋼不動産／三重県鈴鹿市で1.1万m2のBOX型物流施設を竣工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=317435",
+      "title": "カンダコーポレーション／経営効率向上など目的に子会社2社を吸収合併",
+      "body": "<![CDATA[<p>カンダホールディングスの連結子会社カンダコーポレーションは4月1日、子会社（カンダHDの孫会社）のロジメディカルと名岐物流サービスを吸収合併した。 ■関連記事 カンダHD／カンダコーポレーションが子会社2社を吸収合併 2 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0401102.html\">カンダコーポレーション／経営効率向上など目的に子会社2社を吸収合併</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=317678",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=317435",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "id": "www.lnews.jp/?p=317678",
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
     },
     {
       "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
+    },
+    {
+      "title": "台湾当局 TSMC 3ナノ先端半導体 熊本で生産する計画を許可",
+      "body": "台湾の経済当局は、半導体の受託生産で世界最大手の台湾のTSMCが熊本県にある工場で回路の幅が3ナノメートルの先端半導体を生産する計画を許可したと発表しました。2028年から量産を開始する予定だとしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089351000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260401/k10015089351000.html",
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
+    },
+    {
+      "title": "「ナフサ」中東以外からの調達量 4月は通常の2倍に増加見通し",
+      "body": "イラン情勢の影響で安定供給が懸念されている石油製品「ナフサ」について、経済産業省は、民間企業と連携して調達先の拡大を進め、4月、中東以外からの調達量が通常の2倍の90万キロリットルに増える見通しを明らかにしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088961000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260331/k10015088961000.html",
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
+    },
+    {
+      "title": "大和ハウス工業／東京都町田市で3万m2のマルチテナント型物流施設着工",
+      "body": "<![CDATA[<p>大和ハウス工業は2月2日、東京都町田市で、マルチテナント型物流施設「DPL町田II」を着工した。 ＜「DPL町田II」外観イメージ＞ 施設は、開発計画段階でテナント企業が総合通信販売企業のdinosに決定しており、同社の [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0331705.html\">大和ハウス工業／東京都町田市で3万m2のマルチテナント型物流施設着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=317567",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=317567",
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
+    },
+    {
+      "title": "TC神鋼不動産／三重県鈴鹿市で1.1万m2のBOX型物流施設を竣工",
+      "body": "<![CDATA[<p>TC神鋼不動産は3月31日、三重県鈴鹿市に延床面積約1万900m2のマルチテナント型物流施設「AS－LOGI鈴鹿」を竣工したと発表した。 ＜「AS－LOGI鈴鹿」外観＞ 「AS－LOGI鈴鹿」は同社の物流施設としては第6 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0331702.html\">TC神鋼不動産／三重県鈴鹿市で1.1万m2のBOX型物流施設を竣工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=317435",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=317435",
+      "fetchedAt": "2026-04-01T03:33:16.607Z"
     },
     {
       "title": "「年収の壁」見直し 税制改正関連法など可決・成立",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260331/k10015088951000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "4月の野菜価格見通し じゃがいも高値 キャベツ平年下回る",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088711000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260331/k10015088711000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "株価 大幅値下がりで始まるも一時上昇に転じるなど荒い値動き",
@@ -68,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260331/k10015088291000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "日本GLP／親会社の運用するファンドが国内物流施設3物件を取得",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317579",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317579",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "NTTロジスコ／沖縄県に物流拠点開設を検討、沖縄ヤマト運輸が協力",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317582",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317582",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "高市首相 石油製品の安定供給確保に向け指示 中東情勢受け",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260331/k10015088391000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "4月値上げの食品は2798品目に 去年10月以来の2000品目超",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088321000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260331/k10015088321000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "三井倉庫HD／脱炭素加速へSBT認定取得に向けコミットメント",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317426",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317426",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "日本通運／モバイルPC・タブレット端末の大量輸送に対応する新サービス",
@@ -116,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317420",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317420",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "ニデック 株主から創業者らへの損害賠償提訴の請求受ける",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015087891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260331/k10015087891000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "医療用物資や部品の安定供給求める声 制服づくりに影響懸念も",
@@ -132,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087671000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "金子国交大臣／荷主等に燃料サーチャージ導入要請、トラック運賃に適切な転嫁を",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317318",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317318",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "NXHD／グループのNXSAOが「環インド洋戦略室」設立、本格稼働",
@@ -148,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317249",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317249",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "円相場 一時1ドル＝160円台まで円安進むも小幅に値上がり",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087791000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "株価 大幅な値下がり イラン情勢長期化で世界経済への打撃懸念",
@@ -172,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087351000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "【きょうのおはBiz 3月30日(月)】独自の面接で“人材”を獲得",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087421000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "商船三井／無人運航船プロジェクト第2ステージで4隻の実証船が船舶検査に合格",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317363",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317363",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "上組／4月1日から通関料を改定、20％引き上げ",
@@ -196,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317360",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317360",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "NY原油市場 WTI先物価格 一時1バレル＝103ドル台まで値上がり",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260330/k10015087281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260330/k10015087281000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "南海電鉄／大阪府茨木市で18万m2のマルチテナント型物流施設を4月から供用開始",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317030",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317030",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "第一貨物／4月1日付で新社長に越智専務が昇任、米田社長は会長に",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317201",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317201",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "中東産原油 愛媛の製油所に到着 ホルムズ海峡通らないルートで",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260329/k10015087051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260329/k10015087051000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "中東産原油 愛媛県沖に到着 イラン軍事作戦開始後初めて日本へ",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086681000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "リニア中央新幹線 国交相 “開業スケジュールの早期提示を”",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086641000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "UN’s landmark slavery ruling energises African Union’s fight for reparations",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "NYダウ 790ドル余 値下がり イラン情勢の長期化懸念で",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086431000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "イラン情勢【日本への影響】政府 原油調達先の多角化急ぐ",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086291000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "NY市場 1ドル＝160円台に 2024年7月以来 イラン情勢背景",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260328/k10015086331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260328/k10015086331000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "KDDI 不正取引確認の子会社 2社のネット広告代理事業を廃止へ",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015086161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015086161000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "ビーエスフジとBSテレビ東京 BS4K放送終了へ",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015086061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015086061000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "半導体素材大手「SUMCO」 佐賀の新工場建設 当面延期へ",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085631000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "しずおかFGと名古屋銀行 経営統合に向け協議で基本合意と発表",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085441000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "リニア 静岡県の専門部会 JR東海の対策すべて了承  年内着工も",
@@ -332,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085481000.html",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "【PR】CBRE／神奈川県「厚木23号建物」内覧会を4月14・15日開催",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317126",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317126",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "JR7社／鉄道電気設備の部品を共通化、サプライチェーン強靭化へ",
@@ -348,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317156",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317156",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "Nigeria takes its place on world stage in quest to become regional superpower",
@@ -356,7 +388,7 @@
       "sourceURL": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
-      "fetchedAt": "2026-03-31T19:13:24.402Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "政府 新年度の暫定予算案を閣議決定 総額約8兆5600億円",
@@ -364,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085351000.html",
-      "fetchedAt": "2026-03-31T19:13:24.403Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     },
     {
       "title": "株価 一時1000円超下落 米とイランの事態収束に時間との懸念で",
@@ -372,116 +404,84 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260327/k10015085331000.html",
-      "fetchedAt": "2026-03-31T19:13:24.403Z"
-    },
-    {
-      "title": "エアロネクスト／新技術搭載のドローン試作機を公開、長距離飛行性能を強化",
-      "body": "<![CDATA[<p>エアロネクストは3月27日、新技術を搭載した新型物流ドローンの試作機を発表した。 ＜新型物流ドローンの試作機（飛行中）＞ 試作機は、エアロネクストの新技術「ActiveWing」を搭載しており、補助翼を備えたマルチコプタ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0327702.html\">エアロネクスト／新技術搭載のドローン試作機を公開、長距離飛行性能を強化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=317024",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=317024",
-      "fetchedAt": "2026-03-31T19:13:24.403Z"
-    },
-    {
-      "title": "セイノーHD／OpenFactoryと連携して在庫を持たないECを実現するサービス",
-      "body": "<![CDATA[<p>セイノーホールディングスは3月27日、OpenFactoryと連携して在庫を持たないECを実現する新たなフルフィルメントサービスの提供を開始すると発表した。 ＜連携により在庫を持たないECを実現＞ 新サービスでは、ECサ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0327103.html\">セイノーHD／OpenFactoryと連携して在庫を持たないECを実現するサービス</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュースのＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=317018",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=317018",
-      "fetchedAt": "2026-03-31T19:13:24.403Z"
-    },
-    {
-      "title": "OECD 世界経済の成長率の予測を据え置き エネルギー価格上昇で",
-      "body": "OECD＝経済協力開発機構は、ことしの世界経済の成長率の予測を2.9％と、前回の予測から据え置きました。AI＝人工知能関連の投資などによる経済効果が、イラン情勢に伴うエネルギー価格の上昇によって相殺されるためだとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260327/k10015085141000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260327/k10015085141000.html",
-      "fetchedAt": "2026-03-31T19:13:24.403Z"
-    },
-    {
-      "title": "政府 石炭火力発電所の稼働率高める緊急措置へ 電力安定供給に",
-      "body": "イラン情勢を受けて、LNG＝液化天然ガスの調達に影響が及ぶおそれがあるとして、政府は、新年度1年間、石炭火力発電所の稼働率を高める緊急措置を実施する方針です。脱炭素に逆行するものの、当面は電力の安定供給に軸足を置く構えです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260326/k10015085051000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260326/k10015085051000.html",
-      "fetchedAt": "2026-03-31T19:13:24.403Z"
+      "fetchedAt": "2026-04-01T03:33:16.608Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "台湾当局 TSMC 3ナノ先端半導体 熊本で生産する計画を許可",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089351000.html",
-      "summary": "台湾の経済当局は、半導体受託製造最大手のTSMCによる熊本県工場での3ナノメートル技術を用いた先端半導体生産計画を承認しました。TSMCはこの新技術の量産を2028年から始める見込みです。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
-      },
-      "commentary": "TSMCの熊本進出、技術の先端を地域に開く動きやな。秘密を抱えず、情報と信頼を丁寧に積み重ねることで、長い目で見た関係性が育つ。慌てず地道に、社会とのつながりを大切にせなあかん。"
-    },
-    {
-      "source": "NHK",
-      "title": "「ナフサ」中東以外からの調達量 4月は通常の2倍に増加見通し",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088961000.html",
-      "summary": "経済産業省は、イラン情勢の影響を受けるナフサの安定供給確保のため、民間企業と協力して調達先を多様化している。これにより、4月には中東以外からのナフサ調達量が通常の約2倍となる90万キロリットルに増加する見込みを示した。",
+      "title": "株価 一時2200円超値上がり イラン情勢長期化への懸念和らぐ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089481000.html",
+      "summary": "4月1日の東京株式市場では、イラン情勢の悪化が長期化する懸念が後退したことから、全体的に株価が上昇しました。日経平均株価は一時2200円超の値上がりを記録し、2000円台を回復しています。",
       "classification": {
         "tone": "G",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "と",
-        "phrase": "遠い道 一歩進めば 一歩近づく"
+        "leadingKana": "を",
+        "phrase": "をそ鳥は　眠り豚より　ちょっとええ"
       },
-      "commentary": "供給不安のなか、調達先を広げる取り組みは一歩ずつ信頼の道を築くもんや。焦らず着実に歩みを進める姿勢が、長い目で見て社会と商売の関係を強める。困難な時ほど、地道な努力が未来の安定をつくるんやで。"
+      "commentary": "市場の動きは情報の変化に敏感やけど、焦らずに早めの対応が肝心。長期のリスクを見据えつつ、慌てずに次の一手を考える姿勢が信頼を築く。短期の値動きに踊らされず、持続的な視点を持つことが大事やで。"
+    },
+    {
+      "source": "NHK",
+      "title": "日銀短観 大企業製造業景気判断4期連続改善も先行き見通し悪化",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089451000.html",
+      "summary": "日本銀行が発表した4月の企業短期経済観測調査で、大企業の製造業の景気判断指数は4期連続で改善しました。一方、今後の見通しについては悪化しており、特にイラン情勢の影響で原油価格が上昇する中、企業の慎重な姿勢が示されています。",
+      "classification": {
+        "tone": "N",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "よ",
+        "phrase": "世の中は 広いんやから 驚くな"
+      },
+      "commentary": "景気が良くなっても先行きは不透明、そんな状況は珍しゅうない話や。世の中は広いし、思わぬ変化もつきもんやから、驚かずにじっくり様子を見て、日々の判断を積み重ねることが大事やで。"
     },
     {
       "source": "LNEWS",
-      "title": "大和ハウス工業／東京都町田市で3万m2のマルチテナント型物流施設着工",
-      "sourceURL": "https://www.lnews.jp/?p=317567",
-      "summary": "大和ハウス工業は東京都町田市で約3万平方メートルのマルチテナント型物流施設「DPL町田II」の建設を開始した。この施設には、総合通信販売企業のdinosがテナントとして入居する予定である。新施設の開発は既に計画段階でテナントが決定している。",
+      "title": "物流連／国際委業務委員会を開催、令和8年度活動計画を承認",
+      "sourceURL": "https://www.lnews.jp/?p=317687",
+      "summary": "日本物流団体連合会は3月24日、東京都千代田区で2026年度第2回国際業務委員会を開催した。会議では、物流事業の海外展開に関連する課題を官民で協議し、令和8年度の活動計画を承認した。",
       "classification": {
-        "tone": "G",
+        "tone": "N",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
+        "leadingKana": "ろ",
+        "phrase": "論じてみぃ　証拠がなくても　論じてみぃ"
       },
-      "commentary": "物流施設の着工は単なる施設建設や利益追求にとどまらへん。地域やテナント企業との関係を築き、社会に役立つ土台をつくる営みや。あきんどは日々の積み重ねで信頼を得てこそやから、目先の結果だけ見ずに、共に歩む道を考え続けることが大事やで。"
+      "commentary": "物流の海外展開は官民の協力が不可欠や。計画を承認して動き出すのは第一歩やけど、現場の課題や変化に向き合い続ける姿勢が肝心や。証拠やデータが揃わん時も、思い切って議論し挑戦することが信頼の積み重ねにつながるんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "TC神鋼不動産／三重県鈴鹿市で1.1万m2のBOX型物流施設を竣工",
-      "sourceURL": "https://www.lnews.jp/?p=317435",
-      "summary": "TC神鋼不動産は三重県鈴鹿市に、延床面積約1万900平方メートルのマルチテナント型物流施設「AS-LOGI鈴鹿」を完成させた。3月31日に竣工を発表しており、同社にとって6番目の物流施設となる。施設はBOX型の設計で、複数のテナントに対応できる構造となっている。",
+      "title": "カンダコーポレーション／経営効率向上など目的に子会社2社を吸収合併",
+      "sourceURL": "https://www.lnews.jp/?p=317678",
+      "summary": "カンダホールディングスの連結子会社であるカンダコーポレーションは、経営効率の向上を目的として、同じく連結子会社のロジメディカルと名岐物流サービスの2社を4月1日に吸収合併しました。これにより、グループ内の事業再編が進められています。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "か",
-        "phrase": "カイゼンは  みんなの宝"
+        "leadingKana": "は",
+        "phrase": "早起きは 眠たいけども 憂いなし"
       },
-      "commentary": "新しい物流施設の完成は、ただの箱ものづくりやのうて、地域や利用者のニーズに応えながら、長く使える基盤をつくる営みや。日々の現場からの気づきを大事に、現場と一緒に少しずつ良うしていく姿勢が、信頼の土台になるんやで。"
+      "commentary": "経営の合理化は慌てんと、じっくり朝の準備のように進めたいもんや。合併も結果だけ追わんと、日々の積み重ねで組織の調子を整え、短期の眠たさに惑わされんことが信頼築くコツやろな。"
     },
     {
       "source": "Guardian｜World",
       "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
       "sourceURL": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
-      "summary": "複数の報道機関が、ソマリランド政府がイルハン・オマル議員の身柄引き渡しを求めたと伝えたが、これらは事実に反するものであった。情報の出所は、同国を代表すると称する非公式のXアカウントであり、政府の公式見解ではない。報道は、JDヴァンス氏のオマル議員に対する移民詐欺疑惑を受けたものだが、オマル議員はこれを否定している。",
+      "summary": "複数の報道機関が、ソマリランド政府がイラン・オマール米下院議員の身柄引き渡しを要請したと伝えたが、これは誤報であった。これらの報道は、ソマリランドを代表すると主張する非公式のX（旧Twitter）アカウントの投稿を根拠としていた。報道は、JDバンス氏のオマール議員に対する不正移民疑惑の主張に関連していたが、オマール議員はこれを強く否定している。",
       "classification": {
         "tone": "N",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "ニュースが飛び交う中、ほんまに事実かどうか疑問を持つことは大事やで。表面的な情報だけで動かず、「ん？」と感じたら立ち止まって深掘りする。その積み重ねが信頼を築く商売の基本や。焦らず、慎重に、誠実に対応する姿勢がこれからの信用の礎になるんやで。"
+      "commentary": "情報の真偽を確かめずに動いたら、商売の信頼は揺らぐわな。表面だけで「わかったつもり」になるより、核心を問い直して、誤解の芽を摘む姿勢こそ大事や。焦らず一歩引いて、相手の言葉の意味を確かめることが、長い信頼を築く道やで。"
     }
   ]
 }
