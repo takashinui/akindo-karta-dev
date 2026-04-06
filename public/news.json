@@ -1,66 +1,26 @@
 {
-  "generatedAt": "2026-04-06T07:57:06.563Z",
+  "generatedAt": "2026-04-06T13:39:20.285Z",
   "run": {
-    "ranAt": "2026-04-06T07:57:06.563Z",
+    "ranAt": "2026-04-06T13:39:20.285Z",
     "runner": "github-actions",
-    "runId": "24023934714"
+    "runId": "24034018943"
   },
   "stock": [
     {
-      "title": "サイバー攻撃への対策で流通業界の企業が連携 団体を設立",
-      "body": "企業へのサイバー攻撃が増えるなか、飲料メーカーや食品の卸売会社など流通業界の企業が連携して、被害の情報を共有したり、効果的な対策などを検討したりするための団体を設立しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015093211000.html",
+      "title": "日銀 地域経済報告 イラン情勢悪化や原油価格上昇で【詳しく】",
+      "body": "日銀は6日、3か月ごとにまとめている地域経済報告を公表し、すべての地域で景気判断を据え置きました。ただ、イラン情勢の悪化や原油価格の上昇で企業の生産や輸出に影響が出ているほか、旅行需要や消費の落ち込みを懸念する声も上がっています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015092911000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260406/k10015093211000.html",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
+      "id": "www3.nhk.or.jp/news/html/20260406/k10015092911000.html",
+      "fetchedAt": "2026-04-06T13:38:47.371Z"
     },
     {
-      "title": "マツダ 中東に輸出する車の生産停止 欧州向けなどは生産増へ",
-      "body": "イラン情勢の緊迫化でホルムズ海峡の事実上の封鎖が続くなか、マツダが、中東に輸出する車の生産を停止したことが分かりました。一方、ヨーロッパなどに向けた車の生産を増やす計画で、生産台数全体への影響はないとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015093221000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260406/k10015093221000.html",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
-    },
-    {
-      "title": "国交省／物流標準化・データ連携促進事業に補助金、公募6月5日まで",
-      "body": "<![CDATA[<p>国土交通省は4月6日、中小物流事業者の労働生産性向上事業費補助金（共同輸配送や帰り荷確保等のための物流データ連携促進支援事業）の募集を開始した。 「物流情報標準ガイドライン」を活用して共同輸配送や帰り荷の確保、保管・輸送 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0406506.html\">国交省／物流標準化・データ連携促進事業に補助金、公募6月5日まで</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=318412",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=318412",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
-    },
-    {
-      "title": "パルシステム／GWに家族で物流を学べる「おしごと体験」開催",
-      "body": "<![CDATA[<p>パルシステム連合会はゴールデンウィーク（GW）に、東京都稲城市の物流・IT体験施設で「おしごと体験」企画を開催する。 開催日は4月29日、5月2日・4日・5日・6日の5日間。小学生とその保護者を対象に、物流とIT体験を通 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0406606.html\">パルシステム／GWに家族で物流を学べる「おしごと体験」開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=318406",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=318406",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
-    },
-    {
-      "title": "People of Burkina Faso should forget about democracy, says military ruler",
-      "body": "&lt;p&gt;Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’&lt;/p&gt;&lt;p&gt;People in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, told the country’s state broadcaster.&lt;/p&gt;&lt;p&gt;Traoré took power in &lt;a href=\"https://www.theguardian.com/world/2022/sep/30/burkina-fasos-military-leader-ousted-in-second-coup-this-year\"&gt;a coup in September 2022&lt;/a&gt;, toppling another junta that had taken power just nine months earlier. He has since stifled opposition and in January banned political parties outright.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
-    },
-    {
-      "title": "株価 値上がり 午前の終値 先週末比878円15銭高",
-      "body": "週明けの6日の東京株式市場、日経平均株価は値上がりしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015093031000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260406/k10015093031000.html",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
-    },
-    {
-      "title": "長期金利 一時2.41％まで上昇 約27年ぶりの高い水準に",
-      "body": "週明け6日の債券市場は、イラン情勢を背景に原油の先物価格が一段と上昇する中、国内でも物価高がさらに進むのではないかという見方から長期金利が2.4％を超え、1999年以来の高い水準に上昇しています。",
+      "title": "長期金利 2.4％超まで上昇 1999年以来の高水準に",
+      "body": "週明けの6日の債券市場はイラン情勢を背景に原油の先物価格が一段と上昇する中、国内でも物価高がさらに進むのではないかという見方から長期金利が上昇し、2.4％を超えて1999年以来の高い水準となりました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015092851000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260406/k10015092851000.html",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "カバー／今をときめくVTuber業界を切り拓くEC物流戦略",
@@ -68,7 +28,63 @@
       "sourceURL": "https://www.lnews.jp/?p=316508",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=316508",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
+    },
+    {
+      "title": "九州産交運輸／佐賀県鳥栖市で3万m2の定温倉庫を稼働開始、危険物倉庫も併設",
+      "body": "<![CDATA[<p>鴻池運輸は4月6日、グループ会社の九州産交運輸が佐賀県鳥栖市に新拠点「鳥栖定温流通センター」を開設、同日より稼働開始したと発表した。 ＜外観図＞ 「鳥栖定温流通センター」は、医薬品や半導体部品などを保管できる定温・保冷倉 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0406702.html\">九州産交運輸／佐賀県鳥栖市で3万m2の定温倉庫を稼働開始、危険物倉庫も併設</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=318301",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=318301",
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
+    },
+    {
+      "title": "People of Burkina Faso should forget about democracy, says military ruler",
+      "body": "&lt;p&gt;Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’&lt;/p&gt;&lt;p&gt;People in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, told the country’s state broadcaster.&lt;/p&gt;&lt;p&gt;Traoré took power in &lt;a href=\"https://www.theguardian.com/world/2022/sep/30/burkina-fasos-military-leader-ousted-in-second-coup-this-year\"&gt;a coup in September 2022&lt;/a&gt;, toppling another junta that had taken power just nine months earlier. He has since stifled opposition and in January banned political parties outright.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
+    },
+    {
+      "title": "サイバー攻撃への対策で流通業界の企業が連携 団体を設立",
+      "body": "企業へのサイバー攻撃が増えるなか、飲料メーカーや食品の卸売会社など流通業界の企業が連携して、被害の情報を共有したり、効果的な対策などを検討したりするための団体を設立しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015093211000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260406/k10015093211000.html",
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
+    },
+    {
+      "title": "マツダ 中東に輸出する車の生産停止 欧州向けなどは生産増へ",
+      "body": "イラン情勢の緊迫化でホルムズ海峡の事実上の封鎖が続くなか、マツダが、中東に輸出する車の生産を停止したことが分かりました。一方、ヨーロッパなどに向けた車の生産を増やす計画で、生産台数全体への影響はないとしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015093221000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260406/k10015093221000.html",
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
+    },
+    {
+      "title": "国交省／物流標準化・データ連携促進事業に補助金、公募6月5日まで",
+      "body": "<![CDATA[<p>国土交通省は4月6日、中小物流事業者の労働生産性向上事業費補助金（共同輸配送や帰り荷確保等のための物流データ連携促進支援事業）の募集を開始した。 「物流情報標準ガイドライン」を活用して共同輸配送や帰り荷の確保、保管・輸送 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0406506.html\">国交省／物流標準化・データ連携促進事業に補助金、公募6月5日まで</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=318412",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=318412",
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
+    },
+    {
+      "title": "パルシステム／GWに家族で物流を学べる「おしごと体験」開催",
+      "body": "<![CDATA[<p>パルシステム連合会はゴールデンウィーク（GW）に、東京都稲城市の物流・IT体験施設で「おしごと体験」企画を開催する。 開催日は4月29日、5月2日・4日・5日・6日の5日間。小学生とその保護者を対象に、物流とIT体験を通 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0406606.html\">パルシステム／GWに家族で物流を学べる「おしごと体験」開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=318406",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=318406",
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
+    },
+    {
+      "title": "株価 値上がり 午前の終値 先週末比878円15銭高",
+      "body": "週明けの6日の東京株式市場、日経平均株価は値上がりしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015093031000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260406/k10015093031000.html",
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "大和物流／名古屋市南区に2.2万m2の物流センター開設、高床・低床の両バース完備",
@@ -76,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318268",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318268",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "政府 石油元売り会社に“重要施設への直接販売”要請の方針",
@@ -84,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260405/k10015092581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260405/k10015092581000.html",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "スタッフは日本での勤務経験者 焼き鳥チェーン ベトナムに進出",
@@ -92,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260405/k10015092341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260405/k10015092341000.html",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "センコーGHD／宮城県富谷市で1.8万m2の冷凍冷蔵対応センターを竣工",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318118",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318118",
-      "fetchedAt": "2026-04-06T07:56:42.668Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "中央日本土地建物／神奈川県綾瀬市に地上４階建て約1.5万m2の物流施設竣工",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318103",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318103",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "新入社員の給料が年々上昇 既存社員の待遇改善も新たな課題に",
@@ -116,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260404/k10015092311000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260404/k10015092311000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "原油 来年の年明けまで確保できると見込む 政府",
@@ -124,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260404/k10015092241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260404/k10015092241000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "米 3月雇用統計 就業者は前月比17万8000人増 減速懸念和らぐ",
@@ -132,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260403/k10015091911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260403/k10015091911000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "スカイマーク 来年春にも国内線に燃油サーチャージ導入を検討",
@@ -140,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260403/k10015091991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260403/k10015091991000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "発電向け燃料確保に懸念 夏に向け需給見通し示す取り組み開始",
@@ -148,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260403/k10015091901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260403/k10015091901000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "フェリー減便 国交相“燃料流通の目詰まり解消に取り組む”",
@@ -156,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260403/k10015091441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260403/k10015091441000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "給付付き税額控除の制度設計 中道 立民 公明 作業チーム初会合",
@@ -164,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260403/k10015091421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260403/k10015091421000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "物流連／ホルムズ海峡の事実上の封鎖に伴う燃料供給危機に関する声明を発出",
@@ -172,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318238",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318238",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "川崎汽船／洋上風力支援船事業行う合弁会社を完全子会社化",
@@ -180,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318235",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318235",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "Uganda receives first US deportation flight under third-country agreement",
@@ -188,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "株価 一時 900円以上値上がり 値下がりした銘柄買い戻す動き",
@@ -196,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260403/k10015091341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260403/k10015091341000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "円相場 1ドル＝159円台後半 円安続く 財務相 市場の動きけん制",
@@ -204,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260403/k10015091351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260403/k10015091351000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "Hacobu／業務改善のデータ分析機能を実装、物効法改正や独禁法の需要に対応",
@@ -212,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318079",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318079",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "NX台湾／高雄市に物流拠点開設、ハイテク産業の物流需要増に対応",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318088",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318088",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "鹿児島 恒例の「カンパチ祭」延期へ 船の燃料高騰などで",
@@ -228,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260402/k10015090991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260402/k10015090991000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "【解説】トランプ大統領演説 日本経済への影響は",
@@ -236,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260402/k10015090461000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260402/k10015090461000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "ユニファイド・インダストリアル／滋賀県湖南市に4.8万m2のマルチ型物流施設着工",
@@ -244,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318040",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318040",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "2026年度各社入社式／未来を担う新戦力 NXグループ約900名、SBS185名",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317864",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317864",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "「ヘリウム」米から代替調達へ “安定供給に支障なし”経産省",
@@ -260,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260402/k10015090971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260402/k10015090971000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
@@ -268,7 +284,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "カンパチ輸入で特例 関税なしで輸入できる範囲広げる方針 政府",
@@ -276,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260402/k10015090691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260402/k10015090691000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "【きょうのおはBiz 4月2日(木)】原油価格上昇 物価への影響は",
@@ -284,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260402/k10015090491000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260402/k10015090491000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "ユニ・チャームプロダクツほか／T2の自動運転トラックでペット商品輸送の実証実験",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317924",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317924",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "経産省／物流効率化法4月1日施行、荷主向け！ポイント説明動画を公開",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317900",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317900",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "男女雇用機会均等法 施行から4月で40年 取り組みは道半ば",
@@ -308,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015090171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260401/k10015090171000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "日銀 浅田統一郎 新審議委員“バランスを考慮し政策判断”",
@@ -316,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015090211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260401/k10015090211000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "2026年度入社式／ヤマト456名、SGHD586名など物流の持続性確保へ採用は増加傾向",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317681",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317681",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "ecoプロパティーズとナカノ商会／佐賀県鳥栖市にBTS型物流施設を竣工",
@@ -332,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317651",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317651",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "株価 値上がり幅2600円超 ことしに入り最大",
@@ -340,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260401/k10015089481000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "日銀短観 大企業製造業 4期連続改善も先行き見通し悪化",
@@ -348,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260401/k10015089451000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "トランコム／企業サイトと採用サイトを全面リニューアル",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317825",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317825",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "倒産／アサヒフードが自己破産を申請、物流施設などの食堂運営",
@@ -364,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317810",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317810",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "物流連／国際委業務委員会を開催、令和8年度活動計画を承認",
@@ -372,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317687",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317687",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "カンダコーポレーション／経営効率向上など目的に子会社2社を吸収合併",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=317678",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=317678",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     },
     {
       "title": "台湾当局 TSMC 3ナノ先端半導体 熊本で生産する計画を許可",
@@ -388,31 +404,45 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260401/k10015089351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260401/k10015089351000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
-    },
-    {
-      "title": "「ナフサ」中東以外からの調達量 4月は通常の2倍に増加見通し",
-      "body": "イラン情勢の影響で安定供給が懸念されている石油製品「ナフサ」について、経済産業省は、民間企業と連携して調達先の拡大を進め、4月、中東以外からの調達量が通常の2倍の90万キロリットルに増える見通しを明らかにしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260331/k10015088961000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260331/k10015088961000.html",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
-    },
-    {
-      "title": "大和ハウス工業／東京都町田市で3万m2のマルチテナント型物流施設着工",
-      "body": "<![CDATA[<p>大和ハウス工業は2月2日、東京都町田市で、マルチテナント型物流施設「DPL町田II」を着工した。 ＜「DPL町田II」外観イメージ＞ 施設は、開発計画段階でテナント企業が総合通信販売企業のdinosに決定しており、同社の [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/03/s0331705.html\">大和ハウス工業／東京都町田市で3万m2のマルチテナント型物流施設着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=317567",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=317567",
-      "fetchedAt": "2026-04-06T07:56:42.669Z"
+      "fetchedAt": "2026-04-06T13:38:47.372Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "サイバー攻撃への対策で流通業界の企業が連携 団体を設立",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015093211000.html",
-      "summary": "飲料メーカーや食品卸売業者を含む流通業界の企業が、増加するサイバー攻撃に対応するため連携を強化し、情報共有や対策の検討を目的とした新たな団体を設立しました。この組織は業界全体での被害軽減を目指しています。",
+      "title": "日銀 地域経済報告 イラン情勢悪化や原油価格上昇で【詳しく】",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015092911000.html",
+      "summary": "日本銀行は6日、地域経済報告を発表し、全地域で景気判断を現状維持としました。一方で、イラン情勢の悪化や原油価格の上昇が企業の生産や輸出に影響を及ぼしていること、加えて旅行需要や消費の減少を懸念する意見があることが示されました。",
+      "classification": {
+        "tone": "N",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "わ",
+        "phrase": "わからん時　わからんと言う素直さよ"
+      },
+      "commentary": "今回の地域経済報告は、不透明な国際情勢や価格変動で先行きが読みにくい状況を示してるわ。こういう時こそ、焦らず「わからん」を認めて、情報を丁寧に集めていく姿勢が信頼の土台になるんや。慌てて判断せんと、じっくり状況を見極めることが大事やで。"
+    },
+    {
+      "source": "NHK",
+      "title": "長期金利 2.4％超まで上昇 1999年以来の高水準に",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015092851000.html",
+      "summary": "6日の債券市場では、イラン情勢が影響し原油先物価格が上昇したことを受け、国内の物価上昇懸念が強まりました。このため長期金利が上昇し、2.4％を超えて1999年以来の高水準に達しました。",
+      "classification": {
+        "tone": "B",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "め",
+        "phrase": "目を見て 話せん奴を 信用すな"
+      },
+      "commentary": "長期金利が急上昇する今、市場の動きに一喜一憂せず、情報の真意をしっかり見極める姿勢が肝心や。表面的な数字だけで判断せず、しっかり目を見て対話するように、信頼を積み重ねることが持続的な商いの基盤になるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "カバー／今をときめくVTuber業界を切り拓くEC物流戦略",
+      "sourceURL": "https://www.lnews.jp/?p=316508",
+      "summary": "バーチャルYouTuber（VTuber）が街頭広告などで広く認知される中、「ホロライブプロダクション」は世界的に高い人気を持つVTuber事務所の一つとして注目されている。記事では、同社が成長するVTuber市場に対応するためのEC物流戦略について紹介している。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -421,67 +451,37 @@
         "leadingKana": "い",
         "phrase": "いつだって  3％と 1/3"
       },
-      "commentary": "サイバー攻撃の増加に対応し、業界が情報共有と対策で連携する動きは、日々の小さな見直しと全体の効率化を目指す姿勢に似てるわ。普段の3％の無駄探しと、じっくり見て大きなムダを減らす感覚を持ち続けることが、信頼を積む商いの礎やな。"
-    },
-    {
-      "source": "NHK",
-      "title": "マツダ 中東に輸出する車の生産停止 欧州向けなどは生産増へ",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015093221000.html",
-      "summary": "マツダはイラン情勢の悪化に伴い、ホルムズ海峡の事実上の封鎖を受けて中東向け車両の生産を停止しました。一方で、ヨーロッパなど他地域向けの生産は増加させる方針で、全体の生産量には影響がないとしています。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "よ",
-        "phrase": "世の中は 広いんやから 驚くな"
-      },
-      "commentary": "世界の動きは予測困難やけど、慌てず対応を考えるのが商売の肝心や。今回の生産調整も一時の変化、長い目で見て信頼築く機会や。自分の経験外の事象に戸惑わず、柔軟に動く姿勢が次の信頼を生むんやで。"
+      "commentary": "VTuber業界の成長は華やかやけど、その背景には無駄を見つけてコツコツ改善する地道な努力があるんや。日々の3％の気配りと、時に大胆に1/3を削れる工夫が物流戦略を支え、信頼を築いとる。派手さに惑わされず、本質を見極める姿勢が大事やで。"
     },
     {
       "source": "LNEWS",
-      "title": "国交省／物流標準化・データ連携促進事業に補助金、公募6月5日まで",
-      "sourceURL": "https://www.lnews.jp/?p=318412",
-      "summary": "国土交通省は4月6日、中小物流事業者の労働生産性向上を目的とした補助金の公募を開始した。この支援事業は、物流データ連携を促進し、共同輸配送や帰り荷の確保を支援するもので、「物流情報標準ガイドライン」の活用が求められる。応募締切は6月5日までとなっている。",
+      "title": "九州産交運輸／佐賀県鳥栖市で3万m2の定温倉庫を稼働開始、危険物倉庫も併設",
+      "sourceURL": "https://www.lnews.jp/?p=318301",
+      "summary": "鴻池運輸のグループ会社、九州産交運輸は佐賀県鳥栖市に新たな拠点「鳥栖定温流通センター」を開設し、4月6日から稼働を開始した。約3万平方メートルの施設には、医薬品や半導体部品の保管に適した定温・保冷倉庫が整備されており、危険物用の倉庫も併設されている。",
       "classification": {
         "tone": "G",
-        "term": "M"
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "お",
-        "phrase": "おおきにと 言われてなんぼ 言うてなんぼ"
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
       },
-      "commentary": "物流業界の標準化やデータ連携の推進は、共同作業の効率化に繋がるやろな。補助金の活用は、一朝一夕やない日々の積み重ねを後押しする。商売は「おおきに」の一言で信頼が深まるもんや。焦らず、地道に関係を育てる姿勢が求められるで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "パルシステム／GWに家族で物流を学べる「おしごと体験」開催",
-      "sourceURL": "https://www.lnews.jp/?p=318406",
-      "summary": "パルシステム連合会はゴールデンウィーク期間中、東京都稲城市の物流・IT体験施設で「おしごと体験」を実施する。対象は小学生とその保護者で、開催日は4月29日と5月2日、4日から6日の計5日間。参加者は物流やITに関する体験を通じて、仕事の内容を学ぶ機会が提供される。",
-      "classification": {
-        "tone": "G",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "を",
-        "phrase": "をそ鳥は　眠り豚より　ちょっとええ"
-      },
-      "commentary": "連休に家族で物流の現場を体験できる機会は、日々の商いを支える裏側を知るええチャンスや。急がば回れの気持ちで、慌てず焦らず学びを積み重ねることが、信頼を育てるんや。早めの行動が結果を左右することも忘れたらあかんで。"
+      "commentary": "新拠点の立ち上げは、隠し事なく情報を共有し信頼を積み重ねる姿勢が大事や。秘密を抱えず、透明な運営で長く使える関係を築くことこそ、商いの土台になる。焦らず一歩ずつ、次の信頼へつなげていこな。"
     },
     {
       "source": "Guardian｜World",
       "title": "People of Burkina Faso should forget about democracy, says military ruler",
       "sourceURL": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
-      "summary": "ブルキナファソの軍事指導者イブラヒム・トラオレ大統領は、国営放送で「民主主義は我々には合わない」と述べ、国民に民主主義を忘れるよう呼びかけた。彼は2022年9月のクーデターで政権を掌握し、それ以前の軍事政権を倒した。以降、反対派の弾圧を強め、今年1月には政党の活動を全面的に禁止している。",
+      "summary": "ブルキナファソの軍事指導者イブラヒム・トラオレ氏は、2022年のクーデターで権力を掌握後、国営放送で「民主主義は我々に適さない」と述べた。彼は前年に発生した別の軍事政権を打倒し、その後、反対派を抑圧し、今年1月には政党を全面禁止している。",
       "classification": {
         "tone": "B",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "あ",
-        "phrase": "あかんモンはあかん"
+        "leadingKana": "う",
+        "phrase": "ウソつくな ウソつくときは 己も騙せ"
       },
-      "commentary": "事情は複雑でも、譲れん筋はあるやろな。短絡的に諦めるんやなく、信頼の積み重ねを続けることが肝心や。社会との関わりを見失わんよう、地道に正しさを問い続ける姿勢が商いの根っこやで。"
+      "commentary": "軍のリーダーが「民主主義は向かん」と断言したけど、商売も政治も正直さが基本や。ただし、時には自分を信じ込ませる覚悟も必要やな。目先の言葉に振り回されんと、日々の誠実な積み重ねで信頼築くことが大事やで。"
     }
   ]
 }
