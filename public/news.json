@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-10T13:41:07.269Z",
+  "generatedAt": "2026-04-10T19:06:14.403Z",
   "run": {
-    "ranAt": "2026-04-10T13:41:07.269Z",
+    "ranAt": "2026-04-10T19:06:14.403Z",
     "runner": "github-actions",
-    "runId": "24245828507"
+    "runId": "24259463527"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096831000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "停戦を受け緊急セミナー 中東地域進出企業から安全確保の相談",
@@ -20,7 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096791000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "SBSHD／鹿児島県に「物流センター霧島」竣工、九州エリアの戦略拠点に",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318979",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318979",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "西濃運輸／愛知県豊明市に2.7万m2のロジ・トランス一体型物流施設着工",
@@ -36,7 +36,15 @@
       "sourceURL": "https://www.lnews.jp/?p=318973",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318973",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
+    },
+    {
+      "title": "Prince Harry sued for defamation by charity he co-founded",
+      "body": "&lt;p&gt;Legal action follows war of words with Sentebale chair after Duke of Sussex’s resignation as patron&lt;/p&gt;&lt;p&gt;The Duke of Sussex is being sued by Sentebale in the latest twist in the bitter fallout over the African charity he co-founded.&lt;/p&gt;&lt;p&gt;The charity has lodged papers in London’s high court over defamation claims naming Prince Harry and the former Sentebale trustee Mark Dyer as defendants.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
@@ -44,7 +52,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "株価 一時 約1か月ぶりの5万7000円台に",
@@ -52,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015095401000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015095401000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "【きょうのおはBiz4月10日(金) 】原油高騰 消費者心理は？",
@@ -60,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096331000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "関通HD 決算／2月期の売上高20.1％増、セキュリティ体制の抜本的強化などで各利益が回復",
@@ -68,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319108",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319108",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "関通HD／現地法人を米国ハワイに設立、リスクマネジメント高度化へ",
@@ -76,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319105",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319105",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "鈴木農相 イラン情勢受け 農業用資材の流通実態把握進める考え",
@@ -84,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096411000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "中国 3月の消費者物価指数 6か月連続でプラスに",
@@ -92,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096431000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "佐川急便／新作コラム、仕事の舞台裏 ドライバーに聞いた「あるある」を紹介",
@@ -100,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319018",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319018",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "JALUX／沖縄県の生マグロを冷凍せず直送、24時間以内に首都圏で販売へ",
@@ -108,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319009",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319009",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "NY原油市場 WTI先物価格が上昇 再び一時1バレル＝100ドル台に",
@@ -116,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015096181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260409/k10015096181000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "ホルムズ海峡 停戦合意後に通過の船舶３隻のみ 位置情報の分析",
@@ -124,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015095751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260409/k10015095751000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "改正物流効率化法案／衆議院で審議入り、委員会で金子国交大臣が趣旨説明",
@@ -132,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318967",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318967",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "人手不足倒産／3年連続で過去最高を更新、運送業も55件で過去最多に",
@@ -140,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318862",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318862",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "政府 大手石油元売りに重要施設へ直接販売要請 イラン情勢影響",
@@ -148,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015096061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260409/k10015096061000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
@@ -156,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "株価 値下がり アメリカとイラン停戦維持に投資家間で不透明感",
@@ -164,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015095581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260409/k10015095581000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "【きょうのおはBiz 4月9日(木)】原油の安定調達・価格 焦点に",
@@ -172,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015095441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260409/k10015095441000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "西久大運輸倉庫／広島市安佐南区に広島支店を移転、福岡市篠栗町に営業所を新設",
@@ -180,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318943",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318943",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "全ト協／最新版トラック事業者向け健康起因事故防止マニュアル公開",
@@ -188,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318949",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318949",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "US seeks to deport Kilmar Ábrego García to Liberia despite new Costa Rica deal",
@@ -196,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/apr/07/kilmar-abrego-garcia-liberia-deportation",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/apr/07/kilmar-abrego-garcia-liberia-deportation",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "アジア各国原油確保へ 日本政府が現地企業支援の枠組みで調整",
@@ -204,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015095221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260409/k10015095221000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "ヨロズ物流ほか／生成AIで配車業務 標準化・効率化へプロジェクト始動",
@@ -212,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318874",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318874",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "日本通運／3月の鉄道コンテナ取り扱い実績2.7％減",
@@ -220,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318871",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318871",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "NYダウ一時1400ドル超の大幅値上がり 米イラン2週間停戦合意で",
@@ -228,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260408/k10015095341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260408/k10015095341000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "政府／2026年度予算成立、AI活用による港湾業務高度化など推進",
@@ -236,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318679",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318679",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "NX総研／国内貨物 総輸送量、2026年度は0.3％減まで改善",
@@ -244,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318787",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318787",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "【動画】Pickup NEWS（4月8日）",
@@ -252,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260408/k10015094051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260408/k10015094051000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "ガソリン価格 全国平均1リットル167.4円 3週連続で下落",
@@ -260,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260408/k10015094831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260408/k10015094831000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "株価 2800円余値上がり 終値として過去3番目に大きい上昇幅",
@@ -268,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260408/k10015094551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260408/k10015094551000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "ABCマート／物流費3.31％減の68.36億円、構成比も減少",
@@ -276,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318820",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318820",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "NY原油市場 WTI先物価格 一時1バレル＝91ドル台まで急激に下落",
@@ -284,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260407/k10015094471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260407/k10015094471000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "光陽社／物流事業に参入、印刷から保管・発送までワンストップで提供",
@@ -292,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318664",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318664",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "大和ハウス工業／東京都江東区に15万m2の物流施設を竣工、ヤマト運輸が1棟利用",
@@ -300,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318481",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318481",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "中部電力 浜岡原発の不適切手続き問題で経産省が指導",
@@ -308,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260407/k10015094311000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260407/k10015094311000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "日本GLP／兵庫県西宮市に1.2万m2の「Marq」冷凍冷蔵施設、2028年4月竣工へ",
@@ -316,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318583",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318583",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini",
@@ -324,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "2月の家計調査 世帯の実質消費支出 前年同月比1.8％減",
@@ -332,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260407/k10015093721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260407/k10015093721000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "People of Burkina Faso should forget about democracy, says military ruler",
@@ -340,7 +348,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "株価 イラン情勢見極めたいと売り買い交錯 方向感ない展開",
@@ -348,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260407/k10015093941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260407/k10015093941000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "NY原油市場 WTIの先物価格 一時1バレル＝116ドル台まで上昇",
@@ -356,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260407/k10015093621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260407/k10015093621000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "【PR】コリアーズ／神奈川県「LOGIWITH綾瀬」内覧会4月21・22日開催",
@@ -364,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318613",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318613",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "【PR】野村不動産／千葉県「Landport野田」竣工内覧会4月22・23日開催",
@@ -372,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318601",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318601",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "ゼンショーHD創業者 小川賢太郎会長 死去 77歳",
@@ -380,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260407/k10015093851000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260407/k10015093851000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "財務省／3月上中旬分の貿易統計、輸出14.0％増、輸入8.4％増",
@@ -388,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318469",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318469",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     },
     {
       "title": "オンザリンクス／輸入調達特化型SCM最適化プラットフォームを提供開始",
@@ -396,15 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318460",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318460",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
-    },
-    {
-      "title": "日銀 地域経済報告 イラン情勢悪化や原油価格上昇で【詳しく】",
-      "body": "日銀は6日、3か月ごとにまとめている地域経済報告を公表し、すべての地域で景気判断を据え置きました。ただ、イラン情勢の悪化や原油価格の上昇で企業の生産や輸出に影響が出ているほか、旅行需要や消費の落ち込みを懸念する声も上がっています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260406/k10015092911000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260406/k10015092911000.html",
-      "fetchedAt": "2026-04-10T13:40:43.318Z"
+      "fetchedAt": "2026-04-10T19:05:50.243Z"
     }
   ],
   "items": [
@@ -412,7 +412,7 @@
       "source": "NHK",
       "title": "農林水産物や食品の輸出拡大へ 経産省と農水省が新チーム設置",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096831000.html",
-      "summary": "経済産業省と農林水産省は、農林水産物や食品の輸出拡大を目的に新チームを設置しました。このチームは、輸出を希望する事業者への相談支援や海外の販売先開拓を強化し、輸出促進に取り組む方針です。",
+      "summary": "経済産業省と農林水産省は、農林水産物や食品の輸出拡大を目的に新チームを設立しました。このチームは、輸出を目指す事業者からの相談に応じるほか、販売先の開拓支援を強化する役割を担います。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -421,67 +421,67 @@
         "leadingKana": "い",
         "phrase": "いつだって  3％と 1/3"
       },
-      "commentary": "経産省と農水省が輸出支援チームを設けたんは、日々の小さな工夫や無駄の見直しが大事やと示してるわ。輸出拡大は一朝一夕じゃないから、細かい変化に目を凝らしつつ、時には大胆に構造を見直す心持ちが必要や。商売は地道な積み重ねと時折の思い切りが信頼を紡ぐ道やで。"
+      "commentary": "輸出拡大の新チーム設置は、商売の基本である無駄取りと地道な改善の積み重ねが要る話や。普段の小さな気づきと、全体の効率見直しを両輪に、どう信頼を築いていくかが問われる。焦らずに一歩ずつ、次の課題を見据えて動く姿勢が肝心やで。"
     },
     {
       "source": "NHK",
       "title": "停戦を受け緊急セミナー 中東地域進出企業から安全確保の相談",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096791000.html",
-      "summary": "イラン情勢を受け、東京都内のコンサル会社には中東進出企業から安全確保に関する相談が増加した。アメリカとイランの停戦合意を受け、同社は10日に緊急セミナーを開催し、情勢分析を共有したうえで参加企業の質問に対応した。",
+      "summary": "アメリカとイランの停戦合意を受け、都内のコンサルティング会社は10日に緊急セミナーを開催しました。中東地域に進出している企業から安全対策に関する相談が多数寄せられており、同社は情勢分析を共有しつつ、企業の問い合わせに対応しました。",
       "classification": {
-        "tone": "N",
+        "tone": "G",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "と",
+        "phrase": "遠い道 一歩進めば 一歩近づく"
       },
-      "commentary": "中東の不確実な情勢には、表面的な理解では足りへん。進出企業は停戦を受けて一息つく間もなく、疑問を明確にして情報を深掘りする姿勢が肝心や。適当に相槌打つんやなく、何が本質かを問い直すことが信頼の基礎になるわ。"
+      "commentary": "情勢の不確かさに戸惑う時こそ、焦らず一つずつ情報を整理し、対応策を積み重ねることが大事や。急激な変化に振り回されるんやなく、地道な歩みが信頼と安全を築く道筋になるんやで。"
     },
     {
       "source": "LNEWS",
       "title": "SBSHD／鹿児島県に「物流センター霧島」竣工、九州エリアの戦略拠点に",
       "sourceURL": "https://www.lnews.jp/?p=318979",
-      "summary": "SBSホールディングスは鹿児島県に九州初の自社開発物流施設「物流センター霧島」を完成させ、4月9日に竣工式を行った。施設の延床面積は約7080平方メートルで、九州地域での事業拡大に向けた重要な拠点として位置づけられている。今後の運用により地域の物流機能強化を目指す。",
+      "summary": "SBSホールディングスは鹿児島県に「物流センター霧島」を新設し、4月9日に竣工式を行いました。同センターは九州で初めての自社開発物流施設で、延床面積は約7,080平方メートルです。九州地域での事業拡大を目的とした戦略拠点として活用される予定です。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "い",
-        "phrase": "いつだって  3％と 1/3"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "九州初の自社物流施設完成は、地道な積み重ねと無駄の見直しが生きる好例や。日々の3％の気づきに加え、大きな削減策も視野に入れ、持続可能な成長を追求せなあかん。焦らず、目の前の細かい課題を丁寧に扱うことが信頼の礎になるで。"
+      "commentary": "新たな物流拠点建設は、地域と共に長く歩む意志の表れや。短期の利益より、日々の積み重ねが信頼を築く。変化の中でも、揺るがん姿勢で未来を見据え、着実に役割を果たすことが問われるで。"
     },
     {
       "source": "LNEWS",
       "title": "西濃運輸／愛知県豊明市に2.7万m2のロジ・トランス一体型物流施設着工",
       "sourceURL": "https://www.lnews.jp/?p=318973",
-      "summary": "西濃運輸は愛知県豊明市に約2万7,000平方メートルの物流施設を新築し、大府市の大府支店を移転する計画を発表した。この施設は自動車部品を中心に扱う物流と輸送機能を一体化させたもので、競争力強化を目指している。完成は2027年の予定。",
+      "summary": "西濃運輸は、愛知県豊明市に約2.7万平方メートルの物流施設を新設し、大府市の大府支店を移転すると発表した。この施設は自動車部品を中心とした物流の効率化を図るため、物流機能と輸送機能を一体化した構造で整備され、2027年の完成を予定している。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "新しい物流拠点は、ただの設備増強や効率化だけやおまへん。社会との関わりを見据え、粘り強く信頼を積み重ねる営みの一歩と捉えたい。日々の積み重ねが、地域や業界に役立つ商いの礎になるんやと、改めて思わはるわな。"
+      "commentary": "新たな物流拠点の整備は、目先の効率だけやのうて長期にわたる信頼と役割の積み重ねが肝心や。移転・拡充は変化に応える一歩やけど、日々の丁寧な運営が「らしさ」を築く。焦らず、常に使命を胸に据えて進む姿勢が大事やで。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
-      "sourceURL": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
-      "summary": "ウガンダのキバレ国立公園で観察されたチンパンジーのグループが、内部対立により分裂し、数年にわたる激しい争いを繰り広げた事例が報告された。2015年、研究者アーロン・サンデル氏は、かつては一体だった集団内で緊張が高まり、仲間同士が敵対的な行動を示し始める様子を目撃した。この現象は、チンパンジーの社会構造における内部闘争の初の記録例とされている。",
+      "title": "Prince Harry sued for defamation by charity he co-founded",
+      "sourceURL": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
+      "summary": "サセックス公ヘンリー王子が共同設立したアフリカ支援の慈善団体Sentebaleから名誉毀損で訴えられた。訴状はロンドン高等裁判所に提出され、ヘンリー王子と元理事のマーク・ダイヤーが被告となっている。訴訟は、公が同団体のパトロンを辞任した後の対立に関連している。",
       "classification": {
-        "tone": "N",
-        "term": "L"
+        "tone": "B",
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ち",
-        "phrase": "頂上を目指しているなら 自由に登ろう"
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "身内同士で争う姿は、組織や集団が抱える複雑な関係の縮図や。目指すべき頂が明確なら、他者のやり方にとらわれず、自分たちの環境や力に合った道を模索することが大事やで。焦らず見極めながら進む姿勢が信頼を築く鍵や。"
+      "commentary": "訴訟話は一面の情報や感情で判断せんことや。商売も人間関係も、表面だけで動くと信頼失うで。疑問感じたら、焦らず立ち止まって確認する。それが長く続く信用の種まきやと心得て、次の一手を考えなあかんな。"
     }
   ]
 }
