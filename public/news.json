@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-04-14T19:27:51.052Z",
+  "generatedAt": "2026-04-15T03:30:47.227Z",
   "run": {
-    "ranAt": "2026-04-14T19:27:51.052Z",
+    "ranAt": "2026-04-15T03:30:47.227Z",
     "runner": "github-actions",
-    "runId": "24418654016"
+    "runId": "24434915231"
   },
   "stock": [
+    {
+      "title": "株価 5万8000円台回復 イラン協議再開の見方で買い注文集まる",
+      "body": "15日の東京株式市場、イラン情勢をめぐってアメリカとイランの間で近く協議が再開するとの見方から原油の先物価格が下落していることを背景に多くの銘柄に買い注文が集まり、日経平均株価は取引時間中としてはおよそ1か月半ぶりに5万8000円台を回復しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015099751000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260415/k10015099751000.html",
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
+    },
+    {
+      "title": "鶏肉も値上がり 業界関係者「消費者の節約志向が背景」",
+      "body": "鶏肉の3月の小売価格は、もも肉100グラム当たりおよそ150円と平年に比べて1割ほど高く、業界関係者は消費者の節約志向により、割安な鶏肉の需要が高まっていることが主な要因だとみています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015099401000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260415/k10015099401000.html",
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
+    },
+    {
+      "title": "ハクオウロボ／自動フォークリフト量産モデルの初回ロットが完売",
+      "body": "<![CDATA[<p>ハクオウロボティクスは、自動フォークリフト「AutoFork」量産モデルについて、2025年12月末の提供開始から約3か月で、初回生産ロット（10台）が完売し、生産中の次回ロットについても受注が進行していると発表した。  [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0415101.html\">ハクオウロボ／自動フォークリフト量産モデルの初回ロットが完売</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=319522",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=319522",
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
+    },
+    {
+      "title": "TOYOROBO／ラボにRUCKUSのネット基盤導入、AMRなど多機種ロボットを統合運営",
+      "body": "<![CDATA[<p>TOYOROBOは4月15日、千葉県習志野市に開設した自社ラボ「Fusion Stride Space（Landport習志野 Techrum Hub内）」で、RUCKUS Networks社のクラウド型統合ネットワーク [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0415601.html\">TOYOROBO／ラボにRUCKUSのネット基盤導入、AMRなど多機種ロボットを統合運営</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=319516",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=319516",
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
+    },
+    {
+      "title": "UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war",
+      "body": "&lt;p&gt;British aid to double as 19m people face acute hunger, but summit unlikely to end conflict amid Saudi-UAE tensions &lt;/p&gt;&lt;p&gt;The British foreign secretary, Yvette Cooper, will urge Sudan’s warring parties to “cease bloodshed” during a major conference on Wednesday, which analysts believe is unlikely to deliver a significant step towards peace.&lt;/p&gt;&lt;p&gt;The talks in Berlin – held on the third anniversary of the start of Sudan’s &lt;a href=\"https://www.theguardian.com/global-development/2026/mar/25/heroism-horror-and-the-pits-of-hell-inside-the-last-days-of-el-fasher\"&gt;ruinous war&lt;/a&gt; – are expected to help address a catastrophic funding shortfall that is compounding the world’s worst humanitarian crisis.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae",
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
+    },
     {
       "title": "IMF 世界経済の成長率 イラン情勢影響で引き下げ見通し",
       "body": "イラン情勢による世界経済への影響が懸念される中、IMF＝国際通貨基金は最新の見通しを公表しました。ことしの経済成長率はエネルギー価格の高騰によって3.1％に引き下げられ、影響が拡大した場合には成長率が2％程度まで落ち込むと予測しています。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015099621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015099621000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "国交省 不適切整備で全日空に業務改善勧告",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015099601000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015099601000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "安田倉庫／グループの国内2拠点で医薬品製造業の新規許可を取得",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319354",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319354",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "国交省／多様な主体によるドローン活用などの取り組みを補助金で後押し",
@@ -36,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319432",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319432",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "Survivors ask why busy market bombed in Nigerian anti-terror campaign",
@@ -44,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "株価が上昇 軍事作戦直後の水準に 米とイラン協議の再開期待で",
@@ -52,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015098761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015098761000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "日産 販売モデル9割に自動運転などAI活用へ 長期経営方針",
@@ -60,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015099021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015099021000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "倒産／アサヒフードに破産手続き開始決定、物流施設や工事現場で売店など経営",
@@ -68,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319483",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319483",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "阪神高速／2026年度は23か所の料金所を順次ETC専用に切り替え",
@@ -76,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319486",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319486",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says",
@@ -84,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "サンマの国際会議 大阪で始まる 漁獲量の上限引き下げが焦点に",
@@ -92,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015098831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015098831000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "CRE／岩手県紫波町で危険品倉庫備える物流施設の開発プロジェクトに着手",
@@ -100,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319186",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319186",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "センコー、福山通運／福島県須賀川市に貨物集約機能持つ中継輸送拠点を開所",
@@ -108,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319165",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319165",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "円相場 1ドル=159円台後半 イラン情勢受け値下がり",
@@ -116,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260413/k10015098411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260413/k10015098411000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "日銀植田総裁 “イラン情勢なお不透明 影響を注視”",
@@ -124,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260413/k10015098391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260413/k10015098391000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church",
@@ -132,7 +172,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
@@ -140,7 +180,7 @@
       "sourceURL": "https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "長期金利 一時2.49％に 1999年2月以来の高水準 物価上昇懸念で",
@@ -148,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260413/k10015097981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260413/k10015097981000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "株価 400円余 値下がり 米イラン協議合意至らず売り優勢",
@@ -156,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260413/k10015098141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260413/k10015098141000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "愛知製鋼／最適な物流管理体制構築へ「物流プロジェクト」を設置",
@@ -164,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319336",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319336",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "JR東日本スマートロジ／首都圏113駅の多機能ロッカーでBounceが利用可能に",
@@ -172,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319339",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319339",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "‘This scene is alive’: Abidjan art week showcases city as growing cultural hub",
@@ -180,7 +220,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "【きょうのおはBiz 4月13日(月)】原油高騰 「再生重油」に注目",
@@ -188,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260413/k10015098061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260413/k10015098061000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "東邦亜鉛／次期社長に佐藤義和 常務、CROとCLOを兼務",
@@ -196,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319192",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319192",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
@@ -204,7 +244,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "“食料品の消費税をゼロする減税”で価格はどうなる？",
@@ -212,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260412/k10015097651000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260412/k10015097651000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "ソフトバンク NECやホンダなどと新会社設立 “国産AIを開発”",
@@ -220,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260412/k10015097731000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260412/k10015097731000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "SBSHD／鹿児島県に「物流センター霧島」竣工、九州エリアの戦略拠点に",
@@ -228,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318979",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318979",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "西濃運輸／愛知県豊明市に2.7万m2のロジ・トランス一体型物流施設着工",
@@ -236,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=318973",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=318973",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "Benin holds presidential election four months after failed coup",
@@ -244,7 +284,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/12/benin-presidential-election",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "ラピダスに6315億円の研究開発費を追加支援と発表 経産省",
@@ -252,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260411/k10015097261000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260411/k10015097261000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "特定技能制度めぐり「外食業」での受け入れ 上限達する見通し",
@@ -260,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260411/k10015096961000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260411/k10015096961000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "Prince Harry sued for defamation by charity he co-founded",
@@ -268,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "農林水産物や食品の輸出拡大へ 経産省と農水省が新チーム設置",
@@ -276,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096831000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "停戦を受け緊急セミナー 中東地域進出企業から安全確保の相談",
@@ -284,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096791000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
@@ -292,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "株価 一時 約1か月ぶりの5万7000円台に",
@@ -300,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015095401000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015095401000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "【きょうのおはBiz4月10日(金) 】原油高騰 消費者心理は？",
@@ -308,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096331000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "関通HD 決算／2月期の売上高20.1％増、セキュリティ体制の抜本的強化などで各利益が回復",
@@ -316,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319108",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319108",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "関通HD／現地法人を米国ハワイに設立、リスクマネジメント高度化へ",
@@ -324,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319105",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319105",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "鈴木農相 イラン情勢受け 農業用資材の流通実態把握進める考え",
@@ -332,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096411000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "中国 3月の消費者物価指数 6か月連続でプラスに",
@@ -340,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260410/k10015096431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260410/k10015096431000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "佐川急便／新作コラム、仕事の舞台裏 ドライバーに聞いた「あるある」を紹介",
@@ -348,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319018",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319018",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "JALUX／沖縄県の生マグロを冷凍せず直送、24時間以内に首都圏で販売へ",
@@ -356,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319009",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319009",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     },
     {
       "title": "NY原油市場 WTI先物価格が上昇 再び一時1バレル＝100ドル台に",
@@ -364,100 +404,60 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015096181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260409/k10015096181000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
-    },
-    {
-      "title": "ホルムズ海峡 停戦合意後に通過の船舶３隻のみ 位置情報の分析",
-      "body": "アメリカとイランが2週間にわたる停戦で合意したあと、ホルムズ海峡を通過した船舶は9日朝までの24時間で、確認できただけでも3隻のみだったことが船の位置情報の分析でわかりました。ペルシャ湾内にはまだおよそ1000隻の船舶がとどまっていて、海上交通の正常化には時間がかかりそうです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015095751000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260409/k10015095751000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
-    },
-    {
-      "title": "改正物流効率化法案／衆議院で審議入り、委員会で金子国交大臣が趣旨説明",
-      "body": "<![CDATA[<p>今国会に提出された改正物流効率化法案は衆議院で審議入りし、4月8日に開かれた第3回国土交通委員会では、金子恭之国土交通大臣が貨物自動車中継輸送事業の促進や運転者の運送・荷役効率化などを盛り込んだ改正法案の趣旨を説明した。 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0409106.html\">改正物流効率化法案／衆議院で審議入り、委員会で金子国交大臣が趣旨説明</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=318967",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=318967",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
-    },
-    {
-      "title": "人手不足倒産／3年連続で過去最高を更新、運送業も55件で過去最多に",
-      "body": "<![CDATA[<p>帝国データバンク（TDB）は4月9日、2025年度の人手不足倒産の動向調査結果を発表した。 ＜人手不足倒産　年度別の件数推移＞ それによると、2025年度の人手不足倒産は441件発生し、前年度の350件から約1.3倍に増 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0409701.html\">人手不足倒産／3年連続で過去最高を更新、運送業も55件で過去最多に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=318862",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=318862",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
-    },
-    {
-      "title": "政府 大手石油元売りに重要施設へ直接販売要請 イラン情勢影響",
-      "body": "イラン情勢の影響で医療や公共交通などの分野で石油の調達に懸念の声が出ていることを受けて、政府は9日、大手石油元売りに対し、重要施設に直接販売を行うよう文書で要請しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260409/k10015096061000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260409/k10015096061000.html",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
-    },
-    {
-      "title": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
-      "body": "&lt;p&gt;Olivia has been detained for months at the sprawling Dilley center in Texas. She has lost 20lbs, and wakes up every day with a headache&lt;/p&gt;&lt;p&gt;Each day in detention feels like 48 hours for Olivia.&lt;/p&gt;&lt;p&gt;The 19-year-old asylum seeker from the Democratic Republic of the Congo has been at the Dilley Immigration Processing Center in Texas for more than four months.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
-      "fetchedAt": "2026-04-14T19:27:25.651Z"
+      "fetchedAt": "2026-04-15T03:30:23.245Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "IMF 世界経済の成長率 イラン情勢影響で引き下げ見通し",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015099621000.html",
-      "summary": "国際通貨基金（IMF）は、イラン情勢の影響を踏まえ、今年の世界経済成長率見通しを3.1％に下方修正しました。エネルギー価格の上昇が主な要因であり、情勢の悪化が続くと成長率は約2％まで低下する可能性があるとしています。",
+      "title": "株価 5万8000円台回復 イラン協議再開の見方で買い注文集まる",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015099751000.html",
+      "summary": "15日の東京株式市場では、アメリカとイランの協議再開が近いとの見方から原油先物価格が下落しました。これを受けて多くの銘柄に買い注文が入り、日経平均株価は約1か月半ぶりに5万8000円台を回復しました。",
       "classification": {
-        "tone": "B",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
-      },
-      "commentary": "世界の経済状況がイラン情勢で揺れてるなか、短期の数字に振り回されるんは避けなあかん。苦労して得た成長や成果が本物かどうか、常に自分の商売の根っこを見つめ直すことが大事や。焦らずに真の目的に立ち返る姿勢が信頼を支えるで。"
-    },
-    {
-      "source": "NHK",
-      "title": "国交省 不適切整備で全日空に業務改善勧告",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015099601000.html",
-      "summary": "国土交通省は、全日本空輸の整備士が航空機整備に関して虚偽の記録を作成するなど不適切な行為があったと確認し、14日に同社へ業務改善を求める勧告を出しました。全日空は来月15日までに再発防止策を提出するよう指示されています。",
-      "classification": {
-        "tone": "B",
+        "tone": "G",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "も",
-        "phrase": "もうアカン 思たトコから もう一歩"
+        "leadingKana": "と",
+        "phrase": "遠い道 一歩進めば 一歩近づく"
       },
-      "commentary": "不適切な記録に直面した時、つい心が折れそうになるけど、そこで止まったら信頼は戻らへん。今回の勧告は、改善のための一歩を踏み出す機会。焦らず地道に取り組むことで、次に繋がる信頼が積み上がるんや。"
+      "commentary": "今回の株価回復は、一度に大きな変化ではなく、地道な状況の積み重ねが背景や。市場の動きは一歩一歩の積み重ねやから、焦らず現実を見据えて、次の判断に活かしていくことが大事やねん。"
     },
     {
-      "source": "LNEWS",
-      "title": "安田倉庫／グループの国内2拠点で医薬品製造業の新規許可を取得",
-      "sourceURL": "https://www.lnews.jp/?p=319354",
-      "summary": "安田倉庫は4月14日、国内のグループ2拠点で医薬品製造業に関わる新たな許可を取得したと発表した。該当施設は大阪府茨木市の茨木営業所と岡山県真庭市の安田ロジファーマ北房センターで、医薬品の包装・表示・保管を含む業務が対象となっている。これにより、両拠点での医薬品関連業務が正式に認められた。",
+      "source": "NHK",
+      "title": "鶏肉も値上がり 業界関係者「消費者の節約志向が背景」",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015099401000.html",
+      "summary": "3月の鶏もも肉の小売価格が、100グラムあたり約150円と例年より約10％上昇しました。業界関係者は、この値上がりの背景に節約志向の高まりがあり、比較的安価な鶏肉の需要増加が影響していると指摘しています。",
       "classification": {
-        "tone": "G",
-        "term": "L"
+        "tone": "N",
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "医薬品製造の許可取得は、社会の期待に応える新たな一歩や。短期的な利益だけやなく、日々の積み重ねで信頼築き、地域や業界にしっかり貢献していく姿勢が問われるで。商売は社会のためにあるんやと、改めて考える時やな。"
+      "commentary": "鶏肉の値上げ、節約志向との絡みもあるけど、そこで「何がほんまに求められてるか」を深掘りせなあかん。表面だけ追うんやなく、現場の声にきちんと耳を傾けて、次の一手を探ることが信頼の積み重ねに繋がるんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "国交省／多様な主体によるドローン活用などの取り組みを補助金で後押し",
-      "sourceURL": "https://www.lnews.jp/?p=319432",
-      "summary": "国土交通省は4月14日、荷主や物流事業者、地方自治体などが連携して進める物流負荷軽減に向けた取り組みを支援するため、受け取り拠点の整備や貨客混載・共同配送、ドローン活用などの先進的事業に対し、経費の一部を補助する制度を創設した。",
+      "title": "ハクオウロボ／自動フォークリフト量産モデルの初回ロットが完売",
+      "sourceURL": "https://www.lnews.jp/?p=319522",
+      "summary": "ハクオウロボティクスが提供する自動フォークリフト「AutoFork」の量産モデルは、2025年12月末の発売から約3か月で初回生産分の10台が完売したことが明らかになった。現在も次の生産ロットに対する受注が進んでいるという。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "お",
+        "phrase": "おおきにと 言われてなんぼ 言うてなんぼ"
+      },
+      "commentary": "初回ロット完売は、まずは「おおきに」と言われる結果やろな。ただ、それに甘んじず、次の動きを着実に進める姿勢が信頼を築くわ。商売は一回の成功だけやなく、日々の積み重ねで評価されるもんやから、周囲への感謝忘れずに取り組み続けたいもんやね。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "TOYOROBO／ラボにRUCKUSのネット基盤導入、AMRなど多機種ロボットを統合運営",
+      "sourceURL": "https://www.lnews.jp/?p=319516",
+      "summary": "TOYOROBOは千葉県習志野市の自社ラボ「Fusion Stride Space」に、RUCKUS Networksのクラウド型統合ネットワーク基盤を導入した。これにより、自律移動ロボット（AMR）をはじめとする複数機種のロボットを一元的に管理・運用する環境を整備した。",
       "classification": {
         "tone": "G",
         "term": "M"
@@ -466,22 +466,22 @@
         "leadingKana": "た",
         "phrase": "鷹の目と 地虫の目と 人の目"
       },
-      "commentary": "物流の現場は多様な立場が絡む複雑な舞台や。補助金でドローンや共同配送を支援する動きは、全体の流れを俯瞰しつつ、現場の細かな課題にも目を凝らす必要がある。けど一番大事なんは、そこに関わる人の思いを見失わんことや。信頼は日々の積み重ねやから、真摯に向き合う姿勢が次の一歩をつくるで。"
+      "commentary": "TOYOROBOが多機種ロボットの統合運営にネット基盤を導入した動きは、広い視野で全体像を捉えつつ、現場の細かな課題も掘り下げている証しや。加えて、人の目で未来の信頼と持続性を見据え、日々の積み重ねを大切にする姿勢が問われる局面やな。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Survivors ask why busy market bombed in Nigerian anti-terror campaign",
-      "sourceURL": "https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group",
-      "summary": "ナイジェリア軍による北東部ボルノ州とヨベ州の境界にあるジリ市場への空爆で、最大200人の死者が出ました。軍はこれを「精密な空爆」と説明していますが、生存者や専門家は多くの民間人が犠牲になったことに疑問を呈しています。今回の攻撃は過去10年にわたる同地域での民間人被害を伴う空爆の一環とされています。",
+      "title": "UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war",
+      "sourceURL": "https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae",
+      "summary": "イギリスの外相イヴェット・クーパー氏は、スーダン紛争開始から3年となる記念日に開かれるベルリン会議で、武力衝突の停止を求める予定です。会議は深刻な人道危機に対応するための資金不足の解消を目指しますが、サウジアラビアとUAE間の対立もあり、和平に向けた大きな進展は見込まれていません。英国は支援規模を倍増させる方針です。",
       "classification": {
-        "tone": "B",
-        "term": "L"
+        "tone": "N",
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "れ",
-        "phrase": "冷淡な　あいつの心は　仏さん"
+        "leadingKana": "よ",
+        "phrase": "世の中は 広いんやから 驚くな"
       },
-      "commentary": "戦の中でも、人の心は冷静さと理を求めるもんや。損得だけで動くんやなく、相手の立場や理由を知ることで、信頼の種がまかれるんや。感情に流されず、事実と理屈を重ねて、次の一手を考える、それが商いの真髄やと思うで。"
+      "commentary": "世界の複雑な争いはわしらの日常とは遠い話やけど、慌てず騒がず受け止めることが大事や。目先の結果だけにとらわれず、長い時間をかけて築く信頼と思いやりが、次の一歩を支えるんやで。"
     }
   ]
 }
