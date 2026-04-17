@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-04-17T08:01:10.701Z",
+  "generatedAt": "2026-04-17T13:49:05.951Z",
   "run": {
-    "ranAt": "2026-04-17T08:01:10.701Z",
+    "ranAt": "2026-04-17T13:49:05.951Z",
     "runner": "github-actions",
-    "runId": "24554556392"
+    "runId": "24568484222"
   },
   "stock": [
+    {
+      "title": "財政制度等審議会 骨太の方針めぐり議論 市場の信認確保を",
+      "body": "財務大臣の諮問機関、財政制度等審議会が開かれ、政府が、夏にまとめる「骨太の方針」で財政運営のあり方をどう示すかを検討するにあたっては、市場の信認を得られるかに留意すべきだという意見が出されました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015102001000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260417/k10015102001000.html",
+      "fetchedAt": "2026-04-17T13:48:39.144Z"
+    },
+    {
+      "title": "軽油カルテル 東京地検特捜部が5社を独禁法違反の罪で起訴",
+      "body": "石油販売各社が、東京都内の運送業者向けの軽油の販売価格を不正に引き上げるなどのカルテルを結んでいたとして、東京地検特捜部は17日、5社を独占禁止法違反の罪で起訴しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101721000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260417/k10015101721000.html",
+      "fetchedAt": "2026-04-17T13:48:39.144Z"
+    },
+    {
+      "title": "三菱地所／神奈川県横須賀市に1.46万m2のBTS型倉庫着工、1年で引き渡し予定",
+      "body": "<![CDATA[<p>三菱地所は4月17日、神奈川県横須賀市夏島町で「ロジクロス横須賀」を4月3日に着工したと発表した。 なお、本件は「（仮称）神奈川県横須賀市夏島町物流施設計画」として推進してきたもので、着工にあたりプロジェクト名称を変更し [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0417705.html\">三菱地所／神奈川県横須賀市に1.46万m2のBTS型倉庫着工、1年で引き渡し予定</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=319972",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=319972",
+      "fetchedAt": "2026-04-17T13:48:39.144Z"
+    },
+    {
+      "title": "NXHD／カナダ・英米拠点の3PLを子会社化、取得価額は2070億円",
+      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングス（NXHD）は4月17日、カナダ、米国、英国を主な拠点とする物流企業「Metro Supply Chain Group」の全株式取得について、同日付けで株式譲渡契約の締結を取締 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0417704.html\">NXHD／カナダ・英米拠点の3PLを子会社化、取得価額は2070億円</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=319936",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=319936",
+      "fetchedAt": "2026-04-17T13:48:39.144Z"
+    },
+    {
+      "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
+      "body": "&lt;p&gt;Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy&lt;/p&gt;&lt;p&gt;Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in conjunction with an upper air cut-off low, led to thunderstorms over north Africa. Their intensity was aided by the hot precursor conditions.&lt;/p&gt;&lt;p&gt;Algeria and Tunisia were notably affected by the thunderstorms, with some hail accumulation layers as a result. When so much hail forms, it starts to lay down sheets of hail, covering the ground like snow. Hail accumulations of up to 3cm were reported in Oum Ladjoul and Hammam Sokhna in Algeria, and there were hailstones of up to 3cm in diameter in Makthar, Tunisia. Thunderstorms continued in the region through the following day, with further hail accumulations, notably in Ouled Bousmir, Tunisia, where there was a layer about 2cm deep.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
+    },
     {
       "title": "先端半導体の新研究施設 北海道で2028年度の稼働目指す",
       "body": "先端半導体の量産を目指すラピダスなどでつくる「最先端半導体技術センター」は、北海道千歳市に新たに設ける研究施設について、2年後の2028年度の稼働を目指す考えを明らかにしました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101681000.html",
-      "fetchedAt": "2026-04-17T08:00:44.988Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "ホンダ 中国の一部自動車工場を6月から休止へ 競争激化で",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101671000.html",
-      "fetchedAt": "2026-04-17T08:00:44.988Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "プロロジス／ECで経産省「物流効率化実証事業」の自動化プロジェクトに参画",
@@ -28,23 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319888",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319888",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
-    },
-    {
-      "title": "NXHD／カナダ・英米拠点の3PLを子会社化、新たな顧客基盤の獲得へ",
-      "body": "<![CDATA[<p>NXホールディングス（NXHD）は4月17日、カナダ、米国、英国を主な拠点とする物流企業「Metro Supply Chain Group」の全株式取得について、同日付けで株式譲渡契約の締結を取締役会で決議したと発表した [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0417704.html\">NXHD／カナダ・英米拠点の3PLを子会社化、新たな顧客基盤の獲得へ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=319936",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=319936",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
-    },
-    {
-      "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
-      "body": "&lt;p&gt;Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy&lt;/p&gt;&lt;p&gt;&lt;br&gt;\r\n This week has seen severe thunderstorms affect the Mediterranean. On Monday, a surface low-pressure system in the Mediterranean in conjunction with an upper air cut-off low, lead to thunderstorms over north Africa. Their intensity was aided by the hot precursor conditions.&lt;/p&gt;&lt;p&gt;Algeria and Tunisia were notably affected by the thunderstorms, with some hail accumulation layers as a result. When so much hail forms, it starts to lay down sheets of hail, covering the ground like snow. Hail accumulations of up to 3cm were reported in Oum Ladjoul and Hammam Sokhna in Algeria, and there were hailstones of up to 3cm in diameter fell in Makthar, Tunisia. Thunderstorms continued in the region through the following day, with further hail accumulations, notably in Ouled Bousmir, Tunisia, where there was a layer of about deep.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "鈴木農相 “加工・米粉など主食用以外のコメ生産促す”",
@@ -52,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101471000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "軽油カルテルで公取委が5社を独禁法違反疑いで刑事告発",
@@ -60,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101511000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "商船三井／INPEXと新造LNG船「HARMONIC BREEZE」を長期用船契約",
@@ -68,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319861",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319861",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "日本通運相撲部／国際女子選抜堺大会で福里選手が優勝、奥富選手が準優勝",
@@ -76,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319849",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319849",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "South African politician Julius Malema given five-year jail term for gun offence",
@@ -84,7 +108,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "滋賀銀行と池田泉州HD 資本業務提携で最終調整",
@@ -92,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015101121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015101121000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "サンリオ 常務が不適切な報酬受領の疑いで調査始める",
@@ -100,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015101061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015101061000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "トランコム／愛知県豊田市に2.6万m2の自動車部品物流戦略拠点落成",
@@ -108,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319831",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319831",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "東京建物／埼玉県白岡市に4.4万m2のマルチテナント型物流施設を竣工",
@@ -116,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319768",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319768",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "株価 終値の最高値更新 米イランの協議進展に期待",
@@ -124,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015100561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015100561000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "「原油」って？「ナフサ」って？ニュースでよく聞くことば",
@@ -132,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015098931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015098931000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "ヒューマノイドEXPO／人とロボットが共に働く時代へ、ビッグサイトで初開催",
@@ -140,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319801",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319801",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
@@ -148,7 +172,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "【きょうのおはBiz 4月16日(木)】原油高 アジア各国の対応策は",
@@ -156,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015100611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015100611000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "連載 物流の読解術 第37回：物流施設の種類と配置計画の課題 －物流施設の配置計画を考える(1)－",
@@ -164,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319174",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319174",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "Hacobu／動態管理サービスで労働時間管理機能を提供開始",
@@ -172,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319711",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319711",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "TBSがBS4K終了を発表 民放5社がすべて終了へ",
@@ -180,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015100231000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260415/k10015100231000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "イラン情勢 ナフサ価格高騰が日用品に影響 値上げの動きも…",
@@ -188,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015100031000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260415/k10015100031000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "三和倉庫／大阪府大東市で危険物の自動ラック倉庫を6月竣工へ",
@@ -196,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319531",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319531",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "日本ロジテム／中西伸次郎副社長が社長に昇格、中西弘毅社長は会長に",
@@ -204,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319678",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319678",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "Justice denied: why families of apartheid victims are still searching for answers",
@@ -212,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "話題の船「ちきゅう」の中へ レアアースふくむ泥どうとった？",
@@ -220,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015087631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260415/k10015087631000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "株価 5万8000円台回復 米 イラン近く協議再開との見方から",
@@ -228,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015099751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260415/k10015099751000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "JR貨物／2025年度の輸送実績、コンテナは 1.6％増、車扱は1.9％減",
@@ -236,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319672",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319672",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "大和ハウス工業／宮城県利府町と災害時支援協定を締結、物流施設の共用部分提供など",
@@ -244,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319666",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319666",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "鶏肉も値上がり 業界関係者「消費者の節約志向が背景」",
@@ -252,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015099401000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260415/k10015099401000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "ハクオウロボ／自動フォークリフト量産モデルの初回ロットが完売",
@@ -260,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319522",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319522",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "TOYOROBO／ラボにRUCKUSのネット基盤導入、AMRなど多機種ロボットを統合運営",
@@ -268,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319516",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319516",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war",
@@ -276,7 +300,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "IMF 世界経済の成長率 イラン情勢影響で引き下げ見通し",
@@ -284,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015099621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015099621000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "国交省 不適切整備で全日空に業務改善勧告",
@@ -292,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015099601000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015099601000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "安田倉庫／グループの国内2拠点で医薬品製造業の新規許可を取得",
@@ -300,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319354",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319354",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "国交省／多様な主体によるドローン活用などの取り組みを補助金で後押し",
@@ -308,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319432",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319432",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "Survivors ask why busy market bombed in Nigerian anti-terror campaign",
@@ -316,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "株価が上昇 軍事作戦直後の水準に 米とイラン協議の再開期待で",
@@ -324,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015098761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015098761000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "日産 販売モデル9割に自動運転などAI活用へ 長期経営方針",
@@ -332,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015099021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015099021000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "倒産／アサヒフードに破産手続き開始決定、物流施設や工事現場で売店など経営",
@@ -340,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319483",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319483",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "阪神高速／2026年度は23か所の料金所を順次ETC専用に切り替え",
@@ -348,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319486",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319486",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says",
@@ -356,7 +380,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "サンマの国際会議 大阪で始まる 漁獲量の上限引き下げが焦点に",
@@ -364,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260414/k10015098831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260414/k10015098831000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "CRE／岩手県紫波町で危険品倉庫備える物流施設の開発プロジェクトに着手",
@@ -372,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319186",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319186",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     },
     {
       "title": "センコー、福山通運／福島県須賀川市に貨物集約機能持つ中継輸送拠点を開所",
@@ -380,99 +404,75 @@
       "sourceURL": "https://www.lnews.jp/?p=319165",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319165",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
-    },
-    {
-      "title": "円相場 1ドル=159円台後半 イラン情勢受け値下がり",
-      "body": "週明けの13日の東京外国為替市場、週末に行われたアメリカとイランによる協議が合意に至らず原油価格が上昇したことで円を売る動きが出て、円相場は値下がりしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260413/k10015098411000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260413/k10015098411000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
-    },
-    {
-      "title": "日銀植田総裁 “イラン情勢なお不透明 影響を注視”",
-      "body": "日銀の植田総裁は13日、信託業界の会合に寄せたあいさつで、イラン情勢が不透明で、原油価格の上昇が景気の下押しにも物価の押し上げにもつながる可能性があると指摘し、経済、物価への影響を注意深く見ていく考えを示しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260413/k10015098391000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260413/k10015098391000.html",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
-    },
-    {
-      "title": "Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church",
-      "body": "&lt;p&gt;Pontiff makes first papal visit to country as he starts 11-day tour that will also include stops in Cameroon and Angola&lt;/p&gt;&lt;p&gt;Pope Leo XIV has arrived in Algeria for the first papal visit to the country, calling for peace on the opening stop of a tour of Africa that signals the continent’s growing importance to the Catholic church.&lt;/p&gt;&lt;p&gt;The 11-day trip, which will include stops in Cameroon, Angola and Equatorial Guinea, is the longest by Pope Leo since being elected to the papacy in May last year.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church",
-      "fetchedAt": "2026-04-17T08:00:44.989Z"
+      "fetchedAt": "2026-04-17T13:48:39.145Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "先端半導体の新研究施設 北海道で2028年度の稼働目指す",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101681000.html",
-      "summary": "先端半導体の量産を進めるラピダスなどの企業が参加する「最先端半導体技術センター」は、北海道千歳市に新たな研究施設を設置し、2028年度の稼働開始を目標にしていることを発表しました。",
+      "title": "財政制度等審議会 骨太の方針めぐり議論 市場の信認確保を",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015102001000.html",
+      "summary": "財務大臣の諮問機関である財政制度等審議会が開かれ、政府が夏に策定予定の「骨太の方針」における財政運営の方針について議論が行われました。会合では、政策が市場からの信頼を得ることが重要であるとの指摘が示されました。",
       "classification": {
-        "tone": "G",
+        "tone": "N",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "か",
-        "phrase": "カイゼンは  みんなの宝"
+        "leadingKana": "そ",
+        "phrase": "外は外 内は内やぞ 混ぜるなよ"
       },
-      "commentary": "新しい半導体研究所の立ち上げは、技術の進化に向けての積み重ねや仲間の気づきを活かす動きやな。焦らず日々の改善を積んでいくことで、堅実で変わらん信頼の基盤が築かれていく。未来の成果は皆の宝になる、そんな姿勢が大事やで。"
+      "commentary": "財政の話も、内と外の視点がちゃうて当然や。政府の方針は外の市場の信頼を大事にせなあかんけど、内側の事情も見落とせへん。両者を混ぜて無理に合わせようとせんと、それぞれの役割を見極めることが信頼を積む基本やと心得ときたいもんや。"
     },
     {
       "source": "NHK",
-      "title": "ホンダ 中国の一部自動車工場を6月から休止へ 競争激化で",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101671000.html",
-      "summary": "ホンダは、中国市場での販売不振を受け、6月から一部の現地自動車工場を休止する方針を示しました。競合他社との価格競争が激化していることが背景にあり、生産体制の見直しを通じて収益性の向上を目指しています。",
+      "title": "軽油カルテル 東京地検特捜部が5社を独禁法違反の罪で起訴",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101721000.html",
+      "summary": "東京都内の運送業者向け軽油の価格を不正に引き上げるカルテルを結んだとして、東京地検特捜部は17日、石油販売の5社を独占禁止法違反で起訴しました。各社の価格操作が問題視されており、法的措置が取られています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "つ",
-        "phrase": "つまらない 話もコトも しなさんな"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "競争が厳しい市場で、無理に動かし続けるのは得策やない。ホンダの判断は生産の見直しで、無意味な負担を避ける姿勢や。日々の積み重ねで信頼築くには、やりたくないことを見極め、自分のリソースを大切にする勇気も必要やで。"
+      "commentary": "価格競争の中で短期的な利益を追うあまり、本来の信頼や持続可能な関係を見失いがちや。商売は社会と繋がるもんやから、目先の数字だけにとらわれず、何が本当に価値あるものか考え続ける姿勢が肝心やで。"
     },
     {
       "source": "LNEWS",
-      "title": "プロロジス／ECで経産省「物流効率化実証事業」の自動化プロジェクトに参画",
-      "sourceURL": "https://www.lnews.jp/?p=319888",
-      "summary": "プロロジスは4月17日、STOCKCREWや特定の荷主企業と連携し、経済産業省の「持続可能な物流効率化実証事業」に採択された自動化プロジェクトに参加すると発表した。このプロジェクトは、EC市場の拡大に伴う物流の効率化を目指している。",
+      "title": "三菱地所／神奈川県横須賀市に1.46万m2のBTS型倉庫着工、1年で引き渡し予定",
+      "sourceURL": "https://www.lnews.jp/?p=319972",
+      "summary": "三菱地所は神奈川県横須賀市夏島町にて、延床面積約1万4600平方メートルのBTS型倉庫「ロジクロス横須賀」の建設を4月3日に開始した。これは以前の仮称「神奈川県横須賀市夏島町物流施設計画」から名称変更したもので、完成後は約1年で引き渡される見込みとなっている。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
+        "leadingKana": "な",
+        "phrase": "何するか 分からん時は 基礎鍛錬"
       },
-      "commentary": "物流の効率化に向けた自動化は、隠し事なしで情報を共有し合うからこそ進むもんや。EC拡大の波に乗るには、透明な連携が信頼の土台になる。短期の成果だけ見ず、日々の積み重ねで次の一手を考える姿勢が大切やな。"
+      "commentary": "物流施設の新設は一朝一夕で結果が出るもんやない。計画から着工、引き渡しまで地道に基礎を固める工程が続く。それを経て信頼が積み重なるわけやから、慌てず着実に歩を進める大切さを再認識せなあかん。"
     },
     {
       "source": "LNEWS",
-      "title": "NXHD／カナダ・英米拠点の3PLを子会社化、新たな顧客基盤の獲得へ",
+      "title": "NXHD／カナダ・英米拠点の3PLを子会社化、取得価額は2070億円",
       "sourceURL": "https://www.lnews.jp/?p=319936",
-      "summary": "NXホールディングスは4月17日、カナダ、米国、英国を中心に事業を展開する物流企業「Metro Supply Chain Group」の全株式を取得する株式譲渡契約を取締役会で承認した。これにより、同社は子会社化を進め、新たな顧客基盤の拡大を目指す。",
+      "summary": "NIPPON EXPRESSホールディングスは、カナダ、米国、英国を中心に展開する物流企業「Metro Supply Chain Group」の全株式を取得し、子会社化する契約を4月17日に締結した。取得価額は約2070億円で、同社のグローバル物流事業の強化を目的としている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
+        "leadingKana": "い",
+        "phrase": "いつだって  3％と 1/3"
       },
-      "commentary": "NXHDが海外の物流企業を子会社化した動きは、新たな顧客基盤を築くうえで透明性と信頼を重視する姿勢が求められます。秘密を抱えず、情報を開示しながら関係を育むことで、持続的な信頼が生まれる。短期的な成果に惑わされず、日々の積み重ねを大切にせなあかんで。"
+      "commentary": "NXHDが海外3PLを大きな投資で子会社化したんは、国際物流の広がりに対応する戦略やろな。日々の3％の無駄探しを忘れんと、じっくり見極めて大胆に効率化も図る、その両方が信頼の積み重ねに繋がる。慌てず焦らず、次の一手を考える姿勢が肝心やで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
       "sourceURL": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
-      "summary": "地中海地域で今週、低気圧と上空の気圧配置により激しい雷雨が発生しました。特にアルジェリアとチュニジアで雹が大量に降り、一部地域では地面が雪のように覆われました。アルジェリアのオウム・ラジュールやハンマム・ソクナで最大3cmの雹の積もりが確認され、チュニジアのマクトハルでは直径3cmの雹が降りました。雷雨は数日間続き、チュニジアのウレッド・ブスマイルでは厚い雹の層が形成されました。",
+      "summary": "地中海地域では今週、激しい雷雨が発生しました。北アフリカのアルジェリアとチュニジアでは、低気圧と上空の寒気の影響で雹が大量に降り積もり、地面が雪のように覆われました。アルジェリアのオウム・ラジュールやハンマム・ソクナでは最大3cmの雹の層が観測され、チュニジアのマクサールでは直径3cmの雹が降りました。雷雨は翌日まで続き、チュニジアのウレッド・ブスマイルでは約2cmの雹が積もりました。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -481,7 +481,7 @@
         "leadingKana": "て",
         "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "異例のひょう被害、自然の変化は商売にも影響大や。慌てて見過ごすんやなく、何が起きてるか深掘りせなあかん。単なる驚きで終わらせず、疑問を持って確かめることが信頼の土台になる。焦らず「何や？」と問うて、現場の実態をしっかり掴む姿勢が次に繋がるで。"
+      "commentary": "異変に気づいたら、ただ受け流すんやなく、何が起きてるのかちゃんと確かめることやね。自然の変化もビジネスの動きも、表面だけ見て適当に済ませたら信頼は積まれへん。現状を正確に把握し、次の一手を考える姿勢が、長い目で見て大事やで。"
     }
   ]
 }
