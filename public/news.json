@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-04-21T08:05:20.636Z",
+  "generatedAt": "2026-04-21T14:02:23.303Z",
   "run": {
-    "ranAt": "2026-04-21T08:05:20.636Z",
+    "ranAt": "2026-04-21T14:02:23.303Z",
     "runner": "github-actions",
-    "runId": "24711258196"
+    "runId": "24726722489"
   },
   "stock": [
-    {
-      "title": "株価 値上がり 米イラン2回目協議実現との見方から",
-      "body": "21日の東京株式市場はイラン情勢をめぐって戦闘終結に向けた協議が進展するのではないかという見方が広がり、日経平均株価は値上がりしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104411000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260421/k10015104411000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
-    },
     {
       "title": "地震影響 荷物の配達遅れ 臨時休校 カキ水揚げ中止も",
       "body": "20日の三陸沖を震源とする地震で、フェリーや鉄道が一部運休したことから荷物の配達で遅れが出ているということです。小中学校の臨時休校や、養殖業者の水揚げ中止など、各地で影響が広がっています。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104421000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
-      "title": "日本郵船／アンモニア燃料エンジン向け潤滑油分析を事業化",
-      "body": "<![CDATA[<p>日本郵船は4月21日、同社グループの日本油化工業が、アンモニア燃料エンジンの状態監視を目的とした潤滑油分析事業を開始すると発表した。 アンモニア燃料は、温室効果ガス（GHG）をほとんど排出しない次世代燃料として、海運にお [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0421706.html\">日本郵船／アンモニア燃料エンジン向け潤滑油分析を事業化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=320251",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=320251",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "title": "イラン情勢影響 ポリ袋など購入制限の商社 食用油値上げも",
+      "body": "イラン情勢を受けた石油製品の値上がりなどを背景に、都内にある包装資材を扱う専門商社では、石油由来の原料から作られているテープなど一部の商品を21日から値上げしました。会社では安定して商品を調達するために海外での新たな取引先の開拓に力を入れているということです。国内の影響をまとめました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104661000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260421/k10015104661000.html",
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
-      "title": "Shippio／サイバーポート経由でNACCS連携、通関手続のDXを円滑化",
-      "body": "<![CDATA[<p>貿易DXを推進するShippioは4月21日、国際物流プラットフォーム「Shippio Platform」が、「サイバーポート」を経由した「NACCS」との連携を推進すると発表した。 ＜「Shippio Platform [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0421705.html\">Shippio／サイバーポート経由でNACCS連携、通関手続のDXを円滑化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=320242",
+      "title": "花王・三菱食品／業界横断荷主9社参加の共同配送コンソーシアム発足",
+      "body": "<![CDATA[<p>花王と三菱食品は4月21日、業界横断の荷主連合による共同配送コンソーシアム「CODE（Cargo Owners’ Data-driven Ecosystem）」を発足させた。コンソーシアムには、旭食品、あらた、トーハン、 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0421101.html\">花王・三菱食品／業界横断荷主9社参加の共同配送コンソーシアム発足</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=320149",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=320242",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "id": "www.lnews.jp/?p=320149",
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
+    },
+    {
+      "title": "安田倉庫／富山県トラックの全株式を取得、北陸での医薬品物流など拡充",
+      "body": "<![CDATA[<p>安田倉庫は4月21日、富山県で一般貨物自動車運送業と倉庫業を営む富山県トラックの全株式を取得、グループ化した。 ＜富山県トラックの車両＞ 富山県トラックは、業歴50年を超える運送会社で、富山県内に2か所・保管面積約920 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0421105.html\">安田倉庫／富山県トラックの全株式を取得、北陸での医薬品物流など拡充</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=320236",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=320236",
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
@@ -44,7 +44,31 @@
       "sourceURL": "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
+    },
+    {
+      "title": "株価 値上がり 米イラン2回目協議実現との見方から",
+      "body": "21日の東京株式市場はイラン情勢をめぐって戦闘終結に向けた協議が進展するのではないかという見方が広がり、日経平均株価は値上がりしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104411000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260421/k10015104411000.html",
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
+    },
+    {
+      "title": "日本郵船／アンモニア燃料エンジン向け潤滑油分析を事業化",
+      "body": "<![CDATA[<p>日本郵船は4月21日、同社グループの日本油化工業が、アンモニア燃料エンジンの状態監視を目的とした潤滑油分析事業を開始すると発表した。 アンモニア燃料は、温室効果ガス（GHG）をほとんど排出しない次世代燃料として、海運にお [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0421706.html\">日本郵船／アンモニア燃料エンジン向け潤滑油分析を事業化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=320251",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=320251",
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
+    },
+    {
+      "title": "Shippio／サイバーポート経由でNACCS連携、通関手続のDXを円滑化",
+      "body": "<![CDATA[<p>貿易DXを推進するShippioは4月21日、国際物流プラットフォーム「Shippio Platform」が、「サイバーポート」を経由した「NACCS」との連携を推進すると発表した。 ＜「Shippio Platform [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0421705.html\">Shippio／サイバーポート経由でNACCS連携、通関手続のDXを円滑化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=320242",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=320242",
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "燃油サーチャージ引き上げ 金子国交相「丁寧な説明を」",
@@ -52,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104351000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "きょうのおはBiz 4月21日(火) 肥料供給懸念 日本への影響は？",
@@ -60,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104331000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "セイノースーパーエクスプレス／特殊輸送に密着した動画「セイノードライブ」第3弾公開",
@@ -68,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320155",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320155",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "traevo／都築電機の動態管理サービスと連携、データ収集で物流最適化を加速",
@@ -76,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320152",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320152",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "全日空 日本航空 国際線燃油サーチャージ引き上げ 5月に前倒し",
@@ -84,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260420/k10015103431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260420/k10015103431000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "地震・津波で宅配に影響 北海道・東北中心に配達停止や遅れ",
@@ -92,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260420/k10015103971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260420/k10015103971000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "日本GLP／東京都昭島市でマルチテナント型3棟・総敷地52万m2の開発へ、計画方針を公表",
@@ -100,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320119",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320119",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "JAL／中東情勢受け燃油サーチャージ月2回改定へ、上限300ドルに拡大",
@@ -108,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320140",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320140",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "株価 値上がり イラン情勢不透明で様子見も",
@@ -116,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260420/k10015103421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260420/k10015103421000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew",
@@ -124,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "NY原油先物価格上昇 1バレル91ドル台に 米イラン協議不透明で",
@@ -132,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260420/k10015103241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260420/k10015103241000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "三菱地所／神奈川県横須賀市に1.46万m2のBTS型倉庫着工、1年で引き渡し予定",
@@ -140,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319972",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319972",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "NXHD／カナダ・英米拠点の3PLを子会社化、取得価額は2070億円",
@@ -148,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319936",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319936",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
@@ -156,7 +180,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "米政府と対立する新興AI企業アンソロピック 高官と意見交わす",
@@ -164,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260418/k10015102301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260418/k10015102301000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "NYダウ 一時1100ドル上昇 NY原油市場 先物価格80ドル台に急落",
@@ -172,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260418/k10015102201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260418/k10015102201000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
@@ -180,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "Ｇ7重要鉱物会議 供給網の多角化に向けた取り組み加速を確認",
@@ -188,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260418/k10015102161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260418/k10015102161000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "財政制度等審議会 骨太の方針めぐり議論 市場の信認確保を",
@@ -196,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015102001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015102001000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "軽油カルテル 東京地検特捜部が5社を独禁法違反の罪で起訴",
@@ -204,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101721000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
@@ -212,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "先端半導体の新研究施設 北海道で2028年度の稼働目指す",
@@ -220,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101681000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.627Z"
     },
     {
       "title": "ホンダ 中国の一部自動車工場を6月から休止へ 競争激化で",
@@ -228,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101671000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "プロロジス／ECで経産省「物流効率化実証事業」の自動化プロジェクトに参画",
@@ -236,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319888",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319888",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "鈴木農相 “加工・米粉など主食用以外のコメ生産促す”",
@@ -244,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101471000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "軽油カルテルで公取委が5社を独禁法違反疑いで刑事告発",
@@ -252,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260417/k10015101511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260417/k10015101511000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "商船三井／INPEXと新造LNG船「HARMONIC BREEZE」を長期用船契約",
@@ -260,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319861",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319861",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "日本通運相撲部／国際女子選抜堺大会で福里選手が優勝、奥富選手が準優勝",
@@ -268,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319849",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319849",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "South African politician Julius Malema given five-year jail term for gun offence",
@@ -276,7 +300,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "滋賀銀行と池田泉州HD 資本業務提携で最終調整",
@@ -284,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015101121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015101121000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "サンリオ 常務が不適切な報酬受領の疑いで調査始める",
@@ -292,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015101061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015101061000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "トランコム／愛知県豊田市に2.6万m2の自動車部品物流戦略拠点落成",
@@ -300,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319831",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319831",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "東京建物／埼玉県白岡市に4.4万m2のマルチテナント型物流施設を竣工",
@@ -308,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319768",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319768",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "株価 終値の最高値更新 米イランの協議進展に期待",
@@ -316,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015100561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015100561000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "「原油」って？「ナフサ」って？ニュースでよく聞くことば",
@@ -324,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015098931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015098931000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "ヒューマノイドEXPO／人とロボットが共に働く時代へ、ビッグサイトで初開催",
@@ -332,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319801",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319801",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
@@ -340,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "【きょうのおはBiz 4月16日(木)】原油高 アジア各国の対応策は",
@@ -348,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260416/k10015100611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260416/k10015100611000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "連載 物流の読解術 第37回：物流施設の種類と配置計画の課題 －物流施設の配置計画を考える(1)－",
@@ -356,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319174",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319174",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "Hacobu／動態管理サービスで労働時間管理機能を提供開始",
@@ -364,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=319711",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=319711",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "TBSがBS4K終了を発表 民放5社がすべて終了へ",
@@ -372,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015100231000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260415/k10015100231000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     },
     {
       "title": "イラン情勢 ナフサ価格高騰が日用品に影響 値上げの動きも…",
@@ -380,69 +404,60 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260415/k10015100031000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260415/k10015100031000.html",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
-    },
-    {
-      "title": "三和倉庫／大阪府大東市で危険物の自動ラック倉庫を6月竣工へ",
-      "body": "<![CDATA[<p>三和倉庫は4月15日、大阪府大東市に3400パレット保管できる危険物自動ラック倉庫を新設すると発表した。深刻化する化学品物流の保管ひっ迫を解消するため、6月に竣工の予定。 ＜新倉庫の完成予想図＞ ＜自動ラック倉庫内イメー [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0415602.html\">三和倉庫／大阪府大東市で危険物の自動ラック倉庫を6月竣工へ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=319531",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=319531",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
-    },
-    {
-      "title": "日本ロジテム／中西伸次郎副社長が社長に昇格、中西弘毅社長は会長に",
-      "body": "<![CDATA[<p>日本ロジテムは4月15日開催の取締役会で、中西伸次郎 代表取締役副社長が、代表取締役社長に昇格する人事を発表した。 急速に変化する経営環境を踏まえ、新たな経営体制の下で持続的な成長を図り、一層の企業価値の向上を目指す方針 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0415503.html\">日本ロジテム／中西伸次郎副社長が社長に昇格、中西弘毅社長は会長に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=319678",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=319678",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
-    },
-    {
-      "title": "Justice denied: why families of apartheid victims are still searching for answers",
-      "body": "&lt;p&gt;Struggle for justice symbolises limitations of Truth and Reconciliation Commission, whose hearings began 30 years ago&lt;/p&gt;&lt;p&gt;Darkness had fallen on 27 June 1985 when Fort Calata, Matthew Goniwe, Sicelo Mhlauli and Sparrow Mkonto set off on the 150-mile drive back from a meeting of anti-apartheid activists in the South African city of Port Elizabeth, now known as Gqeberha. They never made it home.&lt;/p&gt;&lt;p&gt;About an hour into their journey, as the road wound north from the coast towards their home town of Cradock (now called Nxuba), the four men were pulled over by three white security police officers. They were handcuffed and driven back towards Gqeberha.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
-      "fetchedAt": "2026-04-21T08:04:56.167Z"
+      "fetchedAt": "2026-04-21T14:01:57.628Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "株価 値上がり 米イラン2回目協議実現との見方から",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104411000.html",
-      "summary": "21日の東京株式市場では、イラン情勢に関して戦闘終結を目指す協議が2回目に実現する可能性が高まったとの見方が広がりました。この期待感を背景に、日経平均株価は上昇しました。",
-      "classification": {
-        "tone": "G",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "と",
-        "phrase": "遠い道 一歩進めば 一歩近づく"
-      },
-      "commentary": "情勢が動く度に株価も揺れるけど、焦らず一歩ずつ進む姿勢が肝心や。目の前の変化に一喜一憂せんと、着実な積み重ねで信頼を築いてこそ、商売も景気も道が開けるんやで。"
-    },
-    {
-      "source": "NHK",
       "title": "地震影響 荷物の配達遅れ 臨時休校 カキ水揚げ中止も",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104421000.html",
-      "summary": "20日に三陸沖を震源とする地震の影響で、フェリーや鉄道の運休が発生し、荷物の配達に遅れが生じています。また、一部の小中学校では臨時休校が実施され、養殖業者はカキの水揚げを中止するなど、地域の様々な活動に影響が出ています。",
+      "summary": "20日に三陸沖で発生した地震の影響で、フェリーと鉄道の一部運休が生じ、荷物の配達に遅延が発生しています。また、複数の地域で小中学校が臨時休校となり、養殖業者はカキの水揚げを中止するなど、様々な分野で影響が広がっています。",
       "classification": {
         "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "め",
-        "phrase": "目を見て 話せん奴を 信用すな"
+        "leadingKana": "こ",
+        "phrase": "ゴミが落ちていたら拾うんです"
       },
-      "commentary": "今回の地震で物流や生活に遅れが出てるけど、信頼は日々の丁寧なやりとりで築くもんや。お客さんと真正面から向き合い、事情を正直に伝える姿勢が大事やね。顔見て話せへん相手には、信用も積み上がらへん。困難な時ほど誠実さが問われるんやで。"
+      "commentary": "自然の影響で仕事が滞る時こそ、周囲の小さな不便や問題にも気を配る姿勢が大事や。遅れや中止に目を向けるだけやなく、日々の細やかな対応が信頼の積み重ねになる。見えへんところの「落ちてるもん」を放っとかず、次の行動に活かすことが、長く続くあきんどの道やで。"
+    },
+    {
+      "source": "NHK",
+      "title": "イラン情勢影響 ポリ袋など購入制限の商社 食用油値上げも",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104661000.html",
+      "summary": "イラン情勢の影響で石油製品の価格が上昇していることから、東京都内の包装資材を扱う商社が21日より、石油由来原料を使ったテープなど商品の値上げを実施しました。同社は安定調達を目指し、海外の新規取引先開拓にも注力しています。また、食用油の価格上昇も報告されています。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "や",
+        "phrase": "やるんかい やらんのやったら どいとれや"
+      },
+      "commentary": "イラン情勢で原料高騰、値上げや調達先開拓に動く商社の対応は、無難に構えるだけやったらチャンス逃す話や。役割見据えつつも、一歩前に出て動く姿勢が、信頼の積み重ねと持続に繋がるんやなと考えさせられるわ。"
     },
     {
       "source": "LNEWS",
-      "title": "日本郵船／アンモニア燃料エンジン向け潤滑油分析を事業化",
-      "sourceURL": "https://www.lnews.jp/?p=320251",
-      "summary": "日本郵船は、グループ会社の日本油化工業を通じて、アンモニア燃料エンジンの状態監視を目的とした潤滑油分析事業を開始すると発表した。アンモニア燃料は温室効果ガス排出がほぼない次世代の海運燃料として注目されている。",
+      "title": "花王・三菱食品／業界横断荷主9社参加の共同配送コンソーシアム発足",
+      "sourceURL": "https://www.lnews.jp/?p=320149",
+      "summary": "花王と三菱食品は4月21日、複数業界の荷主企業9社が参加する共同配送コンソーシアム「CODE（Cargo Owners’ Data-driven Ecosystem）」を設立した。この取り組みは、荷主間の連携を強化し配送効率の向上を目指すもので、旭食品やあらた、トーハンなども参画している。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
+      },
+      "commentary": "業界の垣根越えて協力の輪を広げる。短期の利にとらわれず、地道に信頼築く姿勢こそ次に繋がる。今だけでなく、これからも続く道と心得、日々の積み重ねを大切にせなあかん。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "安田倉庫／富山県トラックの全株式を取得、北陸での医薬品物流など拡充",
+      "sourceURL": "https://www.lnews.jp/?p=320236",
+      "summary": "安田倉庫は4月21日、富山県で一般貨物運送と倉庫業を営む富山県トラックの全株式を取得し、グループ化を完了した。富山県トラックは50年以上の歴史を持ち、県内に2拠点、約920平方メートルの保管スペースを有している。今回の買収により、安田倉庫は北陸地域での医薬品物流などの事業拡大を図る方針である。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -451,28 +466,13 @@
         "leadingKana": "か",
         "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "次世代の燃料技術に挑む動きは、ただ新しい商売を追うだけやのうて、仲間みんなで育てる宝や。日々の点検や改善を重ねて信頼を築き、持続可能な道を探る。その積み重ねがしなやかで強い商売の土台になる。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "Shippio／サイバーポート経由でNACCS連携、通関手続のDXを円滑化",
-      "sourceURL": "https://www.lnews.jp/?p=320242",
-      "summary": "貿易のデジタル化を進めるShippioは、4月21日に自社の国際物流プラットフォーム「Shippio Platform」が、サイバーポートを介して通関業務の電子申請システム「NACCS」と連携することを発表した。この連携により、通関手続きのデジタルトランスフォーメーションがスムーズに進む見込みである。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "の",
-        "phrase": "ノコの歯は 引いて切って 押して切る"
-      },
-      "commentary": "ShippioがNACCS連携にサイバーポート経由を活用し、通関手続きのDX化を進める動きは、単一の工程に複数の価値を重ねる姿勢に似てるわな。物流の現場も一つの作業で複数の目的を果たしてこそ、継続的な信頼が築ける。焦らず、地道に効率を積み上げる工夫がこれからの鍵やと思うで。"
+      "commentary": "物流の拡大は単なる規模の増加や利益追求だけやあらへん。長年築いてきた信頼と現場の知恵を活かして、みんなで改善を積み重ねることが大事や。変化を受け止め、次の一手を考える姿勢が、しなやかな商売の土台になるんやで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
       "sourceURL": "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
-      "summary": "俳優で元バレエダンサーのシャーリーズ・セロンが、ティモシー・シャラメのバレエやオペラに関する発言に対し異議を唱えた。ニューヨーク・タイムズのインタビューで、セロンはシャラメの発言を「無謀」と表現し、これらの芸術形態の重要性を強調した。また、将来的にAIがシャラメの役割を果たせても、生の舞台で踊る人間の代わりにはならないと述べた。",
+      "summary": "俳優で元バレエダンサーのシャーリーズ・セロンが、ティモシー・シャラメのバレエやオペラに関する発言に対し批判の声を上げた。セロンはニューヨーク・タイムズのインタビューで、シャラメのコメントを「軽率」と評し、これらの芸術形式は支援が必要だと述べた。また、将来的にAIがシャラメの仕事を代替できても、生の舞台で踊る人間は代わりにならないと強調した。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -481,7 +481,7 @@
         "leadingKana": "て",
         "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "舞台の世界は繊細で、言葉の扱いも慎重さが求められますわな。表面的な賛同より、相手の心情や背景を丁寧に確かめることが信頼の第一歩。慌てず、しっかり深掘りして理解を重ねる姿勢が、長く愛されるあきんどの務めやと思いますで。"
+      "commentary": "表面的な評価に流されず、発言の背景や影響を丁寧に受け止める姿勢が大事やね。軽率な言葉は誤解を生みやすいから、相手の意図や立場を尋ね、深く理解することが信頼を築く第一歩やで。焦らず真摯に聞くことが、共感と尊重の礎になるんや。"
     }
   ]
 }
