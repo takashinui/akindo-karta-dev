@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-04-24T03:38:11.194Z",
+  "generatedAt": "2026-04-24T08:16:44.038Z",
   "run": {
-    "ranAt": "2026-04-24T03:38:11.194Z",
+    "ranAt": "2026-04-24T08:16:44.038Z",
     "runner": "github-actions",
-    "runId": "24870918850"
+    "runId": "24879545491"
   },
   "stock": [
     {
-      "title": "改正農林中金法成立 巨額赤字受け運用の専門家 理事登用可能に",
-      "body": "資金の運用に失敗し、巨額の赤字を計上した「農林中央金庫」について、運用に精通している外部の専門家を理事会のメンバーに加えられることなどを盛り込んだ改正農林中央金庫法が24日の参議院本会議で可決・成立しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107151000.html",
+      "title": "AIの進化見据え金融庁が作業部会 官民連携で対策検討へ",
+      "body": "アメリカの新興AI企業が開発したAIモデルをめぐって、金融システムのリスクになるのではないかという警戒が広がる中、金融庁は新たな作業部会をつくり、AIの技術進歩を踏まえたセキュリティー対策を大手銀行などと検討していくことになりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107431000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260424/k10015107151000.html",
-      "fetchedAt": "2026-04-24T03:37:45.524Z"
+      "id": "www3.nhk.or.jp/news/html/20260424/k10015107431000.html",
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
-      "title": "片山財務相 為替は日米緊密連携 株価6万円は“強い経済 象徴”",
-      "body": "外国為替市場で円相場が1ドル＝159円台後半まで値下がりしていることについて、片山財務大臣は閣議のあとの記者会見で、投機的な動きに強く影響されている部分があるとして日米の当局間で緊密に連携していく考えを改めて示しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107091000.html",
+      "title": "日経平均株価 終値の最高値を更新 半導体関連銘柄が買われる",
+      "body": "24日の東京株式市場は、イラン情勢の不透明感が続く中でAI関連の市場拡大への期待感から一部の半導体関連の銘柄に買い注文が入り、日経平均株価は値上がりして、終値としての最高値を更新しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107171000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260424/k10015107091000.html",
-      "fetchedAt": "2026-04-24T03:37:45.524Z"
+      "id": "www3.nhk.or.jp/news/html/20260424/k10015107171000.html",
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
-      "title": "ヤマト運輸／ハローキティの限定コラボグッズ販売、抽選の反響受け商品化",
-      "body": "<![CDATA[<p>ヤマト運輸は4月24日より、ハローキティのオリジナルコラボレーション商品をオンライン限定で販売する。 ■関連記事 ヤマト運輸／宅急便50周年の感謝を込め3000人にハローキティとのコラボグッズ 2026年02月10日 ＜ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0424701.html\">ヤマト運輸／ハローキティの限定コラボグッズ販売、抽選の反響受け商品化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=320620",
+      "title": "ANA Cargo／サティスファクトリーと廃プラを資源化、航空貨物で循環スキーム開始",
+      "body": "<![CDATA[<p>ANA Cargoは4月24日、廃棄物マネジメントを行うサティスファクトリーと、航空貨物輸送における使用済みプラスチック類を対象に資源循環の取り組みを開始したと発表した。 ＜循環のイメージ＞ 資源循環は2026年4月より [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0424706.html\">ANA Cargo／サティスファクトリーと廃プラを資源化、航空貨物で循環スキーム開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=320773",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=320620",
-      "fetchedAt": "2026-04-24T03:37:45.524Z"
+      "id": "www.lnews.jp/?p=320773",
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
-      "title": "T2／トラック自動運転と有人運転の切り替え拠点を神奈川県と神戸市に設置",
-      "body": "<![CDATA[<p>T2は4月24日、レベル4自動運転トラックによる幹線輸送サービスの実現に向けて、物流事業者として国内で初めて、高速道路での無人運転と一般道での有人運転を切り替える拠点として、神奈川県綾瀬市に「トランスゲート綾瀬」、神戸市 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0424101.html\">T2／トラック自動運転と有人運転の切り替え拠点を神奈川県と神戸市に設置</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=320611",
+      "title": "じげん／中古車輸出の「TCV」にDHLのSAF活用輸送サービスを導入",
+      "body": "<![CDATA[<p>じげんは4月22日、グループ会社TCVが運営する中古車輸出プラットフォーム「TCV」に、DHLジャパンのSAF（持続可能な航空燃料）を活用した輸送サービス「GoGreen Plus」を導入したと発表した。国際輸送に伴うC [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0424602.html\">じげん／中古車輸出の「TCV」にDHLのSAF活用輸送サービスを導入</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=320758",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=320611",
-      "fetchedAt": "2026-04-24T03:37:45.524Z"
+      "id": "www.lnews.jp/?p=320758",
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
+    },
+    {
+      "title": "改正農林中金法成立 巨額赤字受け運用の専門家 理事登用可能に",
+      "body": "資金の運用に失敗し、巨額の赤字を計上した「農林中央金庫」について、運用に精通している外部の専門家を理事会のメンバーに加えられることなどを盛り込んだ改正農林中央金庫法が24日の参議院本会議で可決・成立しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107151000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260424/k10015107151000.html",
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
+    },
+    {
+      "title": "片山財務相 為替は日米緊密連携 株価6万円は“強い経済 象徴”",
+      "body": "外国為替市場で円相場が1ドル＝159円台後半まで値下がりしていることについて、片山財務大臣は閣議のあとの記者会見で、投機的な動きに強く影響されている部分があるとして日米の当局間で緊密に連携していく考えを改めて示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107091000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260424/k10015107091000.html",
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
+    },
+    {
+      "title": "ヤマト運輸／ハローキティの限定コラボグッズ販売、抽選の反響受け商品化",
+      "body": "<![CDATA[<p>ヤマト運輸は4月24日より、ハローキティのオリジナルコラボレーション商品をオンライン限定で販売する。 ■関連記事 ヤマト運輸／宅急便50周年の感謝を込め3000人にハローキティとのコラボグッズ 2026年02月10日 ＜ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0424701.html\">ヤマト運輸／ハローキティの限定コラボグッズ販売、抽選の反響受け商品化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=320620",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=320620",
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
+    },
+    {
+      "title": "T2／トラック自動運転と有人運転の切り替え拠点を神奈川県と神戸市に設置",
+      "body": "<![CDATA[<p>T2は4月24日、レベル4自動運転トラックによる幹線輸送サービスの実現に向けて、物流事業者として国内で初めて、高速道路での無人運転と一般道での有人運転を切り替える拠点として、神奈川県綾瀬市に「トランスゲート綾瀬」、神戸市 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0424101.html\">T2／トラック自動運転と有人運転の切り替え拠点を神奈川県と神戸市に設置</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=320611",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=320611",
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "台湾TSMC 2029年から1.3ナノメートル級半導体量産へ",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260423/k10015106891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260423/k10015106891000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "欧州 EV新車販売が大幅増 イラン情勢で燃料上昇や補助金影響か",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260423/k10015106861000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260423/k10015106861000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "アセンド／第3回カンファレンス開催、現役CLOら招き物流改革加速へ議論",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320533",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320533",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "ヤマトHD／ファンド通じ韓国の自律走行ロボット開発のスタートアップに出資",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320458",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320458",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "3月の石油化学製品の国内生産量 大幅減少 イラン情勢の影響で",
@@ -84,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260423/k10015106501000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260423/k10015106501000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "株価 6万円の大台初めて突破 その後は売り注文膨らみ値下がり",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260423/k10015106061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260423/k10015106061000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "大手損保3社の社員 出向中にトヨタ内部情報を持ち出し",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260423/k10015106451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260423/k10015106451000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "愛知製鋼／特殊鋼で1万円以上の値上げ、鉄スクラップや輸送費の高騰など受け",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320593",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320593",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "コープ自然派／兵庫県加古川市にAGV活用の物流センター開設、6月に本格稼働",
@@ -116,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320581",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320581",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "政府 牧野フライスTOBに中止勧告 “国の安全損なうおそれ”",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260423/k10015106171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260423/k10015106171000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "羽田空港 国際線で搭乗手続きシステムに不具合 一部の便に遅れ",
@@ -132,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260423/k10015106211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260423/k10015106211000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "SGシステム／自社設計可能なWES「Biz-Logi WES」提供開始、中堅企業でも導入容易",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320464",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320464",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "欧州の航空会社の大幅減便相次ぐ イラン情勢受け燃料価格高騰",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260422/k10015105931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260422/k10015105931000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "片山金融相 金融関係者と会合へ 米の新興企業のAIモデルめぐり",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260422/k10015105721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260422/k10015105721000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "セイノーHD・AZ-COM丸和HD／物流ネットワークの連携目的に業務提携",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320407",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320407",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "トラスコ中山／新潟県三条市に4.8万m2の物流センター竣工、輸入商品の集約保管も",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320443",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320443",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
@@ -180,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "ガソリン価格 全国平均1リットル169.5円 170円程度の水準続く",
@@ -188,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260422/k10015105481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260422/k10015105481000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "株価 終値の最高値を更新 イラン情勢の警戒感和らぐ",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260422/k10015105231000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260422/k10015105231000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "NTTロジスコ／店舗運営での業務負担を軽減する付加価値型配送サービス",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320422",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320422",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "3月貿易統計 原油輸入は減らず 中東向けの輸出は大幅減",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260422/k10015105171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260422/k10015105171000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "日本郵船／グループ初となるLNG運搬船の女性船長が誕生、台湾の船舶管理会社で",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320311",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320311",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "セイノースーパーエクスプレス／X公式アカウント開設、輸送の裏側など発信へ",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320317",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320317",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "米小売統計 ガソリン高で増加 原油高の個人消費への影響焦点に",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104991000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "地震影響 荷物の配達遅れ 臨時休校 カキ水揚げ中止も",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104421000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "花王・三菱食品／業界横断荷主9社参加の共同配送コンソーシアム発足",
@@ -260,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320149",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320149",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "安田倉庫／富山県トラックの全株式を取得、北陸での医薬品物流など拡充",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320236",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320236",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
@@ -276,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "イラン情勢影響 ポリ袋など購入制限の商社 食用油値上げも",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104661000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
@@ -292,7 +324,7 @@
       "sourceURL": "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "株価 値上がり 米イラン2回目協議実現との見方から",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104411000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "日本郵船／アンモニア燃料エンジン向け潤滑油分析を事業化",
@@ -308,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320251",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320251",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "Shippio／サイバーポート経由でNACCS連携、通関手続のDXを円滑化",
@@ -316,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320242",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320242",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "燃油サーチャージ引き上げ 金子国交相「丁寧な説明を」",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104351000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "きょうのおはBiz 4月21日(火) 肥料供給懸念 日本への影響は？",
@@ -332,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260421/k10015104331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260421/k10015104331000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "セイノースーパーエクスプレス／特殊輸送に密着した動画「セイノードライブ」第3弾公開",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320155",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320155",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "traevo／都築電機の動態管理サービスと連携、データ収集で物流最適化を加速",
@@ -348,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320152",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320152",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "全日空 日本航空 国際線燃油サーチャージ引き上げ 5月に前倒し",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260420/k10015103431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260420/k10015103431000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "地震・津波で宅配に影響 北海道・東北中心に配達停止や遅れ",
@@ -364,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260420/k10015103971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260420/k10015103971000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     },
     {
       "title": "日本GLP／東京都昭島市でマルチテナント型3棟・総敷地52万m2の開発へ、計画方針を公表",
@@ -372,77 +404,30 @@
       "sourceURL": "https://www.lnews.jp/?p=320119",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320119",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
-    },
-    {
-      "title": "JAL／中東情勢受け燃油サーチャージ月2回改定へ、上限300ドルに拡大",
-      "body": "<![CDATA[<p>日本航空（JAL）は4月20日、JALカーゴで新テーブルに基づき4月23日から適用される日本発国際貨物燃油サーチャージについて、適用期間と適用額の改定を国土交通省へ申請したと発表した。 今回の変更では、価格の変更頻度を従 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0420706.html\">JAL／中東情勢受け燃油サーチャージ月2回改定へ、上限300ドルに拡大</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=320140",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=320140",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
-    },
-    {
-      "title": "株価 値上がり イラン情勢不透明で様子見も",
-      "body": "週明けの20日の東京株式市場は、停戦期限を前に、アメリカとイランの協議が実現するかが不透明だとして、積極的な取り引きが控えられる中、一部の銘柄に買い注文が入り、日経平均株価は値上がりしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260420/k10015103421000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260420/k10015103421000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
-    },
-    {
-      "title": "Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew",
-      "body": "&lt;p&gt;Jubilation is turning to disenchantment as young activists arrested after protest calling for election date to be set&lt;/p&gt;&lt;p&gt;The arrest of several protesters in Madagascar has increased fears among young people that the military regime that took power last year after &lt;a href=\"https://www.theguardian.com/world/2025/oct/17/gen-z-victory-young-protesters-toppled-madagascar-leader\"&gt;huge Gen Z demonstrations&lt;/a&gt; will be no better than the government it overthrew.&lt;/p&gt;&lt;p&gt;Four Gen Z activists, Herizo Andriamanantena, Miora Rakotomalala, Dina Randrianarisoa and Nomena Ratsihorimanana, were arrested on 12 April, one of their lawyers said, two days after taking part in a protest calling for an election date to be set.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
-    },
-    {
-      "title": "NY原油先物価格上昇 1バレル91ドル台に 米イラン協議不透明で",
-      "body": "19日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝91ドル台まで上昇しました。投資家の間でアメリカとイランの協議の行方が不透明になったという受け止めが広がった形です。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260420/k10015103241000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260420/k10015103241000.html",
-      "fetchedAt": "2026-04-24T03:37:45.525Z"
+      "fetchedAt": "2026-04-24T08:16:16.202Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "改正農林中金法成立 巨額赤字受け運用の専門家 理事登用可能に",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107151000.html",
-      "summary": "農林中央金庫が巨額の運用損失を出したことを受け、運用の専門知識を持つ外部の専門家を理事に加えることを可能にする改正農林中央金庫法が、6月24日の参議院本会議で可決・成立した。これにより経営体制の強化を図る狙いが示されている。",
+      "title": "AIの進化見据え金融庁が作業部会 官民連携で対策検討へ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107431000.html",
+      "summary": "金融庁は、アメリカの新興AI企業が開発したAIモデルに関連する金融システムのリスクを踏まえ、新たな作業部会を設置しました。大手銀行などと連携し、AI技術の進展に対応したセキュリティ対策の検討を進める方針です。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "か",
-        "phrase": "カイゼンは  みんなの宝"
+        "leadingKana": "さ",
+        "phrase": "さぁ行こか ココまで落ちたら 上がるだけ"
       },
-      "commentary": "運用失敗から学びを得て、専門家を理事に迎える改正は、組織の柔軟さと強さを育てる一歩や。日々の改善を積み重ねる姿勢が、信頼を支え、持続的な成長につながるんやで。"
+      "commentary": "新しい技術の波に備えて、金融の現場が慎重に動き出してるわけや。うまくいかん時もあるやろけど、焦らずに根気よく対策を積み重ねることが信頼につながる。変化の中で次の一手を考え続ける姿勢が肝心やで。"
     },
     {
       "source": "NHK",
-      "title": "片山財務相 為替は日米緊密連携 株価6万円は“強い経済 象徴”",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107091000.html",
-      "summary": "片山財務大臣は、円相場が1ドル＝159円台後半まで下落している状況について、投機的な動きが影響していると指摘しました。今後も日米当局が緊密に連携して対応する意向を示しました。また、株価が6万円台に達していることを強い経済の象徴として捉えていると述べました。",
-      "classification": {
-        "tone": "N",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
-      },
-      "commentary": "為替の動きに「ん？」と思うのは自然や。市場は一瞬の動きに左右されやすいけど、焦らず着実な連携を重ねることが肝心や。短期の波に振り回されんと、信頼を積み重ねる日々の判断こそが強い経済の礎になるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "ヤマト運輸／ハローキティの限定コラボグッズ販売、抽選の反響受け商品化",
-      "sourceURL": "https://www.lnews.jp/?p=320620",
-      "summary": "ヤマト運輸は、ハローキティとのコラボレーション商品をオンライン限定で販売開始した。これは以前行われた抽選での反響を受けて商品化されたもので、ファン向けの限定グッズとして提供される。販売は4月24日からスタートしている。",
+      "title": "日経平均株価 終値の最高値を更新 半導体関連銘柄が買われる",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107171000.html",
+      "summary": "24日の東京株式市場では、イラン情勢の不透明感が続くなか、AI分野の成長期待を背景に半導体関連銘柄が買われました。この動きにより、日経平均株価は上昇し、終値ベースで過去最高値を記録しました。",
       "classification": {
         "tone": "G",
         "term": "S"
@@ -451,37 +436,52 @@
         "leadingKana": "と",
         "phrase": "遠い道 一歩進めば 一歩近づく"
       },
-      "commentary": "ヤマト運輸が限定コラボを形にしたのは、地道な反響確認の積み重ねや。商売は一発勝負やなく、日々の小さな歩みが信頼と結果を生む。焦らず着実に動く姿勢こそ、長く続く商いの肝やで。"
+      "commentary": "不透明な状況の中でも、焦らずに一歩ずつ市場の動きを見極める姿勢が大切やね。半導体関連の期待に乗る動きも、短期の波に流されず、じっくり信頼を積み上げる商売の心得を思い出すべきや。結果は日々の歩みの積み重ねやから、慌てず確実に進むことやで。"
     },
     {
       "source": "LNEWS",
-      "title": "T2／トラック自動運転と有人運転の切り替え拠点を神奈川県と神戸市に設置",
-      "sourceURL": "https://www.lnews.jp/?p=320611",
-      "summary": "T2はレベル4の自動運転トラックによる幹線輸送サービスの実現を目指し、高速道路上での無人運転と一般道での有人運転を切り替える拠点を神奈川県綾瀬市と神戸市に設置した。これにより、国内の物流事業者として初めて両運転モードの切り替えを可能とする拠点を構築し、サービス展開を進める計画である。",
+      "title": "ANA Cargo／サティスファクトリーと廃プラを資源化、航空貨物で循環スキーム開始",
+      "sourceURL": "https://www.lnews.jp/?p=320773",
+      "summary": "ANA Cargoは4月24日、廃棄物管理を手掛けるサティスファクトリーと協力し、航空貨物で発生する使用済みプラスチックの資源循環を推進する取り組みを開始すると発表した。このスキームは2026年4月から本格的に運用される予定で、航空貨物における廃プラスチックの再利用を目指している。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "自動運転と有人運転の切り替え拠点は、物流の複雑な流れを支える重要な役割を担うわけや。技術進化の波に翻弄されんと、日々の地道な調整と信頼の積み重ねが、社会の安定を守る鍵やと心得たいところや。"
+      "commentary": "ANA Cargoが廃プラを資源化する取り組みは、一瞬の利益追求や目先の便利さに流されへん、持続可能な商売の姿勢が見えるわな。今だけやなく、未来の環境や社会も見据えて、日々の積み重ねが信頼を育てるんや。これからも変わらん覚悟で進んでいく大事さを考えさせられる案件やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "じげん／中古車輸出の「TCV」にDHLのSAF活用輸送サービスを導入",
+      "sourceURL": "https://www.lnews.jp/?p=320758",
+      "summary": "じげんは、グループ会社TCVが運営する中古車輸出プラットフォーム「TCV」において、DHLジャパンの持続可能な航空燃料（SAF）を利用した輸送サービス「GoGreen Plus」を導入したと発表した。このサービスは国際輸送時の環境負荷軽減を目的としている。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "な",
+        "phrase": "何するか 分からん時は 基礎鍛錬"
+      },
+      "commentary": "じげんがSAF活用の輸送サービスを取り入れたのは、環境に配慮しつつ事業を続ける姿勢の表れやな。新しいやり方が分からん時こそ、基本の信頼や持続性を大事にして、丁寧に積み重ねていくことが次の一手になるんやで。"
     },
     {
       "source": "Guardian｜World",
       "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
       "sourceURL": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
-      "summary": "イギリス人女性のジャネット・フォーダムさんは、過去にロマンス詐欺で約100万ポンドを騙し取られた後、失った資金の回収を試みるため西アフリカのガーナを訪れました。デボンで行われた検視では、彼女が詐欺の関係者と会うために現地へ向かい、その途中で交通事故に遭い死亡したことが報告されました。詐欺は英国、ドイツ、米国、ガーナに拠点を持つ犯行グループによるものとされています。",
+      "summary": "英国人女性のジャネット・フォーダムさんは、過去にロマンス詐欺で最大100万ポンドを騙し取られ、失った資産を取り戻すために西アフリカのガーナへ渡った後、交通事故で亡くなりました。裁判で明らかになったところでは、詐欺は英国やドイツ、米国、ガーナに拠点を置く犯行グループによるもので、被害は5年間にわたって続いていました。",
       "classification": {
         "tone": "B",
-        "term": "M"
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "や",
-        "phrase": "やるんかい やらんのやったら どいとれや"
+        "leadingKana": "あ",
+        "phrase": "あかんモンはあかん"
       },
-      "commentary": "損失取り戻すため動く勇気は尊いけど、無理せんことも大事や。商売も人生も、役割守りつつも時には踏み出す覚悟が要る。焦らず状況見極め、信頼を積み重ねながら次の一手を考えるのが、長く続くあきんどの道やで。"
+      "commentary": "騙されて失ったものを取り戻そうとする気持ち、痛いほどわかるわな。でも、どんなに事情があっても正しい筋を外したらあかん。焦らず、信頼を積み重ねる道を探す。それがあきんどの根っこや。難しいけど、ここを見失わんことや。"
     }
   ]
 }
