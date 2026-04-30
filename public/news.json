@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-04-30T03:53:46.891Z",
+  "generatedAt": "2026-04-30T08:33:08.984Z",
   "run": {
-    "ranAt": "2026-04-30T03:53:46.891Z",
+    "ranAt": "2026-04-30T08:33:08.984Z",
     "runner": "github-actions",
-    "runId": "25146440893"
+    "runId": "25155614600"
   },
   "stock": [
     {
-      "title": "株価 午前は600円超下落 イラン情勢の長期化懸念",
-      "body": "30日の東京株式市場、イラン情勢をめぐるアメリカとイランの協議の先行きに不透明感が高まる中、原油の先物価格が値上がりしたことを受けて、日経平均株価は値下がりしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111451000.html",
+      "title": "商船三井社長 ペルシャ湾外への1日も早い船舶移動で政府と連携",
+      "body": "海運大手、商船三井の田村城太郎社長は、ホルムズ海峡の事実上の封鎖が続く中、ペルシャ湾内にとどまっている船舶の1日も早い湾外への移動に向けて日本政府と緊密に連携して取り組んでいく考えを強調しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111601000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260430/k10015111451000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "id": "www3.nhk.or.jp/news/html/20260430/k10015111601000.html",
+      "fetchedAt": "2026-04-30T08:32:29.919Z"
     },
     {
-      "title": "長期金利2.5％超に 原油先物価格上昇で 株安や円安も",
-      "body": "イラン情勢をめぐるアメリカとイランの協議に不透明感が高まる中、30日の債券市場では長期金利が2.5％を超え、およそ27年ぶりの高い水準となっています。原油先物価格が一段と上昇し、国内の物価高が加速するのではないかという警戒感が強まっているためで、同時に株安や円安も進んでいます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111351000.html",
+      "title": "東京電力 次期会長に産業革新投資機構社長の横尾敬介氏を内定",
+      "body": "東京電力ホールディングスは小林喜光会長が退任し、後任として官民ファンド「産業革新投資機構」の横尾敬介社長を招く人事を内定したと発表しました。東京電力としては新たな会長のもと、抜本的な経営改善につながる他社との提携を実現できるかが焦点となります。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111751000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260430/k10015111351000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "id": "www3.nhk.or.jp/news/html/20260430/k10015111751000.html",
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "1400超の拠点を支える技術力――シーネットが示す「止まらない物流センター」の最適解",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320098",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320098",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "日本GLP／大阪府松原市で1.9万m2の「Marq」起工式、2027年7月末竣工予定",
@@ -36,7 +36,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321028",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321028",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
@@ -44,7 +44,23 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
+    },
+    {
+      "title": "株価 午前は600円超下落 イラン情勢の長期化懸念",
+      "body": "30日の東京株式市場、イラン情勢をめぐるアメリカとイランの協議の先行きに不透明感が高まる中、原油の先物価格が値上がりしたことを受けて、日経平均株価は値下がりしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111451000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260430/k10015111451000.html",
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
+    },
+    {
+      "title": "長期金利2.5％超に 原油先物価格上昇で 株安や円安も",
+      "body": "イラン情勢をめぐるアメリカとイランの協議に不透明感が高まる中、30日の債券市場では長期金利が2.5％を超え、およそ27年ぶりの高い水準となっています。原油先物価格が一段と上昇し、国内の物価高が加速するのではないかという警戒感が強まっているためで、同時に株安や円安も進んでいます。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111351000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260430/k10015111351000.html",
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "【速報中】FRB 利下げ見送り「中東情勢 不確実性高めている」",
@@ -52,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260430/k10015111161000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "NY原油市場 1バレル＝107ドル台に上昇 イラン情勢長期化懸念で",
@@ -60,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260430/k10015111271000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "円相場 一時1ドル160円台に値下がり 約3週間ぶり NY外為市場",
@@ -68,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260429/k10015111211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260429/k10015111211000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "日本関係の大型タンカー ホルムズ海峡を通過",
@@ -76,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260429/k10015110781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260429/k10015110781000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
@@ -84,7 +100,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "世界銀行 エネルギー価格がイラン情勢で去年比24％上昇見通し",
@@ -92,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260429/k10015110721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260429/k10015110721000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "NY原油100ドル超に値上がり 今月中旬以来",
@@ -116,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260428/k10015110631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260428/k10015110631000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "高松 栗林公園の土産物店 商品の入荷止まり 品切れに懸念",
@@ -124,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260428/k10015110351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260428/k10015110351000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "Taking power in Mali might be a stretch but insurgents can force hand of weakened regime",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "【詳しく】日銀 利上げ見送り決定 イラン情勢影響 慎重判断か",
@@ -140,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260428/k10015109901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260428/k10015109901000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "肥料の主原料「尿素」の輸入価格17％上昇 イラン情勢影響で",
@@ -148,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260428/k10015110331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260428/k10015110331000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "【きょうのおはBiz 4月28日(火)】進む麺業界参入 ねらいは？",
@@ -156,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260428/k10015109861000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260428/k10015109861000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "JP楽天ロジスティクス／うんこドリルとコラボ、物流の裏側を学べる教材を制作",
@@ -164,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320950",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320950",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "NX汽車物流（中国）／社長や従業員ら27人が参加し中国・広州市で植樹活動",
@@ -172,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320944",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320944",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says",
@@ -180,7 +196,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/27/gunmen-kill-at-least-29-at-football-pitch-in-north-east-nigeria-governor-says",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/27/gunmen-kill-at-least-29-at-football-pitch-in-north-east-nigeria-governor-says",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "大和証券Gがオリックス銀行を買収 預金・融資で競争力強化へ",
@@ -188,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260427/k10015109651000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260427/k10015109651000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "日立が過去最高益 イラン情勢で生産・原材料調達などに影響も",
@@ -196,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260427/k10015109551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260427/k10015109551000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "PALTAC／大阪府貝塚市に新物流センター建設へ、2030年3月稼働予定",
@@ -204,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320872",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320872",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "西濃運輸・T2／特積み中継輸送に国内で初めて自動運転トラック活用",
@@ -212,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320830",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320830",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "German tourist dies after being bitten at snake show on family holiday in Egypt",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
@@ -228,7 +244,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "NTT AI需要で国内データセンター3倍超に拡大 33年度までに",
@@ -236,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260427/k10015109341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260427/k10015109341000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "村田製作所 取引先や従業員の個人情報など約8万8000件流出か",
@@ -244,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260427/k10015109381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260427/k10015109381000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "Mali defence minister killed amid flurry of insurgent attacks",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "株価 取引時間中の最高値更新 “イランが新提案”報道で",
@@ -260,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260427/k10015109121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260427/k10015109121000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "きょうのおはBiz 4月27日(月) 今週 日米で金融政策決める会合",
@@ -268,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260427/k10015109181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260427/k10015109181000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "【PR】CBRE／奈良県「TodaPark阪奈」竣工前内覧会＆イベント5月21日開催",
@@ -276,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320782",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "JR貨物、東京製鉄ほか／鉄スクラップのトラック輸送を一部鉄道コンテナへ",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320677",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320677",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "東電 次期会長に産業革新投資機構の横尾社長を招く方向で調整",
@@ -292,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260425/k10015108381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260425/k10015108381000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "デンソー ロームへの買収提案 取り下げる方針固める",
@@ -300,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260425/k10015108281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260425/k10015108281000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "国交省／中小物流事業者のDX化を支援する実証事業の公募開始",
@@ -308,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=320665",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=320665",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "Militants and separatists launch coordinated attacks across Mali",
@@ -316,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "NY株式市場 ナスダックとS＆P500が最高値更新 インテル急騰",
@@ -332,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260425/k10015108061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260425/k10015108061000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "三菱電機 ホンハイと自動車部品で提携検討 出資受け入れも",
@@ -340,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260424/k10015107921000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "US millionaire big-game hunter dies after being crushed by elephants",
@@ -348,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "メキシコ大統領 日本に100万バレルの原油輸出で合意",
@@ -356,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260424/k10015107911000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
@@ -364,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260424/k10015107301000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "北京モーターショー開幕 ガソリン高でEVなどの優位性アピール",
@@ -372,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107461000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260424/k10015107461000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     },
     {
       "title": "AIの進化見据え金融庁が作業部会 官民連携で対策検討へ",
@@ -388,76 +404,45 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260424/k10015107431000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
-    },
-    {
-      "title": "日経平均株価 終値の最高値を更新 半導体関連銘柄が買われる",
-      "body": "24日の東京株式市場は、イラン情勢の不透明感が続く中でAI関連の市場拡大への期待感から一部の半導体関連の銘柄に買い注文が入り、日経平均株価は値上がりして、終値としての最高値を更新しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260424/k10015107171000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260424/k10015107171000.html",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
-    },
-    {
-      "title": "ANA Cargo／サティスファクトリーと廃プラを資源化、航空貨物で循環スキーム開始",
-      "body": "<![CDATA[<p>ANA Cargoは4月24日、廃棄物マネジメントを行うサティスファクトリーと、航空貨物輸送における使用済みプラスチック類を対象に資源循環の取り組みを開始したと発表した。 ＜循環のイメージ＞ 資源循環は2026年4月より [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/04/s0424706.html\">ANA Cargo／サティスファクトリーと廃プラを資源化、航空貨物で循環スキーム開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=320773",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=320773",
-      "fetchedAt": "2026-04-30T03:53:16.588Z"
+      "fetchedAt": "2026-04-30T08:32:29.920Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "株価 午前は600円超下落 イラン情勢の長期化懸念",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111451000.html",
-      "summary": "30日の東京株式市場では、米国とイランの協議の行方が不透明となる中、原油先物価格の上昇を背景に日経平均株価が午前の取引で600円超下落しました。イラン情勢の長期化が懸念され、投資家心理に影響を与えています。",
+      "title": "商船三井社長 ペルシャ湾外への1日も早い船舶移動で政府と連携",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111601000.html",
+      "summary": "商船三井の田村城太郎社長は、ホルムズ海峡の封鎖状況を踏まえ、ペルシャ湾内に停泊している船舶を早急に湾外へ移動させるため、日本政府と協力して対応を進める意向を示しました。",
       "classification": {
-        "tone": "B",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "き",
-        "phrase": "気が乗らぬ時は ちょっと待つ"
-      },
-      "commentary": "市場の動きに慌てず、今は一呼吸入れて状況を見極める時や。情勢の不透明さは焦りを生むけど、信頼は焦らず積み上げるもんや。急ぐばかりが善とは限らん。落ち着いて次の一手を考える余地は大事やで。"
-    },
-    {
-      "source": "NHK",
-      "title": "長期金利2.5％超に 原油先物価格上昇で 株安や円安も",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111351000.html",
-      "summary": "30日の債券市場で長期金利が2.5％を超え、約27年ぶりの水準に達しました。これはアメリカとイランの協議の行方が不透明な中、原油先物価格が上昇し、国内の物価上昇懸念が強まったためとみられます。同時に株価が下落し、円相場も下落傾向を示しています。",
-      "classification": {
-        "tone": "B",
+        "tone": "N",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "ふ",
-        "phrase": "不実やと 思うのならば やめなはれ"
+        "leadingKana": "ん",
+        "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "市場の動きは先を見通す難しさを教えてくれるわけや。短期の値動きに惑わされず、誠実に状況を見極めて信頼を積み重ねる。焦らず重さを見定めて、自分の商いの軸をぶらさんことが肝心やで。"
+      "commentary": "ホルムズ海峡の封鎖は、海運に大きな違和感をもたらしてるわな。そんな時こそ「ん？」を大事にして、政府と連携しながら安全な移動策を探る。焦らず現実の複雑さを見据え、持続的な信頼づくりを心掛けることが、次の一歩につながるんやで。"
     },
     {
-      "source": "LNEWS",
-      "title": "1400超の拠点を支える技術力――シーネットが示す「止まらない物流センター」の最適解",
-      "sourceURL": "https://www.lnews.jp/?p=320098",
-      "summary": "シーネットは1400を超える物流拠点の運営を支えるため、サイバー攻撃に強い倉庫管理システム（WMS）の安定稼働技術を提供している。物流業界ではシステム停止が業務に大きな影響を及ぼすため、同社は「止まらない物流センター」の実現を目指し、耐障害性の高いソリューション開発に取り組んでいる。",
+      "source": "NHK",
+      "title": "東京電力 次期会長に産業革新投資機構社長の横尾敬介氏を内定",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260430/k10015111751000.html",
+      "summary": "東京電力ホールディングスは、現会長の小林喜光氏が退任するのに伴い、次期会長に産業革新投資機構の社長、横尾敬介氏を起用する方針を固めました。新体制のもとで、経営改善や他社との連携強化が課題となる見込みです。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
+        "leadingKana": "い",
+        "phrase": "いつだって  3％と 1/3"
       },
-      "commentary": "物流センターの止まらん仕組みは、隠し事なしの情報共有あってこそや。秘密を抱えず、透明に技術力と課題をさらけ出すことで信頼が積み重なり、持続可能な運営が実現する。焦らず地道に積み上げる姿勢が肝心やで。"
+      "commentary": "東京電力の会長交代は、経営改善のための新たな一歩やけど、一朝一夕にはいかん話や。日々の3％の積み重ねで無駄を見抜き、じっくり構えて大きな改革を見極める。焦らず地道に信頼を積む姿勢が、これからの道筋を創るんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "日本GLP／大阪府松原市で1.9万m2の「Marq」起工式、2027年7月末竣工予定",
-      "sourceURL": "https://www.lnews.jp/?p=321028",
-      "summary": "日本GLPは大阪府松原市で延床面積約1万9000平方メートルの物流施設「Marq 松原」の起工式を4月28日に実施しました。この施設は大阪を拠点とするメーカー企業専用のものとして活用される予定で、完成は2027年7月末が見込まれています。",
+      "title": "1400超の拠点を支える技術力――シーネットが示す「止まらない物流センター」の最適解",
+      "sourceURL": "https://www.lnews.jp/?p=320098",
+      "summary": "シーネットは、1400を超える物流拠点の運営を支える技術を展開している。サイバー攻撃が増加する中、物流業界の倉庫管理システム（WMS）が停止するリスクに対応し、物流センターの稼働を途切れさせないためのソリューションを提供している。これにより、多様な企業の物流拠点の安定運用を目指している。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -466,22 +451,37 @@
         "leadingKana": "か",
         "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "新しい物流施設の建設は、一度きりの成果でなく、日々の現場改善の積み重ねが信頼の土台になることを教えてくれます。関わるみんなが気づきを共有し、共に成長する姿勢こそ、持続可能な商売の礎やと考えたいですね。"
+      "commentary": "システムの停止は物流の命取りやけど、そこでの改善は一人の力やなく、みんなの知恵と協力が大事や。日々の小さな気づきが積み重なって、止まらへん仕組みができる。商売は技術だけやなく、信頼の積み重ねで強くなるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "日本GLP／大阪府松原市で1.9万m2の「Marq」起工式、2027年7月末竣工予定",
+      "sourceURL": "https://www.lnews.jp/?p=321028",
+      "summary": "日本GLPは大阪府松原市で延床面積約1万9000平方メートルの物流施設「Marq 松原」の起工式を4月28日に実施しました。同施設は大阪を拠点とするメーカー専用の物流拠点として活用される予定で、完成は2027年7月末を見込んでいます。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
+      },
+      "commentary": "物流施設の計画を明確に示し、地元企業との連携も公表して進める姿勢は、信頼のもとに商売を築く基本や。秘密を抱えず、透明に伝えることで関係者の理解も深まり、長く続く仕事の土台ができるんやな。"
     },
     {
       "source": "Guardian｜World",
       "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
       "sourceURL": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home",
-      "summary": "南アフリカの裁判所は、ロバート・ムガベ元大統領の末息子ベルラミン・チャツンガ・ムガベ（28歳）に対し、移民および銃器関連の罪で罰金を科し、国外退去を命じた。これはヨハネスブルクのムガベ家の邸宅で従業員が背中を撃たれた事件とは別の件である。ベルラミンと従兄弟のトビアス・ムガベ・マトノホゼ（33歳）は当初、2月19日の銃撃事件で殺人未遂容疑を受けていた。",
+      "summary": "南アフリカの裁判所は、ヨハネスブルクの高級住宅地で従業員が銃撃された事件から約2か月後、ロバート・ムガベ元大統領の最年少の息子ベルラミン・チャトゥンガ・ムガベ（28歳）に対し、移民および銃器関連の別件で罰金を科し国外退去を命じた。事件当時、彼といとこのトビアス・ムガベ・マトンホゼ（33歳）は共に殺人未遂容疑で起訴されていた。",
       "classification": {
         "tone": "B",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ふ",
-        "phrase": "不実やと 思うのならば やめなはれ"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "身内の騒動や過去の影に惑わされず、目の前の事実に誠実に向き合うことや。見せ掛けや短絡的な判断は信頼を損なうばかり。商いも日々の積み重ねで築くもんやから、根っこが揺らいだら続かへん。難しい時こそ、正直さを重んじる姿勢が大切やで。"
+      "commentary": "今回の出来事は、表面の結果だけを追うのではなく、本質的に何を守りたいのかを問わなあかんことを示してるわ。短期の処置や見せかけの成功に惑わされず、信頼や目的に立ち返って日々の行動を見直す。商売も仕事も、そうやって積み重ねるもんやから、焦らずに本質を見失わへんようにせなあかんな。"
     }
   ]
 }
