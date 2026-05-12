@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-05-11T19:58:32.407Z",
+  "generatedAt": "2026-05-12T03:56:56.048Z",
   "run": {
-    "ranAt": "2026-05-11T19:58:32.407Z",
+    "ranAt": "2026-05-12T03:56:56.048Z",
     "runner": "github-actions",
-    "runId": "25693866423"
+    "runId": "25712376016"
   },
   "stock": [
     {
-      "title": "損保大手が委託する調査会社 サイバー攻撃で個人情報漏えいか",
-      "body": "大手損害保険会社からの委託で被害の状況を調べている調査会社がサイバー攻撃を受け、保険契約者の名前や住所、電話番号などの個人情報が漏えいしたか、漏えいの可能性があることがわかりました。保険契約者以外も含めるとおよそ3万件にのぼるということです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015118771000.html",
+      "title": "AIのリスク見据え14日に作業部会 官民連携で対策検討へ",
+      "body": "アメリカの新興AI企業が開発したAIモデルをめぐって金融システムのリスクになるのではないかという警戒が広がる中、片山金融担当大臣は14日官民の作業部会を立ち上げ、セキュリティー対策の強化などについて議論する方針を明らかにしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119221000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260512/k10015118771000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "id": "www3.nhk.or.jp/news/html/20260512/k10015119221000.html",
+      "fetchedAt": "2026-05-12T03:56:28.877Z"
     },
     {
-      "title": "日本郵船 中東向け自動車輸送でホルムズ海峡の代替ルート検討",
-      "body": "ホルムズ海峡の事実上の封鎖が続く中、海運大手の日本郵船は中東向けの自動車の輸送にあたってホルムズ海峡を通らない代替ルートの検討を進めていると明らかにしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260511/k10015118641000.html",
+      "title": "【きょうのおはBiz 5月12日(火)】クマ対策技術 最前線",
+      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119141000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260511/k10015118641000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "id": "www3.nhk.or.jp/news/html/20260512/k10015119141000.html",
+      "fetchedAt": "2026-05-12T03:56:28.877Z"
     },
     {
-      "title": "センコー／埼玉県草加市に3.5万m2のロジスティクスセンター開設",
-      "body": "<![CDATA[<p>センコーは5月8日、埼玉県草加市の物流施設「CPD草加」内に「草加ロジスティクスセンター」を開設した。 ＜草加ロジスティクスセンターの外観＞ 草加ロジスティクスセンターは、センターポイント・ディベロップメント（CPD）が [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0511101.html\">センコー／埼玉県草加市に3.5万m2のロジスティクスセンター開設</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=321622",
+      "title": "CargoLabo／航空貨物最適化プラットフォームをケイラインロジに導入",
+      "body": "<![CDATA[<p>航空貨物業界向けに業務最適化プラットフォームを提供するCargoLaboは5月12日、ケイラインロジスティックスにおいて、リアルタイム貨物追跡機能の導入が完了し、本格運用を開始したと発表した。 ＜リアルタイム貨物追跡機能 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0512501.html\">CargoLabo／航空貨物最適化プラットフォームをケイラインロジに導入</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=321781",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=321622",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "id": "www.lnews.jp/?p=321781",
+      "fetchedAt": "2026-05-12T03:56:28.877Z"
     },
     {
-      "title": "日本GLP／大阪府八尾市に1.7万m2の物流施設「Marq 八尾3」起工",
-      "body": "<![CDATA[<p>日本GLPは5月11日、大阪府八尾市で開発を進めるボックス型物流施設「Marq 八尾3」の起工式を執り行った。「Marq 八尾3」は、地上4階建て延床面積約1万7000m2で、2027年11月の竣工を予定している。 ＜「 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0511103.html\">日本GLP／大阪府八尾市に1.7万m2の物流施設「Marq 八尾3」起工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=321706",
+      "title": "NXHD／ヒューレット・パッカード関連企業から物流ソリューション評価され最高賞",
+      "body": "<![CDATA[<p>NXホールディングス（HD）は5月12日、Hewlett Packard Enterprise（HPE）が主催する「HPE Operations Partner Summit 2026」で、「Global Logisti [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0512102.html\">NXHD／ヒューレット・パッカード関連企業から物流ソリューション評価され最高賞</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=321775",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=321706",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "id": "www.lnews.jp/?p=321775",
+      "fetchedAt": "2026-05-12T03:56:28.877Z"
     },
     {
       "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.877Z"
+    },
+    {
+      "title": "損保大手が委託する調査会社 サイバー攻撃で個人情報漏えいか",
+      "body": "大手損害保険会社からの委託で被害の状況を調べている調査会社がサイバー攻撃を受け、保険契約者の名前や住所、電話番号などの個人情報が漏えいしたか、漏えいの可能性があることがわかりました。保険契約者以外も含めるとおよそ3万件にのぼるということです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015118771000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260512/k10015118771000.html",
+      "fetchedAt": "2026-05-12T03:56:28.877Z"
+    },
+    {
+      "title": "日本郵船 中東向け自動車輸送でホルムズ海峡の代替ルート検討",
+      "body": "ホルムズ海峡の事実上の封鎖が続く中、海運大手の日本郵船は中東向けの自動車の輸送にあたってホルムズ海峡を通らない代替ルートの検討を進めていると明らかにしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260511/k10015118641000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260511/k10015118641000.html",
+      "fetchedAt": "2026-05-12T03:56:28.877Z"
+    },
+    {
+      "title": "センコー／埼玉県草加市に3.5万m2のロジスティクスセンター開設",
+      "body": "<![CDATA[<p>センコーは5月8日、埼玉県草加市の物流施設「CPD草加」内に「草加ロジスティクスセンター」を開設した。 ＜草加ロジスティクスセンターの外観＞ 草加ロジスティクスセンターは、センターポイント・ディベロップメント（CPD）が [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0511101.html\">センコー／埼玉県草加市に3.5万m2のロジスティクスセンター開設</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=321622",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=321622",
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
+    },
+    {
+      "title": "日本GLP／大阪府八尾市に1.7万m2の物流施設「Marq 八尾3」起工",
+      "body": "<![CDATA[<p>日本GLPは5月11日、大阪府八尾市で開発を進めるボックス型物流施設「Marq 八尾3」の起工式を執り行った。「Marq 八尾3」は、地上4階建て延床面積約1万7000m2で、2027年11月の竣工を予定している。 ＜「 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0511103.html\">日本GLP／大阪府八尾市に1.7万m2の物流施設「Marq 八尾3」起工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=321706",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=321706",
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "円相場 対ドルでいくぶん値下がり 米とイランの協議不透明感で",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260511/k10015118631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260511/k10015118631000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "中国国内の新車販売 前年同月比21％余減 輸出強化の動き加速へ",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260511/k10015118561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260511/k10015118561000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "株価 取り引き時間中の最高値更新も値下がりに転じる",
@@ -68,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260511/k10015118171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260511/k10015118171000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "コメ価格 向こう3か月の見通し 在庫増を背景に下落の見方強い",
@@ -76,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260511/k10015118281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260511/k10015118281000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "日本GLP／東京都青梅市に18.4万m2のマルチ型物流施設開発、2029年3月竣工予定",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321499",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321499",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "東急不動産ほか／千葉県市原市に3.5万m2の物流施設竣工、重量物保管ニーズに対応",
@@ -92,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321442",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321442",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "Body of missing US soldier recovered off coast of Morocco",
@@ -100,7 +132,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "中国 4月の輸出額は14％余増加 原油高の影響が今後の焦点に",
@@ -108,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260509/k10015117451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260509/k10015117451000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "NY市場 ナスダック S＆P500株価指数が最高値更新",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260509/k10015117311000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260509/k10015117311000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
@@ -124,7 +156,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "三菱自動車工業 中東影響も今年度は2.5倍の増益見通し",
@@ -140,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260508/k10015117121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260508/k10015117121000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "JR東日本社長 国の「貸付料」 新たな案は「極めて遺憾」",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260508/k10015117061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260508/k10015117061000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "8日の株価は値下がり イラン情勢の不透明感で",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260508/k10015116541000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260508/k10015116541000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "ソニーグループ決算 映画ヒットで増収もEV中止で最終減益に",
@@ -164,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260508/k10015116841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260508/k10015116841000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "川崎汽船 決算／3月期の売上高2.8％減、営業利益18.2％減",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321517",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321517",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "岩手 大槌町 山林火災で取りやめ続いたウニ漁を開始",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260508/k10015116691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260508/k10015116691000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "日本ケンタッキー／物流費などコスト上昇で値上げ、チキン類は20円値上げ",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321403",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321403",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "共同物流効率化推進協議会／産地・輸送・市場など19組織が中継輸送などで連携",
@@ -196,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321382",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321382",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "政府・日銀 追加で4兆円規模の市場介入の可能性 民間が分析",
@@ -204,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260507/k10015116221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260507/k10015116221000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "味の素 中東情勢の影響続けば事業利益が約300億円減少と試算",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260507/k10015116161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260507/k10015116161000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "CODE／異業種交えた荷主9社参加の共同配送コンソーシアムが初会合",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321334",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321334",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "三井物産都市開発／埼玉県上尾市に1.4万m2の物流施設を竣工、5月から1棟利用",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321196",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321196",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "株価 終値 初の6万2000円台で最高値更新 上昇幅3300円超と最大",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260507/k10015115711000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260507/k10015115711000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "日銀3月会合 イラン情勢で物価上昇リスク 利上げ加速意識も",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260507/k10015115951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260507/k10015115951000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
@@ -260,7 +292,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "三村財務官 連休中の円急騰 介入か明言せず 投機をけん制",
@@ -268,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260507/k10015115781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260507/k10015115781000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "ブラザー／50億円投じ名古屋市港区の工場敷地内に新倉庫、物流子会社も移管",
@@ -276,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321211",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321211",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "ファーストロジ／千葉県柏市にEC特化型センター開設、出荷能力月間75万件へ",
@@ -284,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321205",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321205",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
@@ -292,7 +324,7 @@
       "sourceURL": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "“空飛ぶクルマ 来年以降商用化” 官民協議会がロードマップ",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260507/k10015115451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260507/k10015115451000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "NY原油市場 一時90ドル割れ イラン情勢緊張緩和への期待感から",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260506/k10015115581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260506/k10015115581000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "ヒューテックノオリン／静岡市に冷凍倉庫を新設、共同配送や中継拠点の機能も",
@@ -316,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321085",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321085",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "ヤマトHD 決算／3月期の売上高5.8％増、営業利益99.2％増",
@@ -324,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321097",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321097",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "急速に円高進み 一時1ドル＝155円台に 再び市場介入との見方も",
@@ -332,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260506/k10015115351000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260506/k10015115351000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "米証券取引委員会 企業による決算報告“半年ごとに”改正案",
@@ -340,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260506/k10015115261000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260506/k10015115261000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "日産 欧州の従業員約900人削減 英工場の生産ラインは統合へ",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260506/k10015115201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260506/k10015115201000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "ロシア極東「サハリン2」の原油が愛媛到着 イラン軍事作戦後初",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260505/k10015114921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260505/k10015114921000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "片山財務相 ADBと連携し途上国支援に貢献する考え強調",
@@ -364,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260505/k10015114681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260505/k10015114681000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     },
     {
       "title": "急速に円高進む 一時1ドル155円台に 再び市場介入との見方も",
@@ -372,107 +404,30 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260504/k10015114421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260504/k10015114421000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
-    },
-    {
-      "title": "アメリカの格安航空 スピリット航空が運航停止 燃料高も打撃に",
-      "body": "アメリカの格安航空会社、「スピリット航空」は2日、事業の継続が困難になったとして、すべての便を欠航させると明らかにしました。イラン情勢を受けた燃料高騰も打撃となり、経営再建に向けたトランプ政権との協議もまとまりませんでした。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260503/k10015113721000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260503/k10015113721000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
-    },
-    {
-      "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
-      "body": "&lt;p&gt;&lt;strong&gt;Exclusive&lt;/strong&gt;: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found&lt;/p&gt;&lt;p&gt;&lt;br&gt;\r\n An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.&lt;/p&gt;&lt;p&gt;The healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched in October 2024 and intended to replace Kenya’s decades-old national insurance system.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
-    },
-    {
-      "title": "ADB総会やASEAN＋3会議開催へ イラン情勢など議論",
-      "body": "ADB＝アジア開発銀行の年次総会や、日本・中国・韓国とASEAN＝東南アジア諸国連合の財務相・中央銀行総裁会議などが日本時間の3日からウズベキスタンで開かれます。イラン情勢を受けた各国の経済状況や今後の対応策などについて議論が行われる見通しです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260503/k10015113661000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260503/k10015113661000.html",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
-    },
-    {
-      "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
-      "body": "&lt;p&gt;Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill&lt;/p&gt;&lt;p&gt;A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people – including an elderly married couple – and sickened at least three others, the World Health Organisation (WHO) and South Africa’s health department said on Sunday.&lt;/p&gt;&lt;p&gt;The WHO said an investigation was under way but that at least one case of hantavirus had been confirmed. One of the patients was in intensive care in a South African hospital, the UN’s health agency said in a statement to the Associated Press, and the WHO was working with authorities to evacuate two others with symptoms from the ship.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
-      "fetchedAt": "2026-05-11T19:57:57.227Z"
+      "fetchedAt": "2026-05-12T03:56:28.878Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "損保大手が委託する調査会社 サイバー攻撃で個人情報漏えいか",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015118771000.html",
-      "summary": "大手損害保険会社から依頼を受け調査を行っていた会社がサイバー攻撃を受け、保険契約者の氏名や住所、電話番号などの個人情報が漏えいした可能性があることが判明しました。漏えいの対象は保険契約者だけでなく、約3万件に達するとされています。調査と対応が進められています。",
+      "title": "AIのリスク見据え14日に作業部会 官民連携で対策検討へ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119221000.html",
+      "summary": "アメリカの新興AI企業が開発したAIモデルに関して、金融システムへの影響を懸念する声が高まっています。これを受け、片山金融担当大臣は14日に官民合同の作業部会を設置し、セキュリティ強化を含む対策を検討する計画を示しました。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "つ",
-        "phrase": "つまらない 話もコトも しなさんな"
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "情報管理の責任は委託先にも及ぶから、表面的な付き合いだけでなく、本気で向き合うことが大事や。手間や面倒を避けて流すんやなく、信頼の積み重ねを意識して、無駄なリスクを減らしていく姿勢が求められるわな。"
+      "commentary": "AIのリスク言うても、慌てて結論出すんはあかんで。疑いの目持ちつつ、関係者みんなでじっくり議論重ねることが信頼の礎になるんや。焦らず地道に対策練る姿勢が、長い目で見た商売の安全を守る道やと思うわ。"
     },
     {
       "source": "NHK",
-      "title": "日本郵船 中東向け自動車輸送でホルムズ海峡の代替ルート検討",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260511/k10015118641000.html",
-      "summary": "日本郵船は、ホルムズ海峡が事実上封鎖されている状況を受け、中東向け自動車輸送において同海峡を避ける代替ルートの検討を進めていることを明らかにしました。具体的なルートや対応策については現時点で公表されていません。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "わ",
-        "phrase": "わからん時　わからんと言う素直さよ"
-      },
-      "commentary": "海運の難局にぶつかった時、無理に答えを出さんと「まだ道筋は見えてへん」と認める素直さが信頼を生むもんや。先を急ぎすぎず、情報と状況を正確に見つめ直し、誠実に次の一手を探る姿勢が長い信頼の礎になるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "センコー／埼玉県草加市に3.5万m2のロジスティクスセンター開設",
-      "sourceURL": "https://www.lnews.jp/?p=321622",
-      "summary": "センコーは埼玉県草加市にある物流施設「CPD草加」内に、約3万5000平方メートルの規模を持つ「草加ロジスティクスセンター」を5月8日に開設した。この新施設はセンターポイント・ディベロップメント（CPD）が展開するエリア内に位置している。物流効率の向上を目指す取り組みの一環とされている。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
-      },
-      "commentary": "新しい物流拠点の開設は、ただ設備が増えるだけやない。社会のニーズを受け止め、日々の丁寧な取り組みが信頼を築くんや。商売は世の中と繋がる営み、一歩ずつ尽くす姿勢が未来に繋がる道筋やで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "日本GLP／大阪府八尾市に1.7万m2の物流施設「Marq 八尾3」起工",
-      "sourceURL": "https://www.lnews.jp/?p=321706",
-      "summary": "日本GLPは大阪府八尾市で新たな物流施設「Marq 八尾3」の建設を開始した。施設は地上4階建てで、延床面積は約1万7000平方メートル。完成は2027年11月を予定しており、同社は起工式を5月11日に執り行った。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "か",
-        "phrase": "カイゼンは  みんなの宝"
-      },
-      "commentary": "新施設の建設は、単なる規模拡大や効率追求だけやあらへん。日々の現場の気づきを活かして、物流の現場が柔軟に変わり続ける土台づくりや。そんな積み重ねが、地域や働き手みんなの信頼を育て、強い商売の礎になるんやで。"
-    },
-    {
-      "source": "Guardian｜World",
-      "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
-      "sourceURL": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
-      "summary": "米国西部とメキシコで高気圧の影響により気温が平年より10～15度高くなり、カリフォルニア州やアリゾナ州の一部では40度を超える猛暑が予想されている。米国気象局は一部地域で熱中症警報を発令している。一方、南アフリカの西ケープ州と北ケープ州では豪雨による洪水が続いている。",
+      "title": "【きょうのおはBiz 5月12日(火)】クマ対策技術 最前線",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119141000.html",
+      "summary": "NHK「おはよう日本」の平日朝の経済ニュースコーナー「おはBiz」では、5月12日にクマ対策技術の最前線について取り上げました。番組は最新のビジネストレンドや働き方、役立つサービス、スタートアップ情報を短時間で紹介しています。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -481,7 +436,52 @@
         "leadingKana": "て",
         "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "暑さと豪雨、両極端の自然現象が同時に起こる今、ただ情報を聞き流すんやなく、何が本質か深掘りせなあかん。適当に受け流すんじゃなく、疑問を持って確かめることで、未来のリスク管理や信頼の積み重ねにつながるんやで。"
+      "commentary": "クマ対策の技術も、ただ聞き流すんやなくて「それ、どういうこと？」と深掘りする姿勢が大事や。表面的な情報で済ませず、疑問を持って確かめることで信頼が積み重なり、持続的な関係が生まれる。商売も自然環境も、そうやって歩み寄ることが肝心やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "CargoLabo／航空貨物最適化プラットフォームをケイラインロジに導入",
+      "sourceURL": "https://www.lnews.jp/?p=321781",
+      "summary": "航空貨物業界向けの業務最適化プラットフォームを提供するCargoLaboは、ケイラインロジスティックスにリアルタイム貨物追跡機能を導入し、5月12日から運用を開始した。これにより、貨物の状況をリアルタイムで把握できる体制が整った。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "た",
+        "phrase": "鷹の目と 地虫の目と 人の目"
+      },
+      "commentary": "航空貨物の現場に新しい追跡技術が入ったんやけど、全体の流れを見つつも現場の細かい動きもしっかり押さえなあかん。そやけど、ただ効率だけ追うんやなくて、現場の人の思いや信頼も忘れんと、日々の積み重ねで確かな成果を築くことが肝心やな。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "NXHD／ヒューレット・パッカード関連企業から物流ソリューション評価され最高賞",
+      "sourceURL": "https://www.lnews.jp/?p=321775",
+      "summary": "NXホールディングスは、Hewlett Packard Enterprise（HPE）が主催する「HPE Operations Partner Summit 2026」において、同社の物流ソリューションが評価され、最高賞を受賞しました。この表彰は、HPE関連企業が認める物流分野での優れた取り組みを対象としています。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "は",
+        "phrase": "早起きは 眠たいけども 憂いなし"
+      },
+      "commentary": "大きな評価は一朝一夕やない。日々の積み重ねと自己管理が土台や。眠たくても早起きして準備重ねるように、堅実な努力が信頼と成果を呼ぶ。焦らず、毎日の歩みを大事にせなあかんな。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+      "sourceURL": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
+      "summary": "アメリカ西部とメキシコで高気圧の影響により、気温が平年より10〜15度高くなる見込みで、カリフォルニア州とアリゾナ州では熱波警報が発令されています。特にパームスプリングスでは40度を超える予想です。一方、南アフリカの西ケープ州と北ケープ州では引き続き豪雨が続いています。今週後半には熱波が中西部へ移動する見込みです。",
+      "classification": {
+        "tone": "N",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
+      },
+      "commentary": "世界の異常気象はどこも他人事やない。暑さや洪水のニュースに触れたら、表面だけで済まさず「どういう意味か？」と自分に問うてみることや。適当に聞き流してたら、次の備えも信頼も築けへん。商売も天候も、深く理解する姿勢が地盤を固めるんやで。"
     }
   ]
 }
