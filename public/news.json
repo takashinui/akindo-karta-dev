@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-05-18T04:21:56.034Z",
+  "generatedAt": "2026-05-18T10:21:02.309Z",
   "run": {
-    "ranAt": "2026-05-18T04:21:56.034Z",
+    "ranAt": "2026-05-18T10:21:02.309Z",
     "runner": "github-actions",
-    "runId": "26013331320"
+    "runId": "26027561894"
   },
   "stock": [
     {
-      "title": "株価 一時1000円超下落 長期金利上昇など背景",
-      "body": "週明けの18日の東京株式市場、ハイテク関連の銘柄を中心に売り注文が広がり、午前中は日経平均株価が一時1000円余り下落しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124431000.html",
+      "title": "りそなHD 「第一ライフグループ」「JCB」と協業で合意",
+      "body": "金融大手の「りそなホールディングス」は生命保険会社やカード会社の大手と協業し、銀行口座を持つ人を対象に優待サービスやポイントを利用できる取り組みを始めることになりました。金利のある世界の本格化で、銀行業界では新たな顧客の獲得に向けて異業種との連携に乗り出す動きが加速しています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124821000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260518/k10015124431000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "id": "www3.nhk.or.jp/news/html/20260518/k10015124821000.html",
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
-      "title": "きょうのおはBiz 5月18日(月)  中古車需要が拡大 人気の理由は",
-      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124421000.html",
+      "title": "国連事務総長 “ホルムズ海峡封鎖は壊滅的な影響 世界的危機”",
+      "body": "日本を訪れている国連のグテーレス事務総長は都内でのイベントで、事実上の封鎖が続くホルムズ海峡について言及し「封鎖によって途上国では極めて壊滅的な影響が出ている」と懸念を示し、この問題は世界的な危機であり、ホルムズ海峡の開放に向けて国連としても取り組む考えを示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124811000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260518/k10015124421000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "id": "www3.nhk.or.jp/news/html/20260518/k10015124811000.html",
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
-      "title": "改正物流効率化法／参院本会議で賛成多数で可決・成立、中継輸送を後押し",
-      "body": "<![CDATA[<p>トラック中継輸送の促進や運転者の運送・荷役効率化などを盛り込んだ改正物流効率化法は、5月13日の参議院本会議で賛成多数で可決、成立した。 ■関連記事 改正物流効率化法案／衆議院で審議入り、委員会で金子国交大臣が趣旨説明  [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0515101.html\">改正物流効率化法／参院本会議で賛成多数で可決・成立、中継輸送を後押し</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=322273",
+      "title": "物流最前線／セイノーHDがスタートアップへの出資を通じて構築目指す新たな物流基盤",
+      "body": "<![CDATA[<p>特積みや貸し切り貨物など、全国ネットワークを生かしたトラック輸送をベースにしたビジネスを基盤に、近年はロジスティクス事業にも力を入れている西濃運輸。その西濃運輸の持ち株会社であるセイノーホールディングス（HD）では、「オ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0518103.html\">物流最前線／セイノーHDがスタートアップへの出資を通じて構築目指す新たな物流基盤</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=321373",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=322273",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "id": "www.lnews.jp/?p=321373",
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
-      "title": "NXHD／米国のグループ会社がオハイオ州に自動車産業向け新倉庫竣工",
-      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングス（HD）グループのNXオートモーティブロジスティクスアメリカ（NXAL）は4月15日、米国オハイオ州イーストリバティの本社敷地内で4号倉庫の竣工式を実施した。 ＜4号倉庫の外観 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0515102.html\">NXHD／米国のグループ会社がオハイオ州に自動車産業向け新倉庫竣工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=322285",
+      "title": "トラスコ中山／愛知県で自社最大8.9万m2の物流センターを稼働開始",
+      "body": "<![CDATA[<p>機械工具卸売商社のトラスコ中山は5月18日、愛知県に自社最大の物流センター「プラネット愛知」を稼働開始したと発表した。 ＜「プラネット愛知」を稼働＞ 同社は全国29か所の物流センターに約62万アイテムの在庫を保有しており [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0518501.html\">トラスコ中山／愛知県で自社最大8.9万m2の物流センターを稼働開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=322381",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=322285",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "id": "www.lnews.jp/?p=322381",
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
+    },
+    {
+      "title": "株価 一時1000円超下落 長期金利上昇など背景",
+      "body": "週明けの18日の東京株式市場、ハイテク関連の銘柄を中心に売り注文が広がり、午前中は日経平均株価が一時1000円余り下落しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124431000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260518/k10015124431000.html",
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
+    },
+    {
+      "title": "きょうのおはBiz 5月18日(月)  中古車需要が拡大 人気の理由は",
+      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124421000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260518/k10015124421000.html",
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
+    },
+    {
+      "title": "改正物流効率化法／参院本会議で賛成多数で可決・成立、中継輸送を後押し",
+      "body": "<![CDATA[<p>トラック中継輸送の促進や運転者の運送・荷役効率化などを盛り込んだ改正物流効率化法は、5月13日の参議院本会議で賛成多数で可決、成立した。 ■関連記事 改正物流効率化法案／衆議院で審議入り、委員会で金子国交大臣が趣旨説明  [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0515101.html\">改正物流効率化法／参院本会議で賛成多数で可決・成立、中継輸送を後押し</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=322273",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=322273",
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
+    },
+    {
+      "title": "NXHD／米国のグループ会社がオハイオ州に自動車産業向け新倉庫竣工",
+      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングス（HD）グループのNXオートモーティブロジスティクスアメリカ（NXAL）は4月15日、米国オハイオ州イーストリバティの本社敷地内で4号倉庫の竣工式を実施した。 ＜4号倉庫の外観 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0515102.html\">NXHD／米国のグループ会社がオハイオ州に自動車産業向け新倉庫竣工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=322285",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=322285",
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "イラン情勢で資材調達の“仲介役”に 金融機関で支援の動き",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260517/k10015124131000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260517/k10015124131000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "米中首脳会談 中国 “一部の品目 関税引き下げで原則合意”",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260517/k10015123771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260517/k10015123771000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "高松～小豆島の高速艇 約半分に減便 中東情勢で軽油値上がり",
@@ -68,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260516/k10015123531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260516/k10015123531000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "NYダウ 537ドル下落 米中首脳会談への失望感広がる",
@@ -76,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260516/k10015123341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260516/k10015123341000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "日本郵政 郵便料金の値上げ検討 収支改善目指す",
@@ -84,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260515/k10015122961000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260515/k10015122961000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
@@ -92,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "スカイマーク 今年度最終利益 51％減の見通し 燃油高騰などで",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260515/k10015122951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260515/k10015122951000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "長期金利2.73％まで上昇 物価上昇や財政負担への懸念など背景",
@@ -108,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260515/k10015122241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260515/k10015122241000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "スーパーのコメ価格 5キロ税込み3742円 3週連続の値下がり",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260515/k10015122811000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260515/k10015122811000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
@@ -124,7 +156,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "株価 午前は値下がり 半導体関連で利益確定売りが優勢",
@@ -132,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260515/k10015122481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260515/k10015122481000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "ROMS／NTTロジスコの物流センターに1700m2の自動倉庫を納入へ",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=322297",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=322297",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "JDI 12年連続の最終赤字 主力工場での生産終了で",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260514/k10015121991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260514/k10015121991000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "宇宙飛行士の若田光一さん 米宇宙開発企業の日本法人代表に",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260514/k10015121931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260514/k10015121931000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "大和ハウス工業／仙台市で13.6万m2のマルチテナント型物流施設を着工、2028年11月竣工へ",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=322084",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=322084",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "日本トランスシティ／北海道石狩市に菓子・食品の共配センター竣工",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=322165",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=322165",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "UN urges Equatorial Guinea to halt plans to return US deportees to home countries",
@@ -180,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "日銀・増委員“景気下振れの兆しなければ早期利上げ望ましい”",
@@ -188,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260514/k10015121701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260514/k10015121701000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "カゴメ ケチャップのトマトのイラスト減らす インク調達不安定",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260514/k10015121691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260514/k10015121691000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "鈴与シンワート 決算／物流事業の売上高4.6％増、営業利益7.4％増",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=322249",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=322249",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "ニッスイ 決算／物流事業の営業利益15.1％減、人件費や燃料費増加が要因",
@@ -212,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=322225",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=322225",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "株価 一時500円以上の値上がり 取引時間中の最高値を更新",
@@ -228,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260514/k10015121141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260514/k10015121141000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "ENEOS管理の原油タンカーがホルムズ海峡通過の報道",
@@ -236,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260514/k10015121201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260514/k10015121201000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "日本通運／物流WebアプリのAI出荷予測機能を強化、算出時間は5分に短縮",
@@ -244,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=322093",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=322093",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "高知名物ビスケット一部出荷見合わせ イラン情勢で包装影響",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260513/k10015120771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260513/k10015120771000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "あいちFGと三重県の三十三FG 経営統合で基本合意と発表",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260513/k10015120141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260513/k10015120141000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "東京ガス不動産／横浜市磯子区に初の物流施設を竣工、内外日東など入居",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321985",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321985",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "センコーGHD 決算／3月期の売上高5.3％増、営業利益5.9％増",
@@ -276,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=322042",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=322042",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
@@ -284,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "日産自動車 今年度は最終損益が200億円の黒字の見通し",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260513/k10015120691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260513/k10015120691000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "農業や外食の業界団体 食料品消費税減税の影響に懸念の声",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260513/k10015120521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260513/k10015120521000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "ニデック 無断で設計変更など 不適切行為の疑いを発表",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260513/k10015120301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260513/k10015120301000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "株価 午前は値上がり",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260513/k10015120131000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260513/k10015120131000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "ロジスネクストジャパン／ハクオウロボの自動フォークリフトをデモセンターに常設",
@@ -324,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321919",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321919",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "【PR】東急不動産／千葉県「LOGI&#8217;Q市原」内覧会5月27・28日開催",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321910",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321910",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "Internal displacements caused by violence or conflict at record high in 2025",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "米消費者物価指数 去年同月比3.8％上昇 2年11か月ぶりの高水準",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260512/k10015119881000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "西日本シティ銀行 不適切投稿受け 私用スマホ持ち込み禁止に",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260512/k10015119781000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "大阪屋ショップ／グループ新物流拠点が富山県で竣工、6月から稼働開始",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=321805",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321805",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     },
     {
       "title": "佐川急便／陸自東部方面隊と連携、災害時の輸送支援強化",
@@ -372,77 +404,60 @@
       "sourceURL": "https://www.lnews.jp/?p=321886",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=321886",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
-    },
-    {
-      "title": "カルビー パッケージ白黒化を発表 中東情勢でインク調達懸念",
-      "body": "大手菓子メーカーのカルビーは、中東情勢の影響で包装に使うインクなどの調達が不安定になっているとして、主力製品のポテトチップスなどの一部のパッケージを、今月下旬から当面、白黒の2色の表示に変更すると発表しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119551000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260512/k10015119551000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
-    },
-    {
-      "title": "高市首相 トランプ大統領の訪中前に米財務長官と会談",
-      "body": "高市総理大臣は、アメリカのベッセント財務長官と会談し、13日から予定されているトランプ大統領の中国訪問や日米の2国間関係など、幅広い分野について意見を交わしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119121000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260512/k10015119121000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
-    },
-    {
-      "title": "AIのリスク見据え14日に作業部会 官民連携で対策検討へ",
-      "body": "アメリカの新興AI企業が開発したAIモデルをめぐって金融システムのリスクになるのではないかという警戒が広がる中、片山金融担当大臣は14日官民の作業部会を立ち上げ、セキュリティー対策の強化などについて議論する方針を明らかにしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119221000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260512/k10015119221000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
-    },
-    {
-      "title": "【きょうのおはBiz 5月12日(火)】クマ対策技術 最前線",
-      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260512/k10015119141000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260512/k10015119141000.html",
-      "fetchedAt": "2026-05-18T04:21:27.300Z"
+      "fetchedAt": "2026-05-18T10:20:36.142Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "株価 一時1000円超下落 長期金利上昇など背景",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124431000.html",
-      "summary": "18日の東京株式市場では、ハイテク銘柄を中心に売りが強まり、日経平均株価が午前中に一時1000円以上下落しました。背景には長期金利の上昇などが指摘されています。",
-      "classification": {
-        "tone": "B",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "め",
-        "phrase": "目を見て 話せん奴を 信用すな"
-      },
-      "commentary": "株価の急落は数値だけで一喜一憂できへん話や。市場の動きは顔が見えへん相手とのやりとりみたいやから、情報の信頼性と向き合う姿勢が肝心や。浮き沈みの中で、真っ直ぐ相手を見据えて信頼を築くことが、長い目で商売を守る一歩になるんやで。"
-    },
-    {
-      "source": "NHK",
-      "title": "きょうのおはBiz 5月18日(月)  中古車需要が拡大 人気の理由は",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124421000.html",
-      "summary": "NHKの経済ニュース番組「おはBiz」は、5月18日の放送で中古車市場の拡大について取り上げました。番組では、中古車の需要が増えている背景や人気の要因に焦点を当て、最新のビジネストレンドや働き方の変化、注目のサービスやスタートアップ情報を短時間で紹介しています。",
+      "title": "りそなHD 「第一ライフグループ」「JCB」と協業で合意",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124821000.html",
+      "summary": "りそなホールディングスは、生命保険会社の第一ライフグループやカード会社のJCBと連携し、銀行口座利用者向けに優待サービスやポイント活用の新たな取り組みを開始することを発表しました。銀行業界では、金利上昇を背景に異業種との協業を通じた顧客獲得が進んでいます。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "さ",
-        "phrase": "さぁ行こか ココまで落ちたら 上がるだけ"
+        "leadingKana": "た",
+        "phrase": "鷹の目と 地虫の目と 人の目"
       },
-      "commentary": "中古車の需要が伸びるのも、景気や生活環境の変化のなかで自然なことや。上がり下がりは商売の常、今の波を見極めて焦らず、次の動きをじっくり考えることが信頼の積み重ねやで。季節が巡るように、市場もまた変わっていくもんやからな。"
+      "commentary": "りそなの動きは大きな潮流の中で全体像を捉え、異業種連携の地味な課題にも目を凝らす姿勢が大事や。そやけど、数字や戦略だけでなく、お客さんの立場に立つ心の目でどう信頼築くかを問い続けることが、長く続く商いの鍵やと思うで。"
+    },
+    {
+      "source": "NHK",
+      "title": "国連事務総長 “ホルムズ海峡封鎖は壊滅的な影響 世界的危機”",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260518/k10015124811000.html",
+      "summary": "国連のグテーレス事務総長は東京での会合で、ホルムズ海峡の事実上の封鎖が途上国に深刻な影響を及ぼしていると指摘しました。この状況を世界的な危機と位置づけ、海峡の早期再開に向けて国連が対応を進める意向を示しました。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "き",
+        "phrase": "気が乗らぬ時は ちょっと待つ"
+      },
+      "commentary": "世界全体に影響する問題やな。慌てて動く前に、一歩引いて全体の流れやリスクを見直すことが大事やで。焦りは信頼を損なうこともあるし、じっくり状況を把握してから進む姿勢が、長い目で見た商売の信頼を築く道やと思うわ。"
     },
     {
       "source": "LNEWS",
-      "title": "改正物流効率化法／参院本会議で賛成多数で可決・成立、中継輸送を後押し",
-      "sourceURL": "https://www.lnews.jp/?p=322273",
-      "summary": "改正物流効率化法が5月13日の参議院本会議で賛成多数により可決・成立した。この改正法は、トラックの中継輸送の促進や運転手の運送および荷役作業の効率向上を目的としている。今後、物流分野における効率化の推進に役立つことが期待される。",
+      "title": "物流最前線／セイノーHDがスタートアップへの出資を通じて構築目指す新たな物流基盤",
+      "sourceURL": "https://www.lnews.jp/?p=321373",
+      "summary": "セイノーホールディングスは、全国規模のトラック輸送を基盤とする西濃運輸の持ち株会社であり、近年はロジスティクス事業の強化に取り組んでいる。今回、同社は物流の新しい基盤を構築するため、スタートアップ企業への出資を進めている。この動きは、既存の輸送ネットワークを活かしつつ、革新的な技術やサービスを取り入れる狙いがあるとされる。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "い",
+        "phrase": "いつだって  3％と 1/3"
+      },
+      "commentary": "セイノーHDの新物流基盤づくりは、日々の小さな効率改善と大胆な変革を合わせて進める姿勢が肝心や。いつもの運用の細部に目を配りつつ、新たな技術や発想を取り入れて、大きな改革のチャンスを逃さへんこと。焦らず積み重ねが信頼となる道筋を見据えるべきやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "トラスコ中山／愛知県で自社最大8.9万m2の物流センターを稼働開始",
+      "sourceURL": "https://www.lnews.jp/?p=322381",
+      "summary": "トラスコ中山は5月18日、愛知県に同社最大規模となる約8.9万平方メートルの物流センター「プラネット愛知」を稼働開始した。同社は全国に29か所の物流拠点を持ち、約62万点の在庫を管理している。新センターの稼働により、物流体制の強化を図る。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -451,37 +466,22 @@
         "leadingKana": "か",
         "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "物流の効率化法改正は、現場の負担軽減と連携強化を促す一歩や。大きな仕組みの変化も、日々の改善意識が根底にあるんやろな。急ぎつつも、仲間と共に持続可能な流れを作る視点、忘れたらあかんで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "NXHD／米国のグループ会社がオハイオ州に自動車産業向け新倉庫竣工",
-      "sourceURL": "https://www.lnews.jp/?p=322285",
-      "summary": "NIPPON EXPRESSホールディングスの米国子会社、NXオートモーティブロジスティクスアメリカ（NXAL）は、オハイオ州イーストリバティの本社敷地内に新たな4号倉庫を完成させ、4月15日に竣工式を行いました。この倉庫は自動車産業向けの物流拠点として機能します。",
-      "classification": {
-        "tone": "N",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "そ",
-        "phrase": "外は外 内は内やぞ 混ぜるなよ"
-      },
-      "commentary": "アメリカでの新倉庫竣工は、現地の事情に合わせて着実に積み重ねる姿勢の表れやな。外の環境と内のやり方は別物やと心得て、無理に混ぜたら信頼も崩れる。地元の実情を尊重しつつ、一歩一歩続けることが商売の土台やで。"
+      "commentary": "物流センターの拡充は効率向上の一歩やけど、一回で完璧は難しい。現場の声や日々の小さな気づきを大切にして、みんなで改善を積み重ねるからこそ、強い信頼が築かれるんや。焦らず地道に進む姿勢が肝心やで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
       "sourceURL": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
-      "summary": "アメリカ大統領のドナルド・トランプ氏は、過激派組織イスラム国の「第二指揮官」とされるアブ・ビラル・アル＝ミヌーキ容疑者が米軍とナイジェリア軍の共同作戦により殺害されたと発表した。トランプ氏はこの作戦を「非常に複雑で綿密に計画されたもの」と称し、アル＝ミヌーキ容疑者を「世界で最も活発なテロリスト」と表現した。",
+      "summary": "アメリカ大統領のドナルド・トランプ氏は、イスラム国の世界的指導者の「副司令官」とされるアブ・ビラル・アル＝ミヌーキ氏が、米軍とナイジェリア軍による作戦で殺害されたと発表しました。トランプ氏は今回の作戦を「非常に複雑で綿密に計画された任務」と説明し、対象者を「世界で最も活動的なテロリスト」と位置付けています。",
       "classification": {
-        "tone": "B",
-        "term": "M"
+        "tone": "N",
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "す",
-        "phrase": "すいません  言うな"
+        "leadingKana": "ん",
+        "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "難しい局面でも、ただ恐縮して引くんやなく、筋通して動く姿勢大事やで。結果だけにとらわれず、信頼は日々の積み重ねから生まれるもんや。相手に「すいません」言うより、丁寧に「お願いします」と伝えるように、言葉も行動も誠実に向き合うことが肝心やな。"
+      "commentary": "こういう大きな作戦の話聞くと、すぐに結果だけを追いがちやけど、ほんまのところは複雑な背景や情報の積み重ねがあるんやろな。違和感を感じたら、表面的な言葉だけで判断せんと、何が本質かを見極める視点が大事や。焦らずじっくり考え続けることが信頼を築く近道やで。"
     }
   ]
 }
