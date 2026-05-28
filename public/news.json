@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-28T16:18:59.281Z",
+  "generatedAt": "2026-05-28T20:33:40.457Z",
   "run": {
-    "ranAt": "2026-05-28T16:18:59.281Z",
+    "ranAt": "2026-05-28T20:33:40.457Z",
     "runner": "github-actions",
-    "runId": "26587238443"
+    "runId": "26600554597"
   },
   "stock": [
     {
-      "title": "石油代替調達進むも目詰まり課題 イラン情勢 各地への影響は",
-      "body": "アメリカとイスラエルがイランへの軍事作戦を始めてから28日で3か月となります。日本政府はホルムズ海峡を経由しない代替ルートでの調達で来年春まで石油を安定的に確保できる見通しだとする一方、石油関連製品の不足が発生しているとしていて、目詰まり対策を丁寧に進めていけるかが問われています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133941000.html",
+      "title": "スルメイカ 昨年度の漁獲上限を超過 管理の難しさ浮き彫りに",
+      "body": "不漁から一転して漁獲が増えたスルメイカについて、水産庁は昨年度の漁獲量が法律に基づく上限を230トン余り超えたと明らかにしました。昨年度、上限は2度にわたって引き上げられたもののさらに超過したことになり、管理の難しさを浮き彫りにしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134371000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260528/k10015133941000.html",
-      "fetchedAt": "2026-05-28T16:18:35.240Z"
+      "id": "www3.nhk.or.jp/news/html/20260529/k10015134371000.html",
+      "fetchedAt": "2026-05-28T20:33:13.333Z"
     },
     {
-      "title": "ソニー生命 元社員4人が顧客と不適切な金銭授受 1億2000万円余",
-      "body": "ソニー生命は4人の元社員が、顧客に保険とは関係のない投資話を持ちかけて資金を受け取るなど、不適切な金銭のやりとりがあったと明らかにしました。不適切なやりとりは1億2000万円余りにのぼり、会社は今後、すべての契約者を対象に調査を進めることにしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015134261000.html",
+      "title": "メガバンク3行 オープンAI最新モデル利用へ 攻撃への備え急ぐ",
+      "body": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、日本のメガバンク3行がアメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。サイバー攻撃を受けた場合の防御策の検討に活用するとみられます。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134481000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260528/k10015134261000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "id": "www3.nhk.or.jp/news/html/20260529/k10015134481000.html",
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "T2／PALTACと大王製紙が自動運転トラックを本格利用へ、製紙業界で初",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323899",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323899",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "山九／CREの協力で物流不動産管理会社を設立、物流資産効率化へ",
@@ -36,7 +36,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324001",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324001",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
@@ -44,7 +44,23 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
+    },
+    {
+      "title": "石油代替調達進むも目詰まり課題 イラン情勢 各地への影響は",
+      "body": "アメリカとイスラエルがイランへの軍事作戦を始めてから28日で3か月となります。日本政府はホルムズ海峡を経由しない代替ルートでの調達で来年春まで石油を安定的に確保できる見通しだとする一方、石油関連製品の不足が発生しているとしていて、目詰まり対策を丁寧に進めていけるかが問われています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133941000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260528/k10015133941000.html",
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
+    },
+    {
+      "title": "ソニー生命 元社員4人が顧客と不適切な金銭授受 1億2000万円余",
+      "body": "ソニー生命は4人の元社員が、顧客に保険とは関係のない投資話を持ちかけて資金を受け取るなど、不適切な金銭のやりとりがあったと明らかにしました。不適切なやりとりは1億2000万円余りにのぼり、会社は今後、すべての契約者を対象に調査を進めることにしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015134261000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260528/k10015134261000.html",
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "南米とのEPA交渉 自民党対策本部で農業への懸念の声相次ぐ",
@@ -52,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015134201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015134201000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "株価 小幅な値動き 6万5000円台",
@@ -60,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015133801000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "ニップン 小麦粉やパスタなど値上げ 中東影響が一因",
@@ -68,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133711000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015133711000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "サンケイビルと東急不動産G／物流施設のCO2削減へ再エネ活用を開始",
@@ -76,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323905",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323905",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "セイノー情報サービス／日販の物流拠点でラピュタASRSと連携、処理能力3倍に",
@@ -84,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323908",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323908",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
@@ -92,7 +108,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "NY原油 一時1バレル＝87ドル台に下落 その後は再び上昇も",
@@ -100,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015133531000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "政府備蓄米の買い入れ ほぼ全量落札 今後値下がりの見方背景か",
@@ -108,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015133291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015133291000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "中央日本土地建物／岩手県金ケ崎町に約2万m2のマルチテナント型物流施設竣工",
@@ -116,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323728",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323728",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "東京建物・FIRST CVC／CVC特化型共創拠点を初公開、物流・SC課題解決も視野",
@@ -124,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323830",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323830",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "日銀決算 保有国債の含み損が45兆円規模に",
@@ -132,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015133271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015133271000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
@@ -140,7 +156,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "春闘 大企業の賃上げ率 3年連続で5％超",
@@ -148,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015133151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015133151000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "円相場 小幅な値動き 植田総裁の発言材料不足で方向感欠く",
@@ -156,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015133171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015133171000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
@@ -164,7 +180,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "4月の単身者向け家賃 東京23区は11万2500円に 過去最高を更新",
@@ -172,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015132691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015132691000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "食品のパッケージ変更の動きで政府と業界が初の情報交換会",
@@ -180,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015132661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015132661000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "ハクオウロボティクス／山善TFS支社と提携、「AutoFork」の普及加速へ",
@@ -188,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323746",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323746",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "アサヒ 主力の第3のビールを「ビール」に 大手4社で同様の対応",
@@ -196,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015132271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015132271000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "個人向け国債 新商品を検討すべきとの意見 財務省の研究会",
@@ -204,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260526/k10015132231000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260526/k10015132231000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "関電不動産開発／石川県内灘町に2.7万m2のマルチテナント型物流施設竣工",
@@ -212,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323674",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323674",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "首都圏物流／岐阜センター開設、中京エリア共同配送網の中核拠点に",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323530",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323530",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "日本原子力発電も法廷内で無断録音 電力会社で相次ぐ",
@@ -228,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260526/k10015132071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260526/k10015132071000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "電気・ガス料金支援へ 今年度の予備費5135億円の支出決定",
@@ -236,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260526/k10015131441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260526/k10015131441000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "大手生保 金利上昇背景に利益拡大 国債運用では含み損も",
@@ -244,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260526/k10015132011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260526/k10015132011000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "赤澤経産相 夏の省エネ“例年どおりの取り組みを”",
@@ -252,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260526/k10015131611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260526/k10015131611000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "赤澤経産相 ロシアに幹部派遣 “日本企業の資産を守るため”",
@@ -260,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260526/k10015131641000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260526/k10015131641000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "パスコ／輸配送や荷役状況を可視化するクラウド型管理システムを提供開始",
@@ -268,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323524",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323524",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "JR貨物／10月からオフレールステーション発着の貨物輸送に「ORS料金」導入",
@@ -276,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323500",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323500",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "成長戦略にスタートアップ企業支援策を反映 高市首相",
@@ -284,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260525/k10015131281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260525/k10015131281000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "コカ・コーラ 165品目を値上げへ 中東情勢の影響受け9月から",
@@ -292,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260525/k10015131201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260525/k10015131201000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "物流最前線／顧客本位が野村不動産の強み 自動化支えるTechrumはその象徴",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=322378",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=322378",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "国交省／国際物流多元化等の実証輸送で情報共有、代替ルート確保への課題把握",
@@ -308,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323458",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323458",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
@@ -316,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "セブン＆アイ 鈴木敏文名誉顧問が死去 日本のコンビニ礎築く",
@@ -324,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260525/k10015130611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260525/k10015130611000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "鹿児島 垂水市 メタノール確保で入札も不調に 中東情勢影響",
@@ -332,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260525/k10015130991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260525/k10015130991000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "きょうのおはBiz 5月25日(月) “完全養殖ウナギ” 一般販売へ",
@@ -340,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260525/k10015130631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260525/k10015130631000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "日経平均株価 初の6万5000円台 イラン協議進展の見方から",
@@ -348,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260525/k10015130571000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260525/k10015130571000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "日本産業車両協会／4月のフォークリフトトラック生産4.9％減",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323311",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323311",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "NCA／6月前半の国際航空貨物燃油サーチャージ値下げ、TC1は149円に",
@@ -364,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323305",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323305",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "APEC貿易相会合 “エネルギーなどの供給網の維持へ協力”",
@@ -372,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260523/k10015129771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260523/k10015129771000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "自民 鈴木幹事長 ガソリン価格支援策“見直し含め検討が必要”",
@@ -380,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260523/k10015129701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260523/k10015129701000.html",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     },
     {
       "title": "AZ-COM丸和HD／樋口物流サービスを子会社化、輸送力強化と3PL高度化へ",
@@ -388,100 +404,84 @@
       "sourceURL": "https://www.lnews.jp/?p=323227",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323227",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
-    },
-    {
-      "title": "トヨタ自動車／コンテナの物流効率化システムを子会社へ事業承継",
-      "body": "<![CDATA[<p>トヨタ自動車は5月20日、同社の子会社であるOneStreamに物流効率化システム事業を承継させる吸収分割契約を締結したと発表した。 ■関連記事 トラック最前線／荷待ち時間削減に向け新サービスを導入したトヨタのコンテナ物 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0522702.html\">トヨタ自動車／コンテナの物流効率化システムを子会社へ事業承継</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=323266",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=323266",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
-    },
-    {
-      "title": "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages",
-      "body": "&lt;p&gt;World Health Organization says outbreak poses ‘very high’ risk for Congo, but risk of disease spreading globally remains low&lt;/p&gt;&lt;p&gt;Congolese authorities say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country.&lt;/p&gt;&lt;p&gt;The Congolese Ministry of Communication, in a post on X on Sunday, said there were 904 suspected cases and 119 suspected deaths.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
-      "fetchedAt": "2026-05-28T16:18:35.241Z"
+      "fetchedAt": "2026-05-28T20:33:13.334Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "石油代替調達進むも目詰まり課題 イラン情勢 各地への影響は",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133941000.html",
-      "summary": "アメリカとイスラエルによるイランへの軍事作戦開始から3か月が経過しました。日本政府はホルムズ海峡を通らない代替ルートでの石油調達により、来年春まで安定供給が可能と見込んでいます。一方で、石油関連製品の不足が生じており、供給の滞りを解消するための対応が課題となっています。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "よ",
-        "phrase": "世の中は 広いんやから 驚くな"
-      },
-      "commentary": "世界の動きは予測困難で、代替手段があっても問題は生じるもんや。慌てず焦らず、見えにくい課題にも一つずつ向き合うことが大切やな。世の中は広いんやから、驚くことばかりやないと心得て進むんやで。"
-    },
-    {
-      "source": "NHK",
-      "title": "ソニー生命 元社員4人が顧客と不適切な金銭授受 1億2000万円余",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015134261000.html",
-      "summary": "ソニー生命は、元社員4人が顧客に対し保険外の投資話を持ちかけ、合計で1億2000万円以上の金銭を受け取る不適切な取引があったと発表しました。同社はこの問題を受け、全契約者に対する調査を実施する方針を示しています。",
+      "title": "スルメイカ 昨年度の漁獲上限を超過 管理の難しさ浮き彫りに",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134371000.html",
+      "summary": "昨年度のスルメイカ漁獲量が、水産庁の定める法的上限を約230トン上回ったことが明らかになりました。上限は年度内に二度引き上げられたものの、それでもなお超過した状況であり、漁獲管理の課題が改めて示されています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "や",
-        "phrase": "やるんかい やらんのやったら どいとれや"
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "仕事にはそれぞれの役割があって、枠を超えるときは覚悟が要るもんや。今回の件も、信頼の土台を崩すことなく、どこまで踏み込むべきか見極めることが大事やな。焦らず、じっくり信用を積み重ねる姿勢こそ、長く商売を続ける鍵やと思うで。"
+      "commentary": "漁獲上限超過のニュース、焦って判断せんと冷静な目で見直すことや。情報だけに頼らず、現場の変化や背景を丁寧に掘り下げる。信頼は焦らず積み重ねるもんやから、慌てずに次の一手を考える姿勢が大事やで。"
+    },
+    {
+      "source": "NHK",
+      "title": "メガバンク3行 オープンAI最新モデル利用へ 攻撃への備え急ぐ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134481000.html",
+      "summary": "日本の主要メガバンク3行が、米オープンAIの最新AIモデルを導入する見込みとなった。これは、高性能AIの悪用リスクが指摘される中で、サイバー攻撃への対策強化を目的としている。各行はこの技術を用いて防御策の検討を進める方針だ。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "な",
+        "phrase": "何するか 分からん時は 基礎鍛錬"
+      },
+      "commentary": "最新AIの利活用は魅力的やけど、未知のリスクもある。焦らず慌てず、自分の土台を固めることが肝心や。日々の鍛錬なくして信頼は築かれへん。まずは基本を押さえて、守りをしっかり固める姿勢が次の一手を支えるわ。"
     },
     {
       "source": "LNEWS",
       "title": "T2／PALTACと大王製紙が自動運転トラックを本格利用へ、製紙業界で初",
       "sourceURL": "https://www.lnews.jp/?p=323899",
-      "summary": "T2は5月28日、PALTACと大王製紙が同社の自動運転トラックを用いた定期的な貨物輸送に参加すると発表した。これは国内の製紙業界で初めての自動運転トラックの商用運行となる。両社はこれまでに自動運転技術の活用を進めており、今回の取り組みは物流効率化の一環とされる。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "の",
-        "phrase": "ノコの歯は 引いて切って 押して切る"
-      },
-      "commentary": "自動運転トラックの導入は、単なる新技術の採用にとどまらん。物流の現場で複数の目的を持つ動きを探り、効率を上げる意識が求められる。動くだけでなく、その中で信頼を積み、次の一手を模索する姿勢が大事やな。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "山九／CREの協力で物流不動産管理会社を設立、物流資産効率化へ",
-      "sourceURL": "https://www.lnews.jp/?p=324001",
-      "summary": "山九は物流資産の効率化と倉庫事業の収益性向上を目指し、2026年7月1日に完全子会社のサンキュウアセットマネジメントを設立する計画を発表した。同社は2021年3月にシーアールイー（CRE）と連携しており、今後もCREとの協力を通じて物流不動産の管理体制を強化する見込みである。",
+      "summary": "T2は自動運転トラックを用いた商用輸送に、PALTACと大王製紙が参画したと発表した。これにより、製紙業界での自動運転トラックの本格活用は国内で初となる。両社は定期的に物流会社の荷物を輸送する計画で、今後の運用状況が注目されている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "か",
-        "phrase": "カイゼンは  みんなの宝"
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
       },
-      "commentary": "物流資産の効率化に向けた新会社設立、単なる利益追求や一時の成功で終わらんと、日々の改善を積み重ねて強い基盤を築く姿勢が見えるわな。みんなで育てる商売の宝物として、未来をしっかり見据えることが大事やで。"
+      "commentary": "自動運転トラックの導入は、信頼を積む地道な積み重ねの上に成り立つ技術革新や社会貢献の一歩やな。利益だけでなく、物流の安定や業界全体の未来を見据える姿勢が問われる。あせらず、日々の役割を大切にしていくことが肝心やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "山九／CREの協力で物流不動産管理会社を設立、物流資産効率化へ",
+      "sourceURL": "https://www.lnews.jp/?p=324001",
+      "summary": "山九は、倉庫事業の収益性向上と物流資産の効率化を目指し、2026年7月1日に100％子会社のサンキュウアセットマネジメントを設立すると発表した。同社は2021年にシーアールイー（CRE）と連携しており、今回の新会社設立により物流不動産の管理体制を強化する計画である。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
+      },
+      "commentary": "物流資産の管理強化は企業の持続的信頼を育てる種まきや。数字だけ追わず、地道に効率と収益の調和を探りながら、社会に役立つ道を模索する姿勢が、次代のあきんどの礎となるんやで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
       "sourceURL": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
-      "summary": "ケニアのリフトバレー地域ナクル郡ギルギルにあるウツミシ女子アカデミーの寮で火災が発生し、少なくとも16人の生徒が死亡しました。火災は深夜直後に起き、地元警察が確認しました。保護者らは状況の報告を待っている状態です。",
+      "summary": "ケニアのリフトバレー地域にあるUtumishi女子アカデミーの寮で火災が発生し、少なくとも16人の生徒が死亡しました。火事は深夜すぐに起き、ナイロビの北西約76マイルに位置するナクル県ギルギルで発生しました。現在、関係者は状況の確認を進めていますが、詳細な原因や被害の全容についてはまだ明らかにされていません。",
       "classification": {
         "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "も",
-        "phrase": "もうアカン 思たトコから もう一歩"
+        "leadingKana": "ふ",
+        "phrase": "不実やと 思うのならば やめなはれ"
       },
-      "commentary": "痛ましい事故に直面した時、つい気持ちが折れそうになるもんやけど、そこで止まったら何も前に進まへん。信頼は日々の積み重ねやから、一瞬の困難で諦めず、現場の声に耳傾けながら少しずつでも歩みを進めることが大事や。あきんどは、苦境から学びを引き出し、次にどう生かすかを考え続けるもんやで。"
+      "commentary": "今回の火災は、命にかかわる痛ましい出来事や。商売でも仕事でも、信頼の重みを忘れたらあかん。ええ加減なことは一時の都合かもしれんけど、長い目で見たら必ず返ってくる。日々の誠実な積み重ねが、何より大事やと改めて思わなあかんな。"
     }
   ]
 }
