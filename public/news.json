@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-06-01T11:51:16.834Z",
+  "generatedAt": "2026-06-01T17:57:29.198Z",
   "run": {
-    "ranAt": "2026-06-01T11:51:16.834Z",
+    "ranAt": "2026-06-01T17:57:29.198Z",
     "runner": "github-actions",
-    "runId": "26753118538"
+    "runId": "26772295675"
   },
   "stock": [
+    {
+      "title": "ソフトバンクGがトヨタ抜き時価総額で首位に 株価終値も最高値",
+      "body": "週明けの1日の東京株式市場、日経平均株価は一時、初めて6万7000円台をつけたほか、終値でも最高値を更新しました。AI関連の巨額の投資を発表したソフトバンクグループの時価総額がトヨタ自動車を抜いて首位になり、およそ22年半ぶりの首位交代となりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
+    },
     {
       "title": "「フラット35」 6月の適用金利が3.21％ 3％超は現行で初",
       "body": "長期固定型の住宅ローン、「フラット35」の今月の適用金利は、最長35年のローンの最も低い金利が3.21％に引き上げられました。長期金利の上昇を踏まえた対応で2017年以降で3％を超えるのは初めてだということです。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015137521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260601/k10015137521000.html",
-      "fetchedAt": "2026-06-01T11:50:52.101Z"
-    },
-    {
-      "title": "円相場 小幅な値動き 米イランの協議など見極めたい投資家多く",
-      "body": "週明けの1日の東京外国為替市場、アメリカとイランの戦闘終結に向けた協議の行方や原油価格の動向を見極めたいという投資家が多く、円相場は小幅な値動きとなりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015137481000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260601/k10015137481000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "CLO特集／対談 CLO選任から仕組み化へのヒント【前編】誰を選ぶか",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323356",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323356",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "アマゾン／ジャパン社長に島谷恒平オペレーション代表が就任、社長は2人体制に",
@@ -36,7 +36,23 @@
       "sourceURL": "https://www.lnews.jp/?p=324220",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324220",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
+    },
+    {
+      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
+      "body": "&lt;p&gt;Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani Mahama&lt;/p&gt;&lt;p&gt;Ghana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping bill that criminalises the promotion of LGBTQ+ activities and identifying as lesbian, gay, bisexual, transgender or queer, rights groups have warned.&lt;/p&gt;&lt;p&gt;The legislation, which was passed on Friday, mandates prison sentences of three to 10 years.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
+    },
+    {
+      "title": "円相場 小幅な値動き 米イランの協議など見極めたい投資家多く",
+      "body": "週明けの1日の東京外国為替市場、アメリカとイランの戦闘終結に向けた協議の行方や原油価格の動向を見極めたいという投資家が多く、円相場は小幅な値動きとなりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015137481000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260601/k10015137481000.html",
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
@@ -44,7 +60,7 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "企業の採用活動スタート 政府要請ルールの“形骸化”指摘も",
@@ -52,15 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015136961000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260601/k10015136961000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
-    },
-    {
-      "title": "株価 初の6万7000円台 ソフトバンクGが時価総額で一時首位に",
-      "body": "週明けの1日の東京株式市場、日経平均株価は取引時間中の最高値を更新して初めて6万7000円台をつけました。AI関連の巨額の投資を発表したソフトバンクグループの株価が上昇し、一時、時価総額でおよそ22年半ぶりにトヨタ自動車を抜いて首位になりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "日本郵船／新たな船検プログラムテーマにグローバルタンカー品質会議",
@@ -68,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324277",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324277",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "ヤマトHD／音楽宅急便「クロネコ ファミリーコンサート」6都市で開催",
@@ -76,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324268",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324268",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
@@ -84,7 +92,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "4月のナフサ輸入量は減少も 代替調達先の米国からは209倍",
@@ -92,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260531/k10015136681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260531/k10015136681000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "赤澤経産相 鹿児島の備蓄基地視察“今後も必要な石油確保”",
@@ -100,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260531/k10015136561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260531/k10015136561000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "大和ハウス工業／神奈川県寒川町に8.9万m2のマルチテナント型物流施設を着工",
@@ -108,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324142",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324142",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "霞ヶ関キャピタル／名古屋市港区に2万m2の冷凍自動倉庫を竣工",
@@ -116,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324196",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324196",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
@@ -124,7 +132,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "介入後も円安傾向続く 日銀が利上げに踏み切るかも焦点に",
@@ -132,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260530/k10015136051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260530/k10015136051000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "AIモデル ミュトス 利用企業 “ゲームチェンジ起こす能力”",
@@ -140,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260530/k10015135931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260530/k10015135931000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "NYダウ終値 初の5万1000ドル台に 米イラン協議進展へ期待感で",
@@ -148,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260530/k10015135671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260530/k10015135671000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
@@ -156,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "サンリオ 役員の不適切報酬で調査報告書 総額は2億5000万円余",
@@ -164,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015135561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015135561000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "政府・日銀が総額11兆7349億円投じ市場介入実施 財務省発表",
@@ -172,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015135371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015135371000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "コメ 5キロ税込み3692円 前週より値下がり 10か月ぶりの水準に",
@@ -180,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015135221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015135221000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "【きょうのおはBiz 5月29日(金)】スルメイカ 漁獲上限を超過",
@@ -188,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015134701000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "株価 一時1300円超値上がり NY株式市場の最高値更新の流れ受け",
@@ -196,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134651000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015134651000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "【PR】日本ビジネスプレス／「物流イノベーションフォーラム（ベスト版）」6月18日オンライン開催",
@@ -204,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324079",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324079",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "食品値上げ／6月にも年間1万品目突破へ、中東情勢で包装・物流費上昇",
@@ -212,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324076",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324076",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "スルメイカ 昨年度の漁獲上限を超過 管理の難しさ浮き彫りに",
@@ -220,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015134371000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "メガバンク3行 オープンAI最新モデル利用へ 攻撃への備え急ぐ",
@@ -228,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015134481000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "T2／PALTACと大王製紙が自動運転トラックを本格利用へ、製紙業界で初",
@@ -236,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323899",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323899",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "山九／CREの協力で物流不動産管理会社を設立、物流資産効率化へ",
@@ -244,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324001",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324001",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
@@ -252,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "石油代替調達進むも目詰まり課題 イラン情勢 各地への影響は",
@@ -260,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015133941000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "ソニー生命 元社員4人が顧客と不適切な金銭授受 1億2000万円余",
@@ -268,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015134261000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015134261000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "南米とのEPA交渉 自民党対策本部で農業への懸念の声相次ぐ",
@@ -276,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015134201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015134201000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "株価 小幅な値動き 6万5000円台",
@@ -284,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015133801000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "ニップン 小麦粉やパスタなど値上げ 中東影響が一因",
@@ -292,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133711000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015133711000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "サンケイビルと東急不動産G／物流施設のCO2削減へ再エネ活用を開始",
@@ -300,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323905",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323905",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "セイノー情報サービス／日販の物流拠点でラピュタASRSと連携、処理能力3倍に",
@@ -308,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323908",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323908",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
@@ -316,7 +324,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "NY原油 一時1バレル＝87ドル台に下落 その後は再び上昇も",
@@ -324,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260528/k10015133531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260528/k10015133531000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "政府備蓄米の買い入れ ほぼ全量落札 今後値下がりの見方背景か",
@@ -332,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015133291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015133291000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "中央日本土地建物／岩手県金ケ崎町に約2万m2のマルチテナント型物流施設竣工",
@@ -340,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323728",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323728",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "東京建物・FIRST CVC／CVC特化型共創拠点を初公開、物流・SC課題解決も視野",
@@ -348,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323830",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323830",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "日銀決算 保有国債の含み損が45兆円規模に",
@@ -356,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015133271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015133271000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
@@ -364,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "春闘 大企業の賃上げ率 3年連続で5％超",
@@ -372,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015133151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015133151000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "円相場 小幅な値動き 植田総裁の発言材料不足で方向感欠く",
@@ -380,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015133171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015133171000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
@@ -388,7 +396,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     },
     {
       "title": "4月の単身者向け家賃 東京23区は11万2500円に 過去最高を更新",
@@ -396,53 +404,15 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015132691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260527/k10015132691000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
-    },
-    {
-      "title": "食品のパッケージ変更の動きで政府と業界が初の情報交換会",
-      "body": "イラン情勢の影響で食品のパッケージを変更する動きが相次いでいることを受けて政府は27日、業界団体と情報を交換する初めての会合を開きました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260527/k10015132661000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260527/k10015132661000.html",
-      "fetchedAt": "2026-06-01T11:50:52.102Z"
+      "fetchedAt": "2026-06-01T17:57:01.807Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "「フラット35」 6月の適用金利が3.21％ 3％超は現行で初",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015137521000.html",
-      "summary": "今月の長期固定型住宅ローン「フラット35」の最も低い適用金利が3.21％に引き上げられました。これは長期金利の上昇を受けた対応で、2017年以降、初めて3％を超える金利となっています。最長35年のローンに適用される金利です。",
-      "classification": {
-        "tone": "N",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "ね",
-        "phrase": "根っこみる 葉っぱみんでも 根っこみる"
-      },
-      "commentary": "金利上昇のニュースは表面だけ見て騒ぎ立てるんやなく、住宅ローンの仕組みや長期的な影響をじっくり捉えることが肝心や。今の数字は一時の現象かもしれんが、根っこの経済環境や顧客の生活設計まで見据え、信頼を積み上げる姿勢が求められるんやで。"
-    },
-    {
-      "source": "NHK",
-      "title": "円相場 小幅な値動き 米イランの協議など見極めたい投資家多く",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015137481000.html",
-      "summary": "1日の東京外国為替市場では、米国とイランの戦闘終結に関する協議の進展や原油価格の動向を注視する投資家が多く、円相場は大きな変動がなく、落ち着いた動きを見せました。",
-      "classification": {
-        "tone": "N",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
-      },
-      "commentary": "国際情勢や市場の動きをただ眺めるだけやなく、疑問があったらきちんと「何がどう動くんか？」と深掘りする姿勢が大事や。小さな値動きの裏にある意味を見逃さず、次の一手を考えることが信頼と持続的な商売につながるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "CLO特集／対談 CLO選任から仕組み化へのヒント【前編】誰を選ぶか",
-      "sourceURL": "https://www.lnews.jp/?p=323356",
-      "summary": "改正物流効率化法の施行により、一定規模以上の企業には物流統括管理者の選任が義務付けられた。この背景から、物流業界では「CLO（最高物流責任者）」の役割や選任方法に関心が高まっている。今回の対談では、CLOの選定に関するポイントや、組織内での仕組み作りのヒントについて議論が行われている。",
+      "title": "ソフトバンクGがトヨタ抜き時価総額で首位に 株価終値も最高値",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
+      "summary": "1日の東京株式市場で、日経平均株価は初めて6万7000円台に達し、終値も過去最高を記録しました。ソフトバンクグループはAI関連の大規模投資発表を受け、時価総額でトヨタ自動車を上回り、約22年半ぶりに時価総額トップの座に就きました。",
       "classification": {
         "tone": "G",
         "term": "M"
@@ -451,28 +421,13 @@
         "leadingKana": "ゆ",
         "phrase": "ゆっくりと 行くのは一体 何の為？"
       },
-      "commentary": "物流統括管理者の選任は法の要請や業界の変化を受けた新たな挑戦やが、ただ焦るだけやと全体の仕組みが整わん。何のための改革か見失わず、先手を打ちつつも意味ある段取りで進めることが、信頼積む道やと心得るべきやな。"
+      "commentary": "株価の動きに浮き沈みはつきもんやけど、時価総額の首位交代は単なる通過点や。焦らず先手を取る姿勢は大事やけど、急ぎすぎて見失うこともある。商売は速さだけやなく、何のために急ぐかを考えながら進むことが信頼を積む鍵やで。"
     },
     {
-      "source": "LNEWS",
-      "title": "アマゾン／ジャパン社長に島谷恒平オペレーション代表が就任、社長は2人体制に",
-      "sourceURL": "https://www.lnews.jp/?p=324220",
-      "summary": "アマゾンジャパンは6月1日付で、ジャパンオペレーション代表の島谷恒平氏を社長に任命した。従来の社長であるジャスパー・チャン氏も引き続き社長を務めるため、社長職は二人体制となった。島谷氏は2017年に同社に入社しており、オペレーション領域を担当している。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "よ",
-        "phrase": "世の中は 広いんやから 驚くな"
-      },
-      "commentary": "企業のトップが増える形態に、最初は戸惑うかもしれんけど、世の中は広いもんや。ひとつのやり方だけが正解やない。日々の積み重ねが信頼を作るんやから、複雑な体制も受け入れて、自分の仕事の意味を考え続けることが大事やで。"
-    },
-    {
-      "source": "Guardian｜World",
-      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
-      "sourceURL": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "summary": "英国政府が設けた移民送還計画の中止に伴い、ルワンダ政府が約1億ポンドの支払いを求めて国際裁判所に提訴していたが、裁判所は英国に支払い義務がないと判断した。問題の計画は、ボリス・ジョンソン政権時代に開始され、労働党政権が発足初日に中止したものである。",
+      "source": "NHK",
+      "title": "「フラット35」 6月の適用金利が3.21％ 3％超は現行で初",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015137521000.html",
+      "summary": "長期固定型住宅ローン「フラット35」の6月の最低適用金利が3.21％に引き上げられました。これは、長期金利の上昇を受けたもので、2017年以降初めて3％を超えた水準となります。最長35年のローンに適用される金利です。",
       "classification": {
         "tone": "N",
         "term": "M"
@@ -481,7 +436,52 @@
         "leadingKana": "わ",
         "phrase": "わからん時　わからんと言う素直さよ"
       },
-      "commentary": "こういう複雑な話は、わかったふりせんと「まだ整理できてへん」と正直に伝えるんが信頼の第一歩や。短絡的に判断せんと、状況の背景や約束事をじっくり見極める姿勢こそ、長い付き合いを生むあきんどの道やで。"
+      "commentary": "金利が上がって、戸惑うこともあるやろけど、知らんことは知らんと言うんが商売の基本や。無理に答えず、現状を正直に伝えて、次にどう動くかを共に考える。信頼はそんな誠実な積み重ねから生まれるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "CLO特集／対談 CLO選任から仕組み化へのヒント【前編】誰を選ぶか",
+      "sourceURL": "https://www.lnews.jp/?p=323356",
+      "summary": "改正物流効率化法の施行により、一定規模以上の企業には物流統括管理者の選任が義務付けられた。これを受け、物流業界では最高物流責任者（CLO）の役割や選任方法に注目が集まっている。今回の対談では、CLOの選び方や組織への定着に向けたポイントが議論された。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "は",
+        "phrase": "早起きは 眠たいけども 憂いなし"
+      },
+      "commentary": "物流管理者の選任は急務やけど、ええ人を選んだら終わりやない。仕組みづくりにじっくり取り組む時間を確保せな信頼は積み重ならへん。眠たい朝も準備に使うように、地味な日々の積み重ねが将来の安定を生むんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "アマゾン／ジャパン社長に島谷恒平オペレーション代表が就任、社長は2人体制に",
+      "sourceURL": "https://www.lnews.jp/?p=324220",
+      "summary": "アマゾンジャパンは6月1日付で、島谷恒平オペレーション代表を社長に任命したと発表した。これにより、現社長のジャスパー・チャン氏と島谷氏の2人体制で経営を行うことになる。島谷氏は2017年にアマゾンに入社し、オペレーション部門を担当してきた。",
+      "classification": {
+        "tone": "N",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "よ",
+        "phrase": "世の中は 広いんやから 驚くな"
+      },
+      "commentary": "会社のトップが二人体制になると聞くと驚くかもしれへんけど、経営の形は様々や。あきんどとして大切なんは、その変化に慌てず、日々の積み重ねで信頼を築くことや。予想外の動きも、広い世の中の一部と受け止めて、自分の仕事にどう活かすか考え続けよ。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "summary": "ガーナの議会は、LGBTQ+に関連する活動の推進や自己認識を犯罪とする包括的な法案を可決しました。この法律は、違反者に対し3年から10年の懲役を科す内容です。コミュニティ団体によると、この法案の成立により、一部の人々は住居や職を失い、医療サービスの利用も困難になるのではないかと懸念しています。現在、同法の大統領による承認が待たれています。",
+      "classification": {
+        "tone": "B",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "れ",
+        "phrase": "冷淡な　あいつの心は　仏さん"
+      },
+      "commentary": "世の中の動きに心揺れても、商いは感情だけで動かんもんや。相手の立場や理屈を冷静に見つめ、互いの信頼を積み重ねることが肝心やで。焦らず、日々の行いで道を照らすんや。それが長く続く商売の礎やと思うわ。"
     }
   ]
 }
