@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-06-03T17:05:19.991Z",
+  "generatedAt": "2026-06-03T21:25:40.396Z",
   "run": {
-    "ranAt": "2026-06-03T17:05:19.991Z",
+    "ranAt": "2026-06-03T21:25:40.396Z",
     "runner": "github-actions",
-    "runId": "26900394956"
+    "runId": "26913952779"
   },
   "stock": [
+    {
+      "title": "世界経済成長率“イラン情勢混乱長期化なら大幅落ち込み”OECD",
+      "body": "OECD＝経済協力開発機構は、ことしの世界経済の見通しについて、イラン情勢による混乱が長期化した場合、成長率は去年の3.4％から、2.1％に大幅に落ち込むという予測を明らかにしました。混乱が短期に収束した場合でも、成長率は2.8％になると見込んでいます。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260604/k10015140281000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260604/k10015140281000.html",
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
+    },
     {
       "title": "世界の中央銀行の外貨準備に占める金の割合 米国債を上回る",
       "body": "世界の中央銀行が保有する外貨準備に占める金の割合は去年末の時点で27％と、アメリカ国債の割合を上回ったことが、ヨーロッパ中央銀行のまとめで分かりました。金の価格の上昇に加えて、地政学的なリスクの高まりで一部の中央銀行が金を購入してきたことが背景にあるとしています。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260603/k10015140181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260603/k10015140181000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
-    },
-    {
-      "title": "食料品の消費税減税 来年4月から1％に引き下げる案も 政府与党",
-      "body": "食料品の消費税減税をめぐり、政府は、税率を1％に引き下げた場合、レジシステムの改修は、最大で半年程度になるという見通しを示しました。政府・与党内では、早期に減税を実現するため、改修期間を考慮して、来年4月から1％に引き下げる案も検討されています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260603/k10015139591000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260603/k10015139591000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "CLO特集／対談【後編】CLO選任後のアクション、物流事業者の対応は―",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323485",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323485",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "オリックス不動産／愛知県一宮市に7.6万m2のマルチ型物流施設を完成",
@@ -36,7 +36,23 @@
       "sourceURL": "https://www.lnews.jp/?p=324625",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324625",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
+    },
+    {
+      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
+      "body": "&lt;p&gt;Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’  but that the response was catching up&lt;/p&gt;&lt;p&gt;The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organization said, giving the virus “a big head start”.&lt;/p&gt;&lt;p&gt;Dr Tedros Adhanom Ghebreyesus also said the response was being hindered by blanket travel restrictions and highlighted high levels of community mistrust and low levels of contact tracing as key concerns.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
+    },
+    {
+      "title": "食料品の消費税減税 来年4月から1％に引き下げる案も 政府与党",
+      "body": "食料品の消費税減税をめぐり、政府は、税率を1％に引き下げた場合、レジシステムの改修は、最大で半年程度になるという見通しを示しました。政府・与党内では、早期に減税を実現するため、改修期間を考慮して、来年4月から1％に引き下げる案も検討されています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260603/k10015139591000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260603/k10015139591000.html",
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
@@ -44,7 +60,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "日銀植田総裁 “利上げ是非の議論が必要” 中東情勢不安定でも",
@@ -52,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260603/k10015139951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260603/k10015139951000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "株価 一時2000円以上値上がり 取り引き時間中の最高値を更新",
@@ -60,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260603/k10015139421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260603/k10015139421000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "GoQSystem／通販一元管理システムが日本郵便の置き配指定に対応",
@@ -68,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324670",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324670",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "日本郵船/「日本郵船グループDXストーリー」の動画を公開",
@@ -76,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324661",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324661",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "クロード・ミュトス 日本政府と一部の国内銀行が利用可能に",
@@ -84,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260603/k10015138831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260603/k10015138831000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "塗料やシンナーの原料 新たに石油元売りから直接供給 高市首相",
@@ -92,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260602/k10015138511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260602/k10015138511000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "日本通運・マツダ／バイオ燃料使用の完成車トレーラー輸送実験、運用課題など検証",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324430",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324430",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "関電不動産開発／オーストラリアで1.86万m2の物流施設取得、海外事業を拡大",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324562",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324562",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "子どものSNS利用規制 国内のルールはどうなる？【Q＆A】",
@@ -116,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260602/k10015137951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260602/k10015137951000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "円相場 値下がり イラン情勢先行きの不透明感で",
@@ -124,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260602/k10015138461000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260602/k10015138461000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "株価 値下がり きのう最高値更新で利益確定の売りも",
@@ -140,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260602/k10015137911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260602/k10015137911000.html",
-      "fetchedAt": "2026-06-03T17:04:59.100Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "円相場 市場介入前の水準に近づく 片山財務相「適切に対応」",
@@ -148,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260602/k10015137931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260602/k10015137931000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "Gaussy／棚搬送型ロボのスポットレンタルサービス開始、繁忙期の増設に対応",
@@ -156,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324451",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324451",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "公取委／下請け事業者への運賃等減額で琉球運輸倉庫に勧告",
@@ -164,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324445",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324445",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
@@ -172,7 +188,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "ソフトバンクGがトヨタ抜き時価総額で首位に 株価終値も最高値",
@@ -180,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "「フラット35」 6月の適用金利が3.21％ 3％超は現行で初",
@@ -188,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015137521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260601/k10015137521000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "CLO特集／対談 CLO選任から仕組み化へのヒント【前編】誰を選ぶか",
@@ -196,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=323356",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=323356",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "アマゾン／ジャパン社長に島谷恒平オペレーション代表が就任、社長は2人体制に",
@@ -204,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324220",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324220",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "円相場 小幅な値動き 米イランの協議など見極めたい投資家多く",
@@ -212,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015137481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260601/k10015137481000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "企業の採用活動スタート 政府要請ルールの“形骸化”指摘も",
@@ -228,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260601/k10015136961000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260601/k10015136961000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "日本郵船／新たな船検プログラムテーマにグローバルタンカー品質会議",
@@ -236,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324277",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324277",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "ヤマトHD／音楽宅急便「クロネコ ファミリーコンサート」6都市で開催",
@@ -244,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324268",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324268",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "4月のナフサ輸入量は減少も 代替調達先の米国からは209倍",
@@ -260,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260531/k10015136681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260531/k10015136681000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "赤澤経産相 鹿児島の備蓄基地視察“今後も必要な石油確保”",
@@ -268,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260531/k10015136561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260531/k10015136561000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "大和ハウス工業／神奈川県寒川町に8.9万m2のマルチテナント型物流施設を着工",
@@ -276,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324142",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324142",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "霞ヶ関キャピタル／名古屋市港区に2万m2の冷凍自動倉庫を竣工",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324196",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324196",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "介入後も円安傾向続く 日銀が利上げに踏み切るかも焦点に",
@@ -300,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260530/k10015136051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260530/k10015136051000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "AIモデル ミュトス 利用企業 “ゲームチェンジ起こす能力”",
@@ -308,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260530/k10015135931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260530/k10015135931000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "NYダウ終値 初の5万1000ドル台に 米イラン協議進展へ期待感で",
@@ -316,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260530/k10015135671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260530/k10015135671000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "サンリオ 役員の不適切報酬で調査報告書 総額は2億5000万円余",
@@ -332,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015135561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015135561000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "政府・日銀が総額11兆7349億円投じ市場介入実施 財務省発表",
@@ -340,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015135371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015135371000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "コメ 5キロ税込み3692円 前週より値下がり 10か月ぶりの水準に",
@@ -348,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015135221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015135221000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "【きょうのおはBiz 5月29日(金)】スルメイカ 漁獲上限を超過",
@@ -356,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015134701000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "株価 一時1300円超値上がり NY株式市場の最高値更新の流れ受け",
@@ -364,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134651000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015134651000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "【PR】日本ビジネスプレス／「物流イノベーションフォーラム（ベスト版）」6月18日オンライン開催",
@@ -372,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324079",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324079",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "食品値上げ／6月にも年間1万品目突破へ、中東情勢で包装・物流費上昇",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=324076",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=324076",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     },
     {
       "title": "スルメイカ 昨年度の漁獲上限を超過 管理の難しさ浮き彫りに",
@@ -388,100 +404,84 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260529/k10015134371000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
-    },
-    {
-      "title": "メガバンク3行 オープンAI最新モデル利用へ 攻撃への備え急ぐ",
-      "body": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、日本のメガバンク3行がアメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。サイバー攻撃を受けた場合の防御策の検討に活用するとみられます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260529/k10015134481000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260529/k10015134481000.html",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
-    },
-    {
-      "title": "T2／PALTACと大王製紙が自動運転トラックを本格利用へ、製紙業界で初",
-      "body": "<![CDATA[<p>T2は5月28日、PALTACと大王製紙が、T2の自動運転トラックで物流会社などの荷物を定期的に輸送する「商用運行」に参画したと発表した。自動運転トラックの本格的な利用は国内の製紙業界で初めてだという。 両社はこれまで、 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/05/s0528502.html\">T2／PALTACと大王製紙が自動運転トラックを本格利用へ、製紙業界で初</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=323899",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=323899",
-      "fetchedAt": "2026-06-03T17:04:59.101Z"
+      "fetchedAt": "2026-06-03T21:25:13.464Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
+      "title": "世界経済成長率“イラン情勢混乱長期化なら大幅落ち込み”OECD",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260604/k10015140281000.html",
+      "summary": "経済協力開発機構（OECD）は、2024年の世界経済成長率について、イラン情勢の混乱が長引けば成長率が3.4％から2.1％に大幅に低下すると予測しました。混乱が短期間で収束した場合でも、成長率は2.8％にとどまる見込みとしています。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "や",
+        "phrase": "やるんかい やらんのやったら どいとれや"
+      },
+      "commentary": "世界の経済動向は不確実さを抱えとる。混乱が長引けば成長は鈍るけど、何もしないで見てるだけじゃ機会も逃す。自分の役割を意識しつつ、状況に応じて柔軟に動く姿勢が信頼を積む道や。焦らず着実に行動せなあかんで。"
+    },
+    {
+      "source": "NHK",
       "title": "世界の中央銀行の外貨準備に占める金の割合 米国債を上回る",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260603/k10015140181000.html",
-      "summary": "世界の中央銀行が保有する外貨準備に占める金の割合が昨年末に27％となり、アメリカ国債の比率を超えたことがヨーロッパ中央銀行の報告で明らかになりました。これは金価格の上昇や地政学的リスクの高まりを受け、一部の中央銀行が金の購入を増やしたためとされています。",
+      "summary": "世界の中央銀行が保有する外貨準備における金の割合が、2023年末時点で27％に達し、アメリカ国債の割合を上回ったことがヨーロッパ中央銀行の報告で明らかになりました。これは金価格の上昇や地政学的リスクの影響で、一部の中央銀行が金の購入を増やしたためとされています。",
       "classification": {
         "tone": "N",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ち",
-        "phrase": "頂上を目指しているなら 自由に登ろう"
+        "leadingKana": "り",
+        "phrase": "理解には  聞読話書と  四段階"
       },
-      "commentary": "世界の動きに合わせ、金の比率が米国債を超えたんやな。目標は同じでも、環境や資源が違うから、前例にこだわらず自分なりの道を探るのが商売の基本や。時勢を見据えつつ、柔軟に信頼を積み重ねる姿勢が大事やで。"
-    },
-    {
-      "source": "NHK",
-      "title": "食料品の消費税減税 来年4月から1％に引き下げる案も 政府与党",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260603/k10015139591000.html",
-      "summary": "政府・与党は、食料品の消費税減税を1％に引き下げる案を検討している。レジシステムの改修に最大で半年程度かかると見込まれており、この期間を踏まえ、減税の開始時期を来年4月とする案が浮上している。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "わ",
-        "phrase": "わからん時　わからんと言う素直さよ"
-      },
-      "commentary": "消費税減税の話やけど、制度やシステムの変化は一朝一夕にできへんもんや。わからんことは素直に認めて、慎重に準備を進める姿勢が信頼につながる。焦らず、段取りを守ることで、長く続く商売の土台ができるんやで。"
+      "commentary": "世界の変化は目に見えへん部分も多いけど、金の比率増加はリスクを読みつつ慎重に守りを固める姿勢の表れや。あきんどは相手の理解段階を見極め、確かな信頼を積むように、変化に応じた手堅い判断を日々積み重ねることが肝心やで。"
     },
     {
       "source": "LNEWS",
       "title": "CLO特集／対談【後編】CLO選任後のアクション、物流事業者の対応は―",
       "sourceURL": "https://www.lnews.jp/?p=323485",
-      "summary": "物流業界のCLO（Chief Logistics Officer）選任後の具体的な対応について、専門家による対談の後編が公開された。前編ではCLOの役割や物流部長との区別、人選のポイントが議論され、後編では選任後の実務的なアクションや物流事業者がどのように対応すべきかに焦点が当てられている。企業の物流改革とサプライチェーン強化に向けた指針を示している。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "は",
-        "phrase": "早起きは 眠たいけども 憂いなし"
-      },
-      "commentary": "物流の仕組みを整えるには、選任後の日々の積み重ねが肝心や。焦らず地道に課題を洗い出し、準備を怠らんことで、先の不安も薄まる。眠たくても早起きして準備するように、着実な行動が信頼の礎になるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "オリックス不動産／愛知県一宮市に7.6万m2のマルチ型物流施設を完成",
-      "sourceURL": "https://www.lnews.jp/?p=324625",
-      "summary": "オリックス不動産は愛知県一宮市に、延床面積7.6万平方メートルのマルチテナント型物流施設「一宮ロジスティクスセンター」を完成させた。建物は鉄骨造4階建てで、東海北陸自動車道の一宮西インターチェンジから約3.5キロの立地にある。物流拠点としての活用が見込まれている。",
+      "summary": "CLO（Chief Logistics Officer）選任後の具体的な取り組みと物流事業者の対応についての対談後編が公開された。前編ではCLOの役割や物流部長との関係、人選のポイントが議論されており、後編では選任後の組織内での仕組みづくりや実務的な対応策に焦点を当てている。物流・サプライチェーン改革における各担当者の役割分担も話題となっている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
       },
-      "commentary": "物流施設の完成はただの開発や利益追求の話やない。地域や社会との付き合いを見据え、長く信頼を積むことが問われるんや。今だけの便利さや効率に流されず、地に足つけた商いを続ける姿勢が大事やな。未来も変わらん生き様で、着実に歩む覚悟を持ち続けたいもんや。"
+      "commentary": "物流の現場でCLOが選ばれたら、その役割や仕組みを明確にし、情報を隠さず共有することが肝心や。秘密を抱えると信頼が揺らぐ。あきんどは、日々の積み重ねで信頼を築くもんやから、透明なコミュニケーションが次の一歩を生む鍵になるで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "オリックス不動産／愛知県一宮市に7.6万m2のマルチ型物流施設を完成",
+      "sourceURL": "https://www.lnews.jp/?p=324625",
+      "summary": "オリックス不動産は愛知県一宮市に、延床面積約7.6万平方メートルのマルチテナント型物流施設「一宮ロジスティクスセンター」を完成させた。建物は鉄骨造4階建てで、東海北陸自動車道の一宮西インターチェンジから約3.5キロの位置にある。施設は複数のテナントが利用可能な物流拠点として設計されている。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
+      },
+      "commentary": "今回の物流施設完成は、一宮の地域経済を支える新たな拠点の誕生や。大きな施設が持続的に機能するためには、慌てんと日々の信頼積み重ねが大事やね。社会の一部として、みんなの暮らしを支える役割を忘れんと、商売の根っこを大切にしたいもんや。"
     },
     {
       "source": "Guardian｜World",
-      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
-      "sourceURL": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
-      "summary": "米国がエボラウイルスに曝露した同国民の隔離施設をケニア中央部のナンユキ近郊に設置する計画に対し、地元住民が懸念を示している。感染例が国内で確認されていない中、住民はウイルスの拡散リスクを指摘し、米国の対応に二重基準を感じているという。対象地は首都ナイロビから約120マイル離れたライキピア空軍基地付近である。",
+      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+      "summary": "世界保健機関（WHO）のテドロス事務局長は、コンゴ民主共和国でのエボラ出血熱の流行が早ければ1月から始まっていた可能性があると指摘した。これによりウイルスが先行して拡大したとし、対応が追いついているものの、渡航制限の影響や地域住民の不信感、接触者追跡の不十分さが課題となっていると述べた。",
       "classification": {
         "tone": "B",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "こ",
-        "phrase": "ゴミが落ちていたら拾うんです"
+        "leadingKana": "や",
+        "phrase": "やるんかい やらんのやったら どいとれや"
       },
-      "commentary": "自分の町にリスクを持ち込まれる不安は、信頼の土台が揺らぐサインや。商売も地域も、安心を守る日々の細やかな気遣いが肝心やで。見えへんモンにも目を配り、共に守る姿勢こそが長続きの秘訣やと思わんか？"
+      "commentary": "感染拡大の初動遅れは、役割分担の中で踏み出す一歩の重みを示してますな。枠組みにとらわれ過ぎず、しかし無闇に動くのでもなく、信頼と連携を積み重ねながら、機を逃さず動く姿勢が求められる。焦らず、しかし覚悟をもって挑むことが肝心や。"
     }
   ]
 }
