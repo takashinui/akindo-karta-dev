@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-06-15T05:17:42.513Z",
+  "generatedAt": "2026-06-15T12:34:56.572Z",
   "run": {
-    "ranAt": "2026-06-15T05:17:42.513Z",
+    "ranAt": "2026-06-15T12:34:56.572Z",
     "runner": "github-actions",
-    "runId": "27525634077"
+    "runId": "27546551594"
   },
   "stock": [
     {
-      "title": "日経平均株価 初の6万9000円台 アメリカとイランの合意伝わり",
-      "body": "週明けの15日の東京株式市場、アメリカとイランの戦闘終結に向けた合意を背景に日経平均株価は、初めて6万9000円台をつけています。値上がり幅は一時、3600円を超え取引時間中としては過去最大となりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
+      "title": "米とイランの合意 経済同友会 石油連盟から歓迎の声",
+      "body": "アメリカとイランは、日本時間の15日朝、戦闘終結に向けた覚書を交わすことで合意に達したと明らかにしました。経済同友会の山口代表幹事は、「いつなのかと期待していたので歓迎したい。原油やナフサなどの円滑な調達や、サプライチェーンの障害の解消が早期に実現されることを期待したい」と述べました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150471000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "id": "www3.nhk.or.jp/news/html/20260615/k10015150471000.html",
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
-      "title": "きょうのおはBiz6月15日(月) 国債買い入れペース どう見直す",
-      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150121000.html",
+      "title": "NY原油先物価格 一時1バレル＝79ドル台まで下落",
+      "body": "15日のニューヨーク原油市場では国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝79ドル台まで下落しました。1バレル＝80ドルを下回るのは、ことし3月以来およそ3か月ぶりです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150511000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260615/k10015150121000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "id": "www3.nhk.or.jp/news/html/20260615/k10015150511000.html",
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
-      "title": "TRC平和島自動運転協議会／14団体が新規参画し50団体に拡大",
-      "body": "<![CDATA[<p>東京流通センター（TRC）を拠点とする平和島自動運転協議会は6月15日、新たに14団体が第六次メンバーとして参画し、会員数が計50団体となったと発表した。新規参画企業にはダイフク、JR東日本、JR東日本物流、鴻池運輸、ロ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0615502.html\">TRC平和島自動運転協議会／14団体が新規参画し50団体に拡大</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=326017",
+      "title": "西濃運輸／千葉県市川市に6.1万m2の新市川支店を8月下旬に開設、ロジ機能を強化",
+      "body": "<![CDATA[<p>西濃運輸が千葉県市川市に開発を進めている「新市川支店」の建設工事が、8月下旬の開設に向け大詰めを迎えている。 延床面積約6万1200m2と同社では関東最大規模を誇る新市川支店は、セイノーホールディングスが成長エンジンと位 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0615101.html\">西濃運輸／千葉県市川市に6.1万m2の新市川支店を8月下旬に開設、ロジ機能を強化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=326074",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=326017",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "id": "www.lnews.jp/?p=326074",
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "中央日本土地建物、CRE／兵庫県明石市で平屋建て計10棟1.9万m2、BTS型施設を着工",
@@ -36,7 +36,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326005",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326005",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
@@ -44,7 +44,31 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
+    },
+    {
+      "title": "日経平均株価 初の6万9000円台 アメリカとイランの合意伝わり",
+      "body": "週明けの15日の東京株式市場、アメリカとイランの戦闘終結に向けた合意を背景に日経平均株価は、初めて6万9000円台をつけています。値上がり幅は一時、3600円を超え取引時間中としては過去最大となりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
+    },
+    {
+      "title": "きょうのおはBiz6月15日(月) 国債買い入れペース どう見直す",
+      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150121000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260615/k10015150121000.html",
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
+    },
+    {
+      "title": "TRC平和島自動運転協議会／14団体が新規参画し50団体に拡大",
+      "body": "<![CDATA[<p>東京流通センター（TRC）を拠点とする平和島自動運転協議会は6月15日、新たに14団体が第六次メンバーとして参画し、会員数が計50団体となったと発表した。新規参画企業にはダイフク、JR東日本、JR東日本物流、鴻池運輸、ロ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0615502.html\">TRC平和島自動運転協議会／14団体が新規参画し50団体に拡大</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=326017",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=326017",
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "米FRBウォーシュ新議長のもと初会合へ 発言に関心集まる",
@@ -52,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260614/k10015149831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260614/k10015149831000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "「スペースX」が上場 調達資金 約12兆円は過去最大規模",
@@ -60,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "明治／物流セミナー開催、国交省の運輸支局長が物流効率化法対応を解説",
@@ -68,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325888",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325888",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "キリングループロジほか／繁閑差生かしフォークオペレーターを異業種間で相互活用",
@@ -76,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325810",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325810",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "London council seizes social housing flat rented by Sierra Leone first lady",
@@ -84,7 +108,7 @@
       "sourceURL": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "ウリ信用組合に一部業務停止命令 顧客の預金着服などで 金融庁",
@@ -92,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148851000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148851000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "Booking.comの予約客に不審なメッセージ相次ぐ 注意呼びかけ",
@@ -100,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148701000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "円相場 小幅な値動き 1ドル＝160円台前半での取り引き",
@@ -108,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148671000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "きょうのおはBiz6月12日(金) 半導体量産へ“3つの課題”とは",
@@ -116,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148151000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "日銀植田総裁の入院“金融政策決定会合に影響ない”片山財務相",
@@ -124,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148201000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "岡崎通運／物流ルート切替えプロジェクトでトヨタ自動車から表彰",
@@ -132,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325849",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325849",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "DHL／爆発物探知犬を導入、航空貨物のセキュリティを強化",
@@ -140,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325843",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325843",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "NYダウ 一時1000ドル超値上がり 攻撃中止表明で買い注文広がる",
@@ -148,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015147971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015147971000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "ANA 新運賃体系に問い合わせ殺到 窓口対応や返信に遅れ",
@@ -156,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015147811000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015147811000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "日本通運／輸入通関の関税・消費税立替払いを終了、9月末までに直接納税へ移行",
@@ -164,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325663",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325663",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "全国新スマート物流推進協議会／平時と災害時に対応の物流インフラ構築に向け会合",
@@ -172,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325735",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325735",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "日系企業 レアアースなど輸出規制の運用透明化を中国に要望",
@@ -180,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015147701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015147701000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
@@ -188,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "三井住友FGなど金融大手 アンソロピック・NECとAI連携を発表",
@@ -196,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015147391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015147391000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "中国地方 中東情勢悪化で旅客船の減便・値上げ相次ぐ",
@@ -204,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015147481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015147481000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "きょうのおはBiz6月11日(木) 新技術IOWN 将来性と今後の焦点は",
@@ -212,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015146821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015146821000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "株価 荒い値動き 一時1800円以上 値下がりの場面も",
@@ -220,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015146761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015146761000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "tenso／関税追加徴収なし、総コスト確定型の米国向け配送プランを提供",
@@ -228,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325684",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325684",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "CARRO JAPAN／韓国ORBROと協業、屋内外一体の物流DXへ",
@@ -236,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325681",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325681",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "NTT 次世代のIT技術 実用化や事業展開が課題に",
@@ -244,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015146421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015146421000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "トヨタ自動車 豊田章男会長の昨年度の役員報酬は21億円",
@@ -252,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015146551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015146551000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "東京建物／福岡県久山町に2.2万m2の冷凍冷蔵倉庫を開発へ",
@@ -260,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325561",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325561",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "日本郵便／東京支社元社員の再逮捕受けコメント、全国の入札案件調査",
@@ -268,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325651",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325651",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "大手金融各社 米アンソロピック・NEC連携に参加の方針固める",
@@ -276,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015146481000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260611/k10015146481000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "日銀植田総裁が入院 来週の金融政策決定会合は欠席の見込み",
@@ -284,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260610/k10015146301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260610/k10015146301000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "5月企業物価指数 前年同月比6.3％上昇 中東情勢で上昇幅拡大",
@@ -292,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260610/k10015145741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260610/k10015145741000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "円相場 小幅な値動きも 1ドル＝160円台での取り引き続く",
@@ -300,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260610/k10015146251000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260610/k10015146251000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
@@ -308,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "きょうのおはBiz6月10日(水) アメリカメディア 明暗分けるのは",
@@ -316,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260610/k10015145801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260610/k10015145801000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "株価値下がり AI・半導体銘柄中心に イラン情勢懸念も",
@@ -324,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260610/k10015145901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260610/k10015145901000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "日本通運／5月の鉄道コンテナ取り扱い実績7.5％減、8か月連続前年割れ",
@@ -332,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325516",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325516",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "遠州トラック／第7回フォークリフトコンテスト開催、20名が技能競う",
@@ -340,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325489",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325489",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
@@ -348,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "JR東日本 来春に磁気付き切符を廃止しQRコードの切符に",
@@ -356,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260609/k10015145181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260609/k10015145181000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "円相場 1ドル＝160円台の前半で小幅な値動き",
@@ -364,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260609/k10015145261000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260609/k10015145261000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "西濃運輸／東京内陸部の物流強化へ、八王子市に7120m2の倉庫を開設",
@@ -372,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325363",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325363",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     },
     {
       "title": "ヤマト運輸／軽貨物事業者の安全管理DX支援へ、スマホアプリ提供開始",
@@ -380,84 +404,60 @@
       "sourceURL": "https://www.lnews.jp/?p=325345",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325345",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
-    },
-    {
-      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-      "body": "&lt;p&gt;Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say&lt;/p&gt;&lt;p&gt;Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting the region’s worsening security.&lt;/p&gt;&lt;p&gt;According to local police, 39 people were seized on Sunday during a meeting in the forest near Magamin Diddi village in the Maradun municipality of north-west Zamfara state. But some residents and officials believe the number of those abducted could be as high as 50.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
-    },
-    {
-      "title": "きょうのおはBiz 6月9日(火) 日本の往年の名曲が世界でヒット!",
-      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260609/k10015144821000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260609/k10015144821000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
-    },
-    {
-      "title": "株価 午前の終値は値上がり 半導体関連銘柄など中心に買い注文",
-      "body": "8日、日経平均株価が急落した東京株式市場、9日は半導体関連の銘柄などを中心に買い注文が多く入り、日経平均は値上がりしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260609/k10015144761000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260609/k10015144761000.html",
-      "fetchedAt": "2026-06-15T05:17:20.874Z"
+      "fetchedAt": "2026-06-15T12:34:33.483Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "日経平均株価 初の6万9000円台 アメリカとイランの合意伝わり",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
-      "summary": "15日の東京株式市場で、アメリカとイランの戦闘終結に向けた合意が伝えられたことを受け、日経平均株価は初めて6万9000円台に到達しました。値上がり幅は一時3600円を超え、取引時間中の上昇幅として過去最大となりました。",
+      "title": "米とイランの合意 経済同友会 石油連盟から歓迎の声",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150471000.html",
+      "summary": "アメリカとイランは15日朝、日本時間で戦闘終結に向けた覚書の合意を発表しました。これを受け、経済同友会の山口代表幹事は歓迎の意を示し、原油やナフサの安定供給やサプライチェーンの改善が早期に進むことに期待を表明しました。石油連盟からも同様の反応が寄せられています。",
       "classification": {
         "tone": "G",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "を",
-        "phrase": "をそ鳥は　眠り豚より　ちょっとええ"
+        "leadingKana": "の",
+        "phrase": "ノコの歯は 引いて切って 押して切る"
       },
-      "commentary": "市場が一気に盛り上がると慌てがちやけど、時には早めの動きが信頼を築くわけや。今回の合意に心躍らせても、日々の積み重ねと冷静さを忘れたらあかん。焦らず着実に、先を見据える姿勢が長い目で見て商売の財産になるんやで。"
+      "commentary": "今回の合意も、ただ待つだけやなく、動きながら次の準備を進める姿勢が大事や。戦況の終結だけ見ず、原油調達やサプライチェーン改善といった複数の目的を同時に追うことで、信頼の積み重ねに繋がる。焦らず、引きと押しを巧みに使い分ける商いの心得が必要やね。"
     },
     {
       "source": "NHK",
-      "title": "きょうのおはBiz6月15日(月) 国債買い入れペース どう見直す",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150121000.html",
-      "summary": "NHKの経済ニュース番組「おはBiz」では、6月15日の放送で国債の買い入れペースの見直しについて取り上げます。番組は平日の朝に最新のビジネストレンドや働き方、役立つサービス、スタートアップ情報を短時間で紹介しています。",
+      "title": "NY原油先物価格 一時1バレル＝79ドル台まで下落",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150511000.html",
+      "summary": "15日のニューヨークの原油先物市場で、WTI原油価格が一時79ドル台に下落しました。これは、今年3月以来約3か月ぶりに1バレルあたり80ドルを割り込む水準となっています。",
       "classification": {
         "tone": "N",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "国債買い入れのペース見直しに、違和感を感じることあるやろな。けど、その「ん？」を放っといたらあかん。商売も経済の動きも、ほんまの意味を探る姿勢が信頼につながるんや。疑問を大事に、じっくり考え続けるんがあきんどの道やで。"
+      "commentary": "原油価格の動き、一瞬の数字に振り回されんことや。値下がりを見て「何でや？」と問い、背景や需給の変化をしっかり押さえる姿勢が大事やで。わかっとらんまま流されると次の判断に響く。商売は相手の声を聞き逃さへんよう、根っこの部分を見極める目が肝心や。"
     },
     {
       "source": "LNEWS",
-      "title": "TRC平和島自動運転協議会／14団体が新規参画し50団体に拡大",
-      "sourceURL": "https://www.lnews.jp/?p=326017",
-      "summary": "東京流通センターを拠点とする平和島自動運転協議会は、6月15日に新たに14団体が参加し、会員数が合計50団体に増加したと発表した。新規参画にはダイフクやJR東日本、鴻池運輸などが含まれている。",
+      "title": "西濃運輸／千葉県市川市に6.1万m2の新市川支店を8月下旬に開設、ロジ機能を強化",
+      "sourceURL": "https://www.lnews.jp/?p=326074",
+      "summary": "西濃運輸は千葉県市川市に新たな支店を建設しており、約6万1200平方メートルの規模で関東地域最大となる新市川支店を8月下旬に開設する予定です。この支店の設立により、同社の物流機能の強化を図る計画です。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "い",
-        "phrase": "いつだって  3％と 1/3"
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
       },
-      "commentary": "TRC平和島の自動運転協議会が50団体に増えたんは、日々の3％の積み重ねが信頼を作る証や。新しい仲間が増えても、無駄を見逃さずじっくり観察しながら、次の一手を考える姿勢が肝心やな。焦らず長い目で見守ることが、持続する商いのコツやで。"
+      "commentary": "新たな拠点の整備は、地域と共に歩む覚悟の表れや。大きな施設も、日々の積み重ねが信頼を築く土台やから、慌てず焦らず、地道に役割を果たしていく姿勢が大事やで。社会への貢献を忘れずに、商いの本質を見失わんようにしたいもんやね。"
     },
     {
       "source": "LNEWS",
       "title": "中央日本土地建物、CRE／兵庫県明石市で平屋建て計10棟1.9万m2、BTS型施設を着工",
       "sourceURL": "https://www.lnews.jp/?p=326005",
-      "summary": "中央日本土地建物はシーアールイー（CRE）と共同で、兵庫県明石市において物流施設「LOGIWITH・LogiSquare明石」の建設を開始した。施設は平屋建て10棟、延床面積約1.9万平方メートルのBTS型で、完成は2027年8月を見込んでいる。",
+      "summary": "中央日本土地建物は、シーアールイー（CRE）との共同で兵庫県明石市において物流施設「LOGIWITH・LogiSquare明石」の建設を開始した。施設は平屋建ての10棟で、総面積は約1万9000平方メートル。完成は2027年8月の予定で、BTS（ビルト・トゥ・スーツ）型の開発となっている。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -466,22 +466,22 @@
         "leadingKana": "か",
         "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "新しい物流施設の着工は、単なる建物の増設や効率化だけやあらへん。現場で働く人らの気づきや改善を積み重ねることで、現場の強さと信頼が育つんや。そんな地道な取り組みこそ、長い目で見た商売の基盤になるんやで。"
+      "commentary": "新しい物流施設の着工は、単なる建設に留まらず、関わる皆の知恵と改善の積み重ねが肝心や。日々の小さな気づきを大切にし、仲間と共有してこそ、強くしなやかな事業が育つ。慌てず一歩ずつ進む姿勢が信頼を築く道筋やで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
       "sourceURL": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
-      "summary": "国際教育受難監視団体の報告によると、2024年から2025年にかけて教育機関や生徒、教職員への攻撃が前年より40％増加し、8,556件以上の事案が確認された。これらの攻撃により、少なくとも10,600人が死亡、負傷、拉致、逮捕などの被害を受けた。被害は83か国に及び、特にコロンビア、コンゴ民主共和国、エチオピア、ハイチ、パレスチナ、ウクライナで多く報告されている。",
+      "summary": "世界の教育現場に対する攻撃が2024年から2025年にかけて40％増加し、8,556件以上が報告されました。これにより、少なくとも10,600人の生徒や教職員が死亡、負傷、拉致、逮捕などの被害を受けています。被害は83か国で確認され、特にコロンビア、コンゴ民主共和国、エチオピア、ハイチ、パレスチナ、ウクライナで多くの事例が報告されています。",
       "classification": {
         "tone": "B",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "れ",
-        "phrase": "冷淡な　あいつの心は　仏さん"
+        "leadingKana": "う",
+        "phrase": "ウソつくな ウソつくときは 己も騙せ"
       },
-      "commentary": "教育現場への攻撃が増えるなか、感情に流されず冷静に構えることが大事や。相手の行動には何か筋があるかもしれん。短期の憤りより、状況の背景を見据えて信頼を積み上げる一手を考え続けることが、長い目で見れば社会との共存につながるんやで。"
+      "commentary": "教育現場への暴力が増える中、真実を見据えつつも、現状に押し潰されんよう自分の信念を強く持つことが大事や。事実を飾らず伝えながらも、未来を信じて動き続ける覚悟が、信頼と持続を生む商いの基本やで。"
     }
   ]
 }
