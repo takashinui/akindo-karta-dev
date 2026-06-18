@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-06-17T20:25:29.316Z",
+  "generatedAt": "2026-06-18T04:50:15.412Z",
   "run": {
-    "ranAt": "2026-06-17T20:25:29.316Z",
+    "ranAt": "2026-06-18T04:50:15.412Z",
     "runner": "github-actions",
-    "runId": "27717472063"
+    "runId": "27737450103"
   },
   "stock": [
     {
-      "title": "NY市場 一時1ドル＝160円台後半まで値下がり",
-      "body": "17日のニューヨーク外国為替市場では、円を売ってドルを買う動きが進み、円相場は一時、1ドル＝160円台後半まで値下がりしました。これは、2024年7月以来、およそ1年11か月ぶりの円安水準です。FRB＝連邦準備制度理事会が公表した政策金利の見通しで年内に利上げを想定している参加者が多かったことに加え、ウォーシュ議長が記者会見でトランプ大統領が求める利下げに前向きな姿勢を見せなかったことで、投資家の間ではドルを買う動きが強まりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153081000.html",
+      "title": "ニデック 株主総会始まる 不正会計問題で社長が陳謝",
+      "body": "不正な会計処理が明らかになった電子部品大手のニデックの株主総会が開かれています。この中で岸田光哉社長は、一連の問題の影響で昨年度の決算の報告ができていないことなどについて陳謝した上で、企業風土の抜本的な改革に取り組む考えを示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153341000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260618/k10015153081000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "id": "www3.nhk.or.jp/news/html/20260618/k10015153341000.html",
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
-      "title": "NYダウ FRBの政策金利見通しや会見で一時600ドルあまり下落",
-      "body": "17日のニューヨーク株式市場では、FRB＝連邦準備制度理事会がインフレを抑え込むために年内に利上げに踏み切るのではないかとの観測から売り注文が出て、ダウ平均株価は一時、前日の終値と比べて600ドルあまり値下がりしました。FRBが政策金利の見通しなどを発表する直前、ダウ平均株価は170ドルあまりの値上がりとなっていましたが、発表後に下落に転じ、ウォーシュ議長の会見後に売り注文が広がった形です。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153071000.html",
+      "title": "【きょうのおはBiz 6月18日(木)】不正会計のニデック 株主総会",
+      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153271000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260618/k10015153071000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "id": "www3.nhk.or.jp/news/html/20260618/k10015153271000.html",
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
-      "title": "日本GLP／岡山県早島町に4.9万m2、ヤマト運輸専用の物流施設竣工",
-      "body": "<![CDATA[<p>日本GLPは6月17日、岡山県早島町で延床面積約4万8835m2の「Marq 早島4」の竣工式を執り行った。「Marq 早島4」は、ヤマト運輸が「統合型ビジネスソリューション拠点」として1棟利用する。 「Marq 早島4 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0617106.html\">日本GLP／岡山県早島町に4.9万m2、ヤマト運輸専用の物流施設竣工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=326416",
+      "title": "ロジザード／WMSで倉庫の作業時間を可視化、「人員・工数管理」ツール提供",
+      "body": "<![CDATA[<p>ロジザードは6月18日、クラウドWMS「ロジザードZERO」ユーザー向けの無料ツールとして、倉庫作業の時間を計測・可視化できるツール「LzTimer（エルゼットタイマー）」の提供を開始した。 「LzTimer（人員・工数 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0618603.html\">ロジザード／WMSで倉庫の作業時間を可視化、「人員・工数管理」ツール提供</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=326512",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=326416",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "id": "www.lnews.jp/?p=326512",
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
-      "title": "リサ・パートナーズ／茨城県笠間市で危険物倉庫を開発、岩間に10.5億円の資金支援",
-      "body": "<![CDATA[<p>リサ・パートナーズは6月17日、Hazmat（危険物）倉庫開発のため設立された特別目的会社岩間に対し、開発資金として総額10億5000万円のメザニンファイナンスを実行したと発表した。 茨城県笠間市に危険物倉庫7棟、一般倉 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0617605.html\">リサ・パートナーズ／茨城県笠間市で危険物倉庫を開発、岩間に10.5億円の資金支援</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=326401",
+      "title": "サンケイビル／千葉県松戸市で3.4万m2冷凍冷蔵対応物流施設を着工",
+      "body": "<![CDATA[<p>サンケイビルは6月18日、千葉県松戸市で同社3件目の冷凍冷蔵対応物流施設となる「SANKEILOGI松戸（仮称）」を着工したと発表した。2027年秋の竣工を予定している。 敷地内にドライ（常温）棟と冷凍冷蔵棟を配置した2 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0618102.html\">サンケイビル／千葉県松戸市で3.4万m2冷凍冷蔵対応物流施設を着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=326482",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=326401",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "id": "www.lnews.jp/?p=326482",
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
+    },
+    {
+      "title": "NY市場 一時1ドル＝160円台後半まで値下がり",
+      "body": "17日のニューヨーク外国為替市場では、円を売ってドルを買う動きが進み、円相場は一時、1ドル＝160円台後半まで値下がりしました。これは、2024年7月以来、およそ1年11か月ぶりの円安水準です。FRB＝連邦準備制度理事会が公表した政策金利の見通しで年内に利上げを想定している参加者が多かったことに加え、ウォーシュ議長が記者会見でトランプ大統領が求める利下げに前向きな姿勢を見せなかったことで、投資家の間ではドルを買う動きが強まりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153081000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260618/k10015153081000.html",
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
+    },
+    {
+      "title": "NYダウ FRBの政策金利見通しや会見で一時600ドルあまり下落",
+      "body": "17日のニューヨーク株式市場では、FRB＝連邦準備制度理事会がインフレを抑え込むために年内に利上げに踏み切るのではないかとの観測から売り注文が出て、ダウ平均株価は一時、前日の終値と比べて600ドルあまり値下がりしました。FRBが政策金利の見通しなどを発表する直前、ダウ平均株価は170ドルあまりの値上がりとなっていましたが、発表後に下落に転じ、ウォーシュ議長の会見後に売り注文が広がった形です。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153071000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260618/k10015153071000.html",
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
+    },
+    {
+      "title": "日本GLP／岡山県早島町に4.9万m2、ヤマト運輸専用の物流施設竣工",
+      "body": "<![CDATA[<p>日本GLPは6月17日、岡山県早島町で延床面積約4万8835m2の「Marq 早島4」の竣工式を執り行った。「Marq 早島4」は、ヤマト運輸が「統合型ビジネスソリューション拠点」として1棟利用する。 「Marq 早島4 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0617106.html\">日本GLP／岡山県早島町に4.9万m2、ヤマト運輸専用の物流施設竣工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=326416",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=326416",
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
+    },
+    {
+      "title": "リサ・パートナーズ／茨城県笠間市で危険物倉庫を開発、岩間に10.5億円の資金支援",
+      "body": "<![CDATA[<p>リサ・パートナーズは6月17日、Hazmat（危険物）倉庫開発のため設立された特別目的会社岩間に対し、開発資金として総額10億5000万円のメザニンファイナンスを実行したと発表した。 茨城県笠間市に危険物倉庫7棟、一般倉 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0617605.html\">リサ・パートナーズ／茨城県笠間市で危険物倉庫を開発、岩間に10.5億円の資金支援</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=326401",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=326401",
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "東海道・山陽新幹線の「個室」東京－名古屋間 片道3万2660円に",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152691000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "食料品の消費税 来年4月から1％ 所得連動給付で“実質ゼロ”案",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152301000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "株価 取引時間中の最高値を更新 幅広い銘柄に買い注文",
@@ -68,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152221000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "5月中東からの原油輸入量 前年同月比61.9％減 代替調達は増加",
@@ -76,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152111000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152111000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "住友倉庫／フロン対策格付け2025で2年連続Aランクに選定",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326359",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326359",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "【PR】JLL／福岡県「LOGILAND小郡鳥栖インターII」竣工内覧会7月2日・3日開催",
@@ -92,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326314",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326314",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
@@ -100,7 +132,7 @@
       "sourceURL": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "NYダウ最高値更新 原油は一時75ドル台に下落",
@@ -108,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152041000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152041000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "日銀 利上げに踏み切るも円安傾向続く 物価抑制で難しい対応も",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015151901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015151901000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "地区宅便／千葉市の物流センターでROMSの自動倉庫が稼働、保管3倍、人手は4分の1に",
@@ -124,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326293",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326293",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "中部圏の青果卸12社／共同物流会社を設立、2027年6月以降稼働へ",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326191",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326191",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "鶏肉小売価格 6月は過去最高に 物価高続くなか需要強まったか",
@@ -140,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015151421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015151421000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "ニデック不正会計 昨年度の有価証券報告書の提出延期を検討",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015151751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015151751000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "太平洋クロマグロ資源管理 新ルール合意目指す方針 水産庁",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015151551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015151551000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "日銀 利上げ決定 政策金利1％程度に “物価上昇リスクに対応”",
@@ -164,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015150911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015150911000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "中国 5月の小売売上高 3年5か月ぶりのマイナスに",
@@ -172,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015151161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015151161000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "アジア発米国向け海上コンテナ輸送／5月の輸送量17.5％増",
@@ -180,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326182",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326182",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.927Z"
     },
     {
       "title": "シーオス／ニチレイロジの低温物流現場で搬送業務を自動化",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326149",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326149",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "日銀 きょう金融政策決定会合2日目の議論 利上げ判断へ",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015150681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015150681000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "NYダウ 一時600ドル超値上がり 原油供給再開に期待感",
@@ -204,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015150831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015150831000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "西濃運輸／千葉県市川市に6.1万m2の新市川支店を8月下旬に開設、ロジ機能を強化",
@@ -212,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326074",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326074",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "中央日本土地建物、CRE／兵庫県明石市で平屋建て計10棟1.9万m2、BTS型施設を着工",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326005",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326005",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "米とイランの合意 経済同友会 石油連盟から歓迎の声",
@@ -228,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260615/k10015150471000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "NY原油先物価格 一時1バレル＝79ドル台まで下落",
@@ -236,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260615/k10015150511000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
@@ -244,7 +276,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "日経平均株価 初の6万9000円台 アメリカとイランの合意伝わり",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "きょうのおはBiz6月15日(月) 国債買い入れペース どう見直す",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260615/k10015150121000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "TRC平和島自動運転協議会／14団体が新規参画し50団体に拡大",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326017",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326017",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "米FRBウォーシュ新議長のもと初会合へ 発言に関心集まる",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260614/k10015149831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260614/k10015149831000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "「スペースX」が上場 調達資金 約12兆円は過去最大規模",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "明治／物流セミナー開催、国交省の運輸支局長が物流効率化法対応を解説",
@@ -292,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325888",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325888",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "キリングループロジほか／繁閑差生かしフォークオペレーターを異業種間で相互活用",
@@ -300,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325810",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325810",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "London council seizes social housing flat rented by Sierra Leone first lady",
@@ -308,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "ウリ信用組合に一部業務停止命令 顧客の預金着服などで 金融庁",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148851000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148851000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "Booking.comの予約客に不審なメッセージ相次ぐ 注意呼びかけ",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148701000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "円相場 小幅な値動き 1ドル＝160円台前半での取り引き",
@@ -332,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148671000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "きょうのおはBiz6月12日(金) 半導体量産へ“3つの課題”とは",
@@ -340,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148151000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "日銀植田総裁の入院“金融政策決定会合に影響ない”片山財務相",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015148201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015148201000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "岡崎通運／物流ルート切替えプロジェクトでトヨタ自動車から表彰",
@@ -356,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325849",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325849",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "DHL／爆発物探知犬を導入、航空貨物のセキュリティを強化",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=325843",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=325843",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     },
     {
       "title": "NYダウ 一時1000ドル超値上がり 攻撃中止表明で買い注文広がる",
@@ -372,107 +404,30 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260612/k10015147971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260612/k10015147971000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
-    },
-    {
-      "title": "ANA 新運賃体系に問い合わせ殺到 窓口対応や返信に遅れ",
-      "body": "全日空は先月導入した国内線の新しい運賃体系などに対する問い合わせが相次ぎ、窓口の電話がつながりにくくメールの返信にも時間がかかっているとしてホームページで謝罪しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015147811000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260611/k10015147811000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
-    },
-    {
-      "title": "日本通運／輸入通関の関税・消費税立替払いを終了、9月末までに直接納税へ移行",
-      "body": "<![CDATA[<p>日本通運は6月11日、輸入通関業務における関税および消費税等の立替払いを2026年9月末までに全国の拠点で順次終了し、顧客自身が納付する「直接納税方式」へ移行すると発表した。 これまで輸入通関では、通関業者が関税や消費税 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0611501.html\">日本通運／輸入通関の関税・消費税立替払いを終了、9月末までに直接納税へ移行</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=325663",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=325663",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
-    },
-    {
-      "title": "全国新スマート物流推進協議会／平時と災害時に対応の物流インフラ構築に向け会合",
-      "body": "<![CDATA[<p>全国新スマート物流推進協議会は5月25日、第2回「フェーズフリー型物流インフラ実現会議」を開催した。 会議では、防災分野・物流分野の専門家や関係省庁から防災庁設置を見据えた政策動向や、ドローンを活用した次世代物流インフラ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0611102.html\">全国新スマート物流推進協議会／平時と災害時に対応の物流インフラ構築に向け会合</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=325735",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=325735",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
-    },
-    {
-      "title": "日系企業 レアアースなど輸出規制の運用透明化を中国に要望",
-      "body": "中国に進出している日系企業の団体は、中国政府による軍民両用の品目の日本向けの輸出規制について、民生用の分野でも、レアアースなどの調達に支障が出ているとして、運用の透明性を高めるよう要望しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260611/k10015147701000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260611/k10015147701000.html",
-      "fetchedAt": "2026-06-17T20:24:57.466Z"
+      "fetchedAt": "2026-06-18T04:49:53.928Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "NY市場 一時1ドル＝160円台後半まで値下がり",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153081000.html",
-      "summary": "17日のニューヨーク外国為替市場で、円は一時1ドル＝160円台後半まで下落し、約1年11カ月ぶりの円安水準となりました。背景には、連邦準備制度理事会（FRB）が年内の利上げを示唆したことや、ウォーシュ議長が利下げに前向きでない姿勢を示したことがあり、これがドル買いを促しました。",
+      "title": "ニデック 株主総会始まる 不正会計問題で社長が陳謝",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153341000.html",
+      "summary": "電子部品大手のニデックは、不正会計問題を受けて株主総会を開催しました。岸田光哉社長は、問題により昨年度の決算報告が遅れていることを謝罪し、企業文化の根本的な見直しに努める意向を表明しました。",
       "classification": {
-        "tone": "N",
-        "term": "M"
+        "tone": "B",
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "け",
-        "phrase": "計画より  仕上げが大事"
+        "leadingKana": "み",
+        "phrase": "水はなぁ 高いとっから 低いとこ"
       },
-      "commentary": "為替の動きも計画だけじゃあかん。市場の思惑や実際の動きが結果を左右する。見通しが変われば対応も変わる。焦らず日々の行動で信頼積み重ね、結果を仕上げる姿勢が肝心や。短期の波に振り回されず、次の一手を考える眼力を持ち続けることや。"
+      "commentary": "企業の問題は隠せへん。高いところから低いところへ流れる水のように、誠実な風土がなければ信頼は滞る。短期の焦りでなく、日々の積み重ねで透明性と誠実さを取り戻すことが、長い信頼につながるんやで。"
     },
     {
       "source": "NHK",
-      "title": "NYダウ FRBの政策金利見通しや会見で一時600ドルあまり下落",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153071000.html",
-      "summary": "17日のニューヨーク株式市場で、連邦準備制度理事会（FRB）が年内に利上げを行う可能性が取りざたされ、ダウ平均株価は一時600ドル超下落しました。発表前は上昇していたものの、政策金利の見通し公表後に値を下げ、FRB議長の会見後に売りが拡大しました。",
-      "classification": {
-        "tone": "N",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
-      },
-      "commentary": "FRBの金利動向に市場が揺れるんは、経済の先行きに対する「ん？」を感じる瞬間やな。あきんどとしては、その違和感を見過ごさず、何が変わるか考え続けることが信頼の積み重ねにつながる。慌てずに学びを得て、次の一手を練る姿勢が大事やで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "日本GLP／岡山県早島町に4.9万m2、ヤマト運輸専用の物流施設竣工",
-      "sourceURL": "https://www.lnews.jp/?p=326416",
-      "summary": "日本GLPは6月17日、岡山県早島町に延床面積約4万8835平方メートルの物流施設「Marq 早島4」を完成させた。この施設はヤマト運輸が専用で使用し、統合型ビジネスソリューション拠点として活用される予定である。竣工式も同日に行われた。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
-      },
-      "commentary": "新たな物流施設が完成し、ヤマト運輸の拠点として機能を始める。規模や設備の充実は大事やけど、ここで大切なんは透明性やな。秘密を抱えず、情報をオープンにすることで信頼が積み重なっていく。日々の積み重ねが未来の強さになるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "リサ・パートナーズ／茨城県笠間市で危険物倉庫を開発、岩間に10.5億円の資金支援",
-      "sourceURL": "https://www.lnews.jp/?p=326401",
-      "summary": "リサ・パートナーズは、茨城県笠間市で危険物倉庫の開発を目的とした特別目的会社「岩間」に対し、総額10億5000万円のメザニンファイナンスを提供した。この資金は、同市内での危険物倉庫7棟および一般倉庫の建設に充てられる予定である。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
-      },
-      "commentary": "危険物倉庫の開発は地域の安全や物流の基盤に直結する重要な取り組みや。資金支援は単なる投資以上に、社会の安定と暮らしを支える一歩。日々の誠実な積み重ねが、信頼と平和の土台になることを、忘れたらあかんで。"
-    },
-    {
-      "source": "Guardian｜World",
-      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-      "sourceURL": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-      "summary": "ソマリアでの米軍の空爆により、7歳のアブディカディル・サラは破片を受け、歩行困難の可能性があるとされています。緊急手術には750ポンドが必要ですが、家族は費用を負担できません。一方、米国側は民間人被害を否定しており、補償の支払いには応じていない状況です。",
+      "title": "【きょうのおはBiz 6月18日(木)】不正会計のニデック 株主総会",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153271000.html",
+      "summary": "6月18日放送の「おはBiz」では、不正会計問題が表面化しているニデックの株主総会に関する情報が取り上げられました。番組は経済動向や働き方の変化、スタートアップの動向などを短時間で紹介する内容となっています。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -481,7 +436,52 @@
         "leadingKana": "す",
         "phrase": "すいません  言うな"
       },
-      "commentary": "謝ることは簡単やない。ええ加減な「すいません」で済ますんやなく、真摯に向き合う覚悟が信頼の土台や。今回のような複雑な状況でも、目先の言葉遊びに逃げず、誠実な対応を積み重ねることが、長い目で見た社会との関係を築く道やで。"
+      "commentary": "不正会計の問題は、ただ謝って済む話やないで。言い訳や軽い謝罪で済ませず、信頼回復のためには誠実な説明と積み重ねが必要や。商売は社会との約束やから、日々の行動で信用を築くこと忘れたらあかん。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "ロジザード／WMSで倉庫の作業時間を可視化、「人員・工数管理」ツール提供",
+      "sourceURL": "https://www.lnews.jp/?p=326512",
+      "summary": "ロジザードは6月18日、クラウド型倉庫管理システム「ロジザードZERO」の利用者向けに、倉庫内作業の時間を計測・可視化する無料ツール「LzTimer」の提供を開始した。このツールは作業員の人員配置や工数管理を支援し、効率的な作業運営を目的としている。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "ゆ",
+        "phrase": "ゆっくりと 行くのは一体 何の為？"
+      },
+      "commentary": "倉庫作業の時間を見える化するツールは、効率化だけやのうて、日々の改善を支える大事な武器や。ゆっくり構えるのも必要やけど、理由なき遅れは信頼を損なう。現場の声を聴き、先手を打つ姿勢が信頼の積み重ねに繋がるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "サンケイビル／千葉県松戸市で3.4万m2冷凍冷蔵対応物流施設を着工",
+      "sourceURL": "https://www.lnews.jp/?p=326482",
+      "summary": "サンケイビルは千葉県松戸市で、冷凍冷蔵対応の物流施設「SANKEILOGI松戸（仮称）」の建設を開始した。敷地面積は約3.4万平方メートルで、常温対応のドライ棟と冷凍冷蔵棟の二棟構成となる。完成は2027年秋を予定しており、同社にとって3件目の冷凍冷蔵物流施設となる。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
+      },
+      "commentary": "新しい物流施設の建設は、一時の利益だけやなく、社会に役立つ環境づくりの積み重ねや。商売は世の中との関わりで育つもんやから、信頼を大事に、地道に尽くす姿勢がこれからの道筋を照らすで。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "summary": "ソマリアでの米軍空爆により、7歳のアブディカディル・サラは破片を受け負傷し、歩行能力を失う可能性があるとされています。彼には750ポンドの緊急手術が必要ですが、家族は費用を負担できません。米軍は空爆で民間人の被害を否定しており、補償も行われていません。事件は約6か月前に発生しました。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "や",
+        "phrase": "やるんかい やらんのやったら どいとれや"
+      },
+      "commentary": "命と向き合う難題に直面した時、ただ見て見ぬふりはできまへん。役割を超えて動く勇気も必要やけど、焦らず的確に一歩踏み出すことが信頼の始まりや。社会との繋がりを意識して、持続できる支え方を考え続ける、それがあきんどの真骨頂やで。"
     }
   ]
 }
