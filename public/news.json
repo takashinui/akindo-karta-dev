@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-19T19:58:40.547Z",
+  "generatedAt": "2026-06-20T04:23:03.954Z",
   "run": {
-    "ranAt": "2026-06-19T19:58:40.547Z",
+    "ranAt": "2026-06-20T04:23:03.954Z",
     "runner": "github-actions",
-    "runId": "27845819891"
+    "runId": "27860050996"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260620/k10015154971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260620/k10015154971000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "NISA対象と偽って不適切販売 外資系ネット証券に行政処分",
@@ -20,7 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015154801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260619/k10015154801000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "東大先端研／「協調はなぜ進まないか」テーマにシンポジウム、産学官で議論",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326698",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326698",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "セイノーHD・AZ-COM丸和HD／両社の社長が提携通じた相互補完の「その先」語る",
@@ -36,15 +36,15 @@
       "sourceURL": "https://www.lnews.jp/?p=326611",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326611",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "body": "&lt;p&gt;Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/news/ng-interactive/2023/mar/31/more-than-money-the-logic-of-slavery-reparations\"&gt;More than money: the logic of slavery reparations&lt;/a&gt;&lt;/p&gt;&lt;p&gt;A global framework for reparatory justice has been adopted at a conference in Ghana.&lt;/p&gt;&lt;p&gt;Heads of state, governments and other officials adopted the strategy on Friday at a gathering in a hotel in the capital, Accra, which was the first major meeting since the adoption of the landmark United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana\"&gt;Continue reading...&lt;/a&gt;",
+      "body": "&lt;p&gt;Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/news/ng-interactive/2023/mar/31/more-than-money-the-logic-of-slavery-reparations\"&gt;More than money: the logic of slavery reparations&lt;/a&gt;&lt;/p&gt;&lt;p&gt;A global framework for reparatory justice has been adopted at a conference in Ghana.&lt;/p&gt;&lt;p&gt;Heads of state and government and other officials formally approved the strategy on Friday at a gathering in a hotel in the capital, Accra, which was the first major meeting since the adoption of the landmark United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana\"&gt;Continue reading...&lt;/a&gt;",
       "sourceURL": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
@@ -52,7 +52,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "ロッテ アイスの値上げ発表 カルテル疑いで立ち入り検査後",
@@ -60,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015154741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260619/k10015154741000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "日銀植田総裁が19日退院 来週23日から公務に",
@@ -68,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015154701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260619/k10015154701000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "政府 塗料用シンナーを直接販売する仕組み導入 今月23日から",
@@ -76,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015154391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260619/k10015154391000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "“中国・台湾産の一部鋼材が不当に安く輸入され損害” 仮決定",
@@ -84,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015154381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260619/k10015154381000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "+A／R&#038;D・デモスペース「cube」を平和島エリアに拡張移転",
@@ -92,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326674",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326674",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "NXHD／CVCファンドが宇宙～地球間輸送開発のスタートアップに出資",
@@ -100,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326668",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326668",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "日鉄 USスチール買収1年 森副会長 “成長は海外にしかない”",
@@ -108,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015153821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260619/k10015153821000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "円相場 一時1ドル＝161円台に FRB利上げ観測で 1年11か月ぶり",
@@ -116,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015153951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260619/k10015153951000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "セイノーHD／AZ-COM丸和HDの和佐見社長を西濃運輸会長に",
@@ -124,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326605",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326605",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "サンケイビル／千葉県松戸市で3.4万m2冷凍冷蔵対応物流施設を着工",
@@ -132,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326482",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326482",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "2040年度までの17分野の官民投資額 370兆円規模を想定",
@@ -140,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153921000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260618/k10015153921000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "日本経済はどうなる？ 米・イランが覚書署名で【詳しく】",
@@ -148,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153671000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260618/k10015153671000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
@@ -156,7 +156,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "太平洋クロマグロ 取れ過ぎで漁停止 全漁連“漁獲枠の増枠を”",
@@ -164,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260618/k10015153741000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "ニデック 株主総会始まる 不正会計問題で社長が陳謝",
@@ -172,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260618/k10015153341000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "【きょうのおはBiz 6月18日(木)】不正会計のニデック 株主総会",
@@ -180,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260618/k10015153271000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "ロジザード／WMSで倉庫の作業時間を可視化、「人員・工数管理」ツール提供",
@@ -188,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326512",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326512",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "NY市場 一時1ドル＝160円台後半まで値下がり",
@@ -196,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153081000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260618/k10015153081000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "NYダウ FRBの政策金利見通しや会見で一時600ドルあまり下落",
@@ -204,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260618/k10015153071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260618/k10015153071000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "日本GLP／岡山県早島町に4.9万m2、ヤマト運輸専用の物流施設竣工",
@@ -212,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326416",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326416",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "リサ・パートナーズ／茨城県笠間市で危険物倉庫を開発、岩間に10.5億円の資金支援",
@@ -220,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326401",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326401",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "東海道・山陽新幹線の「個室」東京－名古屋間 片道3万2660円に",
@@ -228,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152691000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "食料品の消費税 来年4月から1％ 所得連動給付で“実質ゼロ”案",
@@ -236,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152301000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152301000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "株価 取引時間中の最高値を更新 幅広い銘柄に買い注文",
@@ -244,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152221000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "5月中東からの原油輸入量 前年同月比61.9％減 代替調達は増加",
@@ -252,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152111000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152111000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "住友倉庫／フロン対策格付け2025で2年連続Aランクに選定",
@@ -260,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326359",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326359",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "【PR】JLL／福岡県「LOGILAND小郡鳥栖インターII」竣工内覧会7月2日・3日開催",
@@ -268,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326314",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326314",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
@@ -276,7 +276,7 @@
       "sourceURL": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "NYダウ最高値更新 原油は一時75ドル台に下落",
@@ -284,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015152041000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015152041000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "日銀 利上げに踏み切るも円安傾向続く 物価抑制で難しい対応も",
@@ -292,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260617/k10015151901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260617/k10015151901000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "地区宅便／千葉市の物流センターでROMSの自動倉庫が稼働、保管3倍、人手は4分の1に",
@@ -300,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326293",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326293",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "中部圏の青果卸12社／共同物流会社を設立、2027年6月以降稼働へ",
@@ -308,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326191",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326191",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "鶏肉小売価格 6月は過去最高に 物価高続くなか需要強まったか",
@@ -316,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015151421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015151421000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "ニデック不正会計 昨年度の有価証券報告書の提出延期を検討",
@@ -324,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015151751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015151751000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "太平洋クロマグロ資源管理 新ルール合意目指す方針 水産庁",
@@ -332,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015151551000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015151551000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "日銀 利上げ決定 政策金利1％程度に “物価上昇リスクに対応”",
@@ -340,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015150911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015150911000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "中国 5月の小売売上高 3年5か月ぶりのマイナスに",
@@ -348,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015151161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015151161000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "アジア発米国向け海上コンテナ輸送／5月の輸送量17.5％増",
@@ -356,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326182",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326182",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "シーオス／ニチレイロジの低温物流現場で搬送業務を自動化",
@@ -364,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326149",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326149",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "日銀 きょう金融政策決定会合2日目の議論 利上げ判断へ",
@@ -372,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015150681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015150681000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "NYダウ 一時600ドル超値上がり 原油供給再開に期待感",
@@ -380,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260616/k10015150831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260616/k10015150831000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "西濃運輸／千葉県市川市に6.1万m2の新市川支店を8月下旬に開設、ロジ機能を強化",
@@ -388,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326074",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326074",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "中央日本土地建物、CRE／兵庫県明石市で平屋建て計10棟1.9万m2、BTS型施設を着工",
@@ -396,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326005",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326005",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     },
     {
       "title": "米とイランの合意 経済同友会 石油連盟から歓迎の声",
@@ -404,7 +404,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260615/k10015150471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260615/k10015150471000.html",
-      "fetchedAt": "2026-06-19T19:58:15.746Z"
+      "fetchedAt": "2026-06-20T04:22:45.789Z"
     }
   ],
   "items": [
@@ -412,52 +412,7 @@
       "source": "NHK",
       "title": "東電の提携交渉 日米の投資ファンドや通信大手の5陣営が軸に",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260620/k10015154971000.html",
-      "summary": "東京電力ホールディングスは経営改善のため、複数の提携先からの提案を検討した結果、日米の投資ファンドや通信大手を含む5つのグループを中心に交渉を進める方針を決定しました。これらのグループは今後、資産評価などを本格的に行い、大規模な事業再編に向けた準備を進める見通しです。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
-      },
-      "commentary": "東電の提携交渉、短期の成果に浮かれるんやなく、じっくり資産を見極めて長期の信頼を築く段階や。経営改善は一度きりの勝負やなく、継続する覚悟が肝心や。焦らず、やるべきことを積み重ねる姿勢が求められてるで。"
-    },
-    {
-      "source": "NHK",
-      "title": "NISA対象と偽って不適切販売 外資系ネット証券に行政処分",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015154801000.html",
-      "summary": "関東財務局は19日、外資系ネット証券「moomoo証券」が、NISAの対象外の商品をあたかも対象であるかのように誤認させて販売していたとして、一部業務停止の行政処分を行いました。処分対象は新規口座開設の勧誘業務を含みます。",
-      "classification": {
-        "tone": "B",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
-      },
-      "commentary": "NISAの名を借りて誤った販売は、目先の数字や顧客獲得に走るあまり、本来の信頼を見失う典型や。真の目的は長期的な信頼構築にあり、そこを見失わんことが、商売の根幹やと改めて考えさせられるわ。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "東大先端研／「協調はなぜ進まないか」テーマにシンポジウム、産学官で議論",
-      "sourceURL": "https://www.lnews.jp/?p=326698",
-      "summary": "東京大学先端科学技術研究センターは6月18日に都内でシンポジウムを開催し、「サプライチェーン最適化に向けたネットワーク構造－協調はなぜ進まないのか」というテーマで議論を行った。産学官の関係者が参加し、協調の課題や開始点について意見交換を行った。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "ま",
-        "phrase": "迷ったら もっかい一から やり直し"
-      },
-      "commentary": "サプライチェーンの協調が進まん理由は複雑や。焦って先に進むより、根本に立ち返って課題を整理することが肝心やで。面倒でも一から見直す姿勢が、信頼の積み重ねと持続的な連携の種になるんや。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "セイノーHD・AZ-COM丸和HD／両社の社長が提携通じた相互補完の「その先」語る",
-      "sourceURL": "https://www.lnews.jp/?p=326611",
-      "summary": "6月18日に東京で行われた合同説明会で、セイノーホールディングスの田口義隆社長とAZ-COM丸和ホールディングスの和佐見勝社長は、両社の業務提携が相互補完を強化し、多様化する顧客のニーズに対応するための基盤となることを示しました。両社長は提携を通じた連携の先の展望についても言及しました。",
+      "summary": "東京電力ホールディングスは経営改善のため、提携先の選定を進め、日米の投資ファンドや通信大手を含む5つのグループを中心に交渉を継続する方針を決定しました。これらのグループは、事業再編に向けて資産評価などの具体的な検討を進める予定です。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -466,22 +421,67 @@
         "leadingKana": "ひ",
         "phrase": "秘密がないのが秘訣"
       },
-      "commentary": "互いの強みを隠さず出し合う提携は、信頼の積み重ねがあって初めて持続するもんや。秘密を抱え込むより、筋の通った透明な関係が長い目で見て顧客ニーズへの柔軟対応や成長の鍵になるんやで。"
+      "commentary": "東電が複数の陣営と透明に交渉進める姿勢は、信頼を積み重ねる商いの基本や。隠し事せんと情報を共有し、じっくり資産査定を進めるのは、焦らんで誠実に歩むための一歩やと思うわ。これからの動き、しっかり見守りたいな。"
     },
     {
-      "source": "Guardian｜World",
-      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "sourceURL": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "summary": "ガーナの首都アクラで開催された会議にて、奴隷制の影響を受けた人々への公正な補償や債務問題の解決を目指す18項目の戦略的枠組みが採択されました。この会議は、国連がアフリカ系奴隷の人身売買を最も重大な人道犯罪と認定した後の初の主要な国際会合となりました。国家元首や政府関係者が出席し、補償に関するグローバルな取り組みが進展しています。",
+      "source": "NHK",
+      "title": "NISA対象と偽って不適切販売 外資系ネット証券に行政処分",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260619/k10015154801000.html",
+      "summary": "関東財務局は19日、外資系ネット証券のmoomoo証券に対し、NISAの対象外である金融商品を対象商品と誤認させる形で販売していたとして、一部業務の停止命令を出した。対象となったのは新規口座開設の勧誘などの業務で、個人投資家向けの適正な販売が求められている。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
+      },
+      "commentary": "NISAの普及に伴い誤解を招く販売が問題化したわけやけど、慌てて決めつける前に、商品の内容や説明の正確さをしっかり見極めることが大事や。信頼は一朝一夕に築けへんから、疑問があればためらわず立ち止まって確認する姿勢こそ、長い目で見た商売の強さになるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "東大先端研／「協調はなぜ進まないか」テーマにシンポジウム、産学官で議論",
+      "sourceURL": "https://www.lnews.jp/?p=326698",
+      "summary": "東京大学先端科学技術研究センターは6月18日にシンポジウムを開催し、「サプライチェーン最適化に向けたネットワーク構造－協調はなぜ進まないのか、どこから始めるか－」をテーマに、産業界、学界、行政の関係者が参加して議論を行った。協調の課題や推進方法について意見交換が行われた。",
+      "classification": {
+        "tone": "N",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "ん",
+        "phrase": "ん？ってな  疑問に思うが  金の時"
+      },
+      "commentary": "協調がうまく進まん時、何か根っこの違和感があるんやろな。そやから疑問を見逃さんと、なぜ進まへんのか掘り下げることが肝心や。日々の小さな疑問が信頼の種になり、持続的な連携の礎になる。焦らず、じっくり考える姿勢が大事やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "セイノーHD・AZ-COM丸和HD／両社の社長が提携通じた相互補完の「その先」語る",
+      "sourceURL": "https://www.lnews.jp/?p=326611",
+      "summary": "6月18日に東京で開催された合同説明会で、セイノーホールディングスの田口義隆社長とAZ-COM丸和ホールディングスの和佐見勝社長が出席し、業務提携を通じた両社の相互補完関係の強化について語った。両社は提携を活かし、多様化する顧客ニーズへの対応や物流サービスの向上を目指す意向を示した。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
       },
-      "commentary": "今回の会議で世界的な補償の枠組みが決まったんは、単なる一時的な解決や儲け話ちゃう。過去の痛みと向き合い、未来へ続く信頼を積み重ねる道筋や。あきんどの心で言うたら、今だけやのうて、続けて誠実に取り組む覚悟が試されとるんやで。"
+      "commentary": "両社の提携は単なる利害の一致や効率追求だけやあらへん。多様な顧客ニーズに応えるため、互いを補い合う関係を築くことは、社会の一員としての役割を着実に果たす道や。日々の積み重ねが信頼を育て、商いの本質に繋がることを忘れたらあかんで。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
+      "sourceURL": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "summary": "ガーナの首都アクラで開催された会議で、奴隷制の遺産に対する補償を含む修復的正義のための国際的な枠組みが採択された。各国の首脳や関係者が参加し、公正な補償や債務問題への対応を盛り込んだ18項目の戦略的ロードマップを承認した。この会議は、国連がアフリカ系奴隷の人身売買を最も重大な人道に対する犯罪と宣言して以来の初の大規模な集まりとなった。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
+      },
+      "commentary": "今回の枠組みは、過去の重い課題に向き合う国際的な約束ごとやけど、隠し事せんと透明に進めることが肝心や。信頼は積み上げるもんやから、情報を明らかにして、誠実な対話を続ける姿勢が次の一歩を作る道筋になるやろな。"
     }
   ]
 }
