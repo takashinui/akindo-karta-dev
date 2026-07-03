@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-07-03T03:58:58.751Z",
+  "generatedAt": "2026-07-03T09:30:40.306Z",
   "run": {
-    "ranAt": "2026-07-03T03:58:58.751Z",
+    "ranAt": "2026-07-03T09:30:40.306Z",
     "runner": "github-actions",
-    "runId": "28637409339"
+    "runId": "28651656073"
   },
   "stock": [
     {
-      "title": "円相場 3日も神経質な取り引き続く 2日に急速に円高進む場面",
-      "body": "歴史的な円安水準が続く中、外国為替市場では、2日、短時間で急速に円高が進む場面がありました。3日の東京市場でも、政府・日銀による市場介入への警戒から1ドル＝161円を挟んだ神経質な取り引きが続いています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015167911000.html",
+      "title": "スーパーのコメ平均価格 5キロ税込み3554円  2週ぶり値下がり",
+      "body": "全国のスーパーで、6月28日までの1週間に販売されたコメの平均価格は、5キロ当たり税込み3554円と前の週より36円値下がりしました。値下がりは2週ぶりです。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015168181000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260703/k10015167911000.html",
-      "fetchedAt": "2026-07-03T03:58:37.596Z"
+      "id": "www3.nhk.or.jp/news/html/20260703/k10015168181000.html",
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
-      "title": "きょうのおはBiz 7月3日(金) アメリカ雇用統計 市場予想下回る",
-      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015167831000.html",
+      "title": "日本郵便 ゆうパックの料金を10月から平均約10％値上げへ",
+      "body": "日本郵便は物流費や人件費の上昇などを受け、宅配便の「ゆうパック」の料金を、ことし10月から平均でおよそ10％値上げすると発表しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015168221000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260703/k10015167831000.html",
-      "fetchedAt": "2026-07-03T03:58:37.596Z"
+      "id": "www3.nhk.or.jp/news/html/20260703/k10015168221000.html",
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
-      "title": "【PR】日本GLP／「物流コスト削減と拠点戦略」オンラインセミナーを7月28～31日開催",
-      "body": "<![CDATA[<p>日本GLPは7月28～31日、船井総研サプライチェーンコンサルティングをゲストに迎え、オンラインセミナー「物流コスト削減と拠点戦略の最適化 〜サプライチェーン可視化から選ぶ、自社保有vs賃貸の最適解〜」を開催する。 後半 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0703603.html\">日本GLP／「物流コスト削減と拠点戦略」オンラインセミナーを7月28～31日開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=328135",
+      "title": "日本郵便／ゆうパック料金など平均約10％改定、ゆうパケットは厚さ基準を統合",
+      "body": "<![CDATA[<p>日本郵便は10月1日より、ゆうパックおよびゆうパケットの基本運賃などの料金を改定する。 ■関連記事 日本郵便／バーコード付郵便物の割引率引き下げ、10月から実質値上げ 2026年07月03日 ゆうパックとゆうパケットとも [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0703704.html\">日本郵便／ゆうパック料金など平均約10％改定、ゆうパケットは厚さ基準を統合</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=328231",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=328135",
-      "fetchedAt": "2026-07-03T03:58:37.596Z"
+      "id": "www.lnews.jp/?p=328231",
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
-      "title": "【PR】G.A.グループ／特定技能を活用した倉庫の即戦力化テーマに7月15～17日セミナー",
-      "body": "<![CDATA[<p>G.A.グループは7月15・16・17日、「『物流倉庫で解禁』倉庫・運送業界の特定技能・育成就労～採用から育成、即戦力化の実践ノウハウ～」をテーマにオンラインセミナーを開催する。 人手不足が深刻化する中、物流倉庫分野で「 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0703604.html\">G.A.グループ／特定技能を活用した倉庫の即戦力化テーマに7月15～17日セミナー</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=328150",
+      "title": "JPIC／フィジカルインターネット社会実装へフェス開催、次世代企業が事例共有",
+      "body": "<![CDATA[<p>フィジカルインターネットセンター（JPIC）は7月3日、東京都内で「フィジカルインターネットフェス2026 ～The Next Generation of Innovators～」を、現地とオンラインで開催した。 フィジ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0703501.html\">JPIC／フィジカルインターネット社会実装へフェス開催、次世代企業が事例共有</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=328165",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=328150",
-      "fetchedAt": "2026-07-03T03:58:37.596Z"
+      "id": "www.lnews.jp/?p=328165",
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-      "fetchedAt": "2026-07-03T03:58:37.596Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
+    },
+    {
+      "title": "円相場 3日も神経質な取り引き続く 2日に急速に円高進む場面",
+      "body": "歴史的な円安水準が続く中、外国為替市場では、2日、短時間で急速に円高が進む場面がありました。3日の東京市場でも、政府・日銀による市場介入への警戒から1ドル＝161円を挟んだ神経質な取り引きが続いています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015167911000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260703/k10015167911000.html",
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
+    },
+    {
+      "title": "きょうのおはBiz 7月3日(金) アメリカ雇用統計 市場予想下回る",
+      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015167831000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260703/k10015167831000.html",
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
+    },
+    {
+      "title": "【PR】日本GLP／「物流コスト削減と拠点戦略」オンラインセミナーを7月28～31日開催",
+      "body": "<![CDATA[<p>日本GLPは7月28～31日、船井総研サプライチェーンコンサルティングをゲストに迎え、オンラインセミナー「物流コスト削減と拠点戦略の最適化 〜サプライチェーン可視化から選ぶ、自社保有vs賃貸の最適解〜」を開催する。 後半 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0703603.html\">日本GLP／「物流コスト削減と拠点戦略」オンラインセミナーを7月28～31日開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=328135",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=328135",
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
+    },
+    {
+      "title": "【PR】G.A.グループ／特定技能を活用した倉庫の即戦力化テーマに7月15～17日セミナー",
+      "body": "<![CDATA[<p>G.A.グループは7月15・16・17日、「『物流倉庫で解禁』倉庫・運送業界の特定技能・育成就労～採用から育成、即戦力化の実践ノウハウ～」をテーマにオンラインセミナーを開催する。 人手不足が深刻化する中、物流倉庫分野で「 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0703604.html\">G.A.グループ／特定技能を活用した倉庫の即戦力化テーマに7月15～17日セミナー</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=328150",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=328150",
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "アメリカ 6月の就業者数 前月比増加続くも市場予想を下回る",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260702/k10015167521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260702/k10015167521000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "中東情勢受け 「ナフサ」由来の石油製品など備蓄検討 業界団体",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260702/k10015167531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260702/k10015167531000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "プロロジス／東京都江東区でヤマト運輸から取得した物流施設をマルチテナント型に改修へ",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328054",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328054",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "東京建物／仙台市に4.2万m2の環境配慮型物流施設「T-LOGI仙台」竣工",
@@ -76,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328015",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328015",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "日本とインドが蓄電池供給網の強化で協力 覚書に署名",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260702/k10015167491000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260702/k10015167491000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "大手企業 夏のボーナス 初の100万円超 経団連調査",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260702/k10015167251000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260702/k10015167251000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "夏休み旅行者は去年より4.6％減少見通し",
@@ -108,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260702/k10015167201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260702/k10015167201000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
@@ -116,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "株価 一時1700円以上値下がり NY市場のAIや半導体関連下落受け",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260702/k10015166831000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260702/k10015166831000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "2025年度の税収 84兆円台 6年連続で過去最高の見通し",
@@ -132,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260702/k10015166901000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260702/k10015166901000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "佐川グローバルロジ／札幌市内に北海道第2の自社拠点「札幌米里営業所」開設",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327946",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327946",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "川崎汽船／LNG船2隻が竣工、マレーシア国営石油ガス会社向け",
@@ -148,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327940",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327940",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
@@ -156,7 +188,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "ユーロ圏 6月 消費者物価指数 去年同月比2.8％上昇 前月下回る",
@@ -164,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260701/k10015166321000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260701/k10015166321000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "モバイルSuica トラブルから夕方に復旧 サーバー不具合が原因",
@@ -172,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260701/k10015165501000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260701/k10015165501000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "物流最前線／東京建物、本質を磨き「稼げる倉庫」へ進化するT-LOGI開発戦略",
@@ -180,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=326137",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=326137",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "日鉄興和不動産／神奈川県川崎市で物流・研究開発・工場の一体型産業施設を着工",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327841",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327841",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "「路線価」全国平均 過去最大の上昇率 観光地で大幅上昇目立つ",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260701/k10015165461000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260701/k10015165461000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "旅券手数料 きょうから最大7000円引き下げ “余裕持ち申請を”",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260701/k10015165751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260701/k10015165751000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "佐川グローバルロジスティクス／埼玉県東松山市に3.3万m2、物量拡大で営業所を新設",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327835",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327835",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "CRE／山九の物流アセット最適化へ、パートナーシップ協定締結",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327829",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327829",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
@@ -236,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "「骨太の方針」の原案 強い経済実現向け国内投資拡大打ち出す",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260630/k10015165041000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260630/k10015165041000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "日銀 審議委員に佐藤綾野氏が就任 “データ重視で政策判断”",
@@ -252,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260630/k10015165121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260630/k10015165121000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "日本GLP／東京都昭島市で大規模物流施設「ALFALINK」着工、2029年に3棟計83万m2へ",
@@ -260,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327766",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327766",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "霞ヶ関キャピタル、三菱商事都市開発／神奈川県川崎市の東扇島で2万m2の冷凍自動倉庫が竣工",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327739",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327739",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "Police units deployed across South Africa before anti-immigration marches",
@@ -276,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "7月の食品値上げ2566品目 5年連続で1万品目超えの見通しも",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260630/k10015164461000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260630/k10015164461000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "5月の原油輸入量 前年比38％減 代替調達で4月より減少幅は縮小",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260630/k10015164951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260630/k10015164951000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
@@ -300,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "株価 午前は一時1000円超値上がり NY市場の株高を受け",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260630/k10015164421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260630/k10015164421000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "ペルシャ湾内の日本関係船舶 新たに3隻がホルムズ海峡通過",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260630/k10015164521000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260630/k10015164521000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "サンケイビル／埼玉県川口市で3.4万m2マルチテナント型物流施設着工",
@@ -324,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327652",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327652",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "ROMS／梱包と検品を同時進行できる新機能搭載、出荷を効率化",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327643",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327643",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "外国為替市場で39年半ぶり円安水準 1ドル＝161円90銭台後半",
@@ -340,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "トランプ大統領のFRB理事解任通知 米連邦最高裁が無効の判断",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "佐川グローバルロジスティクス／千葉市にEC・店舗向け一体物流拠点を7月1日開設",
@@ -356,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327583",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327583",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "丸紅ロジスティクス／福岡県大刀洗町に「久留米物流センター」開設",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=327493",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=327493",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     },
     {
       "title": "円相場 1ドル＝161円台後半 神経質な取り引き続く",
@@ -372,47 +404,15 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260629/k10015163971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260629/k10015163971000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
-    },
-    {
-      "title": "中国での5月新車販売数 多くのメーカーで減“中東情勢影響も”",
-      "body": "主要な自動車メーカーが公表した5月の世界の新車販売台数では、多くのメーカーで中国での販売が減少しました。各社では、中東情勢に伴うガソリン価格の上昇を受け、エンジン車を中心に販売台数が減少したことも影響していると説明しています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260629/k10015163851000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260629/k10015163851000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
-    },
-    {
-      "title": "【きょうのおはBiz 6月29日(月)】町の“資産”で稼ぐ力を",
-      "body": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260629/k10015163511000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260629/k10015163511000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
-    },
-    {
-      "title": "株価 一時1300円超値下がり AIや半導体銘柄に売り注文",
-      "body": "週明けの29日の東京株式市場、AIや半導体関連の銘柄に売り注文が出て、日経平均株価は、午前中、一時1300円を超える値下がりとなりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260629/k10015163491000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260629/k10015163491000.html",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
-    },
-    {
-      "title": "NXHD／リチェルカ社に出資、AI技術活用で受発注プロセス最適化へ",
-      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングス（NXHD）は6月29日、NXグローバルイノベーション投資事業有限責任組合の案件として、受発注領域のプロセスを最適化するプラットフォーム「RECERQA」を開発・提供するリチェ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/06/s0629601.html\">NXHD／リチェルカ社に出資、AI技術活用で受発注プロセス最適化へ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=327502",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=327502",
-      "fetchedAt": "2026-07-03T03:58:37.597Z"
+      "fetchedAt": "2026-07-03T09:30:18.993Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "円相場 3日も神経質な取り引き続く 2日に急速に円高進む場面",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015167911000.html",
-      "summary": "円安が続く中、2日の外国為替市場で短時間に円高が急激に進む動きが見られました。3日の東京市場では、政府や日銀の市場介入への警戒感から、1ドル＝161円前後で不安定な取引が続いています。",
+      "title": "スーパーのコメ平均価格 5キロ税込み3554円  2週ぶり値下がり",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015168181000.html",
+      "summary": "全国のスーパーマーケットで、6月28日までの1週間に販売された5キロ入りの米の平均価格は税込み3554円となり、前週から36円下がりました。価格の下落は2週間ぶりのことです。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -421,67 +421,67 @@
         "leadingKana": "ん",
         "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "為替の急変動は違和感のサインや。短期的な動きに右往左往せず、何が背景にあるか見極めることが信頼を築く商売の第一歩やで。慌てず「ん？」を大事に、持続的な視点で次の行動を考えたいもんや。"
+      "commentary": "米の価格が久々に下がったんやけど、そこで「ん？」と感じる素直な気持ちが大事やねん。市場や需給の背景、流通の動きを見極めることが信頼の積み重ねにつながる。安易に喜ぶんやなく、次に何が必要かを考え続ける姿勢があきんどの道やで。"
     },
     {
       "source": "NHK",
-      "title": "きょうのおはBiz 7月3日(金) アメリカ雇用統計 市場予想下回る",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015167831000.html",
-      "summary": "7月3日放送のNHK「おはBiz」では、アメリカの最新雇用統計が市場予想を下回ったことを伝えました。同番組は経済動向や働き方、注目のスタートアップ情報などを短時間で紹介する平日朝のニュースコーナーです。",
+      "title": "日本郵便 ゆうパックの料金を10月から平均約10％値上げへ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015168221000.html",
+      "summary": "日本郵便は、物流コストや人件費の増加を背景に、宅配便サービス「ゆうパック」の料金を今年10月から平均で約10％引き上げることを決定しました。料金改定はサービス維持のための対応とされています。",
       "classification": {
         "tone": "N",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
-      },
-      "commentary": "アメリカの雇用統計が予想を下回った時、市場は「ん？」と違和感を抱くやろな。そやけど、その違和感をただ流すんやなく、何が背景にあるんか見極める機会にせなあかん。商売も同じで、違和感は成長の種。焦らず根を張って信頼積み重ねるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "【PR】日本GLP／「物流コスト削減と拠点戦略」オンラインセミナーを7月28～31日開催",
-      "sourceURL": "https://www.lnews.jp/?p=328135",
-      "summary": "日本GLPは7月28日から31日にかけて、船井総研サプライチェーンコンサルティングを招いたオンラインセミナーを開催する。テーマは「物流コスト削減と拠点戦略の最適化」で、自社保有と賃貸の選択肢を含めたサプライチェーンの可視化に焦点を当てる内容となっている。",
-      "classification": {
-        "tone": "G",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "を",
-        "phrase": "をそ鳥は　眠り豚より　ちょっとええ"
-      },
-      "commentary": "物流の効率化をテーマに早めの取り組み。戦略選びも焦らず、だが遅れずに進める姿勢が肝心や。焦りは禁物やけど、のろのろして機会を逃すよりは、ちょっと早めの動きが信頼を積む一歩になる。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "【PR】G.A.グループ／特定技能を活用した倉庫の即戦力化テーマに7月15～17日セミナー",
-      "sourceURL": "https://www.lnews.jp/?p=328150",
-      "summary": "G.A.グループは7月15日から17日にかけて、物流倉庫および運送業界における特定技能制度の活用と人材育成をテーマにしたオンラインセミナーを開催する。セミナーでは採用から育成、即戦力化に関する実践的なノウハウが紹介される予定で、物流業界の人手不足解消に向けた取り組みが焦点となる。",
-      "classification": {
-        "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "ゆ",
-        "phrase": "ゆっくりと 行くのは一体 何の為？"
+        "leadingKana": "ま",
+        "phrase": "迷ったら もっかい一から やり直し"
       },
-      "commentary": "人手不足の物流現場で特定技能を活用し即戦力化を図る取り組みは、待ってばかりでは成り立たへん現実を示してるわな。ただ動くだけやなく、育成や採用のノウハウを積み重ねることが、着実な信頼につながる。焦らずとも、止まらんことが肝心やで。"
+      "commentary": "料金値上げは避けられん局面やけど、焦らず原点に立ち返ってみるのが肝心や。日々の積み重ねが信頼を築くように、見直しを繰り返すことで、持続できる商いの道筋が見えてくるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "日本郵便／ゆうパック料金など平均約10％改定、ゆうパケットは厚さ基準を統合",
+      "sourceURL": "https://www.lnews.jp/?p=328231",
+      "summary": "日本郵便は10月1日から、ゆうパックとゆうパケットの基本運賃を平均約10％引き上げる料金改定を実施する。また、ゆうパケットについては厚さの基準を統合し、料金体系の見直しを行う予定である。これにより、利用者の送料負担に変化が生じる見込み。",
+      "classification": {
+        "tone": "N",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "わ",
+        "phrase": "わからん時　わからんと言う素直さよ"
+      },
+      "commentary": "料金改定の知らせ、即座に全部を理解するのは難しいわな。焦らず正直に「今のところわからん」と認めて、深掘りする姿勢が信頼を築く。表面的な数字だけ追うんやなく、背景や影響を見据えて、持続的に向き合うことが肝心やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "JPIC／フィジカルインターネット社会実装へフェス開催、次世代企業が事例共有",
+      "sourceURL": "https://www.lnews.jp/?p=328165",
+      "summary": "フィジカルインターネットセンター（JPIC）は7月3日、東京都内で「フィジカルインターネットフェス2026」を現地とオンラインで開催した。イベントでは、次世代企業がフィジカルインターネットの社会実装に向けた取り組みや事例を紹介し、技術や物流の革新を共有した。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
+      },
+      "commentary": "新しい技術を取り入れても、急がず着実に取り組む姿勢が大事や。社会全体の調和を見据え、次世代の取り組みを共有し合うことで、信頼の輪が広がる。焦らず一歩ずつ支え合うことが、長く続く繁盛につながるんやで。"
     },
     {
       "source": "Guardian｜World",
       "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
       "sourceURL": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-      "summary": "インドのナレンドラ・モディ首相は海外訪問時に数多くの賞を受け取っており、その中には初めての受賞者となるものもある。最近のセーシェル訪問では、同国の大統領パトリック・ハーミニーから「青い地平線の守護者」賞を授与され、トロフィーと証明書が贈られた。モディ首相はこれを喜んで受け取った。",
+      "summary": "インドのナレンドラ・モディ首相は海外訪問の際に多くの賞を受け取ることで知られている。最近ではインド洋のセーシェルを訪問し、同国の大統領パトリック・エルミニエから「ブルーホライズンの守護者賞」という高位の栄誉を贈られた。モディ首相は賞状とトロフィーを受け取り、笑顔を見せた。",
       "classification": {
-        "tone": "G",
-        "term": "M"
+        "tone": "N",
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "は",
-        "phrase": "早起きは 眠たいけども 憂いなし"
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "いろんな国から称賛や賞をもらうのは、確かに見栄えもええけど、そんな華やかな場面の裏には、日々の地道な積み重ねがあってこそや。眠たい朝もひとつずつ丁寧に取り組むことで、信頼の基盤ができる。表面だけ追わず、続ける力を大事にせなあかんわ。"
+      "commentary": "海外での栄誉を積む動き、ただ受け取るだけやなく、何を学び取るかが肝心や。表面的な賞賛に流されず、相手の真意や背景を問いながら、信頼の積み重ねを探る姿勢があきんどの道やで。問いかけることで見える本質を大事にせなあかん。"
     }
   ]
 }
