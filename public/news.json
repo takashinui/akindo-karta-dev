@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-07-10T04:02:16.475Z",
+  "generatedAt": "2026-07-10T09:49:11.273Z",
   "run": {
-    "ranAt": "2026-07-10T04:02:16.475Z",
+    "ranAt": "2026-07-10T09:49:11.273Z",
     "runner": "github-actions",
-    "runId": "29068098298"
+    "runId": "29084275701"
   },
   "stock": [
+    {
+      "title": "「日本茶」国のブランド保護制度に登録 海外産と差別化ねらう",
+      "body": "海外で抹茶ブームが広がる中、国のブランド保護制度に新たに「日本茶」が登録されました。抹茶をめぐっては、日本の地名を冠した海外産が多く出回るようになっていて、業界団体は、制度への登録を通じて差別化を図りたいとしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173661000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260710/k10015173661000.html",
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
+    },
+    {
+      "title": "モバイルSuicaの障害 アクセス急増が原因",
+      "body": "交通機関の運賃の支払いなどを行う「モバイルSuica」で今月1日に発生したチャージができないなどの障害について、JR東日本は、アクセスが集中し、サーバーに高い負荷がかかったことが原因だったと明らかにしました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173731000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260710/k10015173731000.html",
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
+    },
+    {
+      "title": "国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少",
+      "body": "<![CDATA[<p>国土交通省は7月10日、実運送を行う一般貨物自動車運送を対象に2025年11月25日～12月24日に実施したトラックドライバーの1運行当たりの平均拘束時間に関する調査結果を公表した。 調査では2025年4月～8月の通常期 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0710104.html\">国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=328954",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=328954",
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
+    },
+    {
+      "title": "カリツー／愛知県安城市に国内35番目、1.9万m2の物流センター開設",
+      "body": "<![CDATA[<p>カリツーは7月9日、愛知県安城市に国内35番目の拠点となる「安城里町物流センター」を開設した。 「安城里町物流センター」は、倉庫面積1万9405m2で、2階の作業エリアには冷暖房設備を導入し、働きやすさと安全性の向上を図 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0710101.html\">カリツー／愛知県安城市に国内35番目、1.9万m2の物流センター開設</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=328855",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=328855",
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
+    },
+    {
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "body": "&lt;p&gt;Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans&lt;/p&gt;&lt;p&gt;Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.&lt;/p&gt;&lt;p&gt;More was spent on servicing foreign debt than on education in 113 developing countries in 2025, according to research by the UN’s culture and education agency, Unesco. In sub-Saharan Africa, &lt;a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000398572\"&gt;countries spent 3.6 times more on debt than education&lt;/a&gt;.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
+    },
     {
       "title": "「全東信」破産 赤澤経産相 全国378か所に相談窓口を設置",
       "body": "決済代行サービスの「全東信」が裁判所から破産手続きの開始決定を受けたことについて、赤澤経済産業大臣は、10日から全国378か所に窓口を設け、事業者への相談に応じる考えを示しました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260710/k10015173531000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "【きょうのおはBiz 7月10日(金)】全東信 破産 支援策は",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260710/k10015173441000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "【PR】プロロジス／交流イベント「第3回 inno-base Pitch」7月29日開催",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328861",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328861",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "【PR】セイノー情報サービス／「現在地から考える次の一手」テーマに7月24日セミナー開催",
@@ -36,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328882",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328882",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "Furore in Nigeria over fake federal agency set up in government HQ",
@@ -44,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "停戦掲げる覚書の行方は NW9広内キャスターが専門家に聞く",
@@ -52,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172741000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "三菱自 人型ロボット開発・量産化へ 東大発ベンチャーと提携",
@@ -60,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172991000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "タカラレーベン／埼玉県に初の冷蔵・冷凍物流施設「L.PORT大宮」を竣工",
@@ -68,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328777",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328777",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "セイノーHD・AZ-COM丸和HD／BCPネットワーク構想、有事でも物流機能維持へ",
@@ -76,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328786",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328786",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
@@ -84,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "円相場 小幅に値下がり イラン情勢 先行き不透明との見方から",
@@ -92,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172931000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "NTTドコモが銀行業に参入 店舗とデジタルサービス強化【QAも】",
@@ -100,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172841000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
@@ -108,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "株価 一時1600円以上値上がり 半導体関連 買い戻す動き",
@@ -116,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172501000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172501000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "長期金利2.88％まで上昇 1996年11月以来29年8か月ぶりの水準",
@@ -124,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172471000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "【PR】アビームコンサルティング／荷主企業のCLO活動を支援するサービスを開始",
@@ -132,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328765",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328765",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "太陽工業／「JITBOXチャーター便」を活用して雪を全国に届ける物流スキーム構築",
@@ -140,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328744",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328744",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "NY株式市場 ダウ一時800ドル超値下がり",
@@ -148,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "中東情勢が日本経済に影響 NW9広内キャスターが現場取材",
@@ -156,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015172261000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015172261000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "トヨタL＆F／杉孝の機材センターにパレット用自動倉庫導入し保管面積を66％削減",
@@ -164,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328531",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328531",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "倒産集計／上半期の企業倒産4年連続増、運輸・通信業も前年上回る",
@@ -172,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328666",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328666",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "ミニストップ 23億円余りの赤字 客数十分回復せず",
@@ -180,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015172171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015172171000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "6月街角景気 2か月連続で上昇 「持ち直しの兆し」上方修正",
@@ -188,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015171981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015171981000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "ガソリン価格 全国平均169.9円 補助金で170円程度の水準続く",
@@ -196,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015171881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015171881000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "クロマグロ国際会議が開幕 新ルール合意で増枠できるか焦点",
@@ -204,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015171571000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015171571000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "株価 値下がり 半導体関連などに売り注文広がる",
@@ -212,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015171681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015171681000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "日本通運／6月の鉄道コンテナ取り扱い実績7.1％減、9か月連続前年割れ",
@@ -220,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328567",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328567",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "日本郵船／DX推進へ日本マイクロソフトと戦略的枠組みを契約",
@@ -228,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328570",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328570",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "北陸新幹線延伸「『小浜・京都』か『米原』で」大阪表明",
@@ -236,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015171181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260707/k10015171181000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "クレジットカードの決済代行「全東信」が破産手続き開始 大阪",
@@ -244,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015171171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260707/k10015171171000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "淀橋市場／小池都知事が市場の物流DX視察、「人手不足対応のモデルに」",
@@ -252,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328465",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328465",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "物価高倒産／上半期556件で過去最多、運輸・通信業のみ前年同期比減少",
@@ -260,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328510",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328510",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
@@ -268,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "円相場 円高ドル安進む 日米金利差縮小の見方から",
@@ -276,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015171061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260707/k10015171061000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "リニア中央新幹線 静岡県知事 県内の着工容認を表明",
@@ -284,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015170621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260707/k10015170621000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
@@ -292,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "株価 午前は値下がり AI・半導体関連の銘柄に売り",
@@ -300,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015170631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260707/k10015170631000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "【PR】JILS／物流コスト管理の基本を学ぶオンライン講義をアーカイブ配信",
@@ -308,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328426",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328426",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "郵船ロジ／欧州の本社機能をベルギーに移転、アントワープに新会社設立",
@@ -316,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328447",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328447",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
@@ -324,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "円相場 162円台前半に値下がり 日米金利差意識され円安進む",
@@ -332,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260706/k10015170091000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260706/k10015170091000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "長期金利2.83％に上昇 およそ29年ぶりの高水準",
@@ -340,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260706/k10015169951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260706/k10015169951000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "丸十運輸倉庫／広島県東広島市に危険物など5タイプの倉庫併設物流センター、9月竣工",
@@ -348,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328267",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328267",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "ニチレイロジ／インドネシアの低温物流2社を子会社化、社名も「Nichirei」ブランドに",
@@ -356,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328303",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328303",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     },
     {
       "title": "株価 午前は値下がり AIや半導体関連銘柄に売り注文",
@@ -364,124 +404,84 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260706/k10015169791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260706/k10015169791000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
-    },
-    {
-      "title": "コメ価格の見通し示す指数 過去最低に並ぶ水準に",
-      "body": "コメ価格の先行きについて、業界では値下がりするという見方が続いています。向こう3か月のコメ価格の見通しを示す先月の指数は、2か月連続で低下し、これまで過去最低だった2014年と並びました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260706/k10015169771000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260706/k10015169771000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
-    },
-    {
-      "title": "地区宅便・日祐・glafit／電動サイクル活用したラストワンマイル配送実証",
-      "body": "<![CDATA[<p>セイノーホールディングスグループの地区宅便、日祐と、電動パーソナルモビリティを開発・提供するglafitは7月6日、地区宅便と日祐の配送業務にglafitの特定原付「電動サイクル」を活用した実証を東京23区と神奈川県川崎 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0706102.html\">地区宅便・日祐・glafit／電動サイクル活用したラストワンマイル配送実証</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=328294",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=328294",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
-    },
-    {
-      "title": "マイクロン 広島で工場拡張の起工式 生成AIなどの半導体量産へ",
-      "body": "アメリカの半導体大手、「マイクロンテクノロジー」は、生成AIなどに使われる先端半導体の量産を目指して、広島県にある工場の拡張工事に着手し、4日、起工式が行われました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260704/k10015168891000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260704/k10015168891000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
-    },
-    {
-      "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
-      "body": "日中関係が悪化する中、関西の経済界の代表団が、ことし10月に中国を訪問する方向で調整を進めていることが関係者への取材で分かりました。中国政府の幹部などと会談したいとしていますが、具体的な成果が得られるのかは不透明で、調整の状況を見極めながら最終的に判断する見通しです。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260703/k10015168381000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260703/k10015168381000.html",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
-    },
-    {
-      "title": "日本郵便／ゆうパック料金など平均約10％改定、ゆうパケットは厚さ基準を統合",
-      "body": "<![CDATA[<p>日本郵便は10月1日より、ゆうパックおよびゆうパケットの基本運賃などの料金を改定する。 ■関連記事 日本郵便／バーコード付郵便物の割引率引き下げ、10月から実質値上げ 2026年07月03日 ゆうパックとゆうパケットとも [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0703704.html\">日本郵便／ゆうパック料金など平均約10％改定、ゆうパケットは厚さ基準を統合</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=328231",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=328231",
-      "fetchedAt": "2026-07-10T04:01:55.576Z"
+      "fetchedAt": "2026-07-10T09:48:46.874Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "「全東信」破産 赤澤経産相 全国378か所に相談窓口を設置",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173531000.html",
-      "summary": "決済代行サービス「全東信」が裁判所の破産手続開始決定を受けたことを受け、赤澤経済産業相は全国378か所に相談窓口を設置し、影響を受ける事業者からの問い合わせに対応すると発表しました。対応は10日から始まります。",
+      "title": "「日本茶」国のブランド保護制度に登録 海外産と差別化ねらう",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173661000.html",
+      "summary": "日本の抹茶人気が海外で高まる中、「日本茶」が国のブランド保護制度に登録されました。海外産の抹茶には日本の地名を使用した商品も多く、業界団体は制度登録を活用して正当な産地と区別し、ブランド価値の保護を目指しています。",
       "classification": {
-        "tone": "B",
-        "term": "S"
+        "tone": "G",
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "め",
-        "phrase": "目を見て 話せん奴を 信用すな"
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
       },
-      "commentary": "今回の破産騒動、相談窓口設置は大事やけど、信頼は一朝一夕で築けへん。顔見て話すように、誠実に向き合う積み重ねが商売の根っこや。慌てず、身近な対話から信頼を取り戻すことが次につながるんやで。"
+      "commentary": "日本茶のブランド保護は、ただの売り文句や短期勝負やないで。海外で広まるなか、地道に信頼を積み上げる姿勢が問われとる。独自の価値を守りつつ、長く支え合う商いの形を考えるんや。平和な市場は、そんな一人ひとりの誠実な歩みからつくられるんやで。"
     },
     {
       "source": "NHK",
-      "title": "【きょうのおはBiz 7月10日(金)】全東信 破産 支援策は",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173441000.html",
-      "summary": "NHKの朝の経済ニュース番組「おはBiz」では、最新のビジネストレンドや働き方、便利なサービス、スタートアップ情報を短時間で紹介しています。7月10日の放送では、全東信の破産とそれに関連する支援策について取り上げました。",
+      "title": "モバイルSuicaの障害 アクセス急増が原因",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173731000.html",
+      "summary": "JR東日本は、今月1日に発生したモバイルSuicaのチャージ不能などの障害について、利用者のアクセス集中がサーバーに過度の負荷をかけたことが原因と発表しました。この障害は交通機関の運賃支払いに影響を及ぼしました。",
       "classification": {
-        "tone": "N",
+        "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "こ",
+        "phrase": "ゴミが落ちていたら拾うんです"
       },
-      "commentary": "全東信の破産報道、支援策の中身をただ聞き流すんやなく、疑問があればためらわずに掘り下げることが肝心や。表面をなぞるだけやと、次の一手を誤るリスクがある。信頼は、わからんことを素直に聞き、理解を積み重ねる姿勢から生まれるもんやで。"
+      "commentary": "アクセス増でシステムに負荷かかるのは予測の一部やけど、問題起きた時にすぐ対処する姿勢が大事や。日々の積み重ねが信頼を作るんやから、小さな異変も見逃さず、みんなで支える心持ちが商売の根っこやと思うで。"
     },
     {
       "source": "LNEWS",
-      "title": "【PR】プロロジス／交流イベント「第3回 inno-base Pitch」7月29日開催",
-      "sourceURL": "https://www.lnews.jp/?p=328861",
-      "summary": "プロロジスは7月29日に東京で、第3回目となる交流イベント「inno-base Pitch」を開催する。このイベントは、同社が運営する物流スタートアップ向けインキュベーション施設「inno-base」の一環で、物流分野の新興企業が参加し意見交換やネットワーキングを行う場となっている。",
-      "classification": {
-        "tone": "G",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "を",
-        "phrase": "をそ鳥は　眠り豚より　ちょっとええ"
-      },
-      "commentary": "物流スタートアップの場を早めに整え、交流の機会を設ける姿勢は、商いの基盤をじわりと固める行動やね。慌てずとも、のろのろしては信頼は遠のく。焦らずとも、早め早めの動きが信頼を積む鍵やと改めて感じるわ。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "【PR】セイノー情報サービス／「現在地から考える次の一手」テーマに7月24日セミナー開催",
-      "sourceURL": "https://www.lnews.jp/?p=328882",
-      "summary": "セイノー情報サービスは7月24日にセミナーを開催し、テーマは「物流の現在地から考える次の一手」としている。環境変化や制度、テクノロジーの進展に対応する方法を議論し、物流業界の現状と今後の方向性について考察する内容となる予定だ。",
+      "title": "国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少",
+      "sourceURL": "https://www.lnews.jp/?p=328954",
+      "summary": "国土交通省は7月10日、一般貨物自動車運送のトラックドライバーを対象に2025年11月25日から12月24日に実施した調査結果を発表した。これによると、1回の運行あたりの平均拘束時間が前年に比べて1時間33分短縮されたことが明らかになった。調査期間は通常期の2025年4月から8月で、業務の効率化や働き方の変化が背景にある可能性が示唆されている。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "ゆ",
-        "phrase": "ゆっくりと 行くのは一体 何の為？"
+        "leadingKana": "は",
+        "phrase": "早起きは 眠たいけども 憂いなし"
       },
-      "commentary": "物流の変化を見据えつつ、今の立ち位置をしっかり把握して次の一手を考えることは、商売の基本や。立ち止まる理由がないなら、遅れずに迅速に動くのが信頼を積む道やで。現場の実情を踏まえた判断こそ、持続するあきんどの姿勢やと思うわ。"
+      "commentary": "トラック運転士の拘束時間が減ったんは、働き手の健康や準備時間を大事にする動きの表れや。慌ただしい現場でも、余裕を持つことで無理なく日々を積み重ねる信頼が生まれる。短期の数字だけでなく、持続できる環境づくりに目を向けたいもんやな。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "カリツー／愛知県安城市に国内35番目、1.9万m2の物流センター開設",
+      "sourceURL": "https://www.lnews.jp/?p=328855",
+      "summary": "カリツーは7月9日、愛知県安城市に国内で35番目となる「安城里町物流センター」を開設した。施設の倉庫面積は約1万9400平方メートルで、2階の作業エリアには冷暖房設備を備えている。これにより、作業環境の快適さや安全性の向上を目指している。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
+      },
+      "commentary": "物流センターの拡充は単なる規模の拡大や効率改善だけで終わらへん。仕事場の環境も整え、そこで働く人の安全や快適さを考えることが、社会に役立つ商いの第一歩や。日々の積み重ねが信頼を築くんやと、改めて考えさせられるわ。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "sourceURL": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "summary": "ナイジェリアの2026年予算に、実在しない連邦機関に13億ナイラ（約70万ポンド）が計上されていたことが明らかになり、政治的な波紋が広がっている。大統領は調査を指示し、同機関の責任者を名乗った人物による署名や印章の偽造疑惑も浮上している。この問題は来年1月の総選挙を控えた同国で腐敗疑惑への注目を再燃させている。",
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "summary": "ユネスコの報告によると、2025年に113の開発途上国が教育費よりも対外債務の返済に多くの資金を充てており、そのうち18か国は教育費の5倍以上を債務返済に使っている。特にサブサハラアフリカ諸国は債務返済が教育費の3.6倍に達している。一方で、世界の教育支援は最大30%減少する見込みで、教育への投資環境が厳しさを増している。",
       "classification": {
         "tone": "B",
-        "term": "M"
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "す",
-        "phrase": "すいません  言うな"
+        "leadingKana": "し",
+        "phrase": "商売人 仕事憎んで 人憎まず"
       },
-      "commentary": "ニセ組織に予算が付く事態は、信頼の積み重ねが日々の行動から成ることを痛感させるわな。単なる謝罪で終わらず、真摯に事実と向き合い、次にどう繋げるかを問う姿勢が大事や。慌てず着実に、誠実に進む商売人の心構えを見習いたいもんやね。"
+      "commentary": "借金返済で教育がおろそかになる現状は、仕事のやり方に根深い課題がある証拠や。相手を責めず、資金の使い道や仕組みを見直す姿勢が必要やな。信頼を積み重ねるため、短期の損得に振り回されず、持続可能な解決策を探る努力が求められるで。"
     }
   ]
 }
