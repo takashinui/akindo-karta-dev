@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-07-13T03:42:49.523Z",
+  "generatedAt": "2026-07-13T09:41:36.886Z",
   "run": {
-    "ranAt": "2026-07-13T03:42:49.523Z",
+    "ranAt": "2026-07-13T09:41:36.886Z",
     "runner": "github-actions",
-    "runId": "29222251100"
+    "runId": "29240016852"
   },
   "stock": [
     {
-      "title": "株価 一時1300円余値下がり 原油先物価格の上昇で",
-      "body": "週明けの13日の東京株式市場、アメリカとイランが双方に攻撃を行ったと伝わったことで原油の先物価格が上昇し、日経平均株価は、一時、1300円余り値下がりしたほか、外国為替市場でも、円に対していくぶんドルを買う動きが進んでいます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175501000.html",
+      "title": "ホルムズ海峡代替ルートでの原油調達進める 資源エネルギー庁",
+      "body": "イランの革命防衛隊がホルムズ海峡を封鎖すると表明したことについて、資源エネルギー庁は13日の会見で、情勢が落ち着くには時間がかかるとの見通しを示したうえで、引き続き海峡を通らない代替ルートでの原油調達を進めていく考えを示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175821000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260713/k10015175501000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "id": "www3.nhk.or.jp/news/html/20260713/k10015175821000.html",
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
-      "title": "円相場 いくぶん円安進む 原油先物価格の上昇受け警戒感",
-      "body": "週明けの13日の東京外国為替市場、アメリカとイランが双方に攻撃を行ったと伝わったことで原油の先物価格が上昇し、円に対していくぶんドルを買う動きが進み、円相場は1ドル＝162円を挟んだ取り引きとなっています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175431000.html",
+      "title": "三菱UFJの株価上昇 時価総額が国内首位に 長期金利上昇の影響",
+      "body": "13日の東京株式市場で、三菱UFJフィナンシャル・グループの株価が上昇し、時価総額がトヨタ自動車を上回って国内首位になりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175791000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260713/k10015175431000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "id": "www3.nhk.or.jp/news/html/20260713/k10015175791000.html",
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
-      "title": "関通HD／「物流会社向けの相談窓口」新サービスを提供開始",
-      "body": "<![CDATA[<p>関通ホールディングス（HD）は7月10日、物流会社向けの新サービス「物流会社の相談窓口」を提供開始したと発表した。 人手不足や自動化、荷主対応、セキュリティ強化など物流業界を取り巻く環境は、経営・現場の両面でより高度な判 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0713501.html\">関通HD／「物流会社向けの相談窓口」新サービスを提供開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=328996",
+      "title": "公取委／ミネベア子会社に取適法で初の勧告、無償で荷役など行わせる",
+      "body": "<![CDATA[<p>公正取引委員会は7月10日、費用を負担することなく荷役・付帯業務を行わせたことなどにより、自動車・二輪車部品の製造・販売を行うミネベアアクセスソリューションズに対して、取適法（下請法改正後の中小受託取引適正化法）に基づく [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0713102.html\">公取委／ミネベア子会社に取適法で初の勧告、無償で荷役など行わせる</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=329101",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=328996",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "id": "www.lnews.jp/?p=329101",
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
-      "title": "国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少",
-      "body": "<![CDATA[<p>国土交通省は7月10日、実運送を行う一般貨物自動車運送を対象に2025年11月25日～12月24日に実施したトラックドライバーの1運行当たりの平均拘束時間に関する調査結果を公表した。 調査では2025年4月～8月の通常期 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0710104.html\">国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=328954",
+      "title": "良品計画と三菱商事／戦略的提携で物流・海外食品事業を強化",
+      "body": "<![CDATA[<p>良品計画と三菱商事は7月13日、国内外のリテイル分野で新たな生活者価値の創出を目指し、戦略的業務提携契約を締結した。 両社は25年以上にわたる取引関係を持ち、2001年から続いていた株式保有関係は解消する一方で、事業面で [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0713505.html\">良品計画と三菱商事／戦略的提携で物流・海外食品事業を強化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=329158",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=328954",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "id": "www.lnews.jp/?p=329158",
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
+    },
+    {
+      "title": "株価 一時1300円余値下がり 原油先物価格の上昇で",
+      "body": "週明けの13日の東京株式市場、アメリカとイランが双方に攻撃を行ったと伝わったことで原油の先物価格が上昇し、日経平均株価は、一時、1300円余り値下がりしたほか、外国為替市場でも、円に対していくぶんドルを買う動きが進んでいます。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175501000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260713/k10015175501000.html",
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
+    },
+    {
+      "title": "円相場 いくぶん円安進む 原油先物価格の上昇受け警戒感",
+      "body": "週明けの13日の東京外国為替市場、アメリカとイランが双方に攻撃を行ったと伝わったことで原油の先物価格が上昇し、円に対していくぶんドルを買う動きが進み、円相場は1ドル＝162円を挟んだ取り引きとなっています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175431000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260713/k10015175431000.html",
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
+    },
+    {
+      "title": "関通HD／「物流会社向けの相談窓口」新サービスを提供開始",
+      "body": "<![CDATA[<p>関通ホールディングス（HD）は7月10日、物流会社向けの新サービス「物流会社の相談窓口」を提供開始したと発表した。 人手不足や自動化、荷主対応、セキュリティ強化など物流業界を取り巻く環境は、経営・現場の両面でより高度な判 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0713501.html\">関通HD／「物流会社向けの相談窓口」新サービスを提供開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=328996",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=328996",
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
+    },
+    {
+      "title": "国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少",
+      "body": "<![CDATA[<p>国土交通省は7月10日、実運送を行う一般貨物自動車運送を対象に2025年11月25日～12月24日に実施したトラックドライバーの1運行当たりの平均拘束時間に関する調査結果を公表した。 調査では2025年4月～8月の通常期 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0710104.html\">国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=328954",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=328954",
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260712/k10015175001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260712/k10015175001000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260711/k10015174281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260711/k10015174281000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "カリツー／愛知県安城市に国内35番目、1.9万m2の物流センター開設",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328855",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328855",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "ソフトバンクやPayPayなど セブン＆アイHDに出資を検討",
@@ -76,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260711/k10015174161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260711/k10015174161000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
@@ -84,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
@@ -92,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "スーパーのコメ平均価格 約1年半ぶりに3500円を下回る",
@@ -100,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260710/k10015173611000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "赤潮被害受け 熊本と鹿児島の知事ら 養殖業者支援など国に要望",
@@ -108,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173871000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260710/k10015173871000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "「日本茶」国のブランド保護制度に登録 海外産と差別化ねらう",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260710/k10015173661000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "モバイルSuicaの障害 アクセス急増が原因",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173731000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260710/k10015173731000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "「全東信」破産 赤澤経産相 全国378か所に相談窓口を設置",
@@ -132,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260710/k10015173531000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "【きょうのおはBiz 7月10日(金)】全東信 破産 支援策は",
@@ -140,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173441000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260710/k10015173441000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "【PR】プロロジス／交流イベント「第3回 inno-base Pitch」7月29日開催",
@@ -148,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328861",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328861",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "【PR】セイノー情報サービス／「現在地から考える次の一手」テーマに7月24日セミナー開催",
@@ -156,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328882",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328882",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "Furore in Nigeria over fake federal agency set up in government HQ",
@@ -164,7 +196,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "停戦掲げる覚書の行方は NW9広内キャスターが専門家に聞く",
@@ -172,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172741000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "三菱自 人型ロボット開発・量産化へ 東大発ベンチャーと提携",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172991000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172991000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "タカラレーベン／埼玉県に初の冷蔵・冷凍物流施設「L.PORT大宮」を竣工",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328777",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328777",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "セイノーHD・AZ-COM丸和HD／BCPネットワーク構想、有事でも物流機能維持へ",
@@ -196,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328786",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328786",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "円相場 小幅に値下がり イラン情勢 先行き不透明との見方から",
@@ -212,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172931000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172931000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "NTTドコモが銀行業に参入 店舗とデジタルサービス強化【QAも】",
@@ -220,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172841000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172841000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "株価 一時1600円以上値上がり 半導体関連 買い戻す動き",
@@ -236,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172501000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172501000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "長期金利2.88％まで上昇 1996年11月以来29年8か月ぶりの水準",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172471000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172471000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "【PR】アビームコンサルティング／荷主企業のCLO活動を支援するサービスを開始",
@@ -252,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328765",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328765",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "太陽工業／「JITBOXチャーター便」を活用して雪を全国に届ける物流スキーム構築",
@@ -260,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328744",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328744",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "NY株式市場 ダウ一時800ドル超値下がり",
@@ -268,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "中東情勢が日本経済に影響 NW9広内キャスターが現場取材",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015172261000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015172261000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "トヨタL＆F／杉孝の機材センターにパレット用自動倉庫導入し保管面積を66％削減",
@@ -284,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328531",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328531",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "倒産集計／上半期の企業倒産4年連続増、運輸・通信業も前年上回る",
@@ -292,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328666",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328666",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "ミニストップ 23億円余りの赤字 客数十分回復せず",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015172171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015172171000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "6月街角景気 2か月連続で上昇 「持ち直しの兆し」上方修正",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015171981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015171981000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "ガソリン価格 全国平均169.9円 補助金で170円程度の水準続く",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015171881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015171881000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "クロマグロ国際会議が開幕 新ルール合意で増枠できるか焦点",
@@ -324,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015171571000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015171571000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "株価 値下がり 半導体関連などに売り注文広がる",
@@ -332,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260708/k10015171681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260708/k10015171681000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "日本通運／6月の鉄道コンテナ取り扱い実績7.1％減、9か月連続前年割れ",
@@ -340,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328567",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328567",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "日本郵船／DX推進へ日本マイクロソフトと戦略的枠組みを契約",
@@ -348,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328570",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328570",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "北陸新幹線延伸「『小浜・京都』か『米原』で」大阪表明",
@@ -356,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015171181000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260707/k10015171181000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "クレジットカードの決済代行「全東信」が破産手続き開始 大阪",
@@ -364,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015171171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260707/k10015171171000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     },
     {
       "title": "淀橋市場／小池都知事が市場の物流DX視察、「人手不足対応のモデルに」",
@@ -372,62 +404,30 @@
       "sourceURL": "https://www.lnews.jp/?p=328465",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328465",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
-    },
-    {
-      "title": "物価高倒産／上半期556件で過去最多、運輸・通信業のみ前年同期比減少",
-      "body": "<![CDATA[<p>帝国データバンク（TDB）は7月7日、「物価高倒産」の動向調査（2026年上半期）で、物価高倒産は556件と発表した。 物価高倒産とは、燃料や原材料などの「仕入価格の上昇」により収益が維持できず倒産したことを指し、現在増 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0707705.html\">物価高倒産／上半期556件で過去最多、運輸・通信業のみ前年同期比減少</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=328510",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=328510",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
-    },
-    {
-      "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
-      "body": "&lt;p&gt;Experts say cuts have hindered the response to DRC’s Ebola outbreak and resulted in ‘significant numbers’ of deaths&lt;/p&gt;&lt;p&gt;Elon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial public offering, and Tesla faces a wave of lawsuits. But instead of focusing on his companies, Musk has posted frequently on X about the US Agency for International Development (USAID), which he helped dismantle – or, in his words, feed into the woodchipper – last year.&lt;/p&gt;&lt;p&gt;“Elon’s USAID crash-out over the past week has been a thing to behold,” said Jeremy Konyndyk, a former top USAID official who oversaw the agency’s Ebola response in 2014-2015 and the president of Refugees International. “In a way, it’s helpful that Elon is doing this, because it’s putting attention back on the issue of what he did last year.”&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
-    },
-    {
-      "title": "円相場 円高ドル安進む 日米金利差縮小の見方から",
-      "body": "7日の東京外国為替市場、日米の金利差が縮小するという見方から、円を買ってドルを売る動きが進み、円相場は値上がりしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015171061000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260707/k10015171061000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
-    },
-    {
-      "title": "リニア中央新幹線 静岡県知事 県内の着工容認を表明",
-      "body": "次世代の交通の大動脈とされるリニア中央新幹線について、静岡県の鈴木知事は7日に開かれた県議会の全員協議会で、県内での着工の前提となる「自然環境保全協定」をJR東海と締結する方針を表明し、着工を容認する考えを示しました。こう着していたリニア中央新幹線の静岡県内の工事が動きだすことになります。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260707/k10015170621000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260707/k10015170621000.html",
-      "fetchedAt": "2026-07-13T03:42:23.526Z"
+      "fetchedAt": "2026-07-13T09:41:14.414Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "株価 一時1300円余値下がり 原油先物価格の上昇で",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175501000.html",
-      "summary": "13日の東京株式市場では、米国とイランの双方による攻撃の報道を受け、原油先物価格が上昇しました。この影響で日経平均株価は一時1300円以上下落しました。また、外国為替市場では円安傾向が見られ、ドルの買いが進んでいます。",
+      "title": "ホルムズ海峡代替ルートでの原油調達進める 資源エネルギー庁",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175821000.html",
+      "summary": "資源エネルギー庁は、イラン革命防衛隊がホルムズ海峡封鎖を表明した事態について、収束まで時間がかかると見込んでいると発表しました。その上で、同海峡を経由しない代替ルートを活用し、今後も原油の調達を継続する方針を示しました。",
       "classification": {
         "tone": "N",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "わ",
+        "phrase": "わからん時　わからんと言う素直さよ"
       },
-      "commentary": "市場の乱高下は短期の動きに振り回されやすいもんや。慌てて流れに乗る前に、「ほんまに何が起きてるんか？」を見極める目を持つことが大事やで。信頼は焦らず、疑問を丁寧に解く積み重ねから生まれるんやからな。"
+      "commentary": "情勢の先行きが見えへん時でも、無理に分かったふりせんと、正直に状況を受け止めるんが大事や。代替ルート探しも、焦らず着実に進めることで信頼を積み重ねる。知らんことは認めて、じっくり学びつつ次の一手を考える姿勢が、あきんどの基本やで。"
     },
     {
       "source": "NHK",
-      "title": "円相場 いくぶん円安進む 原油先物価格の上昇受け警戒感",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175431000.html",
-      "summary": "13日の東京外国為替市場では、アメリカとイランの間で攻撃があったと伝えられた影響で原油先物価格が上昇しました。この動きを背景にドル買いが強まり、円相場は1ドル＝162円付近で推移しています。",
+      "title": "三菱UFJの株価上昇 時価総額が国内首位に 長期金利上昇の影響",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175791000.html",
+      "summary": "13日の東京株式市場で、三菱UFJフィナンシャル・グループの株価が上昇し、時価総額がトヨタ自動車を超えて国内のトップとなりました。この動きは長期金利の上昇が背景にあるとみられています。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -436,52 +436,52 @@
         "leadingKana": "ん",
         "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "為替が動くとき、ただ数字の変動だけやなく、その背景にある「なんでやろ？」の違和感こそ大事や。外部環境や情報の揺らぎが見え隠れするから、焦らず冷静に「ん？」を受け止めて、次の一手を考える。短期的な動きに振り回されず、信頼の積み重ねを意識すべきやな。"
+      "commentary": "長期金利の動きで金融株が浮上し、三菱UFJがトヨタを抜いたわけやけど、ここで「ほんまに今の評価が正しいんか？」と立ち止まる感覚大事や。市場の変化は一時的かもしれんし、慌てず違和感を見つめ直すことが、信頼を積む商売の基本やで。"
     },
     {
       "source": "LNEWS",
-      "title": "関通HD／「物流会社向けの相談窓口」新サービスを提供開始",
-      "sourceURL": "https://www.lnews.jp/?p=328996",
-      "summary": "関通ホールディングスは7月10日、物流業界向けに新たな相談窓口サービスを開始した。人手不足や自動化、荷主対応、セキュリティ強化などの課題に対応するため、経営や現場の両面から支援を行うことを目的としている。",
+      "title": "公取委／ミネベア子会社に取適法で初の勧告、無償で荷役など行わせる",
+      "sourceURL": "https://www.lnews.jp/?p=329101",
+      "summary": "公正取引委員会は7月10日、ミネベアの子会社であるミネベアアクセスソリューションズに対し、無償で荷役や付帯業務を行わせたとして、中小受託取引適正化法（取適法）に基づく初の勧告を行った。対象企業は自動車・二輪車部品の製造・販売を手掛けている。",
       "classification": {
-        "tone": "G",
+        "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "ゆ",
-        "phrase": "ゆっくりと 行くのは一体 何の為？"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "物流業界の変化に対応する相談窓口の設置は、迅速な課題解決を目指す動きや。忙しい現場で立ち止まる暇はない。刻々と変わる環境に即応し、手堅く信頼を積むことが次の一手やで。"
+      "commentary": "取引の公正さは信頼の根幹や。無償での業務依頼が指摘される背景には、利益だけでなく真の目的を見失わん姿勢が必要や。苦労して得た関係も、目的にかなわんと価値薄まる。商売は目先の得失越えて、日々の積み重ねで信頼を育てることが肝心やで。"
     },
     {
       "source": "LNEWS",
-      "title": "国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少",
-      "sourceURL": "https://www.lnews.jp/?p=328954",
-      "summary": "国土交通省は、2025年11月下旬から12月にかけて行った一般貨物自動車運送のトラックドライバーの拘束時間調査結果を公表した。これによると、1回の運行あたりの平均拘束時間は前年と比べて1時間33分短縮された。調査は2025年4月から8月の通常期を対象として実施された。",
+      "title": "良品計画と三菱商事／戦略的提携で物流・海外食品事業を強化",
+      "sourceURL": "https://www.lnews.jp/?p=329158",
+      "summary": "良品計画と三菱商事は7月13日、国内外の小売分野で新たな価値創出を目指し、戦略的業務提携契約を結んだ。両社は25年以上の取引関係があり、2001年以降の株式保有関係は解消した。今回の提携では物流や海外食品事業の強化を図る方針である。",
       "classification": {
         "tone": "G",
-        "term": "M"
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "な",
-        "phrase": "何するか 分からん時は 基礎鍛錬"
+        "leadingKana": "い",
+        "phrase": "いつだって  3％と 1/3"
       },
-      "commentary": "トラックの拘束時間が減ったのは、現場の基礎を見直し続けた結果やろな。焦らず日々の積み重ねが現場の信頼と持続性を生む。慌てず、まずは自分の仕事の基本を鍛え直すことから始めるべきや。それが次の一歩を形作るんやで。"
+      "commentary": "良品計画と三菱商事の提携は、長年の関係を土台に新たな価値を目指す動きやね。無駄を見落とさず、日々の積み重ねで小さな改善を積み重ねつつ、大きな変革も視野に入れる。商いは答えがないからこそ、焦らずじっくりと信頼を育てていきたいもんや。"
     },
     {
       "source": "Guardian｜World",
       "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "summary": "コンゴ民主共和国のイトゥリ地域でエボラ出血熱の治療薬2種の臨床試験が開始され、患者の登録が始まりました。この試験は、世界保健機関（WHO）が5月17日に同地域のエボラ流行を国際的に懸念される公衆衛生上の緊急事態と宣言してから約6週間で設立され、治療法確立に向けて迅速に進められています。現在、承認薬はなく、死亡率低減への期待が寄せられています。",
+      "summary": "コンゴ民主共和国のイトゥリ地域で、エボラ出血熱の治療を目的とした薬剤試験が開始され、最初の患者が登録された。今回の試験は、エボラの発生が国際的な公衆衛生上の緊急事態と宣言されてからわずか6週間で実施されており、治療法の確立と死亡率低減を目指している。現在、承認された治療薬はなく、研究の進展に期待が寄せられている。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "ゆ",
-        "phrase": "ゆっくりと 行くのは一体 何の為？"
+        "leadingKana": "お",
+        "phrase": "おおきにと 言われてなんぼ 言うてなんぼ"
       },
-      "commentary": "今回の治療試験は、迅速な対応が命を救う現場での勝負どころや。準備にかかる時間を最小限にし、患者さんを待たせんと動く姿勢は、あきんどの心意気そのものやで。無駄な遅れを省きつつ、確かな手応えを求める、そのバランス感覚が信頼の積み重ねにつながるんや。"
+      "commentary": "今回のエボラ治療試験は、迅速な準備と患者の参加で一歩前進や。商売と同じで、結果だけやのうて、地道な取り組みが信頼を築く。恩義は言葉で返すもんやし、医療も社会との関係の中で育つもんや。焦らずに続ける姿勢が大事やで。"
     }
   ]
 }
