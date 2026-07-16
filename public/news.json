@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-07-16T03:24:45.932Z",
+  "generatedAt": "2026-07-16T08:26:04.573Z",
   "run": {
-    "ranAt": "2026-07-16T03:24:45.932Z",
+    "ranAt": "2026-07-16T08:26:04.573Z",
     "runner": "github-actions",
-    "runId": "29468885978"
+    "runId": "29483404146"
   },
   "stock": [
+    {
+      "title": "1年後の物価「上がる」の見方が過去最高に イラン情勢背景に",
+      "body": "日銀が行った個人の生活意識に関する調査で、1年後の物価が今より上がるとみている人の割合が90％を超え、これまでの調査で最も高くなりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015178451000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260716/k10015178451000.html",
+      "fetchedAt": "2026-07-16T08:25:41.675Z"
+    },
+    {
+      "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
+      "body": "国産AIの開発を目指す新会社「ノエトラ」が、アメリカの半導体大手「エヌビディア」から、最新の半導体を搭載した次世代のシステムを導入する方針を固めました。これにより、新会社が自律的にロボットなどを動かす「フィジカルAI」の基盤となる技術開発を加速させるねらいがあります。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
+    },
+    {
+      "title": "X Mile／「ロジポケ」でパスキー認証が可能に、サイバーセキュリティを強化",
+      "body": "<![CDATA[<p>X Mile（クロスマイル）は7月16日、物流事業者向けSaaS・プラットフォーム「ロジポケ」でパスキー認証（MFA）機能をリリースしたことを発表した。 パスキー認証は、指紋・顔認証などの生体認証や端末のPINコードを用 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0716603.html\">X Mile／「ロジポケ」でパスキー認証が可能に、サイバーセキュリティを強化</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=329623",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=329623",
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
+    },
+    {
+      "title": "富士通とロボット大手3社／フィジカルAIで連携、製造・物流など社会実装加速",
+      "body": "<![CDATA[<p>富士通は7月16日、ファナック、安川電機、川崎重工業と、フィジカルAI分野における事業検討を開始すると発表した。 NVIDIA（エヌビディア）の技術を活用しながらデジタルとフィジカルをつなぎ、自律的な管理・制御も可能な「 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0716505.html\">富士通とロボット大手3社／フィジカルAIで連携、製造・物流など社会実装加速</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=329581",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=329581",
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
+    },
+    {
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "body": "&lt;p&gt;Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets&lt;/p&gt;&lt;p&gt;A former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north African state used hacking software – including Pegasus spyware – to target journalists, human rights defenders, French politicians and Spanish cabinet ministers and police officers.&lt;/p&gt;&lt;p&gt;Pegasus, which is manufactured by the Israel-based NSO Group, allows its operator to access everything on a target’s mobile phone, including emails, text messages and photographs. It can also activate the phone’s recorder and camera, turning it into a listening device.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
+    },
     {
       "title": "株価 一時 2200円以上値下がり 半導体関連など売り注文広がる",
       "body": "16日の東京株式市場、半導体関連の銘柄を中心に当面の利益を確定させようという売り注文が広がり、日経平均株価は一時、2200円以上値下がりしました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015178121000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260716/k10015178121000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "ニチレイ サイバー攻撃 江崎グリコのアイスの出荷作業に影響",
@@ -20,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015177911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260716/k10015177911000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "エーアイテイー 決算／3～5月の売上高1.3％増、海上運賃上昇と円安受け",
@@ -28,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329500",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329500",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "澁澤倉庫／8月から通関料金を約25％値上げ、人件費や法令対応コスト増で",
@@ -36,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329494",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329494",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "How global heating supercharged floods in West Africa, displacing thousands",
@@ -44,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
@@ -52,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260715/k10015178011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260715/k10015178011000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "石油連盟会長 “中東産油国のパイプライン増強へ支援検討”",
@@ -60,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260715/k10015177871000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260715/k10015177871000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "日本GLP／愛知県東海市で約14.7万m2の物流施設「Marq東海名和」開発へ",
@@ -68,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329398",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329398",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "大和ハウス工業／「DPL大阪南港I」竣工で大阪エリア増強へ、需要増見据え展開加速",
@@ -76,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329422",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329422",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "New US Ebola patient arrives in Germany for treatment",
@@ -84,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
@@ -92,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260715/k10015177751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260715/k10015177751000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "北陸新幹線延伸ルート “「桂川案」が望ましい” 与党委員会",
@@ -100,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260715/k10015177231000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260715/k10015177231000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "株価 値上がり 半導体の需要拡大の見方から関連銘柄値上がり",
@@ -108,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260715/k10015177371000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260715/k10015177371000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "倒産速報／東日本流通が民事再生法適用申請、負債推定40億円",
@@ -116,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329482",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329482",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "南日本運輸倉庫／ベトナムの大学生6人を第7期インターン受け入れ",
@@ -124,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329470",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329470",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "租税特別措置 廃止の方向性は1件にとどまる 各省庁の自己点検",
@@ -132,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260715/k10015176961000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260715/k10015176961000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "佐川グローバルロジスティクス／「CLOサポートサービス2026」を提供開始",
@@ -140,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329320",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329320",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "JILS／無料オンラインセミナー「物流×障害者雇用：現場づくりのポイントと実践事例」7月23日開催",
@@ -148,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329302",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329302",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "米物価上昇率3.5％ 伸び率縮小で早期利上げ観測 やや後退",
@@ -156,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260714/k10015177041000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260714/k10015177041000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "東和銀行 全東信破産手続き受け 債権処理で有価証券売却へ",
@@ -164,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260714/k10015176871000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260714/k10015176871000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "大和ハウス工業／国内最大級8.6万m2の冷凍冷蔵物流施設「DPL大阪南港I」竣工へ",
@@ -172,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329263",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329263",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "国交省／物流政策推進関係者会議が初会合、トラック適正化二法を実効あるものに",
@@ -180,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329239",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329239",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "株価 値上がり 半導体関連の銘柄 買い戻す動き",
@@ -188,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260714/k10015176421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260714/k10015176421000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "クロマグロ国際会議 漁獲枠拡大めぐり合意に至らず",
@@ -196,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260714/k10015176661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260714/k10015176661000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "GoQSystem／WMSとのAPI連携強化で6社の倉庫が自動出荷に対応",
@@ -204,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329266",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329266",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
@@ -212,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "国内市場縮小の中 ビール各社で海外事業強化の動き",
@@ -220,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260714/k10015176051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260714/k10015176051000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で",
@@ -228,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260714/k10015176201000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260714/k10015176201000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "アクロストランスポート／神奈川県川崎市東扇島にアパレル向け物流センター9月開設",
@@ -236,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329194",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329194",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "T2・コーナン商事／ホームセンターの商品を自動運転トラック商用運行で輸送",
@@ -244,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329188",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329188",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "韓国株価8％超の大幅な下落 売買を一時的に中断する措置も",
@@ -252,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260713/k10015175941000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "LINEヤフー ゲーム利用者に関する情報約710万件流出",
@@ -260,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015176021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260713/k10015176021000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "公取委／ミネベア子会社に取適法で初の勧告、無償で荷役など行わせる",
@@ -268,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329101",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329101",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "良品計画と三菱商事／戦略的提携で物流・海外食品事業を強化",
@@ -276,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329158",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329158",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "ホルムズ海峡代替ルートでの原油調達進める 資源エネルギー庁",
@@ -284,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260713/k10015175821000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "三菱UFJの株価上昇 時価総額が国内首位に 長期金利上昇の影響",
@@ -292,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260713/k10015175791000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
@@ -300,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "株価 一時1300円余値下がり 原油先物価格の上昇で",
@@ -308,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175501000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260713/k10015175501000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "円相場 いくぶん円安進む 原油先物価格の上昇受け警戒感",
@@ -316,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260713/k10015175431000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260713/k10015175431000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "関通HD／「物流会社向けの相談窓口」新サービスを提供開始",
@@ -324,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328996",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328996",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "国交省／トラックドライバーの1運行当たり拘束時間が1年間で1時間33分減少",
@@ -332,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328954",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328954",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
@@ -340,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260712/k10015175001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260712/k10015175001000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達",
@@ -348,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260711/k10015174281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260711/k10015174281000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "カリツー／愛知県安城市に国内35番目、1.9万m2の物流センター開設",
@@ -356,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=328855",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=328855",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     },
     {
       "title": "ソフトバンクやPayPayなど セブン＆アイHDに出資を検討",
@@ -364,124 +404,84 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260711/k10015174161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260711/k10015174161000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
-    },
-    {
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "body": "&lt;p&gt;Vigilantes also took part in the fight that raged all night and the following morning, residents say&lt;/p&gt;&lt;p&gt;Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official.&lt;/p&gt;&lt;p&gt;Government troops targeted the gangs in Gummi district in a two-day operation that “led to the elimination of more than 300 terrorists”, Zamfara’s information commissioner, Mahmud Muhammad Dantawasa, said in a statement.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
-    },
-    {
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "body": "&lt;p&gt;Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans&lt;/p&gt;&lt;p&gt;Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.&lt;/p&gt;&lt;p&gt;More was spent on servicing foreign debt than on education in 113 developing countries in 2025, according to research by the UN’s culture and education agency, Unesco. In sub-Saharan Africa, &lt;a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000398572\"&gt;countries spent 3.6 times more on debt than education&lt;/a&gt;.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
-    },
-    {
-      "title": "スーパーのコメ平均価格 約1年半ぶりに3500円を下回る",
-      "body": "全国のスーパーで7月5日までの1週間に販売されたコメの平均価格は、5キロあたり税込み3458円とおよそ1年半ぶりに3500円を下回りました。コメの在庫が例年を上回る水準で推移する中、小売店や卸売業者の間で値下げの動きが進んでいます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173611000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260710/k10015173611000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
-    },
-    {
-      "title": "赤潮被害受け 熊本と鹿児島の知事ら 養殖業者支援など国に要望",
-      "body": "熊本県と鹿児島県に面する八代海などで発生した赤潮で多くの養殖の魚が死ぬ被害が出ていることを受けて、両県の知事らが、10日、養殖業者への支援を国に要望しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173871000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260710/k10015173871000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
-    },
-    {
-      "title": "「日本茶」国のブランド保護制度に登録 海外産と差別化ねらう",
-      "body": "海外で抹茶ブームが広がる中、国のブランド保護制度に新たに「日本茶」が登録されました。抹茶をめぐっては、日本の地名を冠した海外産が多く出回るようになっていて、業界団体は、制度への登録を通じて差別化を図りたいとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260710/k10015173661000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260710/k10015173661000.html",
-      "fetchedAt": "2026-07-16T03:24:19.547Z"
+      "fetchedAt": "2026-07-16T08:25:41.676Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "株価 一時 2200円以上値下がり 半導体関連など売り注文広がる",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015178121000.html",
-      "summary": "16日の東京株式市場では、半導体関連を中心に利益確定の売り注文が増加し、日経平均株価が一時2200円超の大幅下落となりました。投資家の売り圧力が市場全体に影響を与えた動きが見られました。",
+      "title": "1年後の物価「上がる」の見方が過去最高に イラン情勢背景に",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015178451000.html",
+      "summary": "日本銀行の調査によると、今後1年で物価が上昇すると予想する人の割合が90％を超え、過去最高を記録しました。この見方の強まりには、イラン情勢が影響しているとみられています。",
       "classification": {
         "tone": "N",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "よ",
+        "phrase": "世の中は 広いんやから 驚くな"
       },
-      "commentary": "株価の大きな動きは、表面だけ見て判断せず「何が原因か」を深く確かめる姿勢が肝心や。焦らず売買の背景を丁寧に探り、理解を深めることが信頼につながる。あわてて相づち打つより、しっかり質問して本質を掴むことが、商売の土台を強くするんやで。"
+      "commentary": "物価上昇の見通しが高まっても、慌てずに構えてみましょう。世の中は広いし、変動は繰り返すもんや。大事なんは日々の営みを丁寧に積み重ねて、信頼を守り続けることやで。焦らず自分の立ち位置を見つめ直す機会にしたいな。"
     },
     {
       "source": "NHK",
-      "title": "ニチレイ サイバー攻撃 江崎グリコのアイスの出荷作業に影響",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015177911000.html",
-      "summary": "冷凍食品大手のニチレイで発生したサイバー攻撃によるシステム障害の影響が広がっています。この影響で、大阪本社の菓子メーカー江崎グリコは、アイスクリームの出荷作業に支障が出ていることを公表しました。",
+      "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
+      "summary": "国産AIの開発を進める新会社「ノエトラ」は、米半導体大手エヌビディアの最新半導体を搭載した次世代システムを導入する計画を決定しました。この導入により、自律的にロボットを制御する「フィジカルAI」の技術開発を加速させることを目指しています。",
       "classification": {
-        "tone": "B",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "ふ",
-        "phrase": "不実やと 思うのならば やめなはれ"
-      },
-      "commentary": "サイバー攻撃の影響で出荷に乱れが出る時代やけど、焦って見え透いた手抜きや誤魔化しは信頼を損なうばかりや。日々の誠実な積み重ねこそが、困難を乗り越える力になるんやと心に置いときたいな。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "エーアイテイー 決算／3～5月の売上高1.3％増、海上運賃上昇と円安受け",
-      "sourceURL": "https://www.lnews.jp/?p=329500",
-      "summary": "エーアイテイーは2027年2月期第1四半期（3～5月）決算を発表し、売上高は前年同期比1.3％増の149億3300万円となりました。営業利益は4.3％増の11億600万円でしたが、経常利益は10.0％減の11億7300万円となりました。売上高の増加は海上運賃の上昇や円安の影響が要因とされています。",
-      "classification": {
-        "tone": "N",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
-      },
-      "commentary": "エーアイテイーの決算は売上微増や利益の増減が示すように、外部環境の影響を受けつつも着実に進んでるわけや。変化に対して「何が起きてるんか？」を見極める姿勢が大事で、表面的な数字だけじゃなく背景を理解して信頼を積み上げる。焦らず一歩ずつ、次の動きを考えるべきやな。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "澁澤倉庫／8月から通関料金を約25％値上げ、人件費や法令対応コスト増で",
-      "sourceURL": "https://www.lnews.jp/?p=329494",
-      "summary": "澁澤倉庫は7月16日、通関業務の料金を2026年8月1日受託分から約25％引き上げると発表した。対象は通関申告や保税関連申請の基本料金で、人件費の上昇や法令対応に伴うコスト増加が背景にある。料金改定はサービス品質の維持・向上を目的としている。",
-      "classification": {
-        "tone": "N",
+        "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "え",
-        "phrase": "ええんです 自分のことは ええんです"
+        "leadingKana": "い",
+        "phrase": "いつだって  3％と 1/3"
       },
-      "commentary": "値上げの背景には人手や法令対応の増大があるわけやけど、ここで自分の感情を交えても仕方ない。商売は数字と理屈で勝負や。お客さんの期待を見据え、淡々と信頼を積み重ねる姿勢が問われる。感情出して動揺したら、相手に隙を見せるだけやからな。"
+      "commentary": "新しい技術を取り込む姿勢はええけど、日常の小さな改善も忘れたらあかんで。派手な導入に浮かれず、地道に無駄を見つけて減らす工夫が信頼のもとや。新しい挑戦も、普段の積み重ねと冷静な見極めが長続きの鍵やと思うわ。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "X Mile／「ロジポケ」でパスキー認証が可能に、サイバーセキュリティを強化",
+      "sourceURL": "https://www.lnews.jp/?p=329623",
+      "summary": "X Mileは7月16日、物流業界向けSaaSプラットフォーム「ロジポケ」にパスキー認証機能を導入したと発表した。この機能は指紋や顔認証、デバイスのPINコードなど複数の認証方法を用いるもので、多要素認証によるセキュリティ強化を目的としている。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "ゆ",
+        "phrase": "ゆっくりと 行くのは一体 何の為？"
+      },
+      "commentary": "物流業界のセキュリティ強化は急務やけど、ただ時間かけて慎重になるだけやと機会逸する。新機能導入は時に素早さが信頼を築く武器になる。状況見極めつつ、適時の迅速な対応が現場の安心につながるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "富士通とロボット大手3社／フィジカルAIで連携、製造・物流など社会実装加速",
+      "sourceURL": "https://www.lnews.jp/?p=329581",
+      "summary": "富士通は7月16日、ファナック、安川電機、川崎重工業と共同でフィジカルAIに関する事業検討を開始すると発表した。NVIDIAの技術を活用し、デジタルと物理領域を連携させた自律的な管理・制御の実現を目指す。この取り組みは製造や物流分野での社会実装を促進することを目的としている。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "か",
+        "phrase": "カイゼンは  みんなの宝"
+      },
+      "commentary": "新しい技術の連携は、ただの効率化だけやない。みんなが気づきを持って改良を続けることで、組織全体の強さにつながるんや。焦らず日々の積み重ねが信頼と持続を生む、その姿勢を忘れたらあかんで。"
     },
     {
       "source": "Guardian｜World",
-      "title": "How global heating supercharged floods in West Africa, displacing thousands",
-      "sourceURL": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-      "summary": "先月、西アフリカの沿岸部で発生した洪水により、数十人が溺死し、数百人が救助され、数千人が避難を余儀なくされました。専門家は、この豪雨が気候変動の影響で強化され、通常の気象現象が深刻な災害に変わったと指摘しています。研究者らは、今後の対応として気候適応策の強化と温室効果ガス排出の一層の削減が重要だと述べています。",
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "sourceURL": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "summary": "モロッコの元国内情報機関関係者が、同国が2017年以降、ペガサスと呼ばれるスパイウェアを用いて内部および国外の要人を監視していたことを明かした。対象にはジャーナリストや人権活動家、フランスの政治家、スペインの閣僚や警察官が含まれる。ペガサスはイスラエルのNSOグループ製で、標的のスマートフォン内の通信内容や写真の閲覧、録音・撮影機能の遠隔操作が可能とされる。",
       "classification": {
         "tone": "B",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "う",
-        "phrase": "ウソつくな ウソつくときは 己も騙せ"
+        "leadingKana": "る",
+        "phrase": "ルールはなぁ 心が勝手に 守るモノ"
       },
-      "commentary": "自然の変化が商売にも影響する時代や。見えへんリスクを認め、自分の身を信じて備える姿勢が大事やで。ええ加減な楽観は禁物やけど、真剣に向き合うことで信頼は積み上がるんや。"
+      "commentary": "情報の取り扱いは商いの根幹や。目先の利益だけで動いたら、信用はすぐに失われる。見えんところでの行動も自分の心が律してこそ、長く信頼を築けるんや。だからルールは外からの強制やなく、内から守るもんやと心得るべきやな。"
     }
   ]
 }
