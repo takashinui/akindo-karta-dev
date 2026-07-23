@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-07-23T14:23:16.451Z",
+  "generatedAt": "2026-07-23T19:37:18.820Z",
   "run": {
-    "ranAt": "2026-07-23T14:23:16.451Z",
+    "ranAt": "2026-07-23T19:37:18.820Z",
     "runner": "github-actions",
-    "runId": "30015511925"
+    "runId": "30038672202"
   },
   "stock": [
     {
-      "title": "いよぎんHDと愛媛銀行が経営統合に向けて最終調整",
-      "body": "愛媛県の地方銀行「伊予銀行」を傘下にもつ「いよぎんホールディングス」と同じ県内の「愛媛銀行」が経営統合に向けて最終調整を進めていることがわかりました。人口減少などを背景に預金や取り引き先を獲得するための競争が一段と激しくなる中、統合によって地域での金融サービスを強化するねらいがあるとみられます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
+      "title": "NY原油 一時1バレル93ドル台に 約1か月半ぶりの高値水準",
+      "body": "23日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝93ドル台まで値上がりし、先月中旬以来、およそ1か月半ぶりの高値水準となりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184701000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "id": "www3.nhk.or.jp/news/html/20260724/k10015184701000.html",
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
-      "title": "円相場 1ドル＝163円台後半まで値下がり 39年半ぶりの円安水準",
-      "body": "23日のニューヨーク外国為替市場では中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円台後半まで値下がりしました。これは、1986年12月以来、およそ39年半ぶりの円安ドル高水準となっています。中東イエメンの反政府勢力で、イランの支援を受けるフーシ派がサウジアラビアの石油タンカーに対して攻撃を行ったと発表したことで原油の先物価格が上昇しています。金融市場ではアメリカのFRB＝連邦準備制度理事会がインフレを抑え込むために今後、利上げに踏み切るとの観測が広がっていることが円を売ってドルを買う動きにつながっています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184591000.html",
+      "title": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
+      "body": "23日のニューヨーク外国為替市場では、中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円90銭台後半まで値下がりし、164円に迫りました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184691000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260723/k10015184591000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "id": "www3.nhk.or.jp/news/html/20260724/k10015184691000.html",
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "三井不動産／「産業デベロッパー」として複合業務施設開発で物流の枠超えた価値提供へ",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330103",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330103",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "国交省／経産省と連携し港湾手続きのデジタル標準化に向けた業界団体設立を支援",
@@ -36,7 +36,31 @@
       "sourceURL": "https://www.lnews.jp/?p=330163",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330163",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
+    },
+    {
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "body": "&lt;p&gt;The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year&lt;/p&gt;&lt;p&gt;Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.&lt;/p&gt;&lt;p&gt;Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. They had denied the charges, claiming they were in Angola for cultural and business activities.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
+    },
+    {
+      "title": "いよぎんHDと愛媛銀行が経営統合に向けて最終調整",
+      "body": "愛媛県の地方銀行「伊予銀行」を傘下にもつ「いよぎんホールディングス」と同じ県内の「愛媛銀行」が経営統合に向けて最終調整を進めていることがわかりました。人口減少などを背景に預金や取り引き先を獲得するための競争が一段と激しくなる中、統合によって地域での金融サービスを強化するねらいがあるとみられます。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
+    },
+    {
+      "title": "円相場 1ドル＝163円台後半まで値下がり 39年半ぶりの円安水準",
+      "body": "23日のニューヨーク外国為替市場では中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円台後半まで値下がりしました。これは、1986年12月以来、およそ39年半ぶりの円安ドル高水準となっています。中東イエメンの反政府勢力で、イランの支援を受けるフーシ派がサウジアラビアの石油タンカーに対して攻撃を行ったと発表したことで原油の先物価格が上昇しています。金融市場ではアメリカのFRB＝連邦準備制度理事会がインフレを抑え込むために今後、利上げに踏み切るとの観測が広がっていることが円を売ってドルを買う動きにつながっています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184591000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260723/k10015184591000.html",
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
@@ -44,7 +68,7 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "関税措置めぐる日米合意から1年 輸出企業は対応迫られる",
@@ -52,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015183911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015183911000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "経団連の夏のフォーラム “大手企業が国内の設備投資主導を”",
@@ -60,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015184071000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "Health worker monitored for Ebola in London hospital after working in DRC",
@@ -68,7 +92,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "円相場 1ドル＝163円台前半中心 有事のドル買い続く",
@@ -76,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015183751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015183751000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "株価 午前は値上がり AI・半導体関連に買い注文",
@@ -84,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015183761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015183761000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "飯野海運／MSCI日本株ESGセレクト･リーダーズ指数に3年連続選定",
@@ -92,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330082",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330082",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "モノタロウ／茨城の物流拠点に太陽光発電設備を導入、再エネ化を推進",
@@ -100,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330076",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330076",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "輸入牛肉と豚肉の小売価格が過去最高 農林水産省の7月調査",
@@ -108,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182891000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "円相場 1ドル＝163円台の取引が中心に 有事のドル買い続く",
@@ -116,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182331000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "ジェイアール東日本物流／千葉県市川市に3.3万m2の4温度帯倉庫開設、10月から順次稼働",
@@ -124,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330034",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330034",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "ダイワコーポレーション／神奈川県川崎市で3.4万m2の冷凍冷蔵施設を竣工、食品物流の拠点に",
@@ -132,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329962",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329962",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "ニチレイ 個人情報漏えいした可能性のある対象者に通知行う",
@@ -140,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182451000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "株価 小幅な値動き 午後に利益確定の売り注文広がる",
@@ -148,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182421000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "全ト協／2026年度Gマーク申請受理件数は8215事業所、更新申請が大幅に増加",
@@ -156,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329932",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329932",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "日本郵船／国際サミットで海洋生態系保全など自然再興の取り組み発信",
@@ -164,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329920",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329920",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶりの円安水準",
@@ -172,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182211000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "高市政権初の骨太方針 NW9広内キャスターが与野党幹部に聞く",
@@ -180,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181941000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "安田倉庫／インドネシアで新倉庫建設に着手、東南アジア物流を強化",
@@ -188,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329812",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329812",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "大東建託／大阪ガス都市開発と兵庫・西宮に冷凍冷蔵物流施設を開発へ",
@@ -196,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329782",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "Healthy diet too expensive for one in three people globally, UN report finds",
@@ -204,7 +228,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "政府とアジア開発銀行 水道インフラ支援で基金を創設",
@@ -212,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015182011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015182011000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "首都圏新築マンション平均価格 上半期初めて1億円超に",
@@ -220,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181881000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
@@ -228,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181561000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "São Tomé and Príncipe heads to polls in tense presidential election",
@@ -236,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "株価 午前は値上がり 半導体関連銘柄中心に買い戻す動き進む",
@@ -244,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181591000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181591000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "金子国交相 今週24日にJR東海社長と面会へ リニア中央新幹線",
@@ -252,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181611000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "川崎汽船／ESG投資指数「FTSE4Good」など3指数の構成銘柄に継続選定",
@@ -260,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329818",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329818",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "三菱食品／高速ピッキングシステムを埼玉県草加市のDCに導入、冷凍エリアには自動倉庫も",
@@ -268,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329800",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329800",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "NY原油市場 1バレル＝85ドル台に上昇 1か月ぶりの高値水準",
@@ -276,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260720/k10015181071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260720/k10015181071000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "リニア中央新幹線 静岡県内着工へ 静岡県とJR東海協定締結",
@@ -284,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260718/k10015180281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260718/k10015180281000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "佐川急便／東京都江東区に8.7万m2「関東ハブセンター」を本格稼働へ、輸送網を強化",
@@ -292,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329752",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329752",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "大和ハウス工業／岩手県紫波町に1.7万m2のマルチテナント型物流施設着工へ",
@@ -300,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329695",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329695",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
@@ -308,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260718/k10015180171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260718/k10015180171000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
@@ -316,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "EU 「排出量取引制度」排出規制の緩和などを提案 産業界に配慮",
@@ -324,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260718/k10015180071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260718/k10015180071000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "ナスダック株価指数 一時2％超の下落 中国AIへの警戒感で売り",
@@ -332,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260718/k10015180051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260718/k10015180051000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
@@ -340,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "キオクシア 米で約371億円の賠償の評決 控訴含め争う方針",
@@ -348,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260717/k10015179581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260717/k10015179581000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
@@ -356,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
@@ -364,7 +388,7 @@
       "sourceURL": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.376Z"
     },
     {
       "title": "株価 一時4100円超下落 取引時間中の下落幅 過去3番目の大きさ",
@@ -372,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260717/k10015178951000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260717/k10015178951000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.377Z"
     },
     {
       "title": "クロマグロの漁獲枠 “他国などと連携し協議再開を” 鈴木農相",
@@ -380,54 +404,15 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260717/k10015179071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260717/k10015179071000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
-    },
-    {
-      "title": "倒産／俳句専門出版社「文學の森」倒産、物流費などコスト上昇が収益圧迫",
-      "body": "<![CDATA[<p>帝国データバンクは7月17日、福岡市中央区の文學の森が事業停止、自己破産申請の準備に入ったと発表した。 同社は、2003年5月に設立された出版社。俳句を専門分野とし、自費出版による俳句集の刊行や月刊誌「月刊俳句界」の発行 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0717704.html\">倒産／俳句専門出版社「文學の森」倒産、物流費などコスト上昇が収益圧迫</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=329764",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=329764",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
-    },
-    {
-      "title": "国交省／トラック運送業の適正原価設定に向けた有識者検討会の初会合開く",
-      "body": "<![CDATA[<p>国土交通省は7月17日、トラック運送業の適正原価設定に向けた有識者検討会の初会合を開いた。 2025年6月に成立した「貨物自動車運送事業法の改正法」と「貨物自動車運送事業の適正化のための体制の整備等の推進に関する法律」か [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0717105.html\">国交省／トラック運送業の適正原価設定に向けた有識者検討会の初会合開く</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=329749",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=329749",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
-    },
-    {
-      "title": "システム障害のニチレイ 出庫などのシステムの稼働 一部再開",
-      "body": "サイバー攻撃によるシステム障害が発生していた冷凍食品大手の「ニチレイ」は、17日午前、倉庫の出庫などにつながるシステムの稼働が一部再開したことを明らかにしました。ただ、まだ全面的には復旧しておらず、すべての倉庫などでの業務が正常化する時期については未定だとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260717/k10015178981000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260717/k10015178981000.html",
-      "fetchedAt": "2026-07-23T14:22:44.173Z"
+      "fetchedAt": "2026-07-23T19:36:56.377Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "いよぎんHDと愛媛銀行が経営統合に向けて最終調整",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
-      "summary": "いよぎんホールディングスが傘下に持つ伊予銀行と、同じ愛媛県の愛媛銀行が経営統合に向けて最終段階の調整を進めています。両行は人口減少を背景とした競争激化に対応し、統合によって地域の金融サービスの強化を目指しているとされています。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
-      },
-      "commentary": "いよぎんHDと愛媛銀行の統合は、地域の変化に応じて金融の役割を見直す動きやな。透明な情報共有が信用を築き、無用な秘密を持たず正直に進めることが、長く信頼される基盤になる。難しい局面でも、隠さずに向き合う姿勢が次の一歩を開く鍵やで。"
-    },
-    {
-      "source": "NHK",
-      "title": "円相場 1ドル＝163円台後半まで値下がり 39年半ぶりの円安水準",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184591000.html",
-      "summary": "23日のニューヨーク外国為替市場で、円はドルに対して一時163円台後半まで下落し、1986年以来約39年半ぶりの円安水準となりました。これは中東情勢の悪化を背景に、イエメンのフーシ派によるサウジアラビアの石油タンカー攻撃が報じられ、原油価格が上昇したことが影響しています。また、米連邦準備制度理事会（FRB）がインフレ抑制のため利上げを行うとの見方が広がり、ドル買いが強まったとみられています。",
+      "title": "NY原油 一時1バレル93ドル台に 約1か月半ぶりの高値水準",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184701000.html",
+      "summary": "23日のニューヨーク原油市場で、WTIの先物価格が一時1バレル93ドル台に達しました。これは先月中旬以来、約1か月半ぶりの高値水準となっています。国際取引の指標となるWTI価格の動きが注目されています。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -436,52 +421,67 @@
         "leadingKana": "て",
         "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "為替の動きは世界の情勢や政策の複雑な絡み合いで決まるもんや。急激な円安には慌てず、背景を正確に問い直して理解を深めることが商売の信頼につながる。表面だけで判断せんと、じっくり「何がどうや？」と掘り下げる姿勢が大切やで。"
+      "commentary": "原油価格の動きは商売の根幹にも影響する。変動の背景をただ眺めるだけでなく、なぜ上がったのか深掘りする姿勢が肝心や。疑問を持って確かめることで、次の一手が見えてくる。適当に流さず、真剣に問いを立て続けることが信頼の礎になるんやで。"
+    },
+    {
+      "source": "NHK",
+      "title": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184691000.html",
+      "summary": "23日のニューヨーク外国為替市場で、中東情勢の悪化懸念を背景に円が売られ、ドルが買われる動きが強まりました。その結果、円相場は一時1ドル＝163円90銭台後半まで下落し、約39年8か月ぶりの円安水準に近づきました。",
+      "classification": {
+        "tone": "N",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
+      },
+      "commentary": "為替の変動はただの数字の動きや一時的な反応だけやあらへん。背後の情勢や市場心理を丁寧に掘り下げ、何が本質かを問い続ける姿勢が大事や。焦らず、表面的な動きに流されず、深く理解してから次の一手を考えたいもんやな。"
     },
     {
       "source": "LNEWS",
       "title": "三井不動産／「産業デベロッパー」として複合業務施設開発で物流の枠超えた価値提供へ",
       "sourceURL": "https://www.lnews.jp/?p=330103",
-      "summary": "三井不動産は2026年度のロジスティクス事業開発計画を発表し、改正物流効率化法に対応した高付加価値の物流拠点を開発すると説明しました。物流だけでなく、サプライチェーン全体の基盤強化を支援する複合業務施設の整備を進め、「産業デベロッパー」として新たな価値提供を目指す方針を示しています。",
+      "summary": "三井不動産は2026年度に向け、改正物流効率化法に対応した高付加価値の物流拠点開発を進めると発表した。従来の物流施設にとどまらず、複合業務施設の整備を通じてサプライチェーン全体の基盤強化を目指し、「産業デベロッパー」として新たな価値提供を図る計画である。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
       },
-      "commentary": "三井不動産が物流の枠を超えた複合業務施設を目指す動きは、透明性と連携の重要さを示してるわな。隠し事せず、情報を開いて信頼を積むことが、変わりゆく環境での持続的な価値創造につながる。焦らず地道に築く姿勢、見習いたいもんや。"
+      "commentary": "物流の枠にとらわれへん価値を提供する姿勢は、ただ儲けだけ追わんてことや。長い目で社会と信頼積み重ねるためには、目先の成果に一喜一憂せんと、地道にやるべきことを続ける覚悟が肝心やな。"
     },
     {
       "source": "LNEWS",
       "title": "国交省／経産省と連携し港湾手続きのデジタル標準化に向けた業界団体設立を支援",
       "sourceURL": "https://www.lnews.jp/?p=330163",
-      "summary": "国土交通省は経済産業省と連携し、港湾手続きのデジタル標準化を進めるための業界団体設立を支援しています。この取り組みは7月21日に閣議決定された日本成長戦略の「港湾ロジスティクス」施策の一環で、準備委員会の活動を通じて具体化が図られています。",
+      "summary": "国土交通省は、経済産業省と連携し、港湾手続きのデジタル標準化を推進するための業界団体設立を支援しています。この取り組みは、7月21日に閣議決定された日本成長戦略の「港湾ロジスティクス」施策の一環で、準備委員会の活動を通じて進められています。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
+        "leadingKana": "い",
+        "phrase": "いつだって  3％と 1/3"
       },
-      "commentary": "港湾手続きのデジタル標準化に向けた連携は、透明性を高める動きや。秘密を抱えず、情報を共有することで信頼が積み重なる。あせらず丁寧に、みんなが同じ土俵で動く環境づくりが、持続的な成長への礎になるやろな。"
+      "commentary": "港湾手続きのデジタル化は、日々の小さな無駄を見逃さず積み重ねる姿勢が肝心や。慌てずじっくり現場を見つめ、思い切った改善も視野に入れながら、持続的な信頼を築く道筋やな。焦らずとも確実に変化を形にせなあかん。"
     },
     {
       "source": "Guardian｜World",
-      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-      "sourceURL": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "summary": "イギリス軍は、ケニア政府が二国間防衛協定の承認を拒否したため、ケニアで予定していた9月の軍事訓練を中止しました。英国側は既存の協定の更新を望んでいましたが、ケニア議会は英国兵に対する現地の法的権限の強化を求めていました。これにより、訓練実施が困難となったとされています。",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "sourceURL": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "summary": "アンゴラの裁判所は、昨年の燃料価格に関するデモやクーデター計画に関与したとして、ロシア人男性二人にテロとスパイ活動の罪で有罪判決を下した。レフ・ラクシュタノフ氏とイゴール・ラチン氏はそれぞれ8年と11年の懲役刑を言い渡された。両者は文化・ビジネス目的で滞在していたと主張している。",
       "classification": {
-        "tone": "N",
-        "term": "S"
+        "tone": "B",
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "今回の件は、互いの立場や条件を曖昧にせずに、疑問や不安をはっきりさせる重要性を示してますわ。表面だけの合意じゃなく、違いを認め合い、具体的に「何が問題か」を明確に話し合うことで、信頼は積み重なるもんやと改めて感じますな。"
+      "commentary": "世の中の動きは見た目だけやと勘違いしがちや。苦労して手にした結果でも、ほんまに大切な目的に叶ってるか見極めんと、意味のない道に迷い込むことになるで。仕事も政（まつりごと）も、揺るがん信念を持って歩まなあかんのや。"
     }
   ]
 }
