@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-07-24T03:30:57.343Z",
+  "generatedAt": "2026-07-24T08:37:08.515Z",
   "run": {
-    "ranAt": "2026-07-24T03:30:57.343Z",
+    "ranAt": "2026-07-24T08:37:08.515Z",
     "runner": "github-actions",
-    "runId": "30064391693"
+    "runId": "30079528968"
   },
   "stock": [
     {
-      "title": "トランプ政権 新追加関税を発動へ 日本は既存税率あわせ12.5％",
-      "body": "アメリカのトランプ政権は、日本を含む主要な60の貿易相手の国や地域を対象に、日本時間の24日午後1時すぎ、新たな追加関税を発動します。日本からの輸入品には、既存の関税率とあわせて12.5％の関税を課すとしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
+      "title": "土用のうしの日を前にスーパーでうなぎ販売強化の動き",
+      "body": "ことしはうなぎの稚魚が豊漁で仕入れ価格が下がっていることから、土用のうしの日を前に、大手スーパーでは売り場を拡大したり、割安な商品の販売を強化したりしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015185241000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "id": "www3.nhk.or.jp/news/html/20260724/k10015185241000.html",
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
-      "title": "株価 一時2000円以上値下がり 円安進行の影響懸念などで",
-      "body": "24日の東京株式市場、日経平均株価は、一時、2000円以上、値下がりしています。イラン情勢の影響で、原油の先物価格が一時、およそ1か月半ぶりに1バレル＝93ドル台まで上昇したことや、円安の進行で企業業績に与える影響に懸念が広がり、取り引き開始直後から多くの銘柄で値下がりしています。",
+      "title": "株価 一時2200円超値下がり 原油価格上昇やAIへの過剰投資懸念",
+      "body": "24日の東京株式市場、イラン情勢を受けて原油価格が上昇したことに加え、AIに対する過剰投資の懸念が強まり、日経平均株価は、一時、2200円以上値下がりしました。",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260724/k10015184971000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
-      "title": "デイブレイクと宮崎太陽銀行／特殊冷凍技術で宮崎の食品事業者を支援",
-      "body": "<![CDATA[<p>特殊冷凍ソリューション事業を展開するデイブレイクは7月23日、宮崎太陽銀行とビジネスマッチング契約を締結した。両社はそれぞれの強みを活かして地域食品事業者への包括的な支援体制を構築し、販路拡大や冷凍技術を活用した物流ネッ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0724501.html\">デイブレイクと宮崎太陽銀行／特殊冷凍技術で宮崎の食品事業者を支援</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=330184",
+      "title": "ReYuu Japan／フィジカルAIロボットの物流現場POC実施方針を決定",
+      "body": "<![CDATA[<p>ReYuu Japanは7月24日、中国・深圳のPaXini Tech（帕西尼感知科技）が開発するフィジカルAIロボットを活用し、物流現場における概念実証（POC）を実施する方針を決定した。 POCでは、実際の物流現場に [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0724506.html\">ReYuu Japan／フィジカルAIロボットの物流現場POC実施方針を決定</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330325",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=330184",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "id": "www.lnews.jp/?p=330325",
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
-      "title": "三井不動産／「産業デベロッパー」として複合業務施設開発で物流の枠超えた価値提供へ",
-      "body": "<![CDATA[<p>三井不動産は7月23日、ロジスティクス事業の2026年度開発計画に関する記者説明会を開催した。 計画では、物流用途に限定されない複合業務施設「三井不動産インダストリアルパーク（MFIP）」の開発を通じて、入居企業の多様な [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0723101.html\">三井不動産／「産業デベロッパー」として複合業務施設開発で物流の枠超えた価値提供へ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=330103",
+      "title": "ヒガシHD 決算／4～6月の売上高17.3％増、営業利益21.1％増",
+      "body": "<![CDATA[<p>ヒガシホールディングス（HD）が7月24日に発表した2027年3月期第1四半期決算によると、売上高151億9900万円（前年同期比17.3％増）、営業利益9億8100万円（21.1％増）、経常利益10億8600万円（28 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0724605.html\">ヒガシHD 決算／4～6月の売上高17.3％増、営業利益21.1％増</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330322",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=330103",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "id": "www.lnews.jp/?p=330322",
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "Two Russian men jailed in Angola for terrorism and spying",
@@ -44,7 +44,31 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
+    },
+    {
+      "title": "トランプ政権 新追加関税を発動へ 日本は既存税率あわせ12.5％",
+      "body": "アメリカのトランプ政権は、日本を含む主要な60の貿易相手の国や地域を対象に、日本時間の24日午後1時すぎ、新たな追加関税を発動します。日本からの輸入品には、既存の関税率とあわせて12.5％の関税を課すとしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
+    },
+    {
+      "title": "デイブレイクと宮崎太陽銀行／特殊冷凍技術で宮崎の食品事業者を支援",
+      "body": "<![CDATA[<p>特殊冷凍ソリューション事業を展開するデイブレイクは7月23日、宮崎太陽銀行とビジネスマッチング契約を締結した。両社はそれぞれの強みを活かして地域食品事業者への包括的な支援体制を構築し、販路拡大や冷凍技術を活用した物流ネッ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0724501.html\">デイブレイクと宮崎太陽銀行／特殊冷凍技術で宮崎の食品事業者を支援</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330184",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=330184",
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
+    },
+    {
+      "title": "三井不動産／「産業デベロッパー」として複合業務施設開発で物流の枠超えた価値提供へ",
+      "body": "<![CDATA[<p>三井不動産は7月23日、ロジスティクス事業の2026年度開発計画に関する記者説明会を開催した。 計画では、物流用途に限定されない複合業務施設「三井不動産インダストリアルパーク（MFIP）」の開発を通じて、入居企業の多様な [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0723101.html\">三井不動産／「産業デベロッパー」として複合業務施設開発で物流の枠超えた価値提供へ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330103",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=330103",
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "NY原油 一時1バレル93ドル台に 約1か月半ぶりの高値水準",
@@ -52,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260724/k10015184701000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
@@ -60,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184691000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260724/k10015184691000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "国交省／経産省と連携し港湾手続きのデジタル標準化に向けた業界団体設立を支援",
@@ -68,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330163",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330163",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "いよぎんHDと愛媛銀行が経営統合に向けて最終調整",
@@ -76,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "円相場 1ドル＝163円台後半まで値下がり 39年半ぶりの円安水準",
@@ -84,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184591000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015184591000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
@@ -92,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "関税措置めぐる日米合意から1年 輸出企業は対応迫られる",
@@ -100,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015183911000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015183911000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "経団連の夏のフォーラム “大手企業が国内の設備投資主導を”",
@@ -108,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015184071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015184071000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "Health worker monitored for Ebola in London hospital after working in DRC",
@@ -116,7 +140,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "円相場 1ドル＝163円台前半中心 有事のドル買い続く",
@@ -124,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015183751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015183751000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "株価 午前は値上がり AI・半導体関連に買い注文",
@@ -132,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260723/k10015183761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260723/k10015183761000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "飯野海運／MSCI日本株ESGセレクト･リーダーズ指数に3年連続選定",
@@ -140,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330082",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330082",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "モノタロウ／茨城の物流拠点に太陽光発電設備を導入、再エネ化を推進",
@@ -148,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330076",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330076",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "輸入牛肉と豚肉の小売価格が過去最高 農林水産省の7月調査",
@@ -156,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182891000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "円相場 1ドル＝163円台の取引が中心に 有事のドル買い続く",
@@ -164,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182331000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "ジェイアール東日本物流／千葉県市川市に3.3万m2の4温度帯倉庫開設、10月から順次稼働",
@@ -172,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330034",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330034",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "ダイワコーポレーション／神奈川県川崎市で3.4万m2の冷凍冷蔵施設を竣工、食品物流の拠点に",
@@ -180,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329962",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329962",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "ニチレイ 個人情報漏えいした可能性のある対象者に通知行う",
@@ -188,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182451000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182451000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "株価 小幅な値動き 午後に利益確定の売り注文広がる",
@@ -196,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182421000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182421000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "全ト協／2026年度Gマーク申請受理件数は8215事業所、更新申請が大幅に増加",
@@ -204,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329932",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329932",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "日本郵船／国際サミットで海洋生態系保全など自然再興の取り組み発信",
@@ -212,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329920",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329920",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶりの円安水準",
@@ -220,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260722/k10015182211000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260722/k10015182211000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "高市政権初の骨太方針 NW9広内キャスターが与野党幹部に聞く",
@@ -228,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181941000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181941000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "安田倉庫／インドネシアで新倉庫建設に着手、東南アジア物流を強化",
@@ -236,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329812",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329812",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "大東建託／大阪ガス都市開発と兵庫・西宮に冷凍冷蔵物流施設を開発へ",
@@ -244,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329782",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "Healthy diet too expensive for one in three people globally, UN report finds",
@@ -252,7 +276,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "政府とアジア開発銀行 水道インフラ支援で基金を創設",
@@ -260,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015182011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015182011000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "首都圏新築マンション平均価格 上半期初めて1億円超に",
@@ -268,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181881000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
@@ -276,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181561000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "São Tomé and Príncipe heads to polls in tense presidential election",
@@ -284,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "株価 午前は値上がり 半導体関連銘柄中心に買い戻す動き進む",
@@ -292,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181591000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181591000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "金子国交相 今週24日にJR東海社長と面会へ リニア中央新幹線",
@@ -300,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260721/k10015181611000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260721/k10015181611000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "川崎汽船／ESG投資指数「FTSE4Good」など3指数の構成銘柄に継続選定",
@@ -308,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329818",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329818",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "三菱食品／高速ピッキングシステムを埼玉県草加市のDCに導入、冷凍エリアには自動倉庫も",
@@ -316,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329800",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329800",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "NY原油市場 1バレル＝85ドル台に上昇 1か月ぶりの高値水準",
@@ -324,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260720/k10015181071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260720/k10015181071000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "リニア中央新幹線 静岡県内着工へ 静岡県とJR東海協定締結",
@@ -332,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260718/k10015180281000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260718/k10015180281000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "佐川急便／東京都江東区に8.7万m2「関東ハブセンター」を本格稼働へ、輸送網を強化",
@@ -340,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329752",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329752",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "大和ハウス工業／岩手県紫波町に1.7万m2のマルチテナント型物流施設着工へ",
@@ -348,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=329695",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=329695",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
@@ -356,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260718/k10015180171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260718/k10015180171000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
@@ -364,7 +388,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "EU 「排出量取引制度」排出規制の緩和などを提案 産業界に配慮",
@@ -372,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260718/k10015180071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260718/k10015180071000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     },
     {
       "title": "ナスダック株価指数 一時2％超の下落 中国AIへの警戒感で売り",
@@ -380,99 +404,75 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260718/k10015180051000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260718/k10015180051000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
-    },
-    {
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "body": "&lt;p&gt;Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya &lt;/p&gt;&lt;p&gt;Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.&lt;/p&gt;&lt;p&gt;The aid workers are the first known people to quarantine at the facility, which has sparked huge opposition in Kenya and is at the heart of a legal case in which a court has ordered the work to be ⁠suspended. Construction continued, however, according to US officials and satellite imagery reviewed by Reuters.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
-    },
-    {
-      "title": "キオクシア 米で約371億円の賠償の評決 控訴含め争う方針",
-      "body": "半導体・フラッシュメモリの世界大手、キオクシアホールディングスは、製品の一部が特許権を侵害しているとして5年前にアメリカで申し立てられた訴訟について、裁判所の陪審から日本円でおよそ371億円の賠償を命じる評決が下されたと発表しました。キオクシア側は到底容認できないとして控訴することを含めて争う方針です。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260717/k10015179581000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260717/k10015179581000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
-    },
-    {
-      "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
-      "body": "国産AIの開発を目指す新会社「ノエトラ」が、アメリカの半導体大手「エヌビディア」から、最新の半導体を搭載した次世代のシステムを導入すると発表しました。自律的にロボットなどを動かす「フィジカルAI」の基盤となる技術開発を加速させるねらいがあります。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
-      "fetchedAt": "2026-07-24T03:30:36.174Z"
+      "fetchedAt": "2026-07-24T08:36:46.568Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "トランプ政権 新追加関税を発動へ 日本は既存税率あわせ12.5％",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
-      "summary": "アメリカのトランプ政権は、主要60の貿易相手国・地域に対し、新たな追加関税を日本時間24日午後1時すぎに実施します。日本からの輸入品には、既存の関税に上乗せして合計12.5％の関税が適用される見込みです。",
+      "title": "土用のうしの日を前にスーパーでうなぎ販売強化の動き",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015185241000.html",
+      "summary": "今年はうなぎの稚魚が豊漁となり、仕入れ価格が下がったことを受け、大手スーパーが土用のうしの日に向けてうなぎの販売を強化しています。具体的には売り場の拡大や価格を抑えた商品の提供を進めている状況です。",
       "classification": {
-        "tone": "B",
-        "term": "M"
+        "tone": "G",
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "き",
-        "phrase": "気が乗らぬ時は ちょっと待つ"
+        "leadingKana": "と",
+        "phrase": "遠い道 一歩進めば 一歩近づく"
       },
-      "commentary": "アメリカの追加関税はビジネス環境を一変させるかもしれん。そんな時は焦らず、一旦立ち止まって全体の流れと自分の立ち位置を見直すことや。短期の損得に振り回されず、信頼を積み上げる道筋を探るのが、あきんどの務めやと思うで。"
+      "commentary": "うなぎの仕入れ価格が下がって売り場拡大に動くスーパーの姿勢は、結果だけでなく日々の積み重ねを大切にしてる証や。商売は焦らず一歩ずつ進むことで、信頼と価値が育つもんやと改めて感じるわ。"
     },
     {
       "source": "NHK",
-      "title": "株価 一時2000円以上値下がり 円安進行の影響懸念などで",
+      "title": "株価 一時2200円超値下がり 原油価格上昇やAIへの過剰投資懸念",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015184971000.html",
-      "summary": "24日の東京株式市場で、日経平均株価は一時2000円以上下落しました。これは、イラン情勢を背景に原油先物価格が約1か月半ぶりに1バレル93ドル台に上昇したことや、円安の進行により企業業績への影響が懸念されたためです。取引開始直後から多くの銘柄が値を下げました。",
+      "summary": "24日の東京株式市場では、イラン情勢の影響で原油価格が上昇したことや、人工知能（AI）分野への過剰投資に対する懸念が強まったことから、日経平均株価が一時2200円超下落しました。",
       "classification": {
         "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "め",
-        "phrase": "目を見て 話せん奴を 信用すな"
+        "leadingKana": "も",
+        "phrase": "もうアカン 思たトコから もう一歩"
       },
-      "commentary": "株価の急落は市場の不安を映すけど、情報の真意をしっかり見極めることが肝心や。焦って動くんやなく、顔を上げて正面から市場の声を受け止め、信用できる情報を元に一歩ずつ進むことが信頼の積み重ねになるんやで。"
+      "commentary": "市場の動揺に心折れそうになるんは当然やけど、そこで止まったら成長も信頼も生まれへん。原油高や過剰投資の不安は現実やけど、一歩踏み出して現状を見極めることが次の糧になる。商売は短期の勝負やない、そんな姿勢が次に繋がるで。"
     },
     {
       "source": "LNEWS",
-      "title": "デイブレイクと宮崎太陽銀行／特殊冷凍技術で宮崎の食品事業者を支援",
-      "sourceURL": "https://www.lnews.jp/?p=330184",
-      "summary": "特殊冷凍技術を提供するデイブレイクは、宮崎太陽銀行と7月23日にビジネスマッチング契約を結んだ。両社は連携し、宮崎県内の食品事業者に対して、販路拡大や冷凍技術を活用した物流支援など、包括的なサポート体制を整備することを目指している。",
+      "title": "ReYuu Japan／フィジカルAIロボットの物流現場POC実施方針を決定",
+      "sourceURL": "https://www.lnews.jp/?p=330325",
+      "summary": "ReYuu Japanは、中国深圳のPaXini Techが開発したフィジカルAIロボットを用いて、物流現場での概念実証（POC）を行う計画を7月24日に決定した。今回のPOCは実際の物流環境でロボットの性能や適用可能性を検証することを目的としている。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "の",
-        "phrase": "ノコの歯は 引いて切って 押して切る"
+        "leadingKana": "さ",
+        "phrase": "さぁ行こか ココまで落ちたら 上がるだけ"
       },
-      "commentary": "特殊冷凍技術と地元金融の連携は、一回の取引で販路拡大と物流効率を同時に狙う動きや。単なる技術提供だけやなく、地域の食品事業者が抱える課題を多角的に捉え、重ねて支える姿勢に学ぶべきやろな。動きの中で複数の成果を追うこと、これが信頼の積み重ねへ繋がるんや。"
+      "commentary": "物流現場にAIロボットを導入する取り組みは、一歩踏み出す勇気と、試行錯誤の連続がつきもんや。うまくいかん時もあるけど、そこで立ち止まらず、地道な積み重ねが信頼の基盤となるんや。焦らず景気の波を見守りながら、次の段階へ進む覚悟を持つことが大事やで。"
     },
     {
       "source": "LNEWS",
-      "title": "三井不動産／「産業デベロッパー」として複合業務施設開発で物流の枠超えた価値提供へ",
-      "sourceURL": "https://www.lnews.jp/?p=330103",
-      "summary": "三井不動産は2026年度の開発計画として、物流施設に限定されない複合業務施設「三井不動産インダストリアルパーク（MFIP）」の建設を発表した。これにより、入居企業に対し物流以外の多様なサービス提供を目指し、産業デベロッパーとしての役割を拡大する方針を示した。",
+      "title": "ヒガシHD 決算／4～6月の売上高17.3％増、営業利益21.1％増",
+      "sourceURL": "https://www.lnews.jp/?p=330322",
+      "summary": "ヒガシホールディングスは2027年3月期第1四半期（4～6月）の決算を発表し、売上高が前年同期比17.3％増の約152億円となった。また、営業利益は21.1％増の約9.8億円、経常利益も増加した。これにより、同社の業績が前期比で改善したことが示された。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "ゆ",
+        "phrase": "ゆっくりと 行くのは一体 何の為？"
       },
-      "commentary": "三井不動産が物流の枠を超えた複合業務施設を開発する動きは、単なる短期の利益追求に留まらん、長期の信頼構築を視野に入れた挑戦や。変わりゆく時代の中で、今だけやなく未来も見据え、地道に価値を積み上げていく姿勢が肝心やな。"
+      "commentary": "売上や利益の伸びはええ結果やけど、そこで満足して立ち止まるんはあかんで。日々の迅速な判断と行動が信頼を築く。急がず慎重にやけど、無意味な遅れは機会損失になる。進むべき道を見極め、速さと確実さのバランスを保つことが肝心や。"
     },
     {
       "source": "Guardian｜World",
       "title": "Two Russian men jailed in Angola for terrorism and spying",
       "sourceURL": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "summary": "アンゴラの裁判所は、ロシア人男性2名をテロ活動とスパイ行為の罪で有罪とし、昨年のクーデター計画や燃料価格に関する抗議活動の組織に関与したと認定した。レフ・ラクシュタノフ氏とイーゴリ・ラチン氏はそれぞれ8年と11年の懲役を言い渡されたが、両者は文化交流やビジネス目的で滞在していたと主張している。",
+      "summary": "アンゴラの裁判所は、ロシア人男性2名をテロとスパイ活動の罪で有罪とし、昨年の燃料価格に関する抗議活動やクーデター計画への関与が指摘された。レフ・ラクシュタノフ氏は懲役8年、イゴール・ラチン氏は懲役11年の判決を受けた。両者は文化・ビジネス活動のため滞在していたと主張し、罪状を否認している。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -481,7 +481,7 @@
         "leadingKana": "ほ",
         "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "国外での出来事は情報の真偽や背景が見えにくいもんや。表面だけで判断せず、じっくり検証することが信頼を積む商売の第一歩や。慌てず立ち止まり、何が本当かを見極める姿勢が大事やで。"
+      "commentary": "情報が限られた中で即断せず、真偽や背景をじっくり見極める姿勢が大事や。表面の言葉だけで動くんやなしに、疑問があったら躊躇せず立ち止まり、納得できるまで深掘りせんと信頼は築かれへん。その積み重ねが、長い目で見た商いの土台になるんやで。"
     }
   ]
 }
