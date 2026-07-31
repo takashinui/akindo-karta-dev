@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-07-30T19:43:54.902Z",
+  "generatedAt": "2026-07-31T03:39:42.252Z",
   "run": {
-    "ranAt": "2026-07-30T19:43:54.902Z",
+    "ranAt": "2026-07-31T03:39:42.252Z",
     "runner": "github-actions",
-    "runId": "30576032747"
+    "runId": "30602109787"
   },
   "stock": [
     {
-      "title": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
-      "body": "30日のニューヨーク外国為替市場では、ドルを売って円を買う動きが急激に進み、円相場が一時、1ドル＝157円台後半まで値上がりしました。およそ5円、円高ドル安が急速に進行した形で、金融市場では政府・日銀が市場介入に踏み切ったのではないかとの観測も出ています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
+      "title": "株価 大きく値上がり 半導体関連の銘柄中心に買い注文",
+      "body": "7月31日の東京株式市場、取引開始直後から半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は大きく値上がりしています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191661000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "id": "www3.nhk.or.jp/news/html/20260731/k10015191661000.html",
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
-      "title": "【熊本地震 企業影響 30日】半導体関連 稼働再開の動きも",
-      "body": "今回の地震の影響で、熊本県など九州にある大手メーカーの工場では操業に影響が出ています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190621000.html",
+      "title": "日銀 政策金利を1％程度に据え置き決定",
+      "body": "日銀は、31日まで開いた金融政策決定会合で、今の政策を維持し政策金利を1％程度に据え置くことを賛成多数で決めました。先月の会合で利上げに踏み切ったばかりで、家計や企業への影響などを見極める必要があると判断したとみられます。一方、日銀は、段階的に利上げを進めていく姿勢を示していて、植田総裁が、このあとの会見で、いまの円安の状況などを踏まえ今後の金融政策についてどのような見解を示すかが焦点となります。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191761000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260730/k10015190621000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "id": "www3.nhk.or.jp/news/html/20260731/k10015191761000.html",
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
-      "title": "【PR】i-PRO／AIカメラで物流の2024年問題に挑む、現場発想で磨いた物流DX",
-      "body": "<![CDATA[<p>物流業界では2024年問題を背景に人手不足が深刻化し、現場の省人化と業務効率化に向けてAIを活用した自動管理システムの導入が広がり始めている。2026年4月の改正物流効率化法の施行により、荷主の時間管理や上層部への現場デ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0730702.html\">i-PRO／AIカメラで物流の2024年問題に挑む、現場発想で磨いた物流DX</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=330448",
+      "title": "成田国際空港／6月の国際航空貨物量は5％増、27か月連続で前年同月比増加",
+      "body": "<![CDATA[<p>成田国際空港は7月30日、2026年6月の成田空港運用状況を発表した。 2026年6月の国際線貨物便発着回数は2686回（前年同月比4％増）となった。 国際航空貨物量は18万687トン（前年同月比5％増）となり、27か月 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0731701.html\">成田国際空港／6月の国際航空貨物量は5％増、27か月連続で前年同月比増加</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330988",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=330448",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "id": "www.lnews.jp/?p=330988",
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
-      "title": "澁澤倉庫／TC神鋼不動産と共同で兵庫県神戸市での1万m2冷凍冷蔵倉庫の開発検討開始",
-      "body": "<![CDATA[<p>澁澤倉庫は7月30日、TC神鋼不動産と共同で兵庫県神戸市での1万m2規模を想定した冷凍冷蔵倉庫開発プロジェクトの検討を開始すると発表した。 プロジェクトは、澁澤倉庫が神戸市東灘区深江浜町に保有する土地を活用して価値の最大 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0730104.html\">澁澤倉庫／TC神鋼不動産と共同で兵庫県神戸市での1万m2冷凍冷蔵倉庫の開発検討開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=330862",
+      "title": "【PR】LNEWS／「“物流二極化”時代で生き残る 」テーマに8月27日セミナー開催",
+      "body": "<![CDATA[<p>LNEWSは8月27日、オンラインセミナー「物流二極化”時代で生き残る─デジタル生存競争の完全攻略バイブル」を開催する。 目まぐるしく環境が変化する昨今、物流の世界では、変化を捉えて進化を続ける企業と、従来のやり方から抜 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s260731801.html\">LNEWS／「“物流二極化”時代で生き残る 」テーマに8月27日セミナー開催</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330523",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=330862",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "id": "www.lnews.jp/?p=330523",
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "US government map of Africa mislabels every country at global conference",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
+    },
+    {
+      "title": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
+      "body": "30日のニューヨーク外国為替市場では、ドルを売って円を買う動きが急激に進み、円相場が一時、1ドル＝157円台後半まで値上がりしました。およそ5円、円高ドル安が急速に進行した形で、金融市場では政府・日銀が市場介入に踏み切ったのではないかとの観測も出ています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
+    },
+    {
+      "title": "【熊本地震 企業影響 30日】半導体関連 稼働再開の動きも",
+      "body": "今回の地震の影響で、熊本県など九州にある大手メーカーの工場では操業に影響が出ています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190621000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260730/k10015190621000.html",
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
+    },
+    {
+      "title": "【PR】i-PRO／AIカメラで物流の2024年問題に挑む、現場発想で磨いた物流DX",
+      "body": "<![CDATA[<p>物流業界では2024年問題を背景に人手不足が深刻化し、現場の省人化と業務効率化に向けてAIを活用した自動管理システムの導入が広がり始めている。2026年4月の改正物流効率化法の施行により、荷主の時間管理や上層部への現場デ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0730702.html\">i-PRO／AIカメラで物流の2024年問題に挑む、現場発想で磨いた物流DX</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330448",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=330448",
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
+    },
+    {
+      "title": "澁澤倉庫／TC神鋼不動産と共同で兵庫県神戸市での1万m2冷凍冷蔵倉庫の開発検討開始",
+      "body": "<![CDATA[<p>澁澤倉庫は7月30日、TC神鋼不動産と共同で兵庫県神戸市での1万m2規模を想定した冷凍冷蔵倉庫開発プロジェクトの検討を開始すると発表した。 プロジェクトは、澁澤倉庫が神戸市東灘区深江浜町に保有する土地を活用して価値の最大 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0730104.html\">澁澤倉庫／TC神鋼不動産と共同で兵庫県神戸市での1万m2冷凍冷蔵倉庫の開発検討開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330862",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=330862",
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "株価 値上がり 半導体関連の一部銘柄に買い注文",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190651000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015190651000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "食料品消費税 来年4月から1％方針 日本経済・消費者への影響は",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190741000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015190741000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
@@ -68,7 +100,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "今年度の経済成長率 ＋0.9％程度に下方修正 中東情勢の影響",
@@ -76,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190501000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015190501000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "米IT決算 マイクロソフト増益もメタ減益 AIで明暗分かれる",
@@ -84,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190491000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015190491000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "アース製薬、鈴与、T2／茨城県～兵庫県間で自動運転トラック連携の中継輸送実証",
@@ -92,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330844",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330844",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "福岡運輸／創立70周年記念で国産第一号冷凍車塗装デザインを再現したトラック製作",
@@ -100,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330838",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330838",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
@@ -108,7 +140,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "FRB政策金利 5会合連続で据え置き 物価動向慎重に見極めか",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015190151000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "政府 ナミビアでのレアアース鉱山開発会社に最大50億円出資へ",
@@ -124,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190131000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015190131000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "令和8年熊本地震／宅配各社では荷物預かり停止や配達遅れなどが発生",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330697",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330697",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "いつも／千葉・兵庫にTikTok Shop特化型物流センター稼働、計35万件出荷体制を構築",
@@ -140,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330724",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330724",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "九州にある大手メーカーの工場 操業に影響",
@@ -148,7 +180,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260729/k10015189681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260729/k10015189681000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "全日空 国内一部路線の運航 アイベックスエアラインズに委託へ",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260729/k10015190101000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260729/k10015190101000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "【ライブ配信中】イオン社長会見 「3人死亡 1人心肺停止」",
@@ -164,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260729/k10015189531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260729/k10015189531000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "株価 値下がり 半導体関連銘柄への売り注文強まる",
@@ -172,7 +204,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260729/k10015189601000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260729/k10015189601000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "トヨタ 福岡の3工場で稼働停止 ホンダも熊本の工場で稼働停止",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260728/k10015188891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260728/k10015188891000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "【PR】オプティマインド／「物流関連二法、取適法解説セミナー」8月4・5・6日で再放送",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330730",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330730",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "円相場 小幅な値動き 日米の金融政策見極めか",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260728/k10015188981000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260728/k10015188981000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.701Z"
     },
     {
       "title": "日本郵便／2025年度の郵便事業収支を公開、322億円の赤字でやや軽減",
@@ -204,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330661",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330661",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "ビーイングHD／食品輸送2社を子会社化、「運ばない物流」戦略を加速",
@@ -212,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330673",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330673",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "Uganda begins emergency food handouts after 19 die from hunger",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "携帯各社 “熊本県の一部 通信サービス利用しづらい状況”",
@@ -228,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260728/k10015188561000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260728/k10015188561000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "農水省 備蓄米買い戻し 新米の作柄など見極め判断へ",
@@ -236,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260728/k10015187861000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260728/k10015187861000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "【きょうのおはBiz 7月28日(火)】猛暑から働く人をどう守る",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260728/k10015187781000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260728/k10015187781000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "【PR】野村不動産／「九州プロジェクト説明会・物流情報交換会」8月5日開催",
@@ -252,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330499",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330499",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "日本トランスシティ／自動フォークリフト導入で垂直搬送を自動化",
@@ -260,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330496",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330496",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "東京23区 単身向けマンションの平均家賃11.4万円余 上昇続く",
@@ -268,7 +300,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260727/k10015187221000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260727/k10015187221000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "円相場 いくぶん値上がり 原油の先物価格下落に伴い",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260727/k10015187331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260727/k10015187331000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "ラサール不動産投資顧問／福岡市で約10万m2のマルチテナント型物流施設を8月に着工",
@@ -284,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330424",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330424",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "花王／経営と一体で進める物流改革が評価、CLOオブザイヤー大賞",
@@ -292,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330379",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330379",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "株価 値上がり 幅広い銘柄で買い注文",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260727/k10015187171000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260727/k10015187171000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "【きょうのおはBiz 7月27日(月)】暑い前橋でいま熱い！バナナ",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260727/k10015187111000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260727/k10015187111000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "王子物流／T2の自動運転トラックによる関東－関西間の商用輸送を開始",
@@ -316,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330343",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330343",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "三井倉庫HDほか／生成AI活用の出荷検品アプリを開発、誤出荷防止と省人化を推進",
@@ -324,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330337",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330337",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "Two Russian men jailed in Angola for terrorism and spying",
@@ -332,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "トランプ大統領 グーグルに制裁金科したEUに関税課すと主張",
@@ -340,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260726/k10015186361000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260726/k10015186361000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "ジャングリア沖縄 開業1年 運営会社“思うような数字 至らず”",
@@ -348,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260725/k10015186161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260725/k10015186161000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "JAL／猛暑対策でペルチェ付き冷却ベストや速乾ポロシャツ導入、過酷な労働環境改善へ",
@@ -356,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330190",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330190",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "DMP／東京流通センターにAI活用の物流ロボットのショールーム開設",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330259",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330259",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     },
     {
       "title": "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
@@ -372,107 +404,75 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260725/k10015186141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260725/k10015186141000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
-    },
-    {
-      "title": "「全東信」経営破綻 経産省と金融庁が調査を開始",
-      "body": "クレジットカードの決済代行サービスを行う「全東信」が経営破綻し、利用していた飲食店を中心に影響が広がっていることを受けて、経済産業省と金融庁は、決済代行サービスの実態や、この会社に融資していた金融機関の審査体制などに関する調査に乗り出しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260725/k10015185721000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260725/k10015185721000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
-    },
-    {
-      "title": "コメの民間在庫量 243万トン 6月末時点で過去最大に",
-      "body": "6月末時点の民間のコメの在庫量は243万トンと、過去最大となったことが農林水産省の調査で分かりました。適正な水準とされる量を大幅に上回る状況で、新米の価格に与える影響が焦点です。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260725/k10015185671000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260725/k10015185671000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
-    },
-    {
-      "title": "情報セキュリティー会社 企業から相談相次ぐ ニチレイ障害受け",
-      "body": "冷凍食品大手「ニチレイ」でサイバー攻撃によるシステム障害が発生したことを受けて、都内にある情報セキュリティー会社には、企業からの相談が相次いでいます。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260725/k10015185661000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260725/k10015185661000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
-    },
-    {
-      "title": "経団連 夏のフォーラム 「投資けん引型経済」実現へ総括文書",
-      "body": "経団連の夏のフォーラムが閉会し、活発な国内投資を経済成長につなげる「投資けん引型経済」の実現に向けて、フィジカルAIなど国際競争力の高い分野を見極め、研究開発や普及を加速させるなどとする総括文書をとりまとめました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260724/k10015185761000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260724/k10015185761000.html",
-      "fetchedAt": "2026-07-30T19:43:29.010Z"
+      "fetchedAt": "2026-07-31T03:39:23.702Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
-      "summary": "30日のニューヨーク外国為替市場で、ドル売り・円買いの動きが急速に進み、円相場が一時1ドル＝157円台後半まで上昇しました。約5円の円高ドル安が短時間で進行したことから、市場では政府や日本銀行が為替介入を行った可能性が指摘されています。",
+      "title": "株価 大きく値上がり 半導体関連の銘柄中心に買い注文",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191661000.html",
+      "summary": "7月31日の東京株式市場では、取引開始直後から半導体関連銘柄に買い注文が集中し、日経平均株価が大幅に上昇しました。市場全体で買いの動きが広がっている状況です。",
       "classification": {
-        "tone": "N",
+        "tone": "G",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "ん",
-        "phrase": "ん？ってな  疑問に思うが  金の時"
+        "leadingKana": "と",
+        "phrase": "遠い道 一歩進めば 一歩近づく"
       },
-      "commentary": "為替の急変は、ただの数字の動きや短期的な反応だけやない。違和感を感じた時こそ、何が根底にあるのか冷静に見極めることが大事や。慌てずに状況を受け止め、信頼を積み重ねる行動を続けることが、長い目での商売の力になるんやで。"
+      "commentary": "今日は半導体関連が注目されて株価が大きく動いたわけやけど、一日や一回の動きに踊らされるんは危ないで。長い目で見て、小さな積み重ねが信頼と成果につながるんや。焦らず着実に歩みを止めへんことが大事やな。"
     },
     {
       "source": "NHK",
-      "title": "【熊本地震 企業影響 30日】半導体関連 稼働再開の動きも",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190621000.html",
-      "summary": "熊本県を中心とした九州地域で発生した地震により、大手半導体関連企業の工場で一時的に操業が停止しました。しかし、現在は稼働再開に向けた動きが進んでいます。企業は復旧作業を進めつつ、生産体制の回復を目指しています。",
+      "title": "日銀 政策金利を1％程度に据え置き決定",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191761000.html",
+      "summary": "日本銀行は31日の金融政策決定会合で、政策金利を現在の約1％で据え置くことを多数決で決定しました。先月の利上げ後、家計や企業への影響を慎重に見極める必要があると判断したとみられます。一方で、利上げを段階的に続ける方針も示しており、植田総裁の今後の発言が注目されています。",
       "classification": {
         "tone": "N",
-        "term": "S"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "け",
+        "phrase": "計画より  仕上げが大事"
       },
-      "commentary": "地震の影響で工場が止まる中、再開の兆しは頼もしいけど、ただ流れを追うだけやなく、現場の声や課題をちゃんと聞くことが肝心や。何が足りへんのか、何が必要かを見極めて動かな信頼は積み重ならん。焦らず確かめる姿勢こそ、長く続く商売の土台やで。"
+      "commentary": "日銀の金利据え置きは、先の利上げの影響を丁寧に見極める姿勢の表れや。計画だけでなく、その後の着実な対応が信頼を築く。焦らず慎重に動きながら、結果を積み上げていくことが大事やで。"
     },
     {
       "source": "LNEWS",
-      "title": "【PR】i-PRO／AIカメラで物流の2024年問題に挑む、現場発想で磨いた物流DX",
-      "sourceURL": "https://www.lnews.jp/?p=330448",
-      "summary": "物流業界では人手不足が深刻化する中、2024年問題への対応としてAIを活用した自動管理システムの導入が進んでいる。i-PROは現場の視点を重視し、AIカメラを用いた物流のデジタルトランスフォーメーション（DX）を推進している。2026年4月施行の改正物流効率化法により、荷主の時間管理や現場状況の可視化が求められるため、こうした技術導入が注目されている。",
+      "title": "成田国際空港／6月の国際航空貨物量は5％増、27か月連続で前年同月比増加",
+      "sourceURL": "https://www.lnews.jp/?p=330988",
+      "summary": "成田国際空港は2026年6月の国際線貨物便の発着回数が前年同月比で4％増の2686回となり、国際航空貨物量も5％増の約18万トンに達したと発表しました。これにより、国際航空貨物量の前年同月比増加は27か月連続となりました。",
       "classification": {
         "tone": "G",
-        "term": "L"
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "い",
-        "phrase": "いつだって  3％と 1/3"
+        "leadingKana": "ゆ",
+        "phrase": "ゆっくりと 行くのは一体 何の為？"
       },
-      "commentary": "物流の現場でAI導入が進むんは、まさに日々の3％の無駄に目を光らせる姿勢や。慌てずじっくり現場を見て、大きな効率化を狙うのも肝心やな。焦らず信頼を積み重ね、次の改善を探り続けることが商いの道やで。"
+      "commentary": "成田空港の貨物増は連続記録やけど、慌てず着実に進む姿勢が肝心や。数字に浮かれず、次の一手を見据えた迅速な対応が信頼を築く。動きは速くても、意味あるスピードを見失わんことや。"
     },
     {
       "source": "LNEWS",
-      "title": "澁澤倉庫／TC神鋼不動産と共同で兵庫県神戸市での1万m2冷凍冷蔵倉庫の開発検討開始",
-      "sourceURL": "https://www.lnews.jp/?p=330862",
-      "summary": "澁澤倉庫はTC神鋼不動産と共同で、兵庫県神戸市東灘区深江浜町の自社所有地を活用し、約1万平方メートルの冷凍冷蔵倉庫の開発検討を始めると発表した。このプロジェクトは両社の協力によるもので、具体的な計画の詳細は今後詰められる見込みである。",
+      "title": "【PR】LNEWS／「“物流二極化”時代で生き残る 」テーマに8月27日セミナー開催",
+      "sourceURL": "https://www.lnews.jp/?p=330523",
+      "summary": "LNEWSは8月27日にオンラインセミナーを開催し、「物流二極化」時代における企業の生存戦略をテーマに扱う。急速に変化する物流業界で、デジタル技術を活用し進化する企業と、従来の方法にとどまる企業の二極化が進む中、後者が直面する課題や対応策について議論が行われる予定である。",
       "classification": {
-        "tone": "N",
-        "term": "L"
+        "tone": "G",
+        "term": "M"
       },
       "karta": {
-        "leadingKana": "り",
-        "phrase": "理解には  聞読話書と  四段階"
+        "leadingKana": "お",
+        "phrase": "おおきにと 言われてなんぼ 言うてなんぼ"
       },
-      "commentary": "新たな倉庫開発は単なる土地活用だけやない。相手の立場や情報の受け取り方を見極め、共に価値を築く姿勢が大事や。聞く・読むだけでなく、話し合い、書き残す—理解の四段階を意識して、信頼の積み重ねに繋げていこな。"
+      "commentary": "変わりゆく物流業界で立ち止まらず、日々の努力を続けることが大事や。お客さんから「ありがと」と言われる商いを積み重ねることで、信頼が生まれ、厳しい時代も乗り越えられるんやろな。変化を恐れず、地道に進む姿勢が未来を切り拓く鍵やで。"
     },
     {
       "source": "Guardian｜World",
       "title": "US government map of Africa mislabels every country at global conference",
       "sourceURL": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "summary": "米国務省がブラジルで開催された国際会議で使用したアフリカ地図が、すべての国名を誤って表示していたことが明らかになった。この地図はエイズ2026会議のプレゼンテーション中に提示され、参加者がスクリーンショットを撮ってSNSに投稿し話題となった。米国務省はこの誤りについて全面的に責任を認めている。",
+      "summary": "米国務省がブラジルで開かれた国際会議で使用したアフリカ大陸の地図が、すべての国名を誤って表示していたことが判明した。この地図はエイズ2026会議のプレゼンテーション中に映され、出席者がスクリーンショットを撮影しSNSで拡散した。国務省はこの誤りについて全面的に責任を認めている。",
       "classification": {
         "tone": "B",
         "term": "S"
@@ -481,7 +481,7 @@
         "leadingKana": "ふ",
         "phrase": "不実やと 思うのならば やめなはれ"
       },
-      "commentary": "今回の件は、情報の正確さが信頼の土台やと改めて感じさせますわ。商売でも誤りを軽んじたら信用はすぐに揺らぐ。間違いを知ってなお進むのは自分の首を絞めるようなもん。だからこそ、日々の慎重な積み重ねと誠実な姿勢が、長い目で見て大切やと心に留めときたいもんやね。"
+      "commentary": "政府が示す情報の誤りは信頼を揺るがすもんや。ミスに気づいたなら、すぐに正し、次に活かす覚悟が肝心や。この積み重ねが、長い目で見た信用を築くんやで。焦らず、しかし手を抜かんことや。"
     }
   ]
 }
