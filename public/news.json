@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-08-04T19:46:43.338Z",
+  "generatedAt": "2026-08-05T03:21:04.856Z",
   "run": {
-    "ranAt": "2026-08-04T19:46:43.338Z",
+    "ranAt": "2026-08-05T03:21:04.856Z",
     "runner": "github-actions",
-    "runId": "30944763974"
+    "runId": "30971962778"
   },
   "stock": [
     {
-      "title": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で",
-      "body": "4日のニューヨーク株式市場は、中東情勢をめぐる緊張が緩和することへの期待感などから取り引き開始直後から買い注文が広がり、ダウ平均株価は前日の終値から一時、1000ドルを超える大幅な値上がりとなり、取引時間中の最高値を更新しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
+      "title": "ルーマニア 水位低下により原発一部停止 車生産一時休止も",
+      "body": "ヨーロッパで記録的な熱波となるなか、各地で干ばつによる川の水位の低下により原子力発電所の運転を一部停止するなどの動きが相次いでいて、ルーマニアでは電力の消費を抑えるため自動車メーカーの工場が生産を休止するなど影響が広がっています。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196681000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "id": "www3.nhk.or.jp/news/html/20260805/k10015196681000.html",
+      "fetchedAt": "2026-08-05T03:20:40.151Z"
     },
     {
-      "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
-      "body": "アメリカのベッセント財務長官がNHKの単独インタビューに応じました。日米の通貨当局が歴史的な円安を阻止するために先週、実施した円買いの協調介入について、日米連携の象徴的な意味合いだったと述べたうえで、円安の本格的な是正に向けては、日本が打ち出す政策が着実に実施されていくことを確認する必要があるとの認識を示しました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
+      "title": "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
+      "body": "宇宙開発やAI事業を手掛けるアメリカの「スペースX」は上場後、初めてとなることし6月までの3か月間の決算を発表し、衛星通信サービスが好調だった一方、AI開発への投資が負担となり、最終的な損益は赤字となりました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196821000.html",
       "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "id": "www3.nhk.or.jp/news/html/20260805/k10015196821000.html",
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
-      "title": "物流最前線／東急不動産、「産業まちづくり」の視点で物流機能も強化加速",
-      "body": "<![CDATA[<p>不動産企業として70年以上の歴史と実績を持つ東急不動産が物流施設開発に乗り出したのは2016年。開発当初からグリーンエネルギー活用を前面に押し出した施設運営で入居企業の環境経営を後押ししているほか、工場やデータセンター、 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0804101.html\">物流最前線／東急不動産、「産業まちづくり」の視点で物流機能も強化加速</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=330514",
+      "title": "日本郵船／中国CNOOCグループ向け新造LNG船を「GREENERGY RIVER」と命名",
+      "body": "<![CDATA[<p>日本郵船は8月5日、出資する合弁会社HUAJING LNG TRANSPORTが中国で建造中の液化天然ガス（LNG）運搬船が「GREENERGY RIVER（グリーナジー リバー）」と命名されたと発表した。 中国国営エネ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0805602.html\">日本郵船／中国CNOOCグループ向け新造LNG船を「GREENERGY RIVER」と命名</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=331408",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=330514",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "id": "www.lnews.jp/?p=331408",
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
-      "title": "トラスコ中山ほか／愛知県の物流センターで3次元高速ピッキングシステムが本格稼働",
-      "body": "<![CDATA[<p>トラスコ中山、IHI物流産業システム、Exotec Nihonの3社は8月4日、トラスコ中山の新物流センター「プラネット愛知」（愛知県北名古屋市）に導入した3次元高速ピッキングシステム「Skypod」が本格運用を開始した [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0804103.html\">トラスコ中山ほか／愛知県の物流センターで3次元高速ピッキングシステムが本格稼働</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=331264",
+      "title": "アマゾン／兵庫県武庫川市に11.1万m2関西最大のフルフィルメントセンター新設",
+      "body": "<![CDATA[<p>Amazon（アマゾン）は8月5日、兵庫県尼崎市に物流拠点「Amazon武庫川フルフィルメントセンター（FC）」を新設した。同社尼崎市内2拠点目の物流施設で、延床面積は約11万1000m2、商品保管容量は約117万ft3 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0805101.html\">アマゾン／兵庫県武庫川市に11.1万m2関西最大のフルフィルメントセンター新設</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=331396",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=331264",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "id": "www.lnews.jp/?p=331396",
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
@@ -44,7 +44,39 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
+    },
+    {
+      "title": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で",
+      "body": "4日のニューヨーク株式市場は、中東情勢をめぐる緊張が緩和することへの期待感などから取り引き開始直後から買い注文が広がり、ダウ平均株価は前日の終値から一時、1000ドルを超える大幅な値上がりとなり、取引時間中の最高値を更新しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
+    },
+    {
+      "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
+      "body": "アメリカのベッセント財務長官がNHKの単独インタビューに応じました。日米の通貨当局が歴史的な円安を阻止するために先週、実施した円買いの協調介入について、日米連携の象徴的な意味合いだったと述べたうえで、円安の本格的な是正に向けては、日本が打ち出す政策が着実に実施されていくことを確認する必要があるとの認識を示しました。",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
+      "source": "NHK",
+      "id": "www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
+    },
+    {
+      "title": "物流最前線／東急不動産、「産業まちづくり」の視点で物流機能も強化加速",
+      "body": "<![CDATA[<p>不動産企業として70年以上の歴史と実績を持つ東急不動産が物流施設開発に乗り出したのは2016年。開発当初からグリーンエネルギー活用を前面に押し出した施設運営で入居企業の環境経営を後押ししているほか、工場やデータセンター、 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0804101.html\">物流最前線／東急不動産、「産業まちづくり」の視点で物流機能も強化加速</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=330514",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=330514",
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
+    },
+    {
+      "title": "トラスコ中山ほか／愛知県の物流センターで3次元高速ピッキングシステムが本格稼働",
+      "body": "<![CDATA[<p>トラスコ中山、IHI物流産業システム、Exotec Nihonの3社は8月4日、トラスコ中山の新物流センター「プラネット愛知」（愛知県北名古屋市）に導入した3次元高速ピッキングシステム「Skypod」が本格運用を開始した [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0804103.html\">トラスコ中山ほか／愛知県の物流センターで3次元高速ピッキングシステムが本格稼働</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=331264",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=331264",
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "【熊本地震 企業影響 4日】工場操業に影響 稼働再開の動きも",
@@ -52,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015195631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015195631000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "ソフトバンク宮川社長 “災害時の通信各社の連携 今後も強化”",
@@ -60,7 +92,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015196341000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "日本製紙 熊本地震で9人死亡 あす社長らが会見へ",
@@ -68,7 +100,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015196071000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "小学館 社長ら26人 役員報酬の一部自主返納 漫画家起用問題で",
@@ -76,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015195971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015195971000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "米トランプ政権の追加関税 25の州が取り消し求め提訴",
@@ -84,7 +116,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015195531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015195531000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "NYダウ最高値更新 中東情勢悪化の懸念和らぐ",
@@ -92,7 +124,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015195501000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015195501000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "西濃運輸／8月21日から新届出運賃、20％程度アップ",
@@ -100,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331273",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331273",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "【熊本地震 企業影響 3日】工場で操業停止続く 生産一部再開も",
@@ -108,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015194851000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015194851000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "7月31日介入は4兆円超える規模か 民間仲介会社の分析",
@@ -116,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015195391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015195391000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "佐川グローバルロジ／茨城県つくば市に2.4万m2の営業所開設、ネットワーク強化へ今年4件目",
@@ -124,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331117",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331117",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "霞ヶ関キャピタル／埼玉県三芳町で冷凍自動倉庫「LOGI FLAG TECH 三芳II」着工",
@@ -132,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331210",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331210",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "大手企業が3か月決算発表 熊本の地震や中東情勢の影響も",
@@ -140,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015195061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015195061000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
@@ -148,7 +180,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "円相場 一時1ドル＝155円台前半まで値上がり",
@@ -156,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015195161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015195161000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
@@ -164,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015194801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015194801000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
@@ -172,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "きょうのおはBiz8月3日(月) 円安是正 日米共同声明へ ねらいは",
@@ -180,7 +212,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015194751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015194751000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "大宝運輸 決算／4～6月の売上高7.3％増、営業利益86.7％増",
@@ -188,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331114",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331114",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "円安是正へ日米が異例の協調介入 3日に日米共同の声明発表へ",
@@ -196,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260802/k10015194291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260802/k10015194291000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "【熊本地震 企業影響 2日】九州のメーカー工場で操業に影響",
@@ -204,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260802/k10015194101000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260802/k10015194101000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "日本GLP／神奈川県相模原市でギオンとマルチテナント型物流施設を共同開発、冷凍冷蔵にも対応",
@@ -212,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331069",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331069",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "国交省幹部人事／物流・自動車局長に舟本浩氏、物流政策課長に正岡孝氏",
@@ -220,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331039",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331039",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -228,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "円相場 再び円高方向に 円安是正で日米が異例の協調対応か",
@@ -236,7 +268,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193711000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193711000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "【熊本地震 企業影響 1日】工場・店舗の状況は 再開の動きも",
@@ -244,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193321000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193321000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
@@ -252,7 +284,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "被災地のコンビニで飲料などの需要高まる 店舗への配送強化",
@@ -260,7 +292,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193571000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193571000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
@@ -268,7 +300,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "セブン＆アイにソフトバンクなどが出資 AIを店舗効率化に",
@@ -276,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193341000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "キオクシア 4月から6月の最終利益が前年同期比で46倍に",
@@ -284,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193331000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "“原発建て替え 2040年代までに最大5基”政府が正式決定",
@@ -292,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015192391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260731/k10015192391000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "短時間で急激な円高進む 政府・日銀が再び市場介入か",
@@ -300,7 +332,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "【熊本地震 企業影響 31日】工場の稼働停止など続く",
@@ -308,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260731/k10015191881000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "新しい財務事務次官に宇波弘貴主計局長が昇格へ",
@@ -316,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015192271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260731/k10015192271000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
@@ -324,7 +356,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "株価 大きく値上がり 半導体関連の銘柄中心に買い注文",
@@ -332,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191661000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260731/k10015191661000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "日銀 政策金利を1％程度に据え置き決定",
@@ -340,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260731/k10015191761000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "成田国際空港／6月の国際航空貨物量は5％増、27か月連続で前年同月比増加",
@@ -348,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330988",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330988",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "【PR】LNEWS／「“物流二極化”時代で生き残る 」テーマに8月27日セミナー開催",
@@ -356,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330523",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330523",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "US government map of Africa mislabels every country at global conference",
@@ -364,7 +396,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     },
     {
       "title": "【熊本地震 企業影響 30日】半導体関連 稼働再開の動きも",
@@ -372,77 +404,60 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190621000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015190621000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
-    },
-    {
-      "title": "【PR】i-PRO／AIカメラで物流の2024年問題に挑む、現場発想で磨いた物流DX",
-      "body": "<![CDATA[<p>物流業界では2024年問題を背景に人手不足が深刻化し、現場の省人化と業務効率化に向けてAIを活用した自動管理システムの導入が広がり始めている。2026年4月の改正物流効率化法の施行により、荷主の時間管理や上層部への現場デ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0730702.html\">i-PRO／AIカメラで物流の2024年問題に挑む、現場発想で磨いた物流DX</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=330448",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=330448",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
-    },
-    {
-      "title": "澁澤倉庫／TC神鋼不動産と共同で兵庫県神戸市での1万m2冷凍冷蔵倉庫の開発検討開始",
-      "body": "<![CDATA[<p>澁澤倉庫は7月30日、TC神鋼不動産と共同で兵庫県神戸市での1万m2規模を想定した冷凍冷蔵倉庫開発プロジェクトの検討を開始すると発表した。 プロジェクトは、澁澤倉庫が神戸市東灘区深江浜町に保有する土地を活用して価値の最大 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/07/s0730104.html\">澁澤倉庫／TC神鋼不動産と共同で兵庫県神戸市での1万m2冷凍冷蔵倉庫の開発検討開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=330862",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=330862",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
-    },
-    {
-      "title": "株価 値上がり 半導体関連の一部銘柄に買い注文",
-      "body": "30日の東京株式市場、半導体関連の一部の銘柄に買い注文が入り、日経平均株価は値上がりしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190651000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260730/k10015190651000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
-    },
-    {
-      "title": "食料品消費税 来年4月から1％方針 日本経済・消費者への影響は",
-      "body": "食料品の消費税減税をめぐり、高市総理大臣が来年4月から2年間、税率を1％に引き下げ、あわせて中低所得の人への給付を行い実質ゼロとする方針を表明しました。消費税率の引き下げで消費者・市場への影響や経済界の受け止めをまとめました。記事の後半にはQ＆A解説も掲載しています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015190741000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260730/k10015190741000.html",
-      "fetchedAt": "2026-08-04T19:46:18.687Z"
+      "fetchedAt": "2026-08-05T03:20:40.152Z"
     }
   ],
   "items": [
     {
       "source": "NHK",
-      "title": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
-      "summary": "4日のニューヨーク株式市場では、中東情勢の緊張緩和への期待から買い注文が増加し、ダウ平均株価が前日終値比で一時1000ドル以上上昇しました。この動きにより、取引時間中の最高値を更新しました。",
+      "title": "ルーマニア 水位低下により原発一部停止 車生産一時休止も",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196681000.html",
+      "summary": "ヨーロッパでの記録的な熱波に伴い、干ばつにより河川の水位が低下しています。これを受けて、ルーマニアの原子力発電所は一部で運転を停止しました。さらに、電力消費を抑制するため、自動車メーカーの工場も一時的に生産を休止するなど、経済活動に影響が出ています。",
       "classification": {
-        "tone": "G",
+        "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "と",
-        "phrase": "遠い道 一歩進めば 一歩近づく"
+        "leadingKana": "ふ",
+        "phrase": "不実やと 思うのならば やめなはれ"
       },
-      "commentary": "中東の緊張緩和で市場が一気に動いたけど、商売も株も一夜の上げに浮かれず、地道な歩みを忘れたらあかん。遠い道でも一歩ずつ積み重ねることでしか信頼も成果も得られへん。その歩みが次の一歩を支えるんやで。"
+      "commentary": "異変の中でも焦らず、目先の都合だけで動くのは避けたいところや。環境の変化は仕事の信頼を揺るがすかもしれんけど、誠実に状況を見極め、持続可能な対応を積み重ねることが大事やね。短期の損得に流されず、未来への信頼をどう築くか、考え続けることや。"
     },
     {
       "source": "NHK",
-      "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
-      "summary": "アメリカのベッセント財務長官はNHKのインタビューで、先週の日米による円買いの協調介入を象徴的な連携の表れと述べました。その上で、本格的な円安是正には日本側の政策実行の確実な確認が重要だと指摘しました。",
+      "title": "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196821000.html",
+      "summary": "アメリカの宇宙開発企業スペースXは、上場後初の四半期決算を発表しました。衛星通信サービスの収益は好調でしたが、AI技術の開発にかかった投資費用が重荷となり、6月までの3か月間で最終的に赤字を計上しました。",
       "classification": {
         "tone": "N",
-        "term": "M"
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "け",
-        "phrase": "計画より  仕上げが大事"
+        "leadingKana": "ん",
+        "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "歴史的な協調介入は確かに強いメッセージや信頼の表れやけど、そこで終わってまうと意味薄なるで。大事なんは、その後の政策実行と結果や。計画だけで満足せんと、しっかり仕上げて信頼積み重ねる姿勢が問われるんや。"
+      "commentary": "上場後の赤字は一見「ん？」と思うやろな。けど、AI投資は未来への種まきや。違和感は焦らず見極めるチャンス。短期の損益だけで判断せんと、社会との信頼を積む長い目で商売を考えることが肝心やで。"
     },
     {
       "source": "LNEWS",
-      "title": "物流最前線／東急不動産、「産業まちづくり」の視点で物流機能も強化加速",
-      "sourceURL": "https://www.lnews.jp/?p=330514",
-      "summary": "東急不動産は、70年以上の不動産事業の経験を活かし、2016年から物流施設の開発に取り組んでいる。開発施設ではグリーンエネルギーの活用を推進し、入居企業の環境経営を支援。また、工場やデータセンターなどの産業施設と連携した「産業まちづくり」の視点で、物流機能の強化を加速している。",
+      "title": "日本郵船／中国CNOOCグループ向け新造LNG船を「GREENERGY RIVER」と命名",
+      "sourceURL": "https://www.lnews.jp/?p=331408",
+      "summary": "日本郵船は、出資する合弁会社HUAJING LNG TRANSPORTが中国で建造中の液化天然ガス（LNG）運搬船に「GREENERGY RIVER」と命名したと発表した。この船は中国の国営エネルギー企業CNOOCグループ向けに建造されている。",
+      "classification": {
+        "tone": "N",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "ね",
+        "phrase": "根っこみる 葉っぱみんでも 根っこみる"
+      },
+      "commentary": "新しいLNG船の命名は表層の成果や見栄えだけやおまへん。社会のエネルギー需給や環境課題の根っこを見据えて、持続可能な物流の土台をどう築くかが問われてるんや。商売の根本を見失わんよう、日々の積み重ねで信頼作りを続ける姿勢が大事やと思いますわ。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "アマゾン／兵庫県武庫川市に11.1万m2関西最大のフルフィルメントセンター新設",
+      "sourceURL": "https://www.lnews.jp/?p=331396",
+      "summary": "Amazonは兵庫県尼崎市に新たな物流施設「Amazon武庫川フルフィルメントセンター」を開設した。延床面積は約11万1000平方メートルで、関西地域では最大規模となる。同市内では2つ目の拠点であり、大量の商品保管に対応可能な施設となっている。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -451,37 +466,22 @@
         "leadingKana": "い",
         "phrase": "いつだって  3％と 1/3"
       },
-      "commentary": "東急不動産が物流とまちづくりを結びつける取り組みは、日々の細かな改善と全体の大きな見直しを両輪にする商いの姿勢を思わせるわな。目の届くところの3％の無駄も見逃さず、大きな変化を恐れず挑戦続けることが信頼を積み重ねる道や。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "トラスコ中山ほか／愛知県の物流センターで3次元高速ピッキングシステムが本格稼働",
-      "sourceURL": "https://www.lnews.jp/?p=331264",
-      "summary": "トラスコ中山、IHI物流産業システム、Exotec Nihonの3社は、愛知県北名古屋市にあるトラスコ中山の新物流センター「プラネット愛知」にて、3次元高速ピッキングシステム「Skypod」の本格稼働を8月4日に開始した。このシステムは、効率的な物流作業を目指して導入されたもので、今後の運用が注目されている。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
-      },
-      "commentary": "新しいピッキングシステムの導入は、効率だけやなく信頼の積み重ねが大事やで。技術を隠さんと皆に開示して、現場の理解と協力を得ることが長続きの秘訣や。焦らんと地道に改善を重ねる姿勢が、次の信頼を生み出すわな。"
+      "commentary": "アマゾンの新拠点は規模も大きく影響力も大きいけど、日々の細かな効率改善抜きには持続せえへんで。大きな変化を待つだけやなく、普段から小さな無駄に目を凝らすことが信頼を築く商いの基本や。見落としがちな所にこそ成長の種があるんやで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
       "sourceURL": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "summary": "欧州委員会のウルズラ・フォンデアライエン委員長は、スペイン領セウタで多数の人々が短期間に流入・離脱した事態を受け、欧州の国境管理強化の必要性を指摘した。彼女はスペイン首相に宛てた書簡で、監視の強化や必要に応じた物理的障壁の設置など、五つの移民管理分野での対策強化を求めている。",
+      "summary": "欧州委員会のウルズラ・フォン・デア・ライエン委員長は、スペイン領セウタで多数の人が一時的に流入した事態を受け、欧州の国境管理強化の必要性を指摘した。彼女はスペイン首相宛ての書簡で、監視強化や物理的障壁の設置など、重要地点での対応を含む移民管理の五つの分野での対策を求めている。",
       "classification": {
         "tone": "N",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "よ",
-        "phrase": "世の中は 広いんやから 驚くな"
+        "leadingKana": "け",
+        "phrase": "計画より  仕上げが大事"
       },
-      "commentary": "EUの境界強化を求める動きは、多様な人の流れに対応するための一歩やけど、慌てず冷静に捉えることが肝心や。世の中は広いし、想定外の出来事も多い。日々の積み重ねで信頼を築きながら、変化に柔軟に向き合う姿勢が大事やで。"
+      "commentary": "国境強化の話、計画を立てるだけやったら意味あらへん。現場での監視や物理的措置も実際に動かし、効果を見んと信頼は築かれへん。厳しい環境やからこそ、約束だけで終わらせず、具体的な仕上げまで責任もって取り組む姿勢が求められるんやで。"
     }
   ]
 }
