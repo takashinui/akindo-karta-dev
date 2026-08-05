@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T14:26:15.411Z",
+  "generatedAt": "2026-08-05T19:46:14.949Z",
   "run": {
-    "ranAt": "2026-08-05T14:26:15.411Z",
+    "ranAt": "2026-08-05T19:46:14.949Z",
     "runner": "github-actions",
-    "runId": "31015116096"
+    "runId": "31040902586"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
@@ -20,7 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015197391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260805/k10015197391000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "DHC／川崎ロジスティクスセンターを自動化、省人化で出荷能力30％向上へ",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331492",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331492",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "アマゾン／兵庫県尼崎市に11.1万m2関西最大のフルフィルメントセンター新設",
@@ -36,7 +36,15 @@
       "sourceURL": "https://www.lnews.jp/?p=331396",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331396",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
+    },
+    {
+      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "body": "&lt;p&gt;State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon&lt;/p&gt;&lt;p&gt;The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing criticism that it is leaving a diplomatic vacuum at risk of being filled by China.&lt;/p&gt;&lt;p&gt;The US Congress has been served notice of the impending closures, which are being justified on cost grounds and follow a reassessment of the US’s bilateral relationships with a range of countries since Donald Trump returned to the White House in January 2025.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "El Niño could push 50m people into acute hunger before end of next year",
@@ -44,7 +52,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "熊本地震で9人死亡の日本製紙 初めて記者会見 社長が陳謝",
@@ -52,7 +60,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015197011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260805/k10015197011000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "異例の介入 米側の思惑は ベッセント財務長官単独インタビュー",
@@ -60,7 +68,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015197021000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260805/k10015197021000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "ルーマニア 水位低下により原発一部停止 車生産一時休止も",
@@ -68,7 +76,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196681000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260805/k10015196681000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
@@ -76,7 +84,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196821000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260805/k10015196821000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "日本郵船／中国CNOOCグループ向け新造LNG船を「GREENERGY RIVER」と命名",
@@ -84,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331408",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331408",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
@@ -92,7 +100,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で",
@@ -100,7 +108,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "物流最前線／東急不動産、「産業まちづくり」の視点で物流機能も強化加速",
@@ -108,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=330514",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=330514",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "トラスコ中山ほか／愛知県の物流センターで3次元高速ピッキングシステムが本格稼働",
@@ -116,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331264",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331264",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "【熊本地震 企業影響 4日】工場操業に影響 稼働再開の動きも",
@@ -124,7 +132,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015195631000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015195631000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "ソフトバンク宮川社長 “災害時の通信各社の連携 今後も強化”",
@@ -132,7 +140,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015196341000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "日本製紙 熊本地震で9人死亡 あす社長らが会見へ",
@@ -140,7 +148,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196071000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015196071000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "小学館 社長ら26人 役員報酬の一部自主返納 漫画家起用問題で",
@@ -148,7 +156,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015195971000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015195971000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "米トランプ政権の追加関税 25の州が取り消し求め提訴",
@@ -156,7 +164,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015195531000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015195531000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "NYダウ最高値更新 中東情勢悪化の懸念和らぐ",
@@ -164,7 +172,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015195501000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015195501000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "西濃運輸／8月21日から新届出運賃、20％程度アップ",
@@ -172,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331273",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331273",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "【熊本地震 企業影響 3日】工場で操業停止続く 生産一部再開も",
@@ -180,7 +188,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015194851000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015194851000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "7月31日介入は4兆円超える規模か 民間仲介会社の分析",
@@ -188,7 +196,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015195391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015195391000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "佐川グローバルロジ／茨城県つくば市に2.4万m2の営業所開設、ネットワーク強化へ今年4件目",
@@ -196,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331117",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331117",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "霞ヶ関キャピタル／埼玉県三芳町で冷凍自動倉庫「LOGI FLAG TECH 三芳II」着工",
@@ -204,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331210",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331210",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "大手企業が3か月決算発表 熊本の地震や中東情勢の影響も",
@@ -212,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015195061000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015195061000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
@@ -220,7 +228,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "円相場 一時1ドル＝155円台前半まで値上がり",
@@ -228,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015195161000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015195161000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
@@ -236,7 +244,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015194801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015194801000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
@@ -244,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "きょうのおはBiz8月3日(月) 円安是正 日米共同声明へ ねらいは",
@@ -252,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260803/k10015194751000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260803/k10015194751000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "大宝運輸 決算／4～6月の売上高7.3％増、営業利益86.7％増",
@@ -260,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331114",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331114",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "円安是正へ日米が異例の協調介入 3日に日米共同の声明発表へ",
@@ -268,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260802/k10015194291000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260802/k10015194291000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "【熊本地震 企業影響 2日】九州のメーカー工場で操業に影響",
@@ -276,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260802/k10015194101000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260802/k10015194101000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "日本GLP／神奈川県相模原市でギオンとマルチテナント型物流施設を共同開発、冷凍冷蔵にも対応",
@@ -284,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331069",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331069",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "国交省幹部人事／物流・自動車局長に舟本浩氏、物流政策課長に正岡孝氏",
@@ -292,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331039",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331039",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -300,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "円相場 再び円高方向に 円安是正で日米が異例の協調対応か",
@@ -308,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193711000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193711000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "【熊本地震 企業影響 1日】工場・店舗の状況は 再開の動きも",
@@ -316,7 +324,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193321000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193321000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
@@ -324,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "被災地のコンビニで飲料などの需要高まる 店舗への配送強化",
@@ -332,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193571000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193571000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
@@ -340,7 +348,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "セブン＆アイにソフトバンクなどが出資 AIを店舗効率化に",
@@ -348,7 +356,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193341000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193341000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "キオクシア 4月から6月の最終利益が前年同期比で46倍に",
@@ -356,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260801/k10015193331000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260801/k10015193331000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "“原発建て替え 2040年代までに最大5基”政府が正式決定",
@@ -364,7 +372,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015192391000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260731/k10015192391000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "短時間で急激な円高進む 政府・日銀が再び市場介入か",
@@ -372,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "【熊本地震 企業影響 31日】工場の稼働停止など続く",
@@ -380,7 +388,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191881000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260731/k10015191881000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "新しい財務事務次官に宇波弘貴主計局長が昇格へ",
@@ -388,7 +396,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015192271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260731/k10015192271000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     },
     {
       "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
@@ -396,15 +404,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
-    },
-    {
-      "title": "株価 大きく値上がり 半導体関連の銘柄中心に買い注文",
-      "body": "7月31日の東京株式市場、取引開始直後から半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は大きく値上がりしています。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260731/k10015191661000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260731/k10015191661000.html",
-      "fetchedAt": "2026-08-05T14:25:50.039Z"
+      "fetchedAt": "2026-08-05T19:45:49.189Z"
     }
   ],
   "items": [
@@ -412,7 +412,67 @@
       "source": "NHK",
       "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
-      "summary": "アメリカのベッセント財務長官はNHKのインタビューで、先週の日米による円買い協調介入について、両国の連携を示す象徴的な行動だったと述べました。一方で、円安の根本的な是正には日本側の政策が確実に実行されることが重要だとの考えを示しました。",
+      "summary": "アメリカのベッセント財務長官はNHKのインタビューで、先週の日米による円買いの協調介入を象徴的な連携の表れと評価しました。一方で、円安を根本的に改善するには日本側の政策が確実に実行されることが重要だと述べました。",
+      "classification": {
+        "tone": "N",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "わ",
+        "phrase": "わからん時　わからんと言う素直さよ"
+      },
+      "commentary": "為替の動きは複雑で一度の介入で答えが出るもんやない。連携の意味を認めつつも、本丸は政策の着実な実行にあるんや。わからんことは隠さず、今の状況を正直に見つめて、持続的な信頼を積むことが大切やな。"
+    },
+    {
+      "source": "NHK",
+      "title": "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015197391000.html",
+      "summary": "熊本県嘉島町のイオンモール熊本で発生した大規模爆発について、経済産業省が警察や消防と合同で現場調査を実施しました。その結果、施設に供給されていたLPガスの爆発が原因である可能性が高いとの見解で一致したことが明らかになりました。",
+      "classification": {
+        "tone": "N",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "ん",
+        "phrase": "ん？ってな  疑問に思うが  金の時"
+      },
+      "commentary": "イオンモールの爆発、違和感感じたら見過ごしたらあかんで。商売も現場も「なんかおかしい？」を大事にして調べることが信頼の積み重ねや。短期の成果だけじゃなく、日々の気づきが次の安全と安心につながるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "DHC／川崎ロジスティクスセンターを自動化、省人化で出荷能力30％向上へ",
+      "sourceURL": "https://www.lnews.jp/?p=331492",
+      "summary": "DHCは神奈川県川崎市にある川崎ロジスティクスセンターで、自動搬送ロボット270台や立体自動仕分けシステムを導入し、自動化を進めた。このシステムは8月5日に本格稼働を開始し、省人化を図ることで出荷能力を約30％向上させることを目指している。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "は",
+        "phrase": "早起きは 眠たいけども 憂いなし"
+      },
+      "commentary": "自動化は作業効率を確かに高めるけど、焦らずに人の役割も見直し続けることが肝心や。慌てず日々の手間を積み重ね、変化に柔軟に対応しながら信頼を築く姿勢が、長い目で見た進化を支えるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "アマゾン／兵庫県尼崎市に11.1万m2関西最大のフルフィルメントセンター新設",
+      "sourceURL": "https://www.lnews.jp/?p=331396",
+      "summary": "アマゾンは兵庫県尼崎市に、新たな物流拠点「Amazon武庫川フルフィルメントセンター」を開設した。尼崎市内で2拠点目となる同施設は、延床面積約11.1万平方メートルで関西地域最大規模を誇る。商品保管容量は約117万立方フィートに及び、地域の物流体制強化を目的としている。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
+      },
+      "commentary": "尼崎に関西最大級の物流拠点ができたんや。これは単なる大きな設備やなく、地域の流通を支え、日々の暮らしの安心にもつながる。派手さよりも、地道に信頼を積み重ねる姿勢が、長い目で見た社会の安定を築くんやで。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "sourceURL": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "summary": "米国務省は、カナダ、グレナダ、日本、インドネシア、カメルーンの5か所にある領事館や外交ミッションを閉鎖する予定であると議会に通知した。これらの措置は費用削減と両国関係の再評価を理由としている。閉鎖に対しては、中国が外交的な空白を埋める懸念が示されている。",
       "classification": {
         "tone": "N",
         "term": "M"
@@ -421,67 +481,7 @@
         "leadingKana": "け",
         "phrase": "計画より  仕上げが大事"
       },
-      "commentary": "通貨介入の意義は始まりの合図や象徴に過ぎん。真の勝負は、その後の政策実行と結果にかかっとる。計画だけで終わらせず、地道に仕上げてこそ信頼が積み上がる。焦らず着実に、やり抜く姿勢が次の信頼を呼び込むんやで。"
-    },
-    {
-      "source": "NHK",
-      "title": "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260805/k10015197391000.html",
-      "summary": "熊本県嘉島町のイオンモール熊本で発生した大規模爆発について、経済産業省は警察や消防と合同で現場調査を実施しました。その結果、施設に供給されていたLPガスの爆発が原因である可能性が高いと見て調査を進めていることが明らかになりました。",
-      "classification": {
-        "tone": "B",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "す",
-        "phrase": "すいません  言うな"
-      },
-      "commentary": "今回の爆発事故、ただ「すまん」で済ますんはあきまへん。あきんどの世界やったら、まず事実を正面から受け止め、次にどう信頼を積み重ねていくかが肝心や。ほんで、誰かの責任追及より、再発防止のために何を積み上げるべきか、しっかり考えることが大切やね。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "DHC／川崎ロジスティクスセンターを自動化、省人化で出荷能力30％向上へ",
-      "sourceURL": "https://www.lnews.jp/?p=331492",
-      "summary": "DHCは神奈川県川崎市の川崎ロジスティクスセンターに自動搬送ロボット「T-Carry」270台や立体自動仕分けシステムを導入し、8月5日から本格稼働を開始した。これにより、省人化を図りつつ出荷能力を約30％向上させることを目指している。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "た",
-        "phrase": "鷹の目と 地虫の目と 人の目"
-      },
-      "commentary": "DHCの自動化は全体の効率を上げる大きな一歩やけど、現場の細かな課題も見逃せへん。機械に頼るだけやなく、人の目で現場の声を聞き続けることが長く信頼される鍵や。変化に柔軟に向き合う姿勢が未来をつくるで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "アマゾン／兵庫県尼崎市に11.1万m2関西最大のフルフィルメントセンター新設",
-      "sourceURL": "https://www.lnews.jp/?p=331396",
-      "summary": "アマゾンは兵庫県尼崎市に新たな物流拠点「Amazon武庫川フルフィルメントセンター」を開設した。これは同市内で2か所目の施設で、延床面積は約11万1000平方メートルに及び、関西地域で最大規模のフルフィルメントセンターとなる。商品の保管容量も大きく、物流体制の強化を図る狙いがある。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
-      },
-      "commentary": "尼崎に関西最大の物流拠点ができたわけやけど、ここで大事なんは、拠点の役割や運営方針を隠さず公開していくことや。秘密を持たずに信頼築く姿勢が、長く地域や取引先と良い関係を続ける鍵やで。焦らず地道に積み重ねることが、次の商いの土台になるんやと思うわ。"
-    },
-    {
-      "source": "Guardian｜World",
-      "title": "El Niño could push 50m people into acute hunger before end of next year",
-      "sourceURL": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-      "summary": "国連の予測によると、急速に発達しているエルニーニョ現象の影響で、来年末までに約5000万人が深刻な飢餓状態に陥る可能性があるとされています。現在も45カ国で深刻な食料不安が続いており、アフリカの干ばつやイラン情勢による食料価格の高騰が状況を悪化させています。",
-      "classification": {
-        "tone": "B",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
-      },
-      "commentary": "気候変動の影響で食料危機が拡大するかもしれん。焦って目先の支援や対策に走るだけやなく、根本の目的、つまり持続可能な食糧確保と人々の生活維持を忘れんことが大事や。真の価値を見極める視点を持ち続けることやね。"
+      "commentary": "外交拠点を減らす決断は、ただの計画で終わらせたらあかんで。相手の動きを見据え、空いた穴に何が入るか考えながら、最後まで責任を持って仕上げる姿勢が求められるんや。信頼は積み重ねが肝心で、途中で手を抜いたら信用は育たへん。"
     }
   ]
 }
