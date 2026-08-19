@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T18:49:12.971Z",
+  "generatedAt": "2026-08-19T01:44:02.655Z",
   "run": {
-    "ranAt": "2026-08-18T18:49:12.971Z",
+    "ranAt": "2026-08-19T01:44:02.655Z",
     "runner": "github-actions",
-    "runId": "32173053430"
+    "runId": "32205946657"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-08-18T18:48:40.415Z"
+      "fetchedAt": "2026-08-19T01:43:40.874Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,7 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "NX総研／2024年問題の影響は改善傾向、トラック輸送力確保「厳しい」が64.4％に",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332257",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332257",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "DHL／中国・深センのゲートウェイを拡張、大陸間直行貨物便の就航も",
@@ -36,7 +36,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332188",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332188",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
@@ -44,7 +44,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "CBRE／首都圏LMT空室率7.8％に低下、賃料は4圏域すべてで上昇",
@@ -52,7 +52,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332221",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332221",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "ナビタイム／輸配送管理に音声ナビ機能、ヒヤリハットや自社ルールをドライバーに共有",
@@ -60,7 +60,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332227",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332227",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "住友商事／海老名と厚木に計約14万m2の物流施設を竣工、BCP・環境性能を強化",
@@ -68,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332101",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332101",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "ヤマト運輸／ミライロIDとクロネコメンバーズ連携、配達時の要望を事前登録",
@@ -76,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332017",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332017",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "「令和8年8月千葉豪雨」／道路冠水や営業所浸水などにより物流にも影響",
@@ -84,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332074",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332074",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "東部ネットワーク 決算／4～6月の売上高2.6％増、営業利益82.3％増",
@@ -92,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332077",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332077",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "国交省／熊本地震被災地への支援物資輸送でトラック事業者に特例措置",
@@ -100,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331951",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331951",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "近鉄GHD／国際物流の売上高が18.7％増、営業利益は585.9％増",
@@ -108,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331945",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331945",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -116,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
@@ -124,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "American missionary kidnapped in Niger freed after nine months",
@@ -132,7 +132,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
@@ -140,7 +140,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "丸全昭和運輸／茨城県東海村に空調・定温設備持つ新倉庫竣工",
@@ -148,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331876",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331876",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "AZ-COM丸和HD／熊本地震被災地にトラック200台大規模での支援物資輸送を実施",
@@ -156,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331849",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331849",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
@@ -164,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
@@ -172,7 +172,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "Spain to introduce temporary border checks on visitors from Italy",
@@ -180,7 +180,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "サカイ引越センター／50人が熊本地震被災地入りし段ボールベッド組み立てなど実施",
@@ -188,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331861",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331861",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "鈴与シンワート 決算／物流事業の売上高3.0％増、営業利益2.6％減",
@@ -196,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331858",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331858",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "大和ハウス工業／大阪府茨木市で3.1万m2の物流施設着工へ、パナソニックの工場跡地",
@@ -204,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331708",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331708",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "日本郵政 決算／4～6月の郵便・物流事業の売上高49億円減、営業利益61億円減",
@@ -212,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331837",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331837",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "千葉 銚子 輸入サバ高騰で加工業者の約2割が倒産や廃業状態に",
@@ -220,7 +220,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199891000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "KDDI 楽天への回線提供の契約 9月で終了 一部では提供継続",
@@ -228,7 +228,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199811000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199811000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
@@ -236,7 +236,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260807/k10015199701000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260807/k10015199701000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
@@ -244,7 +244,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "NY外国為替市場 円高ドル安が進む 米雇用統計発表受け",
@@ -252,7 +252,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260807/k10015199721000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260807/k10015199721000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "食料自給率37％ 過去最低に コメの価格高騰が低下招く",
@@ -260,7 +260,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260807/k10015199091000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260807/k10015199091000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
@@ -268,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "株価 小幅に値下がり",
@@ -276,7 +276,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260807/k10015199011000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260807/k10015199011000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "土地取得ルール「届け出必要な対象拡大を」国交省の有識者会議",
@@ -284,7 +284,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260807/k10015199271000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260807/k10015199271000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "SGHD／7月のデリバリー事業取り扱い個数3.4％増",
@@ -292,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331786",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331786",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "名港海運／愛知県飛島村に7万m2の物流センター開設、先行してヤード稼働",
@@ -300,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331783",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331783",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "4月30日の市場介入 6.2兆円 円買いとして1日あたりで過去最大",
@@ -308,7 +308,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260807/k10015198801000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260807/k10015198801000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "6月家計調査 7か月連続減少",
@@ -316,7 +316,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260807/k10015198791000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260807/k10015198791000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "日本GLP／神奈川県厚木市に8.4万m2先進的物流施設「Marq東名厚木」を竣工",
@@ -324,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331663",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331663",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "霞ヶ関キャピタル／川崎市に1万パレット保管可能な冷凍自動倉庫「LOGI FLAG TECH 東扇島I」開設",
@@ -332,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331606",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331606",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "“現場職への転職”に20代の約半数が関心 背景にAIへの危機感",
@@ -340,7 +340,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260806/k10015198141000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260806/k10015198141000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "ソフトバンクグループ 17％余の減益 4-6月期決算",
@@ -348,7 +348,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260806/k10015198231000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260806/k10015198231000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "Nigerian security forces free more than 300 hostages abducted by militants",
@@ -356,7 +356,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "株価 値下がり 半導体関連銘柄中心に売り注文",
@@ -364,7 +364,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260806/k10015198001000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260806/k10015198001000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
@@ -372,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "コメ価格見通しを示す指数 過去最低に 民間在庫増の影響も",
@@ -380,7 +380,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260806/k10015197891000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260806/k10015197891000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "CRE／埼玉県朝霞市で2棟目の物流施設を着工、計16万m2の大型プロジェクト",
@@ -388,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331561",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331561",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "ロジスネクスト／防爆仕様フォークリフト「ALESIS」を発表、9月から生産開始",
@@ -396,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331546",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331546",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     },
     {
       "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
@@ -404,7 +404,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
-      "fetchedAt": "2026-08-18T18:48:40.416Z"
+      "fetchedAt": "2026-08-19T01:43:40.875Z"
     }
   ],
   "items": [
@@ -412,22 +412,22 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。開発中断の理由は、同モデルの能力が急速に向上し、自律的に重大なサイバー攻撃を行う可能性があるため、安全性の確保が必要と判断したためです。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」に関連する新モデル「アストラ」の開発を一時的に停止すると発表しました。開発中断の理由は、AIの性能向上により、自律的に深刻なサイバー攻撃を行うリスクが懸念されたためとされています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "す",
-        "phrase": "すいません  言うな"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "AIの暴走を恐れて開発を止めるのは、ただ怖がって逃げるんやなく、責任を持つ姿勢の表れや。ええ加減に済まそうとせんと、根っこを見つめ直す機会にせなあかん。信頼は毎日の正直な積み重ねやから、焦らず着実に進むしかないで。"
+      "commentary": "技術が進むほど、手にした成果が本当に価値あるもんか見極めることが大事や。目先の能力や成果に振り回されるんやなしに、根っこの目的を忘れんと、信頼を積み重ねる商売の心を維持せなあかん。焦らず慎重に進む姿勢、これが次の一歩の鍵やで。"
     },
     {
       "source": "NHK",
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で著名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営企業に対し広告主の本人確認を含む対策の強化を求める文書を送付しました。",
+      "summary": "政府は、SNSで有名人の画像を無断使用した「なりすまし広告」による詐欺被害の増加を受け、SNS運営事業者に対し、広告主の本人確認などの対策強化を求める文書を送付しました。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -436,43 +436,13 @@
         "leadingKana": "ほ",
         "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "SNSでのなりすまし広告が増え、政府が本人確認強化を促す動きやけど、焦って対策だけ急ぐんはあかん。見た目や声だけで判断せず、じっくり裏を取ることが信頼の基本や。慌てず慎重に、長い目で信頼積み重ねる姿勢が大事やで。"
+      "commentary": "SNSでのなりすまし広告対策が強化される動きやけど、焦って飛びつくんやなく、情報の真偽をじっくり見極める姿勢が肝心や。慌てず疑いの目を持ちつつ、信頼築く長い道のりを忘れたらあかんで。"
     },
     {
       "source": "LNEWS",
       "title": "NX総研／2024年問題の影響は改善傾向、トラック輸送力確保「厳しい」が64.4％に",
       "sourceURL": "https://www.lnews.jp/?p=332257",
-      "summary": "NX総合研究所が実施した調査によると、2024年問題に関する影響は徐々に改善傾向にあるものの、トラック輸送力の確保については依然として厳しい状況が続いており、64.4％の企業が困難を感じていることが明らかになった。この調査は企業の物流動向を四半期ごとに把握するため行われている。",
-      "classification": {
-        "tone": "N",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "ま",
-        "phrase": "迷ったら もっかい一から やり直し"
-      },
-      "commentary": "物流業界が抱える課題は一朝一夕で解決するもんやない。状況が一歩進んだと感じても、根本から再確認して改善点を洗い出す姿勢が肝心や。焦らず地道に積み重ねることで、信頼も輸送力も守られていくんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "DHL／中国・深センのゲートウェイを拡張、大陸間直行貨物便の就航も",
-      "sourceURL": "https://www.lnews.jp/?p=332188",
-      "summary": "DHL Expressは中国の深セン宝安国際空港にある主要拠点「スーパーゲートウェイ」の拡張を発表した。約1億7700万ユーロを投じて施設を強化し、輸送インフラと航空ネットワークの拡充を図っている。これに伴い、大陸間の直行貨物便の運航も開始される予定で、中国市場における物流体制の強化が進められている。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
-      },
-      "commentary": "物流インフラ拡充は単なる設備投資以上や。深センのゲートウェイ強化は、地道な信頼の積み重ねが未来の安定を支える一歩やで。派手さよりも、日々の堅実な取り組みが長い目で社会の平和と共存を形づくるんやと肝に銘じたいな。"
-    },
-    {
-      "source": "Guardian｜World",
-      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-      "sourceURL": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "summary": "コンゴ民主共和国で発生しているエボラ出血熱の流行は、死者数が少なくとも2,325人に達し、同国で過去最悪の規模となっています。保健当局によると、確認された感染者数は4,945人で、直近24時間でも101件の新規感染が報告されました。今回の流行は2018～2020年のものを上回る被害となっています。",
+      "summary": "NX総合研究所が8月に発表した調査によると、物流業界で懸念される「2024年問題」の影響は徐々に改善しているものの、トラック輸送力の確保については依然として厳しい状況が続いている。調査対象企業の64.4％が輸送力の確保を困難と回答しており、物流の安定供給に課題が残ることが示された。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -481,7 +451,37 @@
         "leadingKana": "ほ",
         "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "流れる情報にすぐ飛びつかんと、ちゃんと裏を取るクセつけなあかんで。数字や事実は変わるもんやし、焦って判断すると信頼を失う。商いも同じ、疑いを晴らすための一手間が、長い信頼の土台になるんやから。"
+      "commentary": "物流の現場はまだ厳しい状況が続くけど、見える数字だけで判断せんと、現場の声や変化をじっくり確かめるのが大事や。焦らず、疑問を持ちながら地道に積み重ねることで、信頼も状況も少しずつ変わっていくもんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "DHL／中国・深センのゲートウェイを拡張、大陸間直行貨物便の就航も",
+      "sourceURL": "https://www.lnews.jp/?p=332188",
+      "summary": "DHL Expressは、中国の深セン宝安国際空港にある「スーパーゲートウェイ」の拡張を発表した。約1億7700万ユーロを投じて施設を拡大し、大陸間の直行貨物便も新たに運航を開始した。これにより、中国内外の輸送インフラと航空ネットワークの強化を図っている。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
+      },
+      "commentary": "物流の拠点を拡充する動きは、単なる効率追求だけやあらへん。長期にわたり社会と繋がり続けるための土台づくりや。大きな投資は、短期の利益より信頼の積み重ねを意識した一歩やと思うで。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+      "sourceURL": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+      "summary": "コンゴ民主共和国で発生しているエボラ出血熱の流行は、同国史上最も多くの死者を出していると政府の公式発表が示した。これまでに少なくとも2,325人が死亡し、2018～2020年の流行を上回った。感染者数は4,945人に達しており、直近24時間で101人の新規感染が確認されている。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "つ",
+        "phrase": "つまらない 話もコトも しなさんな"
+      },
+      "commentary": "病気の情報や対応も、ただ流すだけじゃなく、実際に向き合う姿勢が大事やで。無理に興味ない話に付き合うんやなく、本質を見極め、信頼の積み重ねに繋げることが、長い目での力になるんやな。"
     }
   ]
 }
