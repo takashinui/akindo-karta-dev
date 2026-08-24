@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T07:12:22.273Z",
+  "generatedAt": "2026-08-24T13:04:42.523Z",
   "run": {
-    "ranAt": "2026-08-24T07:12:22.273Z",
+    "ranAt": "2026-08-24T13:04:42.523Z",
     "runner": "github-actions",
-    "runId": "32700429907"
+    "runId": "32730478281"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,7 +20,31 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
+    },
+    {
+      "title": "AZ-COM丸和HD／埼玉県松伏町の基幹物流センターを公開、今期中の満床稼働目指す",
+      "body": "<![CDATA[<p>AZ-COM丸和ホールディングス（HD）は8月21日、2月にグループ会社の丸和運輸機関が埼玉県松伏町で稼働させた首都圏基幹物流センター「AZ-COM Matsubushi EAST」を報道公開した。 「AZ-COM Ma [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0824101.html\">AZ-COM丸和HD／埼玉県松伏町の基幹物流センターを公開、今期中の満床稼働目指す</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=332806",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=332806",
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
+    },
+    {
+      "title": "トラスコ中山／新潟県三条市で4.8万m2の物流センター稼働、危険物倉庫や自動倉庫の導入も",
+      "body": "<![CDATA[<p>トラスコ中山は8月24日、ホームセンタールート向けの出荷を主とする「HC東日本物流センター」を稼働させた。186億円を投じ新潟県三条市に新築移転したもの。 ホームセンターへの売上拡大に伴い、在庫保管能力や出荷能力が最大値 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0824604.html\">トラスコ中山／新潟県三条市で4.8万m2の物流センター稼働、危険物倉庫や自動倉庫の導入も</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=332842",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=332842",
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
+    },
+    {
+      "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+      "body": "&lt;p&gt;West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected&lt;/p&gt;&lt;p&gt;More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.&lt;/p&gt;&lt;p&gt;A national outbreak was declared on 4 July, just over a week after a 27-year-old woman became the first confirmed case of mpox in the west African country. Since then, there have been seven confirmed cases and 46 suspected cases. Half of those patients have been children, with 16 under the age of four.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "丸和運輸機関／千葉県成田市とラグビー通じた地域振興などで包括連携協定",
@@ -28,7 +52,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332869",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332869",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "阪急阪神不動産・CRE／ベトナム北部での共同出資開発プロジェクト、倉庫5棟が竣工",
@@ -36,7 +60,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332851",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332851",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
@@ -44,7 +68,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "豊田自動職機／フォークリフト等の国内向け産業車両、11月16日から値上げ",
@@ -52,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332746",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332746",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "CRE／大阪府枚方市で41万m2の土地区画整理事業、物流施設など誘致へ",
@@ -60,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332734",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332734",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "オークラ輸送機／神戸大学と産学連携、物流・搬送分野の技術発展と人材育成へ",
@@ -68,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332626",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332626",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -76,7 +100,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "fetchedAt": "2026-08-24T07:12:00.589Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "航空貨物運送協会／7月国際航空貨物の輸出件数2.61％増、重量15.31％増",
@@ -84,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332731",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332731",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "JR貨物／7月の鉄道コンテナ輸送量4.0％減、車扱0.2％減",
@@ -92,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332707",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332707",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "サカイ引越センター／バスケットボールを寄贈し堺市教育委員会から感謝状",
@@ -100,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332632",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332632",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "西濃運輸／千葉県市川市に新ターミナル竣工、4万m2の自社保有型倉庫を併設",
@@ -108,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332569",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332569",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "ZenGroup／大阪府に自社最大規模となる「箕面物流センター」を新設",
@@ -116,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332467",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332467",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -124,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "JMU／九州大学とネーミングライツ契約、講義室の愛称を「JMU Study Dock」に",
@@ -132,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332530",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332530",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "住友商事／岩手県花巻市で1.9万m2のマルチテナント型物流施設を着工",
@@ -140,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332521",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332521",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "財務省／7月の貿易3か月連続赤字、輸出23.2％増、輸入27.8％増",
@@ -148,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332461",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332461",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "三菱倉庫／米国で2件の物流施設開発事業に初参画、シャーロットとヒューストンで",
@@ -156,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332308",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332308",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "全日本トラック協会／景況感ほぼ横ばい、今後は運賃水準頭打ちなどで悪化見込む",
@@ -164,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332434",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332434",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
@@ -172,7 +196,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
@@ -180,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "日本郵船／川崎港で小学生招き自動車専用船の見学会を開催",
@@ -188,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332404",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332404",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "国交省ほか／内航海運の省エネへ補助事業者を9月9日まで3次公募",
@@ -196,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332395",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332395",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "NX総研／2024年問題の影響は改善傾向、トラック輸送力確保「厳しい」が64.4％に",
@@ -204,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332257",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332257",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "DHL／中国・深センのゲートウェイを拡張、大陸間直行貨物便の就航も",
@@ -212,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332188",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332188",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "CBRE／首都圏LMT空室率7.8％に低下、賃料は4圏域すべてで上昇",
@@ -220,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332221",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332221",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "ナビタイム／輸配送管理に音声ナビ機能、ヒヤリハットや自社ルールをドライバーに共有",
@@ -228,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332227",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332227",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "住友商事／海老名と厚木に計約14万m2の物流施設を竣工、BCP・環境性能を強化",
@@ -236,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332101",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332101",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "ヤマト運輸／ミライロIDとクロネコメンバーズ連携、配達時の要望を事前登録",
@@ -244,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332017",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332017",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "「令和8年8月千葉豪雨」／道路冠水や営業所浸水などにより物流にも影響",
@@ -252,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332074",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332074",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "東部ネットワーク 決算／4～6月の売上高2.6％増、営業利益82.3％増",
@@ -260,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332077",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332077",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "国交省／熊本地震被災地への支援物資輸送でトラック事業者に特例措置",
@@ -268,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331951",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331951",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "近鉄GHD／国際物流の売上高が18.7％増、営業利益は585.9％増",
@@ -276,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331945",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331945",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -284,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
@@ -292,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "American missionary kidnapped in Niger freed after nine months",
@@ -300,7 +324,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
@@ -308,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "丸全昭和運輸／茨城県東海村に空調・定温設備持つ新倉庫竣工",
@@ -316,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331876",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331876",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "AZ-COM丸和HD／熊本地震被災地にトラック200台大規模での支援物資輸送を実施",
@@ -324,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331849",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331849",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
@@ -332,7 +356,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
@@ -340,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "Spain to introduce temporary border checks on visitors from Italy",
@@ -348,7 +372,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "サカイ引越センター／50人が熊本地震被災地入りし段ボールベッド組み立てなど実施",
@@ -356,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331861",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331861",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "鈴与シンワート 決算／物流事業の売上高3.0％増、営業利益2.6％減",
@@ -364,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331858",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331858",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "大和ハウス工業／大阪府茨木市で3.1万m2の物流施設着工へ、パナソニックの工場跡地",
@@ -372,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331708",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331708",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     },
     {
       "title": "日本郵政 決算／4～6月の郵便・物流事業の売上高49億円減、営業利益61億円減",
@@ -380,31 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=331837",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=331837",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
-    },
-    {
-      "title": "千葉 銚子 輸入サバ高騰で加工業者の約2割が倒産や廃業状態に",
-      "body": "サバの加工が盛んな千葉県銚子市では、原料の大半を占めるノルウェー産などの輸入サバの価格高騰で水産加工業者の採算が悪化し、およそ2割が倒産や、事実上の廃業状態にあることが分かりました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199891000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260808/k10015199891000.html",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
-    },
-    {
-      "title": "KDDI 楽天への回線提供の契約 9月で終了 一部では提供継続",
-      "body": "KDDIが楽天モバイルに回線を貸し出す「ローミング契約」について、KDDIの松田浩路社長は、決算会見で、現在の契約は9月末で終了するものの、過疎地などエリアを限定して通信回線の提供を続ける考えを明らかにしました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199811000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260808/k10015199811000.html",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
-    },
-    {
-      "title": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
-      "body": "円相場や株価に影響を及ぼすアメリカの雇用統計が発表され、7月の農業分野以外の就業者は減少に転じ、市場の予想を大幅に下回りました。アメリカのFRB＝連邦準備制度理事会が早期に利上げに踏み切るという観測がいくぶん後退し、外国為替市場では、公表後にドルを売って円を買う動きが進みました。",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260807/k10015199701000.html",
-      "source": "NHK",
-      "id": "www3.nhk.or.jp/news/html/20260807/k10015199701000.html",
-      "fetchedAt": "2026-08-24T07:12:00.590Z"
+      "fetchedAt": "2026-08-24T13:04:02.471Z"
     }
   ],
   "items": [
@@ -412,67 +412,67 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で進めていた新たなAIモデル「アストラ」の開発を一時停止すると発表しました。開発中断の理由は、AIの性能向上に伴い、自律的に重大なサイバー攻撃を行う可能性があるためとされています。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。これは、AIの性能向上に伴い、モデルが自主的に重大なサイバー攻撃を行うリスクがあるためと説明しています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "つ",
-        "phrase": "つまらない 話もコトも しなさんな"
+        "leadingKana": "す",
+        "phrase": "すいません  言うな"
       },
-      "commentary": "技術の進化が予期せぬリスクを生む今、無理に進めるより立ち止まる勇気も大事や。焦らず本質を見極め、無意味な慌ては避けて、信頼を積み重ねる商売の姿勢を守ることが肝心やな。"
+      "commentary": "技術の進化はええことやけど、ただ怖がって止めるんは違うで。自分の商売もそうや、問題から目をそらさず、どう対処するか考え続ける姿勢が信頼を生むんや。「すいません」で済ませんと、正面から向き合う心意気が肝心やで。"
     },
     {
       "source": "NHK",
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し、広告主の本人確認などの対策強化を求める文書を送付しました。",
+      "summary": "政府は、SNS上で著名人の画像を無断使用した「なりすまし広告」を利用した詐欺被害が増加していることを受け、SNS事業者に対し広告主の本人確認を徹底するなどの対策強化を求める文書を送付しました。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "つ",
-        "phrase": "つまらない 話もコトも しなさんな"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "SNSでのなりすまし広告対策、表面的な対応に終わらんようにせなあかんで。無理に関わるんやなく、信頼の積み重ねが根っこや。面倒なことも見過ごさず、本気で向き合う姿勢が詐欺防止の土台になるんや。"
+      "commentary": "SNSでのなりすまし広告対策、本人確認を強化するのは当然やけど、そこで得る「安心」が本物かどうか見極める目が肝心や。表面的な対策に振り回されんと、信頼の土台をじっくり積み重ねることが、長い目で見て大事やで。"
     },
     {
       "source": "LNEWS",
-      "title": "丸和運輸機関／千葉県成田市とラグビー通じた地域振興などで包括連携協定",
-      "sourceURL": "https://www.lnews.jp/?p=332869",
-      "summary": "丸和運輸機関は8月20日、千葉県成田市とラグビーを活用した地域振興や地域貢献に関する包括連携協定を結んだ。丸和運輸機関が運営するラグビーチーム「丸和MOMOTARO’S」と連携し、地域活性化を図る取り組みを進める。",
+      "title": "AZ-COM丸和HD／埼玉県松伏町の基幹物流センターを公開、今期中の満床稼働目指す",
+      "sourceURL": "https://www.lnews.jp/?p=332806",
+      "summary": "AZ-COM丸和ホールディングスは、グループ会社の丸和運輸機関が埼玉県松伏町で運営する基幹物流センター「AZ-COM Matsubushi EAST」を報道関係者に公開した。施設は今年2月に稼働を開始しており、今期中に満床での稼働を目指している。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "ゆ",
+        "phrase": "ゆっくりと 行くのは一体 何の為？"
+      },
+      "commentary": "新たな物流拠点の稼働は先を見据えた一手やけど、進み具合に満足せず先手を打つ姿勢が大事や。立ち止まる理由を持たずに、待たせるより待つ苦しさを避けて、迅速さを常に意識し続けることが信頼の礎になるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "トラスコ中山／新潟県三条市で4.8万m2の物流センター稼働、危険物倉庫や自動倉庫の導入も",
+      "sourceURL": "https://www.lnews.jp/?p=332842",
+      "summary": "トラスコ中山は新潟県三条市に新たな物流センターを開設し、8月24日から稼働を開始した。敷地面積は約4万8千平方メートルで、186億円の投資を行った。主にホームセンタールート向けの出荷を担い、危険物倉庫や自動倉庫の設備も導入している。これにより在庫保管と出荷能力の強化を図っている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
       },
-      "commentary": "丸和運輸機関が成田市とラグビーで地域を盛り上げる協定締結。短期の成果だけ追わず、地道な信頼の積み重ねが地域貢献の根幹や。商売も人生も一発勝負やのうて、変わらぬ覚悟でやるべきことを続けていく大切さが感じられる話やね。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "阪急阪神不動産・CRE／ベトナム北部での共同出資開発プロジェクト、倉庫5棟が竣工",
-      "sourceURL": "https://www.lnews.jp/?p=332851",
-      "summary": "阪急阪神不動産とシーアールイー（CRE）は、シンガポールのSembcorp Developmentと共同で進めていたベトナム北部の開発プロジェクトにおいて、倉庫5棟の建設が完了したと発表した。このプロジェクトは共同出資で行われており、物流インフラの整備を目的としている。竣工により地域の物流拠点としての機能強化が期待される。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "せ",
-        "phrase": "精一杯 世に尽くすのが わが生涯"
-      },
-      "commentary": "阪急阪神不動産らがベトナムで倉庫竣工、国境越えた商いは一朝一夕やない。地道に信頼積み重ね、社会の役に立つことを肝に銘じる。商売はただの儲けやない、日々の誠実な行動が未来を拓く。慌てず着実に、世に尽くす道を歩もうや。"
+      "commentary": "大きな物流センターの稼働は、情報と工程の透明性が不可欠や。秘密を抱え込むより、正直に見せて信頼を築くことが長持ちの商いのコツやで。隠す手間は無駄やし、日々の積み重ねが信用となって次へつながるんや。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-      "sourceURL": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-      "summary": "ギニアの首都コナクリで、大規模なごみ処分場の土砂崩れが発生し、30人が死亡したと政府が発表しました。崩壊は豪雨の影響で起き、近くのテントやバラックが巻き込まれました。政府は数日前に同処分場の閉鎖と移転を計画していたものの、雨季の度に土砂崩れや洪水の危険が指摘されていました。",
+      "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+      "sourceURL": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+      "summary": "西アフリカのギニアビサウでは、7月に感染症流行が宣言されて以降、疑い例46件が報告されている。これまでに7件の確定例が確認され、そのうち半数は子どもで、4歳未満が16人含まれる。7月初旬、同国で初めて27歳の女性の感染が確認されてから、感染の拡大が懸念されている。",
       "classification": {
         "tone": "B",
         "term": "S"
@@ -481,7 +481,7 @@
         "leadingKana": "も",
         "phrase": "もうアカン 思たトコから もう一歩"
       },
-      "commentary": "今回の悲報は、問題を先送りにせず、少しの勇気を持って前に進むことの難しさを示しているわな。環境や事情が重なっても、諦める前にもう一歩、現場の声や状況を丁寧に積み重ねる姿勢こそが、信頼と持続可能な解決へ繋がる。焦らず、でも後退せん意志を忘れんことや。"
+      "commentary": "感染拡大の中、特に子どもたちが影響を受けている状況は厳しい。焦らずに、一歩ずつ課題に向き合う姿勢が求められるで。短期の成果に振り回されず、信頼の積み重ねが次の一歩を支えるんや。"
     }
   ]
 }
