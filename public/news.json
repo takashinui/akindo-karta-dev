@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T04:11:12.051Z",
+  "generatedAt": "2026-09-02T11:06:36.571Z",
   "run": {
-    "ranAt": "2026-09-02T04:11:12.051Z",
+    "ranAt": "2026-09-02T11:06:36.571Z",
     "runner": "github-actions",
-    "runId": "33589788887"
+    "runId": "33622842767"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-09-02T04:10:48.630Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,7 +20,31 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
+    },
+    {
+      "title": "CLO特集／物流を変えれば経営が変わる　キユーピーSCM改革への挑戦",
+      "body": "<![CDATA[<p>加工食品業界において、先駆けて物流改革を取り組んできたキユーピー。物流効率化法施行以前から、「S&#38;OP（Sales and Operations Planning ）」「DFL（Design For Logist [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0902501.html\">CLO特集／物流を変えれば経営が変わる　キユーピーSCM改革への挑戦</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=332536",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=332536",
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
+    },
+    {
+      "title": "福岡運輸HD／上田コールドなど2社をグループ化、冷凍冷蔵物流事業の強化図る",
+      "body": "<![CDATA[<p>福岡運輸ホールディングス（HD）は8月31日、傘下の福岡運輸を通じて、上田コールドと関西上田コールドの全株式を取得した。 上田コールドは、島根県出雲市に本社を置き、出雲・米子・鳥取に物流センターを展開。冷凍・冷蔵品を中心 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0902102.html\">福岡運輸HD／上田コールドなど2社をグループ化、冷凍冷蔵物流事業の強化図る</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=333826",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=333826",
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
+    },
+    {
+      "title": "Guinea-Bissau voters approve new constitution expanding presidential powers",
+      "body": "&lt;p&gt;Changes include fewer seats in parliament and new rules on presidential candidates ahead of December elections&lt;/p&gt;&lt;p&gt;Guinea-Bissau voters have approved a new constitution significantly expanding presidential powers ahead of elections due in December.&lt;/p&gt;&lt;p&gt;According to provisional results, 70% of voters approved sweeping changes in the tiny west African state’s first constitutional amendment since revisions that ended the one-party socialist state more than three decades ago.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "ラピュタロボティクス／自在型自動倉庫を加藤産業が物流センターに採用、70％省人化へ",
@@ -28,7 +52,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333811",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333811",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "ロジスネクスト／ハクオウロボティクスに1tリーチ型フォークリフト車体提供",
@@ -36,7 +60,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333799",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333799",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "South African airline defends dramatic low-level flyby before rugby union clash",
@@ -44,7 +68,7 @@
       "sourceURL": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "物流最前線／物流業界の応援団であり続ける 日本GLP、新ブランドMarq始動",
@@ -52,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332836",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332836",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "大和ハウス工業／千葉県四街道市で30万m2の大型マルチテナント型物流施設が本格稼働",
@@ -60,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333766",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333766",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "奥村組、三菱商事都市開発／大阪市平野区で2.9万m2の物流施設着工、2028年冬竣工予定",
@@ -68,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333688",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333688",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "佐川グローバルロジ／京都府京田辺市に営業所開設、関西エリアの対応力を強化",
@@ -76,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333682",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333682",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "三菱地所、JR九州、住友倉庫／埼玉県三郷市で13.5万m2の物流施設竣工、危険物倉庫も併設",
@@ -84,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333544",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333544",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "CRE／京都府京田辺市で2棟目、9万m2のマルチテナント型施設が竣工、契約率は60％",
@@ -92,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333529",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333529",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "Countries legally obliged to consider slavery reparations, says UN committee",
@@ -100,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "三井倉庫ロジ、T2／日立の産業機械を自動運転トラックで輸送実証、定期輸送めざす",
@@ -108,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333514",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333514",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
@@ -116,7 +140,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "国交省／2027年度概算要求で物流網整備や港湾ロジスティクス強化など大幅増額求める",
@@ -124,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333472",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333472",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "霞ヶ関キャピタル／神奈川県厚木市で自社初のドライ自動倉庫開発プロジェクト始動",
@@ -132,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333484",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333484",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
@@ -140,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
@@ -148,7 +172,7 @@
       "sourceURL": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "日本郵便／フリーランスとの取引報道で声明、「調査に真摯に対応」",
@@ -156,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333376",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333376",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "セイノー情報サービス／ロボット導入の最適解を提案する診断サービスを開始",
@@ -164,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333256",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333256",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
@@ -172,7 +196,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "J-HRTI／千葉県習志野市にデータファクトリーを稼働、物流などヒューマノイド実装へ",
@@ -180,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333160",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333160",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "国交省／トラックの適正原価設定検討会で全日本トラック協会からヒアリング",
@@ -188,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333145",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333145",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
@@ -196,7 +220,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
@@ -204,7 +228,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "国交省／「標準的運賃」の8割以上収受できたトラック事業者は約35％",
@@ -212,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333109",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333109",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "米国向け海上コンテナ貨物量／7月は9.5％減、前月比では11.0％増",
@@ -220,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333088",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333088",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
@@ -228,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "日本GLP／JFE、川崎市と協定、製鉄所跡地で11棟37万m2の冷凍冷蔵施設群を開発へ",
@@ -236,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332983",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332983",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "丸全昭和運輸／タイ・レムチャバンに6423m2の新倉庫群を竣工、危険物倉庫を併設",
@@ -244,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332926",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332926",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "スズケン／春日井市と包括連携協定、新物流センターを地域医療・災害対応に活用",
@@ -252,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332974",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332974",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "AZ-COM丸和HD／埼玉県松伏町の基幹物流センターを公開、今期中の満床稼働目指す",
@@ -260,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332806",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332806",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "トラスコ中山／新潟県三条市で4.8万m2の物流センター稼働、危険物倉庫や自動倉庫の導入も",
@@ -268,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332842",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332842",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
@@ -276,7 +300,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "丸和運輸機関／千葉県成田市とラグビー通じた地域振興などで包括連携協定",
@@ -284,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332869",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332869",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "阪急阪神不動産・CRE／ベトナム北部での共同出資開発プロジェクト、倉庫5棟が竣工",
@@ -292,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332851",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332851",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
@@ -300,7 +324,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "豊田自動職機／フォークリフト等の国内向け産業車両、11月16日から値上げ",
@@ -308,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332746",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332746",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "CRE／大阪府枚方市で41万m2の土地区画整理事業、物流施設など誘致へ",
@@ -316,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332734",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332734",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "オークラ輸送機／神戸大学と産学連携、物流・搬送分野の技術発展と人材育成へ",
@@ -324,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332626",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332626",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -332,7 +356,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "航空貨物運送協会／7月国際航空貨物の輸出件数2.61％増、重量15.31％増",
@@ -340,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332731",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332731",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "JR貨物／7月の鉄道コンテナ輸送量4.0％減、車扱0.2％減",
@@ -348,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332707",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332707",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "サカイ引越センター／バスケットボールを寄贈し堺市教育委員会から感謝状",
@@ -356,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332632",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332632",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "西濃運輸／千葉県市川市に新ターミナル竣工、4万m2の自社保有型倉庫を併設",
@@ -364,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332569",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332569",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "ZenGroup／大阪府に自社最大規模となる「箕面物流センター」を新設",
@@ -372,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332467",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332467",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     },
     {
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -380,31 +404,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
-    },
-    {
-      "title": "JMU／九州大学とネーミングライツ契約、講義室の愛称を「JMU Study Dock」に",
-      "body": "<![CDATA[<p>ジャパン マリンユナイテッド（JMU）は8月20日、九州大学とネーミングライツ（愛称を付与する権利）契約を締結し、九州大学 伊都キャンパス ウエスト2号館320船海講義室1の愛称を「JMU Study Dock」とするこ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0820506.html\">JMU／九州大学とネーミングライツ契約、講義室の愛称を「JMU Study Dock」に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=332530",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=332530",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
-    },
-    {
-      "title": "住友商事／岩手県花巻市で1.9万m2のマルチテナント型物流施設を着工",
-      "body": "<![CDATA[<p>住友商事は8月20日、岩手県花巻市でマルチテナント型物流施設「SOSiLA（ソシラ）花巻」を着工したと発表した。2027年7月末に竣工の予定。 「SOSiLA花巻」は地上2階建て、延床面積約1万8752m2のボックス型物 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0820604.html\">住友商事／岩手県花巻市で1.9万m2のマルチテナント型物流施設を着工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=332521",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=332521",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
-    },
-    {
-      "title": "財務省／7月の貿易3か月連続赤字、輸出23.2％増、輸入27.8％増",
-      "body": "<![CDATA[<p>財務省が8月20日に発表した7月分の貿易統計速報によると、輸出額は11兆5118億円（前年同月比23.2％増）で11か月連続の増加、輸入額は12兆1463億円（27.8％増）で6か月連続の増加だった。 輸出と輸入の差引額 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0820601.html\">財務省／7月の貿易3か月連続赤字、輸出23.2％増、輸入27.8％増</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=332461",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=332461",
-      "fetchedAt": "2026-09-02T04:10:48.631Z"
+      "fetchedAt": "2026-09-02T11:06:15.595Z"
     }
   ],
   "items": [
@@ -412,76 +412,76 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」開発に関連する新たなAIモデル「アストラ」の開発を一時停止すると発表しました。これは、同モデルの能力が急速に向上し、自律的に重大なサイバー攻撃を行うリスクが懸念されたためです。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると7日に発表しました。これは、AIの性能向上に伴い、自律的に重大なサイバー攻撃を仕掛けるリスクが否定できないためと説明しています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "き",
-        "phrase": "気が乗らぬ時は ちょっと待つ"
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "技術が進んでいく中で、焦って進めるより、違和感やリスクを感じたら一旦止まるのが大事やで。信頼は急には築けへん。商売でも技術でも、慎重な見直しが長い目での安心と成果につながるんや。"
+      "commentary": "AIの進化は期待と同時に慎重さを求めるわな。情報だけで慌てず、リスクの真偽や前提をじっくり見直すことが、信頼を守る第一歩や。焦らずに、次の判断に活かす心構えが大事やで。"
     },
     {
       "source": "NHK",
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で著名人の写真を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し、広告主の本人確認を含む対策の強化を文書で求めました。",
+      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し、広告主の本人確認などの対策強化を文書で求めました。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
+        "leadingKana": "つ",
+        "phrase": "つまらない 話もコトも しなさんな"
       },
-      "commentary": "SNSでのなりすまし広告対策も大事やけど、ただ本人確認を強化するだけやと本質の信頼には届かへん。見せかけの安全に振り回されず、ほんまに守りたい信頼関係を見据えて地道に積み重ねる姿勢が必要やな。焦らず、目的を忘れんことや。"
+      "commentary": "SNSの世界では、無意味なやり取りや軽率な情報が氾濫しやすい。だからこそ、表面的な広告やなりすましに流されず、真摯な確認と本気の対話を大切にすることや。あきんどは無駄を省き、信頼を積むために、見せかけや無駄話に惑わされん姿勢が求められるんやで。"
     },
     {
       "source": "LNEWS",
-      "title": "ラピュタロボティクス／自在型自動倉庫を加藤産業が物流センターに採用、70％省人化へ",
-      "sourceURL": "https://www.lnews.jp/?p=333811",
-      "summary": "ラピュタロボティクスの自在型自動倉庫システム「ラピュタASRS」が、加藤産業の新物流センターに導入された。加藤産業はこのシステムの導入により、食品卸売業の物流現場でのピッキング作業を中心に約70％の省人化を見込んでいる。これにより作業効率の向上を図る狙いがある。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "な",
-        "phrase": "何するか 分からん時は 基礎鍛錬"
-      },
-      "commentary": "物流現場の省人化は魅力的やけど、慌てて新技術に飛びつくんやなく、基本の作業や流れを見直してから取り入れるのが肝心や。地道な基礎固めが、長く信頼される仕組みを生む。焦らず、段階踏んで進める姿勢こそが商売の強みになるで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "ロジスネクスト／ハクオウロボティクスに1tリーチ型フォークリフト車体提供",
-      "sourceURL": "https://www.lnews.jp/?p=333799",
-      "summary": "ロジスネクストはハクオウロボティクスと契約を結び、同社が開発する定格荷重1トンの自動リーチ型フォークリフト「AutoForkリーチ」の車体を供給することを発表した。今回の契約により、両社は自動化技術を活用した物流機器の開発・提供を進める。",
+      "title": "CLO特集／物流を変えれば経営が変わる　キユーピーSCM改革への挑戦",
+      "sourceURL": "https://www.lnews.jp/?p=332536",
+      "summary": "キユーピーは加工食品業界で物流改革に先駆けて取り組み、物流効率化法施行前からS&OPやDFLなどの手法を導入してきた。これにより、サプライチェーンマネジメント（SCM）の改革を進め、経営全体の変革を目指している。具体的な施策や成果についても注目されている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
       },
-      "commentary": "ロジスネクストとハクオウロボティクスの連携は、一回限りで終わらん持続する取り組みの一歩や。短期の成果だけ追わんと、信頼を積み重ねて、未来も見据えた仕事の形を作っていくんやな。変化の中でも揺るがん筋を持つ大切さを感じるで。"
+      "commentary": "物流の見直しは単なるコスト削減や効率化にとどまらへん。経営の根幹を支える大事な役割や。日々の地道な改善が信頼の礎になるさかい、短期の結果に振り回されんと、社会と共に歩む姿勢を大切にせなあかん。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "福岡運輸HD／上田コールドなど2社をグループ化、冷凍冷蔵物流事業の強化図る",
+      "sourceURL": "https://www.lnews.jp/?p=333826",
+      "summary": "福岡運輸ホールディングスは8月31日、子会社の福岡運輸を通じて、上田コールドおよび関西上田コールドの全株式を取得した。上田コールドは島根県出雲市に本社を置き、出雲、米子、鳥取に物流センターを展開している。今回の株式取得により、福岡運輸HDは冷凍・冷蔵物流事業の体制強化を目指す。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
+      },
+      "commentary": "福岡運輸HDの動きは、冷凍冷蔵物流の強化を見据え、透明な関係づくりが鍵や。秘密にせんと、それぞれの強みを活かし合い、信頼の輪を広げる。商売は隠しごとより、腹割って進めるほうが長続きするもんやで。"
     },
     {
       "source": "Guardian｜World",
-      "title": "South African airline defends dramatic low-level flyby before rugby union clash",
-      "sourceURL": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-      "summary": "南アフリカのケープタウンで行われたラグビーの国際戦前に、Airlinkが運航する2機の旅客機がスタジアム上空を低空飛行し、約5万6000人の観衆の歓声を浴びた。一方で、飛行高度が12〜14メートルと非常に低かったことから安全面への懸念も指摘されている。Airlinkは規制に則って実施したと説明している。",
+      "title": "Guinea-Bissau voters approve new constitution expanding presidential powers",
+      "sourceURL": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+      "summary": "ギニアビサウで12月に予定されている選挙を前に、新憲法案が国民投票で承認されました。暫定結果によると、有権者の約70%が議席削減や大統領候補者に関する新たな規定を含む改正を支持しました。今回の改正は、同国で30年以上ぶりの憲法改正となり、大統領の権限が拡大される内容です。",
       "classification": {
         "tone": "N",
-        "term": "S"
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "り",
+        "phrase": "理解には  聞読話書と  四段階"
       },
-      "commentary": "大勢の前で見せ場を作るのは商売の妙味やけど、安全面の疑問は曖昧にせんことや。心地よい演出も、相手の声をきちんと聞いて理解を深める姿勢が信頼を積む一歩になる。表面的な賛否に流されず、対話を重ねることが次の商売の質を左右するんやで。"
+      "commentary": "憲法変わって大きな権限が増えると、政治の動きも変わるわな。商売も同じで、環境の変化を聞いて見て、しっかり話して書けるようになるまで、段階踏んで理解せな信頼は築かれへん。急がず着実に学ぶ姿勢が大事やで。"
     }
   ]
 }
