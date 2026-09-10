@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T04:20:57.900Z",
+  "generatedAt": "2026-09-10T11:06:10.359Z",
   "run": {
-    "ranAt": "2026-09-10T04:20:57.900Z",
+    "ranAt": "2026-09-10T11:06:10.359Z",
     "runner": "github-actions",
-    "runId": "34436780691"
+    "runId": "34469463637"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,23 +20,23 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
-      "title": "【PR】日本GLP／ウェビナー「物流コスト削減と拠点戦略の最適化」10月7～9日に再放映",
-      "body": "<![CDATA[<p>日本GLPは10月7～9日、ウェビナー「物流コスト削減と拠点戦略の最適化〜サプライチェーン可視化から選ぶ、自社保有 vs 賃貸の最適解」を再放映する。7月に200人以上が視聴し好評だったもの。 ウェビナーは船井総研サプラ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0910603.html\">日本GLP／ウェビナー「物流コスト削減と拠点戦略の最適化」10月7～9日に再放映</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=334792",
+      "title": "Amazon／関西最大のフルフィルメントセンターを公開、最大1500万個の保管が可能",
+      "body": "<![CDATA[<p>Amazonは9月10日、兵庫県尼崎市に新設した物流拠点「Amazon武庫川フルフィルメントセンター」（武庫川FC）を報道関係者に公開した。 Amazonは8月5日、利用拡大によって高まる需要に応えるため、フルフィルメン [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0910101.html\">Amazon／関西最大のフルフィルメントセンターを公開、最大1500万個の保管が可能</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=334891",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=334792",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "id": "www.lnews.jp/?p=334891",
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
-      "title": "川崎汽船／東邦ガス向けLNG船「TOHO EMERALD」と命名",
-      "body": "<![CDATA[<p>川崎汽船は9月9日、東邦ガスの100％子会社である東邦エルエヌジー船舶との合弁会社を通じて保有する新造LNG船を「TOHO EMERALD（トーホー・エメラルド）」と命名した。 LNGを主燃料とする二元燃料低速ディーゼル [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0910605.html\">川崎汽船／東邦ガス向けLNG船「TOHO EMERALD」と命名</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=334807",
+      "title": "国際物流総合展／MUJIN、フィジカルAI実装へ最新実機を公開、Exotecと共同出展も",
+      "body": "<![CDATA[<p>Mujinは、9月8日から11日まで東京ビッグサイトで開催中の「国際物流総合展2026」に出展し、最新ロボットによる実機デモや、Exotecとの共同による倉庫全体を最適化する統合システムなどを公開している。 東1ホールの [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0910502.html\">国際物流総合展／MUJIN、フィジカルAI実装へ最新実機を公開、Exotecと共同出展も</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=334822",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=334807",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "id": "www.lnews.jp/?p=334822",
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
@@ -44,7 +44,23 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
+    },
+    {
+      "title": "【PR】日本GLP／ウェビナー「物流コスト削減と拠点戦略の最適化」10月7～9日に再放映",
+      "body": "<![CDATA[<p>日本GLPは10月7～9日、ウェビナー「物流コスト削減と拠点戦略の最適化〜サプライチェーン可視化から選ぶ、自社保有 vs 賃貸の最適解」を再放映する。7月に200人以上が視聴し好評だったもの。 ウェビナーは船井総研サプラ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0910603.html\">日本GLP／ウェビナー「物流コスト削減と拠点戦略の最適化」10月7～9日に再放映</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=334792",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=334792",
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
+    },
+    {
+      "title": "川崎汽船／東邦ガス向けLNG船「TOHO EMERALD」と命名",
+      "body": "<![CDATA[<p>川崎汽船は9月9日、東邦ガスの100％子会社である東邦エルエヌジー船舶との合弁会社を通じて保有する新造LNG船を「TOHO EMERALD（トーホー・エメラルド）」と命名した。 LNGを主燃料とする二元燃料低速ディーゼル [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0910605.html\">川崎汽船／東邦ガス向けLNG船「TOHO EMERALD」と命名</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=334807",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=334807",
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "CLO特集 アスクル／物流をさらなる競争力へ、DXと共創による次世代EC戦略",
@@ -52,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334213",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334213",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "国際物流総合展／ダイフク、新開発2機を披露、「完全無人化」への戦略示す",
@@ -60,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334621",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334621",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Babies born to anaemic mothers have smaller brains, study finds",
@@ -68,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "【PR】JILS／「ROIC向上のためのSCM研究会」を10月22日から全3回開催",
@@ -76,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334588",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334588",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "【PR】CBRE／北海道苫小牧市で賃貸型危険物倉庫の竣工前内覧会を10月7日開催",
@@ -84,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334558",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334558",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "国際物流総合展／人手不足背景に「自動化」機器など多様化、過去最大規模で開幕",
@@ -92,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334522",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334522",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "国交省／自動物流道路2026年度実証実験の採択事業者を公表",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334468",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334468",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "【PR】マイナビ／9月15・16日、企業のDX・AI活用を考えるオンラインセミナー開催",
@@ -116,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334390",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334390",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "【PR】大和ハウスPM／千葉県「DPL浦安III」内覧会とセミナーを10月16日に開催",
@@ -124,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334393",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334393",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "福山通運とT2／自動運転トラックを中継輸送に組み込み、関東ー九州・中四国間で実証",
@@ -140,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334300",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334300",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "台風24号と秋雨前線による大雨／広範囲での配達遅延など物流に影響",
@@ -148,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334258",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334258",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "CPD／埼玉県蓮田市に2万m2のマルチテナント型物流施設竣工、柔軟なレイアウト設計が可能",
@@ -156,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334135",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334135",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "丸十運輸倉庫／東広島市に1.5万m2の物流センター竣工、危険物・毒劇物など集約",
@@ -164,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334204",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334204",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
@@ -172,7 +188,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "UN votes to adopt new world map that shows Africa’s true scale",
@@ -180,7 +196,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "ロジスティード／10月1日付で営業開発本部に物流プラットフォーム推進PJを新設",
@@ -188,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334144",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334144",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "ヤマトHD／JALグループの国内線フレイター運航来年6月まで、背景に円安や燃料高",
@@ -196,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333994",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333994",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "環境省／来年度予算概算要求で冷凍冷蔵機器の脱フロン化推進関連盛り込む",
@@ -204,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334033",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334033",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
@@ -212,7 +228,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Victims sue South African government over 1961 Sharpeville massacre that left 91 dead",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Gaussy／小型自動倉庫、無人配送車など3機種を新たにラインアップ",
@@ -228,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333967",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333967",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
@@ -236,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "CLO特集／物流を変えれば経営が変わる　キユーピーSCM改革への挑戦",
@@ -244,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332536",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332536",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "福岡運輸HD／上田コールドなど2社をグループ化、冷凍冷蔵物流事業の強化図る",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333826",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333826",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "ラピュタロボティクス／自在型自動倉庫を加藤産業が物流センターに採用、70％省人化へ",
@@ -260,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333811",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333811",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "ロジスネクスト／ハクオウロボティクスに1tリーチ型フォークリフト車体提供",
@@ -268,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333799",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333799",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "South African airline defends dramatic low-level flyby before rugby union clash",
@@ -276,7 +292,7 @@
       "sourceURL": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "物流最前線／物流業界の応援団であり続ける 日本GLP、新ブランドMarq始動",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=332836",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=332836",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "大和ハウス工業／千葉県四街道市で30万m2の大型マルチテナント型物流施設が本格稼働",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333766",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333766",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "奥村組、三菱商事都市開発／大阪市平野区で2.9万m2の物流施設着工、2028年冬竣工予定",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333688",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333688",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "佐川グローバルロジ／京都府京田辺市に営業所開設、関西エリアの対応力を強化",
@@ -308,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333682",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333682",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "三菱地所、JR九州、住友倉庫／埼玉県三郷市で13.5万m2の物流施設竣工、危険物倉庫も併設",
@@ -316,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333544",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333544",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "CRE／京都府京田辺市で2棟目、9万m2のマルチテナント型施設が竣工、契約率は60％",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333529",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333529",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Countries legally obliged to consider slavery reparations, says UN committee",
@@ -332,7 +348,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "三井倉庫ロジ、T2／日立の産業機械を自動運転トラックで輸送実証、定期輸送めざす",
@@ -340,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333514",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333514",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
@@ -348,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "国交省／2027年度概算要求で物流網整備や港湾ロジスティクス強化など大幅増額求める",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333472",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333472",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "霞ヶ関キャピタル／神奈川県厚木市で自社初のドライ自動倉庫開発プロジェクト始動",
@@ -364,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333484",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333484",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
@@ -372,7 +388,7 @@
       "sourceURL": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     },
     {
       "title": "日本郵便／フリーランスとの取引報道で声明、「調査に真摯に対応」",
@@ -388,23 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333376",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333376",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
-    },
-    {
-      "title": "セイノー情報サービス／ロボット導入の最適解を提案する診断サービスを開始",
-      "body": "<![CDATA[<p>セイノー情報サービスは8月27日、物流現場の自動化やロボット導入を検討する企業向けに、「物流自動化構想ワンデー診断サービス」の提供を開始した。 近年、物流業界では人手不足や物流コスト上昇への対応が急務となる一方、自動化の [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/08/s0827503.html\">セイノー情報サービス／ロボット導入の最適解を提案する診断サービスを開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=333256",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=333256",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
-    },
-    {
-      "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
-      "body": "&lt;p&gt;Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime&lt;/p&gt;&lt;p&gt;The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed has been arrested in Cairo because of her sister’s political activism.&lt;/p&gt;&lt;p&gt;Eman el-Shazly, a 45-year-old based in Birmingham, was arrested on 16 August while visiting Egypt. Her lawyers say she has been detained in an attempt to silence her sister Mona, a relentless and harsh critic of the Egyptian government on her UK-based YouTube channel.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-      "fetchedAt": "2026-09-10T04:20:26.974Z"
+      "fetchedAt": "2026-09-10T11:05:48.740Z"
     }
   ],
   "items": [
@@ -412,52 +412,37 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "米オープンAIは7日、生成AI「ChatGPT」の関連モデル「アストラ」の開発を一時停止すると発表しました。これは、AIの性能向上により、AIが自律的に重大なサイバー攻撃を行うリスクが懸念されたためです。安全性の確認が求められています。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発している中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。これは、AIの性能向上により自律的に深刻なサイバー攻撃を仕掛けるリスクが懸念されたためです。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "つ",
-        "phrase": "つまらない 話もコトも しなさんな"
+        "leadingKana": "す",
+        "phrase": "すいません  言うな"
       },
-      "commentary": "AIの暴走リスクに向き合う姿勢は、無理やり進めるより立ち止まる勇気を示してるんや。あきんどの世界も、つまらんことに流されず、本音で向き合う大切さを思い出させるわ。信頼はそんな積み重ねから生まれるんやで。"
+      "commentary": "AIが未知の力を持つことは、商売の世界でも同じや。あやふやな「すいません」で片付けず、何が起こるか見極めて、責任持って対処せな信頼は積み上がらへん。焦らず、慎重に前へ進む姿勢が肝心やで。"
     },
     {
       "source": "NHK",
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し、広告主の本人確認を含む対策の強化を文書で求めました。",
+      "summary": "政府は、SNS上で著名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加している状況を受け、SNS運営事業者に対し、広告主の本人確認などの詐欺防止策を強化するよう正式に求めました。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
+        "leadingKana": "や",
+        "phrase": "やるんかい やらんのやったら どいとれや"
       },
-      "commentary": "SNSでのなりすまし広告対策、確かに本人確認の強化は大事やけど、そこだけ追い求めて信頼の本質を見失わんようにせなあかん。表面的な対策だけで安心せず、長い目で信頼積むことが肝心やろな。焦らず根本を見極める姿勢が大事やで。"
+      "commentary": "SNS上の詐欺被害防止は、運営者だけの役割やない。各々が自分の立場で責任を果たすことが信頼を築く第一歩や。声を上げて動くか、黙って見過ごすか。迷う暇があったら、まず一歩踏み出す心意気を持ち続けることが肝心やで。"
     },
     {
       "source": "LNEWS",
-      "title": "【PR】日本GLP／ウェビナー「物流コスト削減と拠点戦略の最適化」10月7～9日に再放映",
-      "sourceURL": "https://www.lnews.jp/?p=334792",
-      "summary": "日本GLPは、物流コスト削減と拠点戦略の最適化をテーマにしたウェビナーを10月7日から9日にかけて再放送する。同ウェビナーは7月に200人以上が参加し、好評を得た。内容はサプライチェーンの可視化を踏まえ、自社保有と賃貸の選択について解説する。船井総研サプライチェーン支援が関与している。",
-      "classification": {
-        "tone": "G",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "と",
-        "phrase": "遠い道 一歩進めば 一歩近づく"
-      },
-      "commentary": "物流コストや拠点戦略の見直しは、一朝一夕で答えが出るもんやない。今回のウェビナー再放映も、一歩ずつ課題に向き合う機会として活かすんや。焦らずに、地道な積み重ねが信頼と成果を育てるんやで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "川崎汽船／東邦ガス向けLNG船「TOHO EMERALD」と命名",
-      "sourceURL": "https://www.lnews.jp/?p=334807",
-      "summary": "川崎汽船は9月9日、東邦ガスの子会社と共同で保有する新造のLNG船に「TOHO EMERALD」と命名した。この船はLNGを主燃料とする二元燃料低速ディーゼルエンジンを搭載している。東邦エルエヌジー船舶との合弁会社を通じた保有で、東邦ガス向けに運用される予定である。",
+      "title": "Amazon／関西最大のフルフィルメントセンターを公開、最大1500万個の保管が可能",
+      "sourceURL": "https://www.lnews.jp/?p=334891",
+      "summary": "Amazonは兵庫県尼崎市に新たな物流拠点「Amazon武庫川フルフィルメントセンター」を設立し、9月10日に報道関係者向けに公開した。この施設は関西地域で最大規模を誇り、最大1500万個の商品を保管できる能力を持つ。需要増加に対応するための拠点強化の一環として稼働している。",
       "classification": {
         "tone": "G",
         "term": "L"
@@ -466,22 +451,37 @@
         "leadingKana": "せ",
         "phrase": "精一杯 世に尽くすのが わが生涯"
       },
-      "commentary": "川崎汽船と東邦ガスの連携でLNG船「TOHO EMERALD」が誕生。新しい技術を取り入れた船が、社会のエネルギー需要に応える一歩や。商売は社会とのつながりから生まれるもんやから、日々の積み重ねが信頼を築く。目先の利益だけでなく、持続する役割を考え続けることが大事やで。"
+      "commentary": "新たな物流拠点の開設は、ただの規模拡大や効率追求やおまへん。地域や社会のニーズに応えるために、日々の積み重ねが信頼を築く商いの姿勢が見えるんや。目先の利益に惑わされず、社会に尽くす気持ちを持ち続けることが、これからのあきんどの務めやと感じますな。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "国際物流総合展／MUJIN、フィジカルAI実装へ最新実機を公開、Exotecと共同出展も",
+      "sourceURL": "https://www.lnews.jp/?p=334822",
+      "summary": "Mujinは東京ビッグサイトで開催中の「国際物流総合展2026」に出展し、最新のロボット実機デモを披露した。また、倉庫全体の効率化を目指す統合システムをExotecと共同で展示している。これによりフィジカルAIの実装を進める取り組みを紹介している。",
+      "classification": {
+        "tone": "G",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "た",
+        "phrase": "鷹の目と 地虫の目と 人の目"
+      },
+      "commentary": "最新ロボットと統合システムの展示は、大きな流れを捉えつつ現場の細かな課題も映し出してるわ。けど技術だけやのうて、使う人の思いや目的がないと信頼は積み上がらへん。日々の積み重ねが次の一歩やで、と自分に問うてみることやな。"
     },
     {
       "source": "Guardian｜World",
       "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
       "sourceURL": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
-      "summary": "ウガンダの軍司令官ムフージ・カイネルガバ将軍は、王室を巡る「ハリー・メーガン問題」を理由に、敬意を示してインヴィクタスゲームズからの撤退を表明した。彼は大統領の息子であり、水曜日にSNSで突然の発表を行った。大会はサセックス公ヘンリー主催のものである。",
+      "summary": "ウガンダの軍司令官ムフージ・カイネルガバ将軍は、ウィリアム王子主催のインビクタスゲームズからの撤退を発表した。理由として、チャールズ国王への敬意と、ハリー王子夫妻を巡る対立を挙げている。この決定はウガンダ大統領の息子によるもので、SNSで公表された。",
       "classification": {
         "tone": "N",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "て",
-        "phrase": "適当な 相づち打つより 何ですか？"
+        "leadingKana": "ん",
+        "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "国際的な場では、表面的な合意よりも背景の理解が命取りや。相手の言葉や事情をじっくり尋ねて、真意を掴むことが信頼の基本やで。短絡的な反応は関係をこじらせるだけ。商売も人付き合いも、単なる流れに乗るんやなくて、深く聞き取ってから動く姿勢が長続きの鍵やと思うわ。"
+      "commentary": "こういう事態に直面したら、違和感を感じるのは自然やな。何かしらの背景や理屈があっての判断やろうけど、その「ん？」を見過ごしたらあかん。商売でも仕事でも、違和感は疑問を育て信頼を築くヒントになる。焦らず、じっくり考え続けることが、長い目での信頼につながるんやで。"
     }
   ]
 }
