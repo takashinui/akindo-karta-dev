@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T12:23:28.070Z",
+  "generatedAt": "2026-09-30T22:08:26.805Z",
   "run": {
-    "ranAt": "2026-09-30T12:23:28.070Z",
+    "ranAt": "2026-09-30T22:08:26.805Z",
     "runner": "github-actions",
-    "runId": "36714336657"
+    "runId": "36783740667"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.977Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,7 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.977Z"
     },
     {
       "title": "プロロジス／マルチテナント型自動倉庫「OMEGA」を台湾ALPと日本で展開、第1弾は京都府",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336589",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336589",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.977Z"
     },
     {
       "title": "食品物流＆3PL総合展／東京ビッグサイトで初開催、食品供給網支える技術が一堂　",
@@ -36,15 +36,15 @@
       "sourceURL": "https://www.lnews.jp/?p=336733",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336733",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
-      "title": "Top Trump figures push to direct human rights funding to rightwing causes",
-      "body": "&lt;p&gt;Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights&lt;/p&gt;&lt;p&gt;With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a massive $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court, and programs that would reward ideological allies in Europe who protect “western civilisational norms”.&lt;/p&gt;&lt;p&gt;Critics have focused on 43 awards of a combined $176.9m that will bolster rightwing and conservative causes around the world while likely angering US allies over interference in internal politics. The Guardian has seen a sample of the controversial grants, which makes up most of the $205m in funding that Congress has appropriated for the entire human rights and democracy fund (HRDF).&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund\"&gt;Continue reading...&lt;/a&gt;",
+      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "body": "&lt;p&gt;Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights&lt;/p&gt;&lt;p&gt;With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court and programs that would reward ideological allies in Europe who protect “western civilizational norms”.&lt;/p&gt;&lt;p&gt;On Wednesday, the state department obligated the funds to the grantees hours before the deadline despite congressional concerns and requests not to do so, according to a source familiar with the negotiations. The state department declined to comment on questions from the Guardian specifically on whether it had obligated the funds and had “blown” holds from Congress due to concerns about the money’s use.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund\"&gt;Continue reading...&lt;/a&gt;",
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "ロジネットジャパン／北海道帯広市に新物流センター建設、札幌通運が運営へ",
@@ -52,7 +52,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336613",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336613",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Hacobu／物流AI基盤「Hacobu X」を発表、企業間連携による物流最適化加速へ",
@@ -60,7 +60,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336622",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336622",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
@@ -68,7 +68,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "【PR】【シリーズ】GLPはMarqへ（2）／進化を続けるMarqの冷凍冷蔵 マルチテナント型と伴走型支援で事業成長へ",
@@ -76,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334936",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334936",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "郵船ロジ／英国ノーサンプトンに11万m2の物流拠点開設、自動倉庫や環境配慮設備を導入",
@@ -84,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336448",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336448",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "高千穂交易／インド進出目指す日本企業へ現地製造や調達、物流構築を支援",
@@ -92,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336490",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336490",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "コクヨ／176億円投資、自社最大規模となる4.5万m2の配送センタ―を滋賀県に着工",
@@ -100,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336481",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336481",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "ヤマトHD／櫻井社長に聞く業績回復への「選択」、価値創造への「打ち手」",
@@ -108,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336295",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336295",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "SBSHD／三菱ケミカル物流の全株式を193.5億円で取得、2027年4月に子会社化",
@@ -116,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336394",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336394",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "At least 27 dead after two mass shootings in South Africa, police say",
@@ -124,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "NXHD／スタートアップ共創プログラム第2期の募集開始、AI・ロボティクスで物流課題の解決へ",
@@ -132,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336274",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336274",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "【PR】ロジスティード／「共同配送を実現するには」10月15日に無料オンラインセミナー開催",
@@ -140,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336265",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336265",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Mujin／日本スタートアップ大賞、滝野CEO「フィジカルAI現場実装を加速」",
@@ -148,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336130",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336130",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "東京建物／タイで物流と工場の複合施設開発に参画、レムチャバン港近接地で3棟4.2万m2",
@@ -156,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336049",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336049",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
@@ -164,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
@@ -172,7 +172,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "【PR】CBRE IM 、東急不動産/ 神奈川県横浜市「（仮称）CBRE IM-LOGI‘Q新子安」竣工前内覧会を10月7日～9日 共同開催",
@@ -180,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336022",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336022",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "【PR】G.A.グループ／ドライバー不足の実態調査レポート公開、10月15日に解説セミナー開催",
@@ -188,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336043",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336043",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "CLO特集／Hacobu佐々木代表に聞くCLOに必要なテクノロジーと「志」",
@@ -196,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333859",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333859",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "SM物流研究会／荷待ち・荷役時間短縮、パレット納品とASN活用を推進",
@@ -204,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335998",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335998",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
@@ -212,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "NXHD／インド半導体ミッションとMOU締結、物流面の課題解決とインフラ整備へ",
@@ -220,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335899",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335899",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "ギークプラス／ziictの小型AMR「カチャカシリーズ」取り扱い開始",
@@ -228,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335884",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335884",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "三和建設／神戸港近くに化学品センター竣工、危険物倉庫5棟整備し冷凍にも対応",
@@ -236,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335842",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335842",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "日鉄興和不動産／ジョージア州で6.4万m2、米国2件目の物流施設が竣工",
@@ -244,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335803",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335803",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
@@ -252,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
@@ -260,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Banished to alien lands: Trump’s secret deportation deals",
@@ -268,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
@@ -276,7 +276,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
@@ -284,7 +284,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
@@ -292,7 +292,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "三井不動産／植田社長「産業デベロッパーとして付加価値創造へ」 記者懇親会であいさつ",
@@ -300,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335782",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "ストリーモ、竹中工務店ほか／ラストマイルの新たな移動・搬送サービス確立へ実証",
@@ -308,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335776",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335776",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
@@ -316,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "山九／インド北部に1.8万m2の物流センターを11月開設、物流需要拡大に対応",
@@ -324,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335728",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335728",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "東京建物／豪州で物流ファンドに初参画、3大都市圏6物件・33.5万m2に出資",
@@ -332,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335674",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335674",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
@@ -340,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "【PR】野村不動産／岩槻・板橋・八王子の物流施設でテナント募集開始、10月22日岩槻で内覧会",
@@ -348,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335626",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335626",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "【PR】野村不動産／千葉県「Landport野田」で9月30日、内覧会と物流セミナー実施",
@@ -356,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335617",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335617",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "SBSHD／千葉県富里市に11.8万m2のマルチテナント型物流施設竣工",
@@ -364,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335542",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335542",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "日本郵便／国際郵便の取り扱い変更、書状・印刷物は1kg以下に",
@@ -372,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335431",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335431",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
@@ -380,7 +380,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "US to bar some South Africans over claims of anti-white discrimination",
@@ -388,7 +388,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "【PR】JILS／特定荷主 物流統括管理者のための情報交換会、東京・名古屋で10月開催",
@@ -396,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335467",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335467",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     },
     {
       "title": "【PR】CBRE／神奈川県10月末竣工の物流施設で内覧会を10月1・2日に開催",
@@ -404,7 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335440",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335440",
-      "fetchedAt": "2026-09-30T12:23:06.834Z"
+      "fetchedAt": "2026-09-30T22:08:07.978Z"
     }
   ],
   "items": [
@@ -412,22 +412,7 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "米オープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると7日に発表しました。これは、AIの性能向上に伴い、自律的に重大なサイバー攻撃を行う可能性が懸念されたためです。",
-      "classification": {
-        "tone": "B",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
-      },
-      "commentary": "AIの力が上がるんはええけど、それがほんまに役立つかどうかは別問題や。手に入れた技術が社会にどう貢献するんか、目的を見失わんことが商売の要やで。目先の成果に振り回されんよう、真の価値を見極める姿勢が大切や。"
-    },
-    {
-      "source": "NHK",
-      "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」に伴う詐欺被害の増加を受け、SNS運営会社に対して広告主の本人確認強化などの対策を求める文書を送付しました。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」の開発に関連する新たなAIモデル「アストラ」の開発を一時停止すると発表しました。中断の理由として、AIの能力向上により、自律的に重大なサイバー攻撃を行う可能性があることが挙げられています。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -436,52 +421,67 @@
         "leadingKana": "や",
         "phrase": "やるんかい やらんのやったら どいとれや"
       },
-      "commentary": "SNSの「なりすまし広告」問題、誰かがやらなあかんけど、手間や責任を押し付け合うだけやったら解決遠のくわな。信頼積む商売やからこそ、主体的に役割を果たし、堅実に動く姿勢が求められる。黙って見過ごすのも、無理して出しゃばるのも違う。状況の中で自分の立ち位置をしっかり考えて、次の一歩を踏み出す覚悟が大切やで。"
+      "commentary": "AIの進化は商いのチャンスともリスクともなるわけや。勝手に動く怖さがあれば、一歩引く判断も必要やけど、その間に得られる学びを捨てるわけにはいかん。自分の役割を弁えて、チャンスを見極める冷静さが信頼を積む道筋やで。"
+    },
+    {
+      "source": "NHK",
+      "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
+      "summary": "政府は、SNS上で有名人の写真を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し広告主の本人確認などの対策強化を求める文書を送付しました。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "つ",
+        "phrase": "つまらない 話もコトも しなさんな"
+      },
+      "commentary": "SNS上のなりすまし広告対策、確かに必要やけど、ただ形式的に本人確認を増やすだけやと、本質的な信頼は築かれへんで。日々の積み重ねと真剣な関わりが、詐欺を防ぐ土台になるんや。無意味な手続きに流されず、価値ある交流を見極めることが大事やな。"
     },
     {
       "source": "LNEWS",
       "title": "プロロジス／マルチテナント型自動倉庫「OMEGA」を台湾ALPと日本で展開、第1弾は京都府",
       "sourceURL": "https://www.lnews.jp/?p=336589",
-      "summary": "プロロジスは台湾の物流不動産企業ALPと協力し、日本でマルチテナント型自動倉庫「OMEGA」を展開するための基本合意書を締結した。両社は次世代物流施設の共同開発と事業会社設立を目指しており、初の施設は京都府に設置される予定である。",
+      "summary": "プロロジスは台湾の物流不動産企業ALPと協力し、日本でマルチテナント型の自動倉庫「OMEGA」を展開する計画を発表した。両社は共同事業会社の設立に向けて基本合意書を締結し、最初の施設は京都府に設置される予定である。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
+        "leadingKana": "ひ",
+        "phrase": "秘密がないのが秘訣"
       },
-      "commentary": "せやな、物流の現場も一人ひとりの地道な支えがあってこそ動くもんや。新しい自動倉庫の導入も短期の目先だけやなく、日々の信頼関係と継続した取り組みが次の一歩を築くわけや。変化の中でどう振る舞うか、考える余地を忘れたらあかんで。"
+      "commentary": "プロロジスと台湾ALPの連携は、物流の未来を見据えた透明な協働の姿勢がうかがえるわな。秘密を抱えず、共に情報を開示して信頼を築くことが、長く続く商いの土台になる。焦らず一歩ずつ、信用の積み重ねを大切にしたいもんや。"
     },
     {
       "source": "LNEWS",
       "title": "食品物流＆3PL総合展／東京ビッグサイトで初開催、食品供給網支える技術が一堂　",
       "sourceURL": "https://www.lnews.jp/?p=336733",
-      "summary": "日本3PL協会が主催する「食品物流＆3PL総合展2026」が9月30日に東京ビッグサイトで初めて開催された。本展示会は食品物流に特化し、3PL事業者や物流技術の最新動向を紹介し、食品供給網の課題解決を目指している。多様な技術やサービスが一堂に集まり、業界関係者の交流や情報共有の場となっている。",
+      "summary": "日本3PL協会が主催する「食品物流＆3PL総合展2026」が9月30日、東京ビッグサイトで初めて開催された。この展示会は食品物流に特化し、3PLや物流ソリューションを通じて食品供給網の課題解決を目指す技術やサービスが一堂に紹介された。",
       "classification": {
-        "tone": "G",
-        "term": "M"
+        "tone": "N",
+        "term": "S"
       },
       "karta": {
-        "leadingKana": "な",
-        "phrase": "何するか 分からん時は 基礎鍛錬"
+        "leadingKana": "て",
+        "phrase": "適当な 相づち打つより 何ですか？"
       },
-      "commentary": "食品物流の現場は日々複雑化しとる。新しい技術やサービスが集まる場は、焦らず基礎を固める契機にもなるわ。慌てず一歩ずつ、自らの力と信頼を積み上げる姿勢こそ、長く続く商いの要やと心得たいな。"
+      "commentary": "食品物流の現場は複雑やけど、技術や仕組みの展示会で学ぶ機会は貴重や。表面だけの理解で済ませず、疑問があれば素直に「何ですか？」と掘り下げる姿勢が信頼の土台になる。日々の積み重ねが確かな物流を支えるんやで。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Top Trump figures push to direct human rights funding to rightwing causes",
+      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "summary": "トランプ政権は、人権関連の資金約1億7500万ドルの配分を急いでおり、その中には反共産主義基金への4,000万ドルの助成や、南アフリカの白人アフリカーナー権利団体への支援、ブラジル最高裁批判キャンペーンなどが含まれている。これらは欧州の「西洋文明の価値」擁護を掲げる勢力も対象で、合計43件の助成が右派や保守派の活動を支える形となっている。議会が承認した人権・民主主義基金の大部分にあたる。",
+      "summary": "トランプ政権は、国務省の人権支援基金約1億7500万ドルのうち、大半を反共基金や南アフリカの白人アフリカーナー支援団体、ブラジルの最高裁批判活動、欧州の「西洋文明の価値観」擁護者への支援などに割り当てた。資金割り当ては議会の懸念を無視し、期限直前に決定されたと報じられている。国務省はこの件に関しコメントを控えている。",
       "classification": {
-        "tone": "N",
+        "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "け",
-        "phrase": "計画より  仕上げが大事"
+        "leadingKana": "す",
+        "phrase": "すいません  言うな"
       },
-      "commentary": "人権支援の名のもとに、どこまでが真の目的か見極めるのは難しいわな。計画だけやなく、その後の仕上げ、つまり実際の影響や信頼をどう積むかが問われる。商売も政治も、結果と信頼を地道に築く姿勢が肝心やで。"
+      "commentary": "資金の使い道が大きく変わる時、表向きの理由だけでなく、背景にある価値観や目的を見極めることが肝心や。商売でも同じで、場当たり的な振る舞いは信頼を損ねる。慌てて謝るより、筋を通して丁寧に説明し、次にどう進むかを示すほうが、長い目で見て大事やで。"
     }
   ]
 }
