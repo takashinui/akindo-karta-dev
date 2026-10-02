@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T22:35:22.695Z",
+  "generatedAt": "2026-10-02T05:20:40.154Z",
   "run": {
-    "ranAt": "2026-10-01T22:35:22.695Z",
+    "ranAt": "2026-10-02T05:20:40.154Z",
     "runner": "github-actions",
-    "runId": "36935900920"
+    "runId": "36968419786"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-10-01T22:35:05.028Z"
+      "fetchedAt": "2026-10-02T05:20:21.367Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,23 +20,23 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.367Z"
     },
     {
-      "title": "NXHDとJAL／貨物専用機を活用したアジア域内・北米～アジア間の輸送で提携",
-      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングス（HD）と日本航空（JAL）は10月1日、JALがパートナーとの連携により運航するボーイング747型貨物専用機（747F）を活用したアジア域内および北米～アジア間の輸送提携を開 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1001102.html\">NXHDとJAL／貨物専用機を活用したアジア域内・北米～アジア間の輸送で提携</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=336805",
+      "title": "F-LINE／カスハラ対応方針を策定、悪質行為は取引停止や契約解除も",
+      "body": "<![CDATA[<p>F-LINEは10月1日、取引先からのカスタマーハラスメント（カスハラ）に対する基本方針を策定した。 同社は、サービスを担う従業員の安全と心身の健康を守ることが、持続可能な物流サービスの提供に不可欠として、従業員への就業 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1002504.html\">F-LINE／カスハラ対応方針を策定、悪質行為は取引停止や契約解除も</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=337093",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=336805",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "id": "www.lnews.jp/?p=337093",
+      "fetchedAt": "2026-10-02T05:20:21.367Z"
     },
     {
-      "title": "郵船ロジ／ドイツに3万m2の医薬品専用倉庫を開設、保管能力約2倍に",
-      "body": "<![CDATA[<p>郵船ロジスティクスは10月1日、グループの欧州法人Yusen Logistics Global Management （Europe）傘下でヘルスケア物流サービスを提供するMoviantoが、ドイツ・ウィースロッホに倉庫 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1001101.html\">郵船ロジ／ドイツに3万m2の医薬品専用倉庫を開設、保管能力約2倍に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=336775",
+      "title": "日本郵船／創業141周年で曽我社長「新中計は技術力に焦点、差別化につなげる」",
+      "body": "<![CDATA[<p>日本郵船は10月2日、創業141周年記念式典を東京都内の本店で開催し、曽我貴也社長がグループ社員に向けてあいさつした。 曽我社長は、2023年度を初年度とする現中計が最終年度を迎える中、資本政策では拡大した自己資本を適正 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1002503.html\">日本郵船／創業141周年で曽我社長「新中計は技術力に焦点、差別化につなげる」</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=337063",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=336775",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "id": "www.lnews.jp/?p=337063",
+      "fetchedAt": "2026-10-02T05:20:21.367Z"
     },
     {
       "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
@@ -44,7 +44,23 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.367Z"
+    },
+    {
+      "title": "NXHDとJAL／貨物専用機を活用したアジア域内・北米～アジア間の輸送で提携",
+      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングス（HD）と日本航空（JAL）は10月1日、JALがパートナーとの連携により運航するボーイング747型貨物専用機（747F）を活用したアジア域内および北米～アジア間の輸送提携を開 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1001102.html\">NXHDとJAL／貨物専用機を活用したアジア域内・北米～アジア間の輸送で提携</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=336805",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=336805",
+      "fetchedAt": "2026-10-02T05:20:21.367Z"
+    },
+    {
+      "title": "郵船ロジ／ドイツに3万m2の医薬品専用倉庫を開設、保管能力約2倍に",
+      "body": "<![CDATA[<p>郵船ロジスティクスは10月1日、グループの欧州法人Yusen Logistics Global Management （Europe）傘下でヘルスケア物流サービスを提供するMoviantoが、ドイツ・ウィースロッホに倉庫 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1001101.html\">郵船ロジ／ドイツに3万m2の医薬品専用倉庫を開設、保管能力約2倍に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=336775",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=336775",
+      "fetchedAt": "2026-10-02T05:20:21.367Z"
     },
     {
       "title": "【PR】クレド／栃木県「CREDO加須」内覧会10月20・21日開催",
@@ -52,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336796",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336796",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.367Z"
     },
     {
       "title": "【PR】三谷コンピュータ／AI搭載のWMS「W-KEEPER AX」提供開始、EC総合展でデモ公開",
@@ -60,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336823",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336823",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "プロロジス／マルチテナント型自動倉庫「OMEGA」を台湾ALPと日本で展開、第1弾は京都府",
@@ -68,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336589",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336589",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "食品物流＆3PL総合展／東京ビッグサイトで初開催、食品供給網支える技術が一堂　",
@@ -76,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336733",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336733",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "ロジネットジャパン／北海道帯広市に新物流センター建設、札幌通運が運営へ",
@@ -84,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336613",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336613",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Hacobu／物流AI基盤「Hacobu X」を発表、企業間連携による物流最適化加速へ",
@@ -92,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336622",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336622",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "【PR】【シリーズ】GLPはMarqへ（2）／進化を続けるMarqの冷凍冷蔵 マルチテナント型と伴走型支援で事業成長へ",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=334936",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=334936",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "郵船ロジ／英国ノーサンプトンに11万m2の物流拠点開設、自動倉庫や環境配慮設備を導入",
@@ -116,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336448",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336448",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "高千穂交易／インド進出目指す日本企業へ現地製造や調達、物流構築を支援",
@@ -124,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336490",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336490",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "コクヨ／176億円投資、自社最大規模となる4.5万m2の配送センタ―を滋賀県に着工",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336481",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336481",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "ヤマトHD／櫻井社長に聞く業績回復への「選択」、価値創造への「打ち手」",
@@ -140,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336295",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336295",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "SBSHD／三菱ケミカル物流の全株式を193.5億円で取得、2027年4月に子会社化",
@@ -148,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336394",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336394",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "At least 27 dead after two mass shootings in South Africa, police say",
@@ -156,7 +172,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "NXHD／スタートアップ共創プログラム第2期の募集開始、AI・ロボティクスで物流課題の解決へ",
@@ -164,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336274",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336274",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "【PR】ロジスティード／「共同配送を実現するには」10月15日に無料オンラインセミナー開催",
@@ -172,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336265",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336265",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Mujin／日本スタートアップ大賞、滝野CEO「フィジカルAI現場実装を加速」",
@@ -180,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336130",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336130",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "東京建物／タイで物流と工場の複合施設開発に参画、レムチャバン港近接地で3棟4.2万m2",
@@ -188,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336049",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336049",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
@@ -196,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
@@ -204,7 +220,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "【PR】CBRE IM 、東急不動産/ 神奈川県横浜市「（仮称）CBRE IM-LOGI‘Q新子安」竣工前内覧会を10月7日～9日 共同開催",
@@ -212,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336022",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336022",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "【PR】G.A.グループ／ドライバー不足の実態調査レポート公開、10月15日に解説セミナー開催",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=336043",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=336043",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "CLO特集／Hacobu佐々木代表に聞くCLOに必要なテクノロジーと「志」",
@@ -228,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=333859",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=333859",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "SM物流研究会／荷待ち・荷役時間短縮、パレット納品とASN活用を推進",
@@ -236,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335998",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335998",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
@@ -244,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "NXHD／インド半導体ミッションとMOU締結、物流面の課題解決とインフラ整備へ",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335899",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335899",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "ギークプラス／ziictの小型AMR「カチャカシリーズ」取り扱い開始",
@@ -260,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335884",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335884",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "三和建設／神戸港近くに化学品センター竣工、危険物倉庫5棟整備し冷凍にも対応",
@@ -268,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335842",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335842",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "日鉄興和不動産／ジョージア州で6.4万m2、米国2件目の物流施設が竣工",
@@ -276,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335803",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335803",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Banished to alien lands: Trump’s secret deportation deals",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
@@ -308,7 +324,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
@@ -316,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "三井不動産／植田社長「産業デベロッパーとして付加価値創造へ」 記者懇親会であいさつ",
@@ -332,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335782",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "ストリーモ、竹中工務店ほか／ラストマイルの新たな移動・搬送サービス確立へ実証",
@@ -340,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335776",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335776",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
@@ -348,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "山九／インド北部に1.8万m2の物流センターを11月開設、物流需要拡大に対応",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335728",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335728",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "東京建物／豪州で物流ファンドに初参画、3大都市圏6物件・33.5万m2に出資",
@@ -364,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335674",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335674",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
@@ -372,7 +388,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "【PR】野村不動産／岩槻・板橋・八王子の物流施設でテナント募集開始、10月22日岩槻で内覧会",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335626",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335626",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     },
     {
       "title": "【PR】野村不動産／千葉県「Landport野田」で9月30日、内覧会と物流セミナー実施",
@@ -388,23 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=335617",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=335617",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
-    },
-    {
-      "title": "SBSHD／千葉県富里市に11.8万m2のマルチテナント型物流施設竣工",
-      "body": "<![CDATA[<p>SBSホールディングスは9月16日、千葉県富里市で開発を進めていた自社の物流センター「富里物流センター」が、竣工したと発表した。 同施設は成田国際空港から約10kmに位置し、東関東自動車道「富里IC」から約1.7kmと優 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0916709.html\">SBSHD／千葉県富里市に11.8万m2のマルチテナント型物流施設竣工</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=335542",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=335542",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
-    },
-    {
-      "title": "日本郵便／国際郵便の取り扱い変更、書状・印刷物は1kg以下に",
-      "body": "<![CDATA[<p>日本郵便は2027年1月1日より、国際郵便サービスの取り扱いを一部変更することを発表した。 これにより、書類を内容とする通常郵便物の大きさと重量を変更するほか、米軍関係郵便物のうち書留とする小形包装物および受取通知の取り [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/09/s0916702.html\">日本郵便／国際郵便の取り扱い変更、書状・印刷物は1kg以下に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=335431",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=335431",
-      "fetchedAt": "2026-10-01T22:35:05.029Z"
+      "fetchedAt": "2026-10-02T05:20:21.368Z"
     }
   ],
   "items": [
@@ -412,7 +412,7 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で進めていた新たなAIモデル「アストラ」の開発を一時停止すると発表しました。停止の理由は、同AIの能力向上に伴い、自律的に重大なサイバー攻撃を行う可能性があるため、安全面の懸念が払拭できなかったためです。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。これは、同モデルの性能が大幅に向上した結果、自律的に重大なサイバー攻撃を行うリスクが排除できないためと説明されています。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -421,67 +421,67 @@
         "leadingKana": "す",
         "phrase": "すいません  言うな"
       },
-      "commentary": "AIが自律的に動くリスクを認め、一旦開発を止めるのは、焦らず信頼を積む姿勢やな。商売も同じで、無理に謝って済ませるより、問題の根っこを見極めて丁寧に対応する。せやから慌てず、持続的な信頼づくりを意識していきたいもんやね。"
+      "commentary": "AIの暴走リスクを前に、軽く済ませず立ち止まる判断は大事や。焦らず「すいません」で逃げず、責任持って向き合う姿勢が信頼を築く。商売も技術も、誠実な積み重ねが未来をつくるんやで。"
     },
     {
       "source": "NHK",
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対して広告主の本人確認を強化するよう文書で求めました。これにより、詐欺対策の強化を図る狙いです。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "お",
-        "phrase": "おおきにと 言われてなんぼ 言うてなんぼ"
-      },
-      "commentary": "なりすまし広告の被害増える中、信頼の商いを守るために本人確認強化の動きが始まったわけや。商いは「おおきに」の積み重ねやから、見えへんところでも誠実に対策を重ねることが、長い信頼を築く道筋やろな。焦らず、着実な取り組みがこれからの商売を支えるで。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "NXHDとJAL／貨物専用機を活用したアジア域内・北米～アジア間の輸送で提携",
-      "sourceURL": "https://www.lnews.jp/?p=336805",
-      "summary": "日本通運ホールディングス（NXHD）と日本航空（JAL）は、10月1日付でボーイング747型貨物専用機を活用した輸送提携を開始した。両社はアジア域内および北米からアジア間の貨物輸送で協力し、JALがパートナーと運航する747Fを活用することで、物流ネットワークの強化を目指す。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "た",
-        "phrase": "鷹の目と 地虫の目と 人の目"
-      },
-      "commentary": "NXHDとJALの提携は、広い視野で地域の輸送網を見渡しつつ、現場の細かな物流課題にも目を配る動きや。そこに人の目で、信頼や継続性を大切にする心を重ねて、持続可能な連携の形を模索していくべきやろな。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "郵船ロジ／ドイツに3万m2の医薬品専用倉庫を開設、保管能力約2倍に",
-      "sourceURL": "https://www.lnews.jp/?p=336775",
-      "summary": "郵船ロジスティクスの欧州法人Moviantoは、ドイツ・ウィースロッホに約3万平方メートルの医薬品専用倉庫を新設した。これにより、同社の医薬品保管能力は従来の約2倍に拡大し、ヘルスケア物流サービスの強化を図る。倉庫開設は2023年10月1日に行われた。",
-      "classification": {
-        "tone": "G",
-        "term": "L"
-      },
-      "karta": {
-        "leadingKana": "か",
-        "phrase": "カイゼンは  みんなの宝"
-      },
-      "commentary": "ドイツの倉庫増設は単なる拡大や数字の勝負ちゃう。現場の気づきを活かし、医薬品物流の質を持続的に高める積み重ねの結果や。みんなの努力が信頼を育て、強固な商売の基盤になるんやで。"
-    },
-    {
-      "source": "Guardian｜World",
-      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-      "sourceURL": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "summary": "トランプ政権は、国務省の人権基金約1億7500万ドルの配分を急ぎ、反共基金への4,000万ドルの助成や南アフリカの白人アフリカーナー支援団体への支援、ブラジル最高裁への反対キャンペーンなどに資金を振り向けた。議会の懸念や要請がある中、期限直前に資金が確定されたとされる。国務省はこれに関する具体的なコメントを控えている。",
+      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS事業者に対し、広告主の本人確認などの対策を強化するよう正式に求めました。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "ほ",
-        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
+        "leadingKana": "き",
+        "phrase": "気が乗らぬ時は ちょっと待つ"
       },
-      "commentary": "海外支援の資金使途が変わるとき、表向きの目的だけで判断せず根拠を見極めることが大事や。慌てて決めず、背景や影響を疑いながら掘り下げる。信頼は一朝一夕に築けへんから、焦らず慎重な姿勢こそ長続きの鍵やで。"
+      "commentary": "SNSでのなりすまし広告は、信頼の土台を揺るがす問題や。焦って判断せず、疑わしい時は一旦止まって、仕組みや運用を見直すことが大事やで。信頼は短期の成果よりも、日々の確認と慎重な対応の積み重ねやからな。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "F-LINE／カスハラ対応方針を策定、悪質行為は取引停止や契約解除も",
+      "sourceURL": "https://www.lnews.jp/?p=337093",
+      "summary": "物流企業のF-LINEは、10月1日に取引先からのカスタマーハラスメント（カスハラ）への対応方針を策定した。従業員の安全と心身の健康を重視し、悪質なハラスメント行為があった場合には取引停止や契約解除を行う可能性があるとしている。この方針は持続可能なサービス提供を目指す取り組みの一環である。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "ら",
+        "phrase": "来世でも 同じ生き様 やりまっせ"
+      },
+      "commentary": "カスハラ対応は、一時の判断や利益優先やのうて、従業員の安全と信頼を守るための長い道のりや。今だけやなく、未来も見据えて堅実に取り組むことが、真のあきんどの姿勢やと考えるべきやろな。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "日本郵船／創業141周年で曽我社長「新中計は技術力に焦点、差別化につなげる」",
+      "sourceURL": "https://www.lnews.jp/?p=337063",
+      "summary": "日本郵船は創業141周年を迎え、東京都内で記念式典を開催した。曽我貴也社長は社員に向けた挨拶で、現行の中期経営計画が最終年度を迎えることに触れ、新たな中計では技術力の強化を重点に置き、競争力の差別化を図る方針を示した。また、資本政策については拡大した自己資本の適正な活用を進める意向を述べた。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
+      },
+      "commentary": "日本郵船が技術力を軸に差別化を図る新計画を示したんや。商売は社会との関わりの積み重ねやから、目先の成果だけやなく、日々の努力で信頼を築くことが大事。社会に尽くす気持ちを忘れず、変化を見据えて粘り強く進む姿勢が問われる局面やで。"
+    },
+    {
+      "source": "Guardian｜World",
+      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "sourceURL": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "summary": "トランプ政権は、期限間近に国務省の人権基金約1億7500万ドルを複数の助成先に割り当てました。その中には共産主義反対基金への4000万ドルの支援や、南アフリカの白人アフリカーナーの権利擁護団体への支援、ブラジルの最高裁への反対活動、欧州の西洋文明の価値観を守る団体への支援が含まれます。議会からの懸念や差し止め要請があったにもかかわらず、国務省は期限直前に資金を配分しました。",
+      "classification": {
+        "tone": "B",
+        "term": "S"
+      },
+      "karta": {
+        "leadingKana": "も",
+        "phrase": "もうアカン 思たトコから もう一歩"
+      },
+      "commentary": "国際支援の資金使途が変わる時、短絡的な評価は禁物や。困難な状況でも、信頼を積む道筋を模索し続けることが肝心やねん。失望の淵でも一歩踏み出す姿勢が、次の信頼と成長を生む。日々の積み重ねが商いの本質やから、目先の結果に振り回されんようにしたいもんや。"
     }
   ]
 }
