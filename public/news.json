@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T17:02:49.612Z",
+  "generatedAt": "2026-10-21T21:31:19.166Z",
   "run": {
-    "ranAt": "2026-10-21T17:02:49.612Z",
+    "ranAt": "2026-10-21T21:31:19.166Z",
     "runner": "github-actions",
-    "runId": "39640135807"
+    "runId": "39679378460"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-10-21T17:02:27.549Z"
+      "fetchedAt": "2026-10-21T21:30:58.249Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,7 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-10-21T17:02:27.549Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "T2／自動運転トラックの無人での拠点発着に初めて成功、2027年1月から商用運行へ",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339286",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339286",
-      "fetchedAt": "2026-10-21T17:02:27.549Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "JR貨物／初の特定技能外国人、ベトナム出身の社員2名を受け入れ",
@@ -36,7 +36,15 @@
       "sourceURL": "https://www.lnews.jp/?p=339349",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339349",
-      "fetchedAt": "2026-10-21T17:02:27.549Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
+    },
+    {
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "body": "&lt;p&gt;Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’&lt;/p&gt;&lt;p&gt;The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday.&lt;/p&gt;&lt;p&gt;It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, &lt;a href=\"https://www.linkedin.com/pulse/missed-opportunity-guinea-bissaus-children-why-trial-frederik-wttde/\"&gt;wrote&lt;/a&gt; on LinkedIn, adding, “we were not given the necessary governmental approval.”&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
@@ -44,7 +52,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "fetchedAt": "2026-10-21T17:02:27.549Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
@@ -52,7 +60,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "【PR】JILS／第94期「ロジスティクス基礎講座」11月4日開講、過去の受講者インタビュー公開",
@@ -60,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339262",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339262",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "【PR】JLL／埼玉県「G SQUARE 三郷」で11月4・5・6日に竣工前内覧会",
@@ -68,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339298",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339298",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "【PR】【シリーズ】GLPはMarqへ（4）／地域に選ばれる物流施設へ Marqが続ける地域共生の挑戦",
@@ -76,7 +84,7 @@
       "sourceURL": "https://www.lnews.jp/?p=337495",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=337495",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "国交省／自動物流道路の実証実験を10月28日開始、成田国際空港などで走行性能や連携を検証",
@@ -84,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339208",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339208",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
@@ -92,7 +100,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
@@ -100,7 +108,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "ヨコウン／東北13拠点のデータ一元化と点呼業務自動化、ナブアシストのシステム導入で",
@@ -108,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339115",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339115",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "日本通運／超低温輸送サービス「定温マルチBOX Premium」発売、調温から容器回収まで一貫対応",
@@ -116,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339112",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339112",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "JILS／2026年度ロジスティクス大賞を表彰、Mujin Japan・三五など5組が受賞",
@@ -124,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338974",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338974",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "最低賃金／運輸・倉庫の最低時給1220円に上昇、過半数が「ペース速すぎる」",
@@ -132,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338944",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338944",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
@@ -140,7 +148,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Third Ebola case in Kenya highlights US failures amid Trump cuts to key services",
@@ -148,7 +156,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "ハコベル／明星食品「トラック簿」導入で荷待ち・荷役時間データ集計を大幅短縮",
@@ -156,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338929",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338929",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "鳥越製粉／業務用小麦粉を10月より値上げ、輸送費の上昇も要因に",
@@ -164,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338926",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338926",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
@@ -172,7 +180,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "プロロジス／「プロロジスパーク郡山1」竣工、ヤマト東北最大の統合物流拠点が完成",
@@ -180,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338845",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338845",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "国交省／改正物流効率化法11月1日施行へ、トラック中継輸送を支援",
@@ -188,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338770",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338770",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
@@ -196,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "霞ヶ関キャピタル／冷凍自動倉庫「LOGI FLAG」の新CMに本田圭佑さん起用",
@@ -204,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338743",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338743",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "オープンロジ／納品書テンプレートを出荷依頼ごとに指定可能に",
@@ -212,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338746",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338746",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "ヤマト運輸／岡山県早島町に3.8万m2の統合型拠点、物流と仕分け・輸配送を集約",
@@ -220,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338659",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338659",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "西濃運輸／ハコベルとの共同開発システムで貸し切り運賃を即時算出し顧客の待ち時間を大幅削減",
@@ -228,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338524",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338524",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "横浜市／環境配慮船の入港料減免を見直しへ、2027年から「ESI2.0」対応で対象スコアを「20以上」に",
@@ -236,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338518",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338518",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "トーヨーカネツ／小林専務に聞く、物流分野での機械化・自動化の課題と展望",
@@ -244,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=337195",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=337195",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
@@ -252,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "コクヨ／最新鋭の物流拠点「東北IDC」を仙台市に開所、11月から本格稼働",
@@ -260,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338440",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338440",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
@@ -268,7 +276,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -276,7 +284,7 @@
       "sourceURL": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "プロロジス／千葉県習志野市の物流施設にNPOが入居、フードバンクの保管3.7倍に拡大",
@@ -284,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338422",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338422",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "【PR】CBRE／神戸市東灘区で「Marq六甲3」内覧会を10月29日開催、マーケット解説も",
@@ -292,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338392",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338392",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "三菱地所／インドで5・6件目の物流施設開発に参画、産業集積地のプネ地区では初",
@@ -300,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338269",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338269",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "ヤマト運輸／ベトナム・マスターライズと提携、ザービン国際空港の高度物流ハブ構想で",
@@ -308,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338323",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338323",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "CRE、福岡地所／佐賀県鳥栖市に3.7万m2の物流施設竣工、準工業地域でJR貨物駅も至近",
@@ -316,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338071",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338071",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "NXHD／カナダの3PL企業を子会社化、北米でのグループ事業基盤を強化",
@@ -324,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338065",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338065",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
@@ -332,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "日本通運／9月の鉄道コンテナ取り扱い実績13.1％減",
@@ -340,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338140",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338140",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "PIAJ／日本フィジカルインターネットアカデミーが始動「新たな研究・実装の場に」",
@@ -348,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338116",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338116",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
@@ -356,7 +364,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "阪神電鉄・阪急阪神不動産／兵庫県西宮市に「ロジスタ」シリーズ初の冷凍冷蔵物流施設着工",
@@ -364,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=337828",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=337828",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "APTと両備システムズ／千葉県習志野市の研究拠点「ココラボ」公開、物流最適化を推進",
@@ -372,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=337801",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=337801",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
@@ -380,7 +388,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
@@ -388,7 +396,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     },
     {
       "title": "日本通運、T2ほか／青森県産りんごのモーダルコンビネーション輸送実証、青果で国内初",
@@ -396,15 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=337630",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=337630",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
-    },
-    {
-      "title": "日本GLP／新ブランド掲げ「Marqカンファレンス」開催、パートナーシップを強調",
-      "body": "<![CDATA[<p>日本GLPは10月6日、都内で「Marq CONFERENCE 2026 in TOKYO」を開き、全国の入居テナントなど顧客ら約600人が集まった。物流不動産ブランドを9月に「GLP」から「Marq（マーク）」へ刷新し [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1007601.html\">日本GLP／新ブランド掲げ「Marqカンファレンス」開催、パートナーシップを強調</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=337639",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=337639",
-      "fetchedAt": "2026-10-21T17:02:27.550Z"
+      "fetchedAt": "2026-10-21T21:30:58.250Z"
     }
   ],
   "items": [
@@ -412,76 +412,76 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "アメリカのOpenAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。停止の理由は、AIの性能向上により、自律的に重大なサイバー攻撃を行うリスクが懸念されるためとされています。",
+      "summary": "米国のオープンAIは、生成AI「ChatGPT」を開発する中で、新型AIモデル「アストラ」の開発を一時停止すると発表しました。停止の理由は、AIの能力向上に伴い、AIが独自の判断で重大なサイバー攻撃を行うリスクが否定できないためとしています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "く",
-        "phrase": "苦労して 掴んだものは  なんじゃらな"
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "AIの進化に伴うリスクは、手間かけて築いた技術の価値を再考させるもんや。ええもん掴んだからといって安心せんと、何が本当に必要か見極める目を絶やさんことやな。焦らず目的を忘れんことが信頼の礎になるで。"
+      "commentary": "AIの能力向上に伴うリスクは無視できへん。けど、慌てて開発止めるんは早計や。情報の裏取りや状況把握をじっくりして、焦らず慎重に進めることが信頼を築く一歩やろな。"
     },
     {
       "source": "NHK",
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で有名人の画像を無断で使用する「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営企業に対して広告主の本人確認などの対策強化を求める文書を送付しました。",
+      "summary": "政府は、SNS上で有名人の写真を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し、広告主の本人確認などの詐欺対策を強化するよう文書で求めました。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "や",
-        "phrase": "やるんかい やらんのやったら どいとれや"
+        "leadingKana": "す",
+        "phrase": "すいません  言うな"
       },
-      "commentary": "SNSの詐欺対策は一つの役割分担やけど、手を抜いたら信用は失われる。与えられた枠内でしっかり動きつつも、必要なら柔軟に動く覚悟が肝心や。誠実な積み重ねが長い目で信頼を築くんやで。"
+      "commentary": "SNSでのなりすまし広告、被害が続く中、対策強化の要請が出たわけや。商売は信頼の積み重ねやから、安易に「すいません」で済まそうとせず、しっかり本人確認など地道な努力を続けることが大事や。短期の見えん成果に惑わされず、次に繋がる行動を積み重ねていきたいもんやね。"
     },
     {
       "source": "LNEWS",
       "title": "T2／自動運転トラックの無人での拠点発着に初めて成功、2027年1月から商用運行へ",
       "sourceURL": "https://www.lnews.jp/?p=339286",
-      "summary": "T2は自動運転トラックの無人での拠点発着に初めて成功したと発表した。この実験は関東・関西のインターチェンジ近くに設置した切り替え拠点で行われ、有人運転との切り替えも可能とされる。今後、2027年1月から商用運行を開始する予定で、自動運転技術の実用化に向けた重要な一歩となっている。",
+      "summary": "物流企業のT2は、自動運転トラックが無人の拠点で自動的に発着する技術の実証に初めて成功したと発表した。対象は関東・関西の複数インターチェンジ近くの拠点で、無人と有人運転の切り替えが可能なシステムを用いている。2027年1月からはこの技術を活用した商用運行を開始する予定としている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
       },
-      "commentary": "無人運転の新技術が現場の実用へ一歩踏み出したんや。短期の成功に浮かれるんやなく、持続可能な信頼づくりが肝心やで。まだ課題はあるけど、毎日の積み重ねが次の改善を呼ぶ。それがほんまの商売の筋道やと思うわ。"
+      "commentary": "無人での自動運転トラック運用は、一歩進んだ技術の積み重ねや信頼の結果や。商売は短期の目先でなく、地道な改善や地域との連携が大事やから、これからも慎重に関係を築きつつ挑戦続ける姿勢が求められるで。"
     },
     {
       "source": "LNEWS",
       "title": "JR貨物／初の特定技能外国人、ベトナム出身の社員2名を受け入れ",
       "sourceURL": "https://www.lnews.jp/?p=339349",
-      "summary": "JR貨物は10月1日から、特定技能の在留資格を持つ外国人労働者の受け入れを開始し、初めてベトナム出身の2名を関東支社に配属した。両者は車両検修の業務に従事し、同社は今後も安全で安定した鉄道事業の継続を目指している。",
+      "summary": "JR貨物は10月1日より、特定技能の在留資格を持つ外国人労働者の受け入れを開始した。初のケースとして、ベトナム出身の2名が関東支社に配属され、車両検修の業務に従事する。同社は今後も鉄道事業の安全と安定を維持するため、多様な人材の活用を進める方針を示している。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ひ",
-        "phrase": "秘密がないのが秘訣"
+        "leadingKana": "へ",
+        "phrase": "平和の世 支える一人で あり続ける"
       },
-      "commentary": "JR貨物が特定技能の外国人を迎え入れたのは、透明な情報共有とオープンな姿勢が土台や。秘密を持たず、誠実に経験を積み重ねることで信頼が育つ。焦らず日々の積み重ねが未来の安定をつくるんやで。"
+      "commentary": "JR貨物が外国人社員を迎え入れたんは、長く安全な事業継続を支える一歩や。日々の業務の中で互いに信頼を積み重ね、社会の一員として役割を果たすことが大事やね。焦らず、丁寧に関係を育てていく姿勢がこれからの鍵やと思うわ。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-      "sourceURL": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "summary": "フロリダ州の2つの移民収容施設にいる重篤な病状の被収容者が、家族や支援団体の証言によると、関係のないアフリカの第三国へ早ければ水曜日にも強制送還される予定です。移民監視団体Workers Circleは、収容者の健康悪化を確認しつつも送還が進められていると伝えています。",
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "sourceURL": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "summary": "アフリカのギニアビサウで計画されていた米国支援のB型肝炎ワクチン新生児対象試験が中止された。研究責任者のデンマーク人研究者は、現地政府の承認が得られなかったため、試験は進められないと発表した。この試験は国際的な批判を受けていた。",
       "classification": {
         "tone": "B",
         "term": "S"
       },
       "karta": {
-        "leadingKana": "め",
-        "phrase": "目を見て 話せん奴を 信用すな"
+        "leadingKana": "も",
+        "phrase": "もうアカン 思たトコから もう一歩"
       },
-      "commentary": "人の命や健康の問題は、ただ事務的に扱うだけでは信頼は生まれへん。顔を見て話し合い、相手の立場を理解する姿勢が商売の基本や。どんなに難しい状況でも、誠実な対話が次の道を拓く鍵になるんやで。"
+      "commentary": "海外の試みが現地の理解や許可を得られず止まることもあるわな。そこで諦めず、もう一歩踏み出す姿勢が信頼を築く道筋や。短期の成果に左右されず、継続する意志こそが次の機会を呼び込む鍵やで。"
     }
   ]
 }
