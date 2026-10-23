@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T04:28:56.492Z",
+  "generatedAt": "2026-10-23T11:25:47.397Z",
   "run": {
-    "ranAt": "2026-10-23T04:28:56.492Z",
+    "ranAt": "2026-10-23T11:25:47.397Z",
     "runner": "github-actions",
-    "runId": "39900495122"
+    "runId": "39945947991"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-10-23T04:28:37.259Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,23 +20,23 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-10-23T04:28:37.259Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
-      "title": "NXHD／ネパールの洪水被害を支援、日本赤十字社を通じて100万円を寄付",
-      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングスは10月23日、ネパールで発生した洪水に対する支援を決定した、 被災者の救援や被災地の復興支援へ、日本赤十字社を通じて、100万円を寄付する。 ネパールでは8月26日、ラスワ郡 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1023502.html\">NXHD／ネパールの洪水被害を支援、日本赤十字社を通じて100万円を寄付</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=339622",
+      "title": "イオンネクスト／八王子CFC、自動化で冷凍エリアの入荷処理を2.7倍に",
+      "body": "<![CDATA[<p>イオンネクストは10月22日より、東京都八王子市で物流拠点「八王子CFC（顧客フルフィルメントセンター）」の稼働を開始し、内部を公開した。 ■関連記事 イオンネクスト／八王子CFCが稼働、自動化導入と配送エリア強化へ 2 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1023701.html\">イオンネクスト／八王子CFC、自動化で冷凍エリアの入荷処理を2.7倍に</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=339637",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=339622",
-      "fetchedAt": "2026-10-23T04:28:37.259Z"
+      "id": "www.lnews.jp/?p=339637",
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
-      "title": "UnityStep AIとレンゴー／出荷実績データ活用し製品置場最適化へ、現場実証を開始",
-      "body": "<![CDATA[<p>東京大学 松尾研発スタートアップのUnityStep AIとレンゴーは10月23日、段ボール原紙の出荷時の積み込み時間の短縮を目的に、出荷実績データを活用した製品置場の最適化に向け、実証を開始したと発表した。 データに基 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1023501.html\">UnityStep AIとレンゴー／出荷実績データ活用し製品置場最適化へ、現場実証を開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=339592",
+      "title": "佐川急便／個人情報流出最大5323万件、第5報で「お荷物問い合わせ」再開",
+      "body": "<![CDATA[<p>佐川急便は10月23日、「お荷物問い合わせサービス」の再開と個人情報の流出に関する調査状況について第5報を公開した。 本件は、9月30日に同社のWebサービス『お荷物問い合わせサービス』への第三者による不正アクセスを確認 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1023703.html\">佐川急便／個人情報流出最大5323万件、第5報で「お荷物問い合わせ」再開</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=339745",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=339592",
-      "fetchedAt": "2026-10-23T04:28:37.259Z"
+      "id": "www.lnews.jp/?p=339745",
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
@@ -44,7 +44,23 @@
       "sourceURL": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-      "fetchedAt": "2026-10-23T04:28:37.259Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
+    },
+    {
+      "title": "NXHD／ネパールの洪水被害を支援、日本赤十字社を通じて100万円を寄付",
+      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングスは10月23日、ネパールで発生した洪水に対する支援を決定した、 被災者の救援や被災地の復興支援へ、日本赤十字社を通じて、100万円を寄付する。 ネパールでは8月26日、ラスワ郡 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1023502.html\">NXHD／ネパールの洪水被害を支援、日本赤十字社を通じて100万円を寄付</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=339622",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=339622",
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
+    },
+    {
+      "title": "UnityStep AIとレンゴー／出荷実績データ活用し製品置場最適化へ、現場実証を開始",
+      "body": "<![CDATA[<p>東京大学 松尾研発スタートアップのUnityStep AIとレンゴーは10月23日、段ボール原紙の出荷時の積み込み時間の短縮を目的に、出荷実績データを活用した製品置場の最適化に向け、実証を開始したと発表した。 データに基 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1023501.html\">UnityStep AIとレンゴー／出荷実績データ活用し製品置場最適化へ、現場実証を開始</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=339592",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=339592",
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "三菱HCキャピタル／コンテナ投資は2000億円超、物流施設の高付加価値化に注力",
@@ -52,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339415",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339415",
-      "fetchedAt": "2026-10-23T04:28:37.259Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "イオンネクスト／八王子CFCが稼働、自動化導入と配送エリア強化へ",
@@ -60,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339568",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339568",
-      "fetchedAt": "2026-10-23T04:28:37.259Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Controversial US-backed vaccine trial in African newborns halted",
@@ -68,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "T2／自動運転トラックの無人での拠点発着に初めて成功、2027年1月から商用運行へ",
@@ -76,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339286",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339286",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "JR貨物／初の特定技能外国人、ベトナム出身の社員2名を受け入れ",
@@ -84,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339349",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339349",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
@@ -92,7 +108,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "【PR】JILS／第94期「ロジスティクス基礎講座」11月4日開講、過去の受講者インタビュー公開",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339262",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339262",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "【PR】JLL／埼玉県「G SQUARE 三郷」で11月4・5・6日に竣工前内覧会",
@@ -116,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339298",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339298",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "【PR】【シリーズ】GLPはMarqへ（4）／地域に選ばれる物流施設へ Marqが続ける地域共生の挑戦",
@@ -124,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=337495",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=337495",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "国交省／自動物流道路の実証実験を10月28日開始、成田国際空港などで走行性能や連携を検証",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339208",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339208",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
@@ -140,7 +156,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
@@ -148,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "ヨコウン／東北13拠点のデータ一元化と点呼業務自動化、ナブアシストのシステム導入で",
@@ -156,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339115",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339115",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "日本通運／超低温輸送サービス「定温マルチBOX Premium」発売、調温から容器回収まで一貫対応",
@@ -164,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339112",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339112",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "JILS／2026年度ロジスティクス大賞を表彰、Mujin Japan・三五など5組が受賞",
@@ -172,7 +188,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338974",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338974",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "最低賃金／運輸・倉庫の最低時給1220円に上昇、過半数が「ペース速すぎる」",
@@ -180,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338944",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338944",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
@@ -188,7 +204,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Third Ebola case in Kenya highlights US failures amid Trump cuts to key services",
@@ -196,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "ハコベル／明星食品「トラック簿」導入で荷待ち・荷役時間データ集計を大幅短縮",
@@ -204,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338929",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338929",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "鳥越製粉／業務用小麦粉を10月より値上げ、輸送費の上昇も要因に",
@@ -212,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338926",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338926",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "プロロジス／「プロロジスパーク郡山1」竣工、ヤマト東北最大の統合物流拠点が完成",
@@ -228,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338845",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338845",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "国交省／改正物流効率化法11月1日施行へ、トラック中継輸送を支援",
@@ -236,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338770",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338770",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
@@ -244,7 +260,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "霞ヶ関キャピタル／冷凍自動倉庫「LOGI FLAG」の新CMに本田圭佑さん起用",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338743",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338743",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "オープンロジ／納品書テンプレートを出荷依頼ごとに指定可能に",
@@ -260,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338746",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338746",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "ヤマト運輸／岡山県早島町に3.8万m2の統合型拠点、物流と仕分け・輸配送を集約",
@@ -268,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338659",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338659",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "西濃運輸／ハコベルとの共同開発システムで貸し切り運賃を即時算出し顧客の待ち時間を大幅削減",
@@ -276,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338524",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338524",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "横浜市／環境配慮船の入港料減免を見直しへ、2027年から「ESI2.0」対応で対象スコアを「20以上」に",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338518",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338518",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "トーヨーカネツ／小林専務に聞く、物流分野での機械化・自動化の課題と展望",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=337195",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=337195",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "コクヨ／最新鋭の物流拠点「東北IDC」を仙台市に開所、11月から本格稼働",
@@ -308,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338440",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338440",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
@@ -316,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "プロロジス／千葉県習志野市の物流施設にNPOが入居、フードバンクの保管3.7倍に拡大",
@@ -332,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338422",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338422",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "【PR】CBRE／神戸市東灘区で「Marq六甲3」内覧会を10月29日開催、マーケット解説も",
@@ -340,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338392",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338392",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "三菱地所／インドで5・6件目の物流施設開発に参画、産業集積地のプネ地区では初",
@@ -348,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338269",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338269",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "ヤマト運輸／ベトナム・マスターライズと提携、ザービン国際空港の高度物流ハブ構想で",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338323",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338323",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "CRE、福岡地所／佐賀県鳥栖市に3.7万m2の物流施設竣工、準工業地域でJR貨物駅も至近",
@@ -364,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338071",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338071",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "NXHD／カナダの3PL企業を子会社化、北米でのグループ事業基盤を強化",
@@ -372,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338065",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338065",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.858Z"
     },
     {
       "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.859Z"
     },
     {
       "title": "日本通運／9月の鉄道コンテナ取り扱い実績13.1％減",
@@ -388,23 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338140",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338140",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
-    },
-    {
-      "title": "PIAJ／日本フィジカルインターネットアカデミーが始動「新たな研究・実装の場に」",
-      "body": "<![CDATA[<p>日本でのフィジカルインターネット（PI）実装を研究面から支えようと10月8日、フィジカルインターネットアカデミー（PIAJ）が始動した。 早稲田大学で第1回キックオフミーティングを開き、発起人である早稲田大学の大森岐一教 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1009501.html\">PIAJ／日本フィジカルインターネットアカデミーが始動「新たな研究・実装の場に」</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=338116",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=338116",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
-    },
-    {
-      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-      "body": "&lt;p&gt;Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood&lt;/p&gt;&lt;p&gt;Egyptian journalists are planning a new protest in Cairo this weekend after &lt;a href=\"https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom\"&gt;six colleagues were charged with terrorism offences&lt;/a&gt; amid allegations they had been tortured in police detention.&lt;/p&gt;&lt;p&gt;Last week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing false news on behalf of the outlawed &lt;a href=\"https://www.theguardian.com/world/muslim-brotherhood\"&gt;Muslim Brotherhood&lt;/a&gt;.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "fetchedAt": "2026-10-23T04:28:37.260Z"
+      "fetchedAt": "2026-10-23T11:25:29.859Z"
     }
   ],
   "items": [
@@ -412,7 +412,7 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する企業として、AIモデル「アストラ」の開発を一時停止すると発表しました。これは、AIの性能向上により、自律的に重大なサイバー攻撃を行うリスクが懸念されたためです。開発中断は安全性を考慮した措置とされています。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。これは、同モデルの能力が著しく向上した結果、自律的に重大なサイバー攻撃を行うリスクがあるためと説明されています。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -421,13 +421,43 @@
         "leadingKana": "す",
         "phrase": "すいません  言うな"
       },
-      "commentary": "AIの力が増すほど、安易に「すいません」と済ませられへん課題が増えるわな。誠実に向き合い、慎重な判断積み重ねてこそ信頼は生まれる。焦らず、次の一手を共に考える姿勢が、商売人の道やで。"
+      "commentary": "AIが思わぬ動きを見せたとき、ただ「すいません」で済ませたらあきませんわ。問題の本質と向き合い、どう信頼を積むか日々考え続けることが肝心や。焦らず、誠実に未来を築く姿勢が次の一歩を生むんやで。"
     },
     {
       "source": "NHK",
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS事業者に対し、広告主の本人確認を徹底するなど詐欺対策の強化を求める文書を送付しました。",
+      "summary": "政府は、SNSで著名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し、広告主の本人確認などの対策強化を求める文書を送付しました。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "つ",
+        "phrase": "つまらない 話もコトも しなさんな"
+      },
+      "commentary": "SNSでのなりすまし広告、つまらん被害を防ぐためには、運営側も中途半端な対応は避けてほしいもんやね。形式的な対策だけで済ませるんやなく、信頼を積み重ねる地道な努力が大事や。お互い本気で向き合うからこそ、無用なトラブルも避けられるんやで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "イオンネクスト／八王子CFC、自動化で冷凍エリアの入荷処理を2.7倍に",
+      "sourceURL": "https://www.lnews.jp/?p=339637",
+      "summary": "イオンネクストは10月22日、東京都八王子市に新たな物流拠点「八王子CFC」の稼働を開始した。この施設では自動化技術を導入し、特に冷凍エリアの入荷処理能力を従来の約2.7倍に向上させた。新拠点の稼働により、効率的な物流体制の強化を目指す。",
+      "classification": {
+        "tone": "G",
+        "term": "L"
+      },
+      "karta": {
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
+      },
+      "commentary": "八王子の物流拠点で自動化が進み、入荷処理の効率が飛躍的に上がった。その背景には、日々の積み重ねと社会との繋がりがあるんや。儲けだけ追わず、信頼を築く仕事の在り方が未来をつくる。焦らず、地道に尽くす姿勢が肝心やで。"
+    },
+    {
+      "source": "LNEWS",
+      "title": "佐川急便／個人情報流出最大5323万件、第5報で「お荷物問い合わせ」再開",
+      "sourceURL": "https://www.lnews.jp/?p=339745",
+      "summary": "佐川急便は10月23日、第三者による不正アクセスで最大約5323万件の個人情報が流出した問題について第5報を発表し、「お荷物問い合わせサービス」を再開した。今回の報告では調査の進捗や対応状況が示されている。流出は9月30日に確認された。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -436,52 +466,22 @@
         "leadingKana": "ほ",
         "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "SNSでのなりすまし広告問題、表面的な対応だけで済ますのは危ないで。事実確認をしっかりして、あわてず対策を練ることが信頼の積み重ねや。焦らず疑いを持ちながら、持続的な防止策を模索せなあかんな。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "NXHD／ネパールの洪水被害を支援、日本赤十字社を通じて100万円を寄付",
-      "sourceURL": "https://www.lnews.jp/?p=339622",
-      "summary": "NIPPON EXPRESSホールディングスは、8月にネパールのラスワ郡で発生した洪水被害に対し、日本赤十字社を通じて100万円を寄付すると発表しました。寄付金は被災者の支援や復興活動に活用される予定です。",
-      "classification": {
-        "tone": "G",
-        "term": "S"
-      },
-      "karta": {
-        "leadingKana": "を",
-        "phrase": "をそ鳥は　眠り豚より　ちょっとええ"
-      },
-      "commentary": "被災支援は、事後の慌てよりも早めの手当てが信頼を築くもんや。今回の寄付は、単なる一時の善意やなく、持続的な関係性の一歩やと捉えたい。焦らず、でも遅れず、日々の積み重ねで社会との絆を深める姿勢が問われるわな。"
-    },
-    {
-      "source": "LNEWS",
-      "title": "UnityStep AIとレンゴー／出荷実績データ活用し製品置場最適化へ、現場実証を開始",
-      "sourceURL": "https://www.lnews.jp/?p=339592",
-      "summary": "東京大学発のスタートアップUnityStep AIと段ボール大手レンゴーは、出荷実績データを活用して段ボール原紙の積み込み時間短縮を目指す製品置場の最適化に関する現場実証を10月23日に開始した。両社はデータ分析を通じて物流効率の向上を図る取り組みを進めている。",
-      "classification": {
-        "tone": "G",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "は",
-        "phrase": "早起きは 眠たいけども 憂いなし"
-      },
-      "commentary": "データ活用で現場を効率化する取り組みは、毎日の積み重ねの中で信頼を築く姿勢に通じるわな。初めは手間もあるやろけど、地道に改善を重ねることで、働く環境も結果も変わっていく。焦らず、少しずつ調子を整えて進むのが肝心やで。"
+      "commentary": "今回の情報漏えい、急ぎ再開のサービスも慎重に見極めなあかん。焦って動くより、状況を疑いながら確認を重ねることが信頼の積み重ねや。表面だけで判断せんと、次の行動に活かすために冷静な目を持ち続けるのがあきんどの心得やで。"
     },
     {
       "source": "Guardian｜World",
       "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
       "sourceURL": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-      "summary": "ルイス・ハミルトンは、アフリカで開催予定のグランプリに出場するため、2030年代初頭までフォーミュラ1の現役を続ける意向を示した。ルワンダでの開催は10年契約で決まり、バゲセラ地区に新たなサーキットが建設される予定である。1993年以来のアフリカでのF1復帰となる一方、開催国の人権状況には批判もあるが、ハミルトンは開催を支持している。",
+      "summary": "ルイス・ハミルトンは、2030年代初頭にルワンダで開催予定のアフリカグランプリに出場するため、現役を続けたい意向を示した。ルワンダは10年契約でアフリカグランプリの開催地となり、キガリ南方のブゲセラに新設されるサーキットで行われる予定。これはアフリカでのF1開催が1993年の南アフリカ以来となる。ハミルトンは同国の人権問題への批判がある中でも開催は適切だと述べている。",
       "classification": {
         "tone": "N",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ろ",
-        "phrase": "論じてみぃ　証拠がなくても　論じてみぃ"
+        "leadingKana": "そ",
+        "phrase": "外は外 内は内やぞ 混ぜるなよ"
       },
-      "commentary": "ルイス・ハミルトンが30年代までの現役続行を目指す姿勢は、夢を追い続ける商いの姿勢に似てるわな。アフリカGPという新たな挑戦は、まだ形が見えへんけど、未来を見据えて信頼を積む大切さを教えてくれる。疑問や批判があっても、行動で道を切り開く勇気が仕事にも必要やで。"
+      "commentary": "ルイス・ハミルトンの挑戦は、外の世界＝国際舞台と内の現実＝地元事情が違うことを示してるわな。ビジネスも人生も、多様な価値観や状況を混ぜずに見極める冷静さが必要や。夢追う姿勢は大事やけど、内外のズレを理解し、自分の立場でどう動くか問い続けるのが信頼を築く道やで。"
     }
   ]
 }
