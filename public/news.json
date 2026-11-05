@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T06:21:07.145Z",
+  "generatedAt": "2026-11-05T19:49:11.857Z",
   "run": {
-    "ranAt": "2026-11-05T06:21:07.145Z",
+    "ranAt": "2026-11-05T19:49:11.857Z",
     "runner": "github-actions",
-    "runId": "41979760668"
+    "runId": "42097417771"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.341Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,23 +20,23 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
-      "title": "ケイヒン 決算／4～9月の売上高9.1％減、営業利益26.8％減、国際物流が失速",
-      "body": "<![CDATA[<p>ケイヒンが11月5日に発表した2027年3月期中間期決算（4～9月）によると、売上高は230億9900万円（前年同期比9.1％減）、営業利益は13億5400万円（26.8％減）、経常利益は15億400万円（25.0％減） [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/11/s1105607.html\">ケイヒン 決算／4～9月の売上高9.1％減、営業利益26.8％減、国際物流が失速</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=341164",
+      "title": "日本郵便・セイノーグループ／幹線共同運行延べ1万便超に、拠点共有化や外国人採用でも協業進む",
+      "body": "<![CDATA[<p>日本郵便、日本郵便輸送、JPロジスティクス、セイノーホールディングス、西濃運輸の5社は11月5日、日本郵便グループとセイノーグループの協業に関する進ちょく状況を公表した。 日本郵便グループとセイノーグループは2024年5 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/11/s1105103.html\">日本郵便・セイノーグループ／幹線共同運行延べ1万便超に、拠点共有化や外国人採用でも協業進む</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=341236",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=341164",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "id": "www.lnews.jp/?p=341236",
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
-      "title": "センコーGHD／ケミカルタンカーでバイオ燃料B24の実証試験、船内混合の手順など確認",
-      "body": "<![CDATA[<p>センコーグループホールディングス（GHD）は11月5日、グループのセンコー汽船が環境負荷低減（温室効果ガス排出量削減）に向け、太陽石油、金森石油と共同で、ケミカルタンカー「扇泰丸（せんたいまる）」でのバイオ燃料B24使用 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/11/s1105102.html\">センコーGHD／ケミカルタンカーでバイオ燃料B24の実証試験、船内混合の手順など確認</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=341155",
+      "title": "日本郵船 決算／中間純利益2倍超、1.6兆円投資の成果で成長目指す",
+      "body": "<![CDATA[<p>日本郵船が11月5日に発表した2027年3月期決算（4～9月）によると、売上高は1兆5050億2500万円（前年同期比27.3％増）、営業利益は1148億7600万円（同91.9％増）、経常利益は2132億6200万円（ [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/11/s1105702.html\">日本郵船 決算／中間純利益2倍超、1.6兆円投資の成果で成長目指す</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=341218",
       "source": "LNEWS",
-      "id": "www.lnews.jp/?p=341155",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "id": "www.lnews.jp/?p=341218",
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
@@ -44,7 +44,23 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
+    },
+    {
+      "title": "ケイヒン 決算／4～9月の売上高9.1％減、営業利益26.8％減、国際物流が失速",
+      "body": "<![CDATA[<p>ケイヒンが11月5日に発表した2027年3月期中間期決算（4～9月）によると、売上高は230億9900万円（前年同期比9.1％減）、営業利益は13億5400万円（26.8％減）、経常利益は15億400万円（25.0％減） [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/11/s1105607.html\">ケイヒン 決算／4～9月の売上高9.1％減、営業利益26.8％減、国際物流が失速</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=341164",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=341164",
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
+    },
+    {
+      "title": "センコーGHD／ケミカルタンカーでバイオ燃料B24の実証試験、船内混合の手順など確認",
+      "body": "<![CDATA[<p>センコーグループホールディングス（GHD）は11月5日、グループのセンコー汽船が環境負荷低減（温室効果ガス排出量削減）に向け、太陽石油、金森石油と共同で、ケミカルタンカー「扇泰丸（せんたいまる）」でのバイオ燃料B24使用 [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/11/s1105102.html\">センコーGHD／ケミカルタンカーでバイオ燃料B24の実証試験、船内混合の手順など確認</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
+      "sourceURL": "https://www.lnews.jp/?p=341155",
+      "source": "LNEWS",
+      "id": "www.lnews.jp/?p=341155",
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "三井不動産・日鉄興和不動産／京都府八幡市で延床16万m2超の物流施設を着工、2028年9月竣工へ",
@@ -52,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340903",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340903",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "不正アクセス／物流企業で被害相次ぐ、個人情報漏えいやサービス停止",
@@ -60,7 +76,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341038",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341038",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "ANC faces anger over poor services as South Africans vote in local elections",
@@ -68,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "Shippio／不正アクセスで貿易DXサービスを一時停止、顧客情報漏えいを確認",
@@ -76,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341002",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341002",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "ギークプラス／日通NECロジに棚搬送型ロボット導入、ピッキング要員が半分に",
@@ -84,7 +100,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340984",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340984",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "三菱倉庫／斉藤社長が阪急阪神エクスプレス買収で会見、トータルロジスティクス企業へ",
@@ -92,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340759",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340759",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "大和ハウス工業／群馬県伊勢崎市で4.4万m2のマルチ型物流施設を着工へ、公設市場の跡地",
@@ -100,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340702",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340702",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -108,7 +124,7 @@
       "sourceURL": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "福山通運／包装資材を有料化、仕入れ価格の大幅上昇が影響",
@@ -116,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340732",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340732",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "エアロネクスト／松江市でトラック共同配送とドローン組み合せ実証",
@@ -124,7 +140,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340720",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340720",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "三菱地所ほか／大阪市大正区で4.5万m2、マルチテナント型の冷凍冷蔵物流施設が竣工",
@@ -132,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340525",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340525",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "ラサールとNIPPO／千葉県船橋市に2.9万m2冷凍冷蔵物流施設竣工、ムロオの物流とワイズマートの食品加工を一体化",
@@ -140,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340603",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340603",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "【PR】LNEWS／物流人材「次世代の採用フォーメーション」テーマで11月25日セミナー開催",
@@ -148,7 +164,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340501",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340501",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "イオンとMujin／次世代物流センター「川口東XD」公開、仕分けから店舗出荷を自動化",
@@ -156,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340444",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340444",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "日本GLP／兵庫県西宮市で冷凍冷蔵物流施設「Marq 鳴尾浜2」着工",
@@ -164,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340441",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340441",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -172,7 +188,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "JLL 物流施設動向／東京圏の物流施設空室率7.3％、賃料は前年比3.8％上昇",
@@ -180,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340372",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340372",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "住友倉庫／インドに現地法人を設立",
@@ -188,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340384",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340384",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "日本GLP／大阪市東住吉区で2.9万m2「Marq 大阪4」竣工、あらた専用で自動化導入の新拠点に",
@@ -196,7 +212,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340204",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340204",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "ヤマト運輸／東京都江東区で12万m2の拠点稼働へ、仕分けとロジ統合で法人ビジネス強化",
@@ -204,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340228",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340228",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
@@ -212,7 +228,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "JMU／EEDI「Phase 3」適合のバルクキャリア「FRONTIER FORTISSIMO」を引き渡し",
@@ -220,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340153",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340153",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "ヤマト運輸／緊急やスポット配送に「クロネコ軽貨物チャーター」提供開始",
@@ -228,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340147",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340147",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
@@ -236,7 +252,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "鴻池運輸／グループ会社がベトナム北部に冷凍冷蔵倉庫を新設へ、南北つなぎ需要拡大に備え",
@@ -244,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340006",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340006",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "日本郵船など7社／世界初、アンモニア燃料調達から燃料供給網まで一挙構築へ",
@@ -252,7 +268,7 @@
       "sourceURL": "https://www.lnews.jp/?p=340027",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=340027",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "商船三井／インドで開催の海事業界での女性活躍・DE＆I推進イベントに参画",
@@ -260,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339982",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339982",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "KDDIグループ／米ドローン配送企業Wingと提携、2027年にサービス開始目指す",
@@ -268,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339973",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339973",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "国交省／物流倉庫分野の特定技能1号評価試験、出張方式の受付開始",
@@ -276,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339844",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339844",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "デンソーと豊田自動織機／トラックの自動荷役を開始、LiDAR連携で安全性向上へ",
@@ -284,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339769",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339769",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
@@ -292,7 +308,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "【PR】JILS／「物流コスト＆KPI管理入門セミナー」12月8日開催",
@@ -300,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339787",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339787",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "【PR】オリックス不動産／埼玉県「三郷Iロジスティクスセンター」で11月5・6日に内覧会",
@@ -308,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=338341",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=338341",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
@@ -316,7 +332,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "イオンネクスト／八王子CFC、自動化で冷凍エリアの入荷処理を2.7倍に",
@@ -324,7 +340,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339637",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339637",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "佐川急便／個人情報流出最大5323万件、第5報で「お荷物問い合わせ」再開",
@@ -332,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339745",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339745",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
@@ -340,7 +356,7 @@
       "sourceURL": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "NXHD／ネパールの洪水被害を支援、日本赤十字社を通じて100万円を寄付",
@@ -348,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339622",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339622",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "UnityStep AIとレンゴー／出荷実績データ活用し製品置場最適化へ、現場実証を開始",
@@ -356,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339592",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339592",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "三菱HCキャピタル／コンテナ投資は2000億円超、物流施設の高付加価値化に注力",
@@ -364,7 +380,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339415",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339415",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "イオンネクスト／八王子CFCが稼働、自動化導入と配送エリア強化へ",
@@ -372,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339568",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339568",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "Controversial US-backed vaccine trial in African newborns halted",
@@ -380,7 +396,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     },
     {
       "title": "T2／自動運転トラックの無人での拠点発着に初めて成功、2027年1月から商用運行へ",
@@ -388,23 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=339286",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=339286",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
-    },
-    {
-      "title": "JR貨物／初の特定技能外国人、ベトナム出身の社員2名を受け入れ",
-      "body": "<![CDATA[<p>JR貨物は10月1日から、在留資格「特定技能」を有する外国人材の受入れを開始した。今回初の事例として、ベトナム出身の社員2名が関東支社に配属され、車両検修業務に就く。 同社は、将来にわたり安全で安定した鉄道事業を継続して [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/10/s1021504.html\">JR貨物／初の特定技能外国人、ベトナム出身の社員2名を受け入れ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=339349",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=339349",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
-    },
-    {
-      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-      "body": "&lt;p&gt;Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\"&gt;Send us your questions about immigration and the midterms&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Relatives of gravely ill detainees at two &lt;a href=\"https://www.theguardian.com/us-news/florida\"&gt;Florida&lt;/a&gt; &lt;a href=\"https://www.theguardian.com/us-news/usimmigration\"&gt;immigration&lt;/a&gt; jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions.&lt;/p&gt;&lt;p&gt;Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Workers Circle, which has been monitoring conditions and speaking with detainees inside two &lt;a href=\"https://www.theguardian.com/us-news/ice-us-immigration-and-customs-enforcement\"&gt;Immigration and Customs Enforcement (ICE)&lt;/a&gt; facilities in south Florida.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida\"&gt;Continue reading...&lt;/a&gt;",
-      "sourceURL": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "source": "Guardian｜World",
-      "id": "www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "fetchedAt": "2026-11-05T06:20:50.273Z"
+      "fetchedAt": "2026-11-05T19:48:50.342Z"
     }
   ],
   "items": [
@@ -412,7 +412,22 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。これは、同モデルの能力が予想以上に向上し、自律的に重大なサイバー攻撃を行うリスクを完全に排除できないためと説明されています。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。停止の主な理由は、AIの性能向上に伴い、自律的に重大なサイバー攻撃を行うリスクが否定できなくなったためです。",
+      "classification": {
+        "tone": "B",
+        "term": "M"
+      },
+      "karta": {
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
+      },
+      "commentary": "オープンAIが開発を一時止めたんは、技術の進歩とリスクの境目を見極める慎重さの表れや。慌てて飛びつくんやなく、ほんまに大丈夫かどうか、疑いを持って冷静に見つめ直す姿勢が大事やね。焦らずに基盤を固めることが、長い信頼につながるんやで。"
+    },
+    {
+      "source": "NHK",
+      "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
+      "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
+      "summary": "政府は、SNS上で有名人の写真を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営会社に対し、広告主の本人確認などの対策強化を文書で求めました。",
       "classification": {
         "tone": "B",
         "term": "M"
@@ -421,58 +436,43 @@
         "leadingKana": "す",
         "phrase": "すいません  言うな"
       },
-      "commentary": "AIの暴走懸念で開発止める話、ちゃうんや、ただの「すいません」やなくて、真剣に向き合う姿勢や。怖いことも認め、次にどう動くか考えるのがあきんどの筋目。焦らず、言い訳せんと、信頼の積み重ねに変えていこや。"
-    },
-    {
-      "source": "NHK",
-      "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
-      "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で有名人の写真を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し、広告主の本人確認など詐欺防止策の強化を求める文書を送付しました。",
-      "classification": {
-        "tone": "B",
-        "term": "M"
-      },
-      "karta": {
-        "leadingKana": "や",
-        "phrase": "やるんかい やらんのやったら どいとれや"
-      },
-      "commentary": "SNSの広告詐欺対策は、運営者だけの仕事やない。政府の要請は後押しやけど、現場で実効性を持たせるには、関わる全員が役割を自覚し、確実に動くことが肝心や。尻込みせずに一歩踏み出す姿勢が信頼を築く道筋やで。"
+      "commentary": "SNSのなりすまし広告は信頼を揺るがす問題や。詐欺防止には、ただ謝るだけやなく、事実の確認と対策の積み重ねが大事やで。声かけも「すいません」やなく「お願いします」と真摯に伝えるように、日々の信頼づくりを怠らんことや。"
     },
     {
       "source": "LNEWS",
-      "title": "ケイヒン 決算／4～9月の売上高9.1％減、営業利益26.8％減、国際物流が失速",
-      "sourceURL": "https://www.lnews.jp/?p=341164",
-      "summary": "ケイヒンが発表した2027年3月期中間決算（4～9月）によると、売上高は前年同期比9.1％減の約231億円、営業利益は26.8％減の約13.5億円、経常利益も25.0％減の約15億円となった。特に国際物流事業の業績が低迷したことが全体の減収減益につながっている。",
+      "title": "日本郵便・セイノーグループ／幹線共同運行延べ1万便超に、拠点共有化や外国人採用でも協業進む",
+      "sourceURL": "https://www.lnews.jp/?p=341236",
+      "summary": "日本郵便グループとセイノーグループの5社は、幹線輸送の共同運行便数が延べ1万便を超えたと発表した。両グループは2024年5月から拠点の共有化や外国人採用の連携も進めており、協業体制を強化している。これにより効率的な物流サービスの提供を目指している。",
       "classification": {
-        "tone": "B",
-        "term": "S"
+        "tone": "G",
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "も",
-        "phrase": "もうアカン 思たトコから もう一歩"
+        "leadingKana": "か",
+        "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "国際物流の鈍化で数字が厳しい状況やけど、商売は一瞬の結果で決まらへん。しんどい時こそ焦らず、もう一歩踏み出す姿勢が信頼の積み重ねに繋がる。継続することで新たな展開も見えてくるはずや。"
+      "commentary": "日本郵便とセイノーグループの連携は、単なる便数の増加だけやなく、拠点共有や多様な人材の採用を通じて協力体制を深めてる。こうした地道な改善が積み重なり、強固な信頼と持続可能な商売の基盤を育てる。日々の気づきを大切に、共に歩む姿勢が未来を支えるんや。"
     },
     {
       "source": "LNEWS",
-      "title": "センコーGHD／ケミカルタンカーでバイオ燃料B24の実証試験、船内混合の手順など確認",
-      "sourceURL": "https://www.lnews.jp/?p=341155",
-      "summary": "センコーグループホールディングスは、グループ会社のセンコー汽船が太陽石油、金森石油と協力し、ケミカルタンカー「扇泰丸」を用いてバイオ燃料B24の実証試験を実施しました。この試験では、船内での燃料混合手順などの確認を行い、温室効果ガス排出削減に向けた取り組みの一環としています。",
+      "title": "日本郵船 決算／中間純利益2倍超、1.6兆円投資の成果で成長目指す",
+      "sourceURL": "https://www.lnews.jp/?p=341218",
+      "summary": "日本郵船が発表した2027年3月期中間決算（4～9月）では、売上高が前年同期比27.3％増の約1兆5050億円となり、営業利益は約1149億円で前年同期比91.9％増と大幅に伸びた。経常利益も増加し、純利益は前年の2倍を超えた。同社は約1.6兆円の投資成果を背景にさらなる成長を目指している。",
       "classification": {
         "tone": "G",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "な",
-        "phrase": "何するか 分からん時は 基礎鍛錬"
+        "leadingKana": "の",
+        "phrase": "ノコの歯は 引いて切って 押して切る"
       },
-      "commentary": "環境対応の新燃料実証は一歩やけど、慌てず慌てずやな。先が見えん時ほど、基本の手順や混合の確かめを丁寧に積み重ねることが信頼の礎になる。焦らず地盤固めから進めてこそ、持続可能な取り組みが息長く続くんやで。"
+      "commentary": "大きな投資で利益伸ばすのは、ただ前進するだけやない。動くたびに次の機会も拾うような、二重の狙いを持つべきやな。利益も成長も、一方向だけで追うんやなく、複数の目的を折り重ねてこそ持続できる商いになるんやで。"
     },
     {
       "source": "Guardian｜World",
       "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
       "sourceURL": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-      "summary": "コンゴ民主共和国でエボラウイルスに感染した英国人医療従事者が、治療のため英国に移送されることが確認された。患者は安定した状態にあり、専門の感染症治療ユニットに搬送される予定である。英国政府は対応手順が整っており、国内のエボラ感染リスクは低いと説明している。",
+      "summary": "コンゴ民主共和国でエボラウイルスに感染した英国人医療従事者が、治療のためイギリスに搬送されることが確認された。患者は安定した状態で、専門の感染症治療施設に移される予定である。英国政府は感染リスクは低いとし、対応手順を既に開始している。",
       "classification": {
         "tone": "N",
         "term": "S"
@@ -481,7 +481,7 @@
         "leadingKana": "ん",
         "phrase": "ん？ってな  疑問に思うが  金の時"
       },
-      "commentary": "こういう緊急搬送の話、表面だけ見て納得せんと「ん？」と立ち止まるんが肝心やで。何がどう違和感か、その背景や手順を考え、慌てずに自分の感覚を磨く。信頼は日々の積み重ねやから、焦らず疑問を大切にせなあかん。"
+      "commentary": "こういう時こそ、違和感を大事にせなあかんねん。海外で感染した人を自国に戻す判断、その背景には医療体制やリスク管理の複雑さがある。単なる救助や隔離だけやなく、社会との関わり方や信頼の積み重ねを見直す機会やと思う。焦らず、何が本質かを問い続ける目線が大事やで。"
     }
   ]
 }
