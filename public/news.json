@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T09:37:36.682Z",
+  "generatedAt": "2026-11-24T22:16:16.877Z",
   "run": {
-    "ranAt": "2026-11-24T09:37:36.682Z",
+    "ranAt": "2026-11-24T22:16:16.877Z",
     "runner": "github-actions",
-    "runId": "45366890320"
+    "runId": "45499231299"
   },
   "stock": [
     {
@@ -12,7 +12,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "fetchedAt": "2026-11-24T09:37:15.446Z"
+      "fetchedAt": "2026-11-24T22:15:55.850Z"
     },
     {
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
@@ -20,7 +20,7 @@
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
       "source": "NHK",
       "id": "www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.850Z"
     },
     {
       "title": "クレド／自社初の東海エリア物流施設、岐阜県に2.3万m2で開発へ",
@@ -28,7 +28,7 @@
       "sourceURL": "https://www.lnews.jp/?p=343273",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=343273",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.850Z"
     },
     {
       "title": "ESRのギブソンCEO／東扇島HOBは世界的デザイナーと描く「誇りを持って働ける」物流施設",
@@ -36,7 +36,15 @@
       "sourceURL": "https://www.lnews.jp/?p=343240",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=343240",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.850Z"
+    },
+    {
+      "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+      "body": "&lt;p&gt;Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa&lt;/p&gt;&lt;p&gt;When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards the police station where fierce fighting erupted.&lt;/p&gt;&lt;p&gt;“Everything was happening at once. Explosions were going off all around us, people were shouting,” recalled a former member of Russia’s Africa Corps who was stationed in Mali at the time and spoke on condition of anonymity. “Nobody knew where the enemy was coming from.”&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data\"&gt;Continue reading...&lt;/a&gt;",
+      "sourceURL": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+      "source": "Guardian｜World",
+      "id": "www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+      "fetchedAt": "2026-11-24T22:15:55.850Z"
     },
     {
       "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
@@ -44,7 +52,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "ESR／神奈川県川崎市・東扇島で31万m2の物流施設に着工、事業費は1200億円",
@@ -52,7 +60,7 @@
       "sourceURL": "https://www.lnews.jp/?p=343198",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=343198",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "霞ヶ関キャピタルとスペースデータ／物流施設3拠点でフィジカルAI活用を共同検討",
@@ -60,7 +68,7 @@
       "sourceURL": "https://www.lnews.jp/?p=343135",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=343135",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
@@ -68,7 +76,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "California’s coastal communities on alert as biggest waves in years hit state",
@@ -76,7 +84,7 @@
       "sourceURL": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "大和ハウス工業／東京都江東区の物流施設でイベント開催、地元商店や入居企業と盛り上げ",
@@ -84,7 +92,7 @@
       "sourceURL": "https://www.lnews.jp/?p=343153",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=343153",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Race to replant five South African baobabs after export blocked",
@@ -92,7 +100,7 @@
       "sourceURL": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "西濃運輸／岡山支店を新築移転、3.6万m2のロジ・トランス一体型施設に",
@@ -100,7 +108,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342940",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342940",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "全日本トラック協会／7～9月の景況感は2.7ポイント悪化のマイナス31.6、コスト転嫁進まず",
@@ -108,7 +116,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342895",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342895",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "航空貨物運送協会／10月国際航空貨物の輸出件数8.61％増、重量23.24％増",
@@ -116,7 +124,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342964",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342964",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "国交省／自動運転機能を持つ車両の区分定義で省令など改正へ、意見募集を開始",
@@ -124,7 +132,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342961",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342961",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "One in four women globally unable to refuse sex within marriage, says UN",
@@ -132,7 +140,7 @@
       "sourceURL": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "ロジスティードHD／米Neovia買収で北米・欧州のコントラクトロジスティクス強化へ",
@@ -140,7 +148,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342766",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342766",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "アスクル／「1箱で届ける」支える関東DCの見学会を開催、池田CLOが物流戦略語る",
@@ -148,7 +156,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342793",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342793",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
@@ -156,7 +164,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Industry Alpha／倉庫をスマート化、制御基盤とAIから成る「α」発表",
@@ -164,7 +172,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342739",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342739",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "井林国交大臣／トラック適正原価設定の目的は「物流の持続可能性確保」と強調",
@@ -172,7 +180,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342727",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342727",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -180,7 +188,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "日本GLP／2027年1月「AMJ」へ社名変更し帖佐社長は会長、藤岡・三浦両常務が共同社長に",
@@ -188,7 +196,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342604",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342604",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "西濃運輸／新「青森支店」が完成、雪害対策や接岸バース増加で効率化",
@@ -196,7 +204,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342514",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342514",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
@@ -204,7 +212,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "アマゾン／2025年日本への投資は1.5兆円に、麻布台オフィス開設で東京拠点を拡張",
@@ -212,7 +220,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342574",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342574",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "セイノーラストワンマイルほか3社／長野県で「地域アンカー連合」結成、ドローン活用の新物流モデル構築へ",
@@ -220,7 +228,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342568",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342568",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "三友通商／千葉県市川市に1.3万m2の冷凍冷蔵拠点を開設へ、関東の物流網を強化",
@@ -228,7 +236,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342433",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342433",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "井林国交大臣／ブラックフライデー・年末商戦前に物流負荷軽減への協力を要請",
@@ -236,7 +244,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342391",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342391",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "日本通運／内航「東京～九州・瀬戸内航路」の松山港寄港休止へ、2027年1月から宇野港に寄港",
@@ -244,7 +252,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342358",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342358",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "SAグループ／物流サービスの新ブランド「Remono（リモーノ）」を始動",
@@ -252,7 +260,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342352",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342352",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
@@ -260,7 +268,7 @@
       "sourceURL": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "国交省／2025年度の宅配便取扱個数は2.5％増の51億6178万個で過去最高を更新",
@@ -268,7 +276,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342223",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342223",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "日本郵政 決算／4～9月の経常利益25％増、郵便・物流事業は赤字拡大",
@@ -276,7 +284,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342220",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342220",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "SBSHD 決算／1～9月の売上高20.4％増、物流事業の拡大で増収増益",
@@ -284,7 +292,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342172",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342172",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "アジア発米国向け海上コンテナ輸送／10月の輸送量17.4％増",
@@ -292,7 +300,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342163",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342163",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "プロロジス／レターCEOが就任後初来日、山田会長と顧客ニーズ起点の成長戦略語る",
@@ -300,7 +308,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341941",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341941",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "日本GLP／「ALFALINK東京昭島」の2棟目25.5万m2を着工、最上階に事務所集め共創促す",
@@ -308,7 +316,7 @@
       "sourceURL": "https://www.lnews.jp/?p=342025",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=342025",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "東京ロジファクトリー／埼玉県草加市に医療材料の物流機能担う新拠点を稼働",
@@ -316,7 +324,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341710",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341710",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "丸全昭和運輸／茨城県の笠間物流センターに定温倉庫を増設、2028年1月竣工へ",
@@ -324,7 +332,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341689",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341689",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
@@ -332,7 +340,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "丸運／ローリー部門の安全・運転技術を競うセーフティードライバーコンテストを開催",
@@ -340,7 +348,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341791",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341791",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Closer／小型協働パレタイズロボットが「第12回ロボット大賞」優秀賞を受賞",
@@ -348,7 +356,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341782",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341782",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "ヨコレイ／静岡県焼津市にマグロ・カツオ製品特化の冷凍全自動ラック倉庫竣工",
@@ -356,7 +364,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341644",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341644",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "ニチレイ 決算／2026年12月期中間期、低温物流の海外展開で収益力向上",
@@ -364,7 +372,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341674",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341674",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "Collision of two trains in Egypt kills at least seven",
@@ -372,7 +380,7 @@
       "sourceURL": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
       "source": "Guardian｜World",
       "id": "www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "財務省／10月上中旬分の貿易統計、輸出23.5％増、輸入32.4％増",
@@ -380,7 +388,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341539",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341539",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "マツダ／広島港出島地区にKDセンター竣工、海外向け部品物流を効率化",
@@ -388,7 +396,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341479",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341479",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     },
     {
       "title": "SGHD 決算／4～9月の売上高9204億円、モリソン連結などでグローバル物流が急拡大",
@@ -396,15 +404,7 @@
       "sourceURL": "https://www.lnews.jp/?p=341416",
       "source": "LNEWS",
       "id": "www.lnews.jp/?p=341416",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
-    },
-    {
-      "title": "NXHD／「侍ジャパン」起用の新CM公開、グローバル戦略と「挑み続ける姿」を重ね合わせ",
-      "body": "<![CDATA[<p>NIPPON EXPRESSホールディングス（HD）は11月9日、野球日本代表「侍ジャパン」を起用した新CM「挑み続けよう 編」を公開した。 ＜新CM＞ NXグループは、2015年10月から侍ジャパンのダイヤモンドパート [&#8230;]</p>\nThe post <a href=\"https://www.lnews.jp/2026/11/s1109102.html\">NXHD／「侍ジャパン」起用の新CM公開、グローバル戦略と「挑み続ける姿」を重ね合わせ</a> first appeared on <a href=\"https://www.lnews.jp\">物流（ロジスティクス）ニュース ＬＮＥＷＳ</a>.]]>",
-      "sourceURL": "https://www.lnews.jp/?p=341461",
-      "source": "LNEWS",
-      "id": "www.lnews.jp/?p=341461",
-      "fetchedAt": "2026-11-24T09:37:15.447Z"
+      "fetchedAt": "2026-11-24T22:15:55.851Z"
     }
   ],
   "items": [
@@ -412,76 +412,76 @@
       "source": "NHK",
       "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
-      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する企業として、AIモデル「アストラ」の開発を一時停止すると発表しました。停止の理由は、AIの性能向上に伴い、自律的に重大なサイバー攻撃を行うリスクが懸念されたためです。",
+      "summary": "アメリカのオープンAIは、生成AI「ChatGPT」を開発する中で、新たなAIモデル「アストラ」の開発を一時停止すると発表しました。停止の理由は、AIの能力向上により、自己判断で重大なサイバー攻撃を行うリスクが否定できないためとされています。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "す",
-        "phrase": "すいません  言うな"
+        "leadingKana": "く",
+        "phrase": "苦労して 掴んだものは  なんじゃらな"
       },
-      "commentary": "AIが自ら危険を引き起こす可能性に直面したとき、謝って済ますのは簡単やけど、それやったら本質見えへんわな。信頼は日々の積み重ねやし、問題起こしたら正面から向き合うべきや。商売も同じ、曖昧な言葉で逃げず、自分の責任をしっかり受け止める姿勢が大事やで。"
+      "commentary": "AIの開発は技術の先にある目的を見失わんことが肝心や。手間かけて得た力が、真の役立ちにつながっとるか常に問い続ける。焦って進めるより、立ち止まって本質を確かめる姿勢が信頼の元やで。"
     },
     {
       "source": "NHK",
       "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
       "sourceURL": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
-      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、運営事業者に対して広告主の本人確認などの対策強化を文書で求めました。",
+      "summary": "政府は、SNS上で有名人の画像を無断使用した「なりすまし広告」による詐欺被害が増加していることを受け、SNS運営事業者に対し、広告主の本人確認などの対策強化を求める要請を文書で行いました。",
       "classification": {
         "tone": "B",
         "term": "M"
       },
       "karta": {
-        "leadingKana": "き",
-        "phrase": "気が乗らぬ時は ちょっと待つ"
+        "leadingKana": "ほ",
+        "phrase": "ホンマかな？ 疑いはらすの 躊躇すな"
       },
-      "commentary": "SNS上の広告に潜む影、急ぎすぎると見落とすこともあるわな。焦らず一呼吸置いて、誰が本物か確かめる習慣こそ信頼の積み重ね。短期の利益に走らず、じっくりと安全網を張る姿勢が、長い目で見た商いの土台になるんやで。"
+      "commentary": "SNS上のなりすまし広告、見た目だけで信用せんと、ちゃんと裏を取ることが肝心や。政府の対策強化も、焦らず慎重に進めて、信頼の積み重ねを大事にせなあかん。慌てて飛びつく前に、何がほんまか見極める目が必要やで。"
     },
     {
       "source": "LNEWS",
       "title": "クレド／自社初の東海エリア物流施設、岐阜県に2.3万m2で開発へ",
       "sourceURL": "https://www.lnews.jp/?p=343273",
-      "summary": "クレド・アセットマネジメントは岐阜県羽島市で、東海エリア初となる物流施設「CREDO岐阜羽島」の開発を開始した。施設の規模は約2万3000平方メートルで、2027年7月に着工予定となっている。今回の開発は同社の東海地域における事業展開の一環として位置づけられている。",
+      "summary": "クレド・アセットマネジメントは岐阜県羽島市で約2万3000平方メートルの物流施設「CREDO岐阜羽島」の開発を開始した。これは同社にとって東海エリアで初めて手掛ける物流施設となる。工事は2027年7月に着工予定で、施設の運用開始に向けて進められている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "へ",
-        "phrase": "平和の世 支える一人で あり続ける"
+        "leadingKana": "か",
+        "phrase": "カイゼンは  みんなの宝"
       },
-      "commentary": "物流拠点の新設は地域社会と商売の基盤づくりやな。急がず着実に、これからの信頼を積む一歩として捉えたい。そないな積み重ねが、結局はみんなの暮らしを支える力になるんやと思うで。"
+      "commentary": "東海初の物流施設開発は、新たな挑戦や気づきを生む舞台や。日々の改善を積み重ね、仲間と共に強固な信頼を築くことが大事やね。短期成果だけにとらわれんと、着実な成長を見据える姿勢が商売の土台になるんやで。"
     },
     {
       "source": "LNEWS",
       "title": "ESRのギブソンCEO／東扇島HOBは世界的デザイナーと描く「誇りを持って働ける」物流施設",
       "sourceURL": "https://www.lnews.jp/?p=343240",
-      "summary": "ESRの共同創業者兼共同CEOスチュアート・ギブソン氏は、神奈川県川崎市で2029年度完成予定の大型マルチテナント型物流施設「東扇島ディストリビューションセンターB（HOB）」について発表した。施設は世界的なデザイナーと協力し、従業員が誇りを持って働ける環境を目指して設計されている。",
+      "summary": "ESRの共同創業者兼共同CEOスチュアート・ギブソン氏は、神奈川県川崎市で2029年度完成予定の大型物流施設「東扇島ディストリビューションセンターB（HOB）」について発表した。この施設はマルチテナント型で、世界的デザイナーと協働し、働く人が誇りを持てる環境を目指して設計されている。",
       "classification": {
         "tone": "G",
         "term": "L"
       },
       "karta": {
-        "leadingKana": "ら",
-        "phrase": "来世でも 同じ生き様 やりまっせ"
+        "leadingKana": "せ",
+        "phrase": "精一杯 世に尽くすのが わが生涯"
       },
-      "commentary": "物流施設の設計に世界的デザイナーを迎え、誇り持てる職場づくりを目指す動きは、持続可能な価値を重ねる姿勢の表れや。商売は一時の華やかさより、日々の積み重ねが信頼生むもんやで。これからの働き方を問うて、長い目で取り組む覚悟が大事やな。"
+      "commentary": "物流施設の設計に世界的デザイナーを迎え、働く人が誇り持てる場をつくる動きやね。商売は社会の中で育まれ、日々の積み重ねが信頼を築くもんや。華やかさだけやなく、誠実に社会に尽くす姿勢が肝心やで。"
     },
     {
       "source": "Guardian｜World",
-      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-      "sourceURL": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-      "summary": "ウクライナの治安機関は、リビア沖でロシアの軍艦2隻に対し、国内製の海上ドローン7機を母船から発射して攻撃を行ったと発表しました。この攻撃で、ロシアの新型コルベット「メルクリー号」が沈没したと伝えられています。大統領のゼレンスキー氏はこの作戦を模範的だと評価しました。",
+      "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+      "sourceURL": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+      "summary": "流出したデータによると、過去3年間でマリで349人のロシア人戦闘員が死亡したことが明らかになった。この記録は、ロシアがマリの軍事政権を支援する中での活動状況を示している。特に今年4月25日に北マリのキダルで起きた攻撃では、ロシア兵が不意を突かれ、激しい戦闘が展開されたという。ロシアのアフリカ部隊の元隊員は当時の混乱を証言している。",
       "classification": {
-        "tone": "N",
-        "term": "M"
+        "tone": "B",
+        "term": "L"
       },
       "karta": {
-        "leadingKana": "ま",
-        "phrase": "迷ったら もっかい一から やり直し"
+        "leadingKana": "れ",
+        "phrase": "冷淡な　あいつの心は　仏さん"
       },
-      "commentary": "戦況や技術に変化があっても、基本に立ち返ることが信頼の土台や。慌てて成果を追わず、一歩引いて根本を見直す。あきんどの世界も同じやで。何度でも原点に戻り、やり直す勇気が次の一手を確かなものにするんや。"
+      "commentary": "戦の裏側では、感情を抑え理を重んじる動きがあるもんや。商いも同じやで、感情に流されず相手の立場や理を見極めて動くことが信頼の礎になる。短期の勝敗に振り回されんと、長い目で互いの筋を通すことが肝心やと改めて考えさせられるな。"
     }
   ]
 }
